@@ -1,0 +1,3976 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-08 04:15+0000\n"
+"PO-Revision-Date: 2015-12-08 05:39+0000\n"
+"Last-Translator: Tin Vu <minhtinit@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt-Pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.7\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+"X-POOTLE-MTIME: 1430545171.000000\n"
+
+#. This Source Code Form is subject to the terms of the Subiz Public
+#. - License, v. 1.0.
+#. - file, You can obtain one at http://subiz.com
+
+msgctxt "edit"
+msgid "Edit"
+msgstr "Editar"
+
+msgctxt "save-change"
+msgid "Save change"
+msgstr "Guardar alterações"
+
+msgctxt "reset"
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgctxt "cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "status"
+msgid "Status"
+msgstr "Estado"
+
+msgctxt "save"
+msgid "Save"
+msgstr "Guardar"
+
+msgctxt "close"
+msgid "Close"
+msgstr "Fechar"
+
+msgctxt "delete"
+msgid "Delete"
+msgstr "Eliminar"
+
+msgctxt "search"
+msgid "Search"
+msgstr "Pesquisar"
+
+msgctxt "keyword"
+msgid "Keyword"
+msgstr "Palavra chave"
+
+msgctxt "find"
+msgid "Find now"
+msgstr "Procurar agora"
+
+msgctxt "and"
+msgid "and"
+msgstr "e"
+
+msgctxt "show-me"
+msgid "Show me"
+msgstr "Mostra-me"
+
+msgctxt "agents"
+msgid "Agents"
+msgstr "Agentes"
+
+msgctxt "department"
+msgid "Departments"
+msgstr "Departamentos"
+
+msgctxt "add-more-agents"
+msgid "Add more agents"
+msgstr "Adicionar mais agentes"
+
+msgctxt "search-agents"
+msgid "Search agents"
+msgstr "Procurar agente"
+
+msgctxt "email"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "user-name"
+msgid "User name"
+msgstr "Nome de usuário"
+
+msgctxt "member-of-department"
+msgid "Member of department"
+msgstr "Membro do departamento"
+
+msgctxt "last-loged"
+msgid "Last login"
+msgstr "Último login"
+
+msgctxt "type"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "last-7-days"
+msgid "Last 7 days"
+msgstr "7 dias atrás"
+
+msgctxt "delete-agent"
+msgid "Delete agent"
+msgstr "Eliminar Agente"
+
+msgctxt "change-password"
+msgid "Change password"
+msgstr "Alterar palavra-passe"
+
+msgctxt "archived-that"
+msgid "Archived that will not be removed, but all statistics will be lost."
+msgstr "Os arquivos não serão removidos. Mas todas as estatísticas serão perdidas."
+
+msgctxt "delete-this-account"
+msgid "Delete this account"
+msgstr "Eliminar esta conta"
+
+msgctxt "change-avatar"
+msgid "Change avatar"
+msgstr "Alterar avatar"
+
+msgctxt "name"
+msgid "Name"
+msgstr "Nome"
+
+msgctxt "password"
+msgid "Password"
+msgstr "Palavra-passe"
+
+msgctxt "retype-password"
+msgid "Retype password"
+msgstr "Redigitar a palavra-passe"
+
+msgctxt "normal"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "administrator"
+msgid "Administrator"
+msgstr "Administrador"
+
+msgctxt "enter-your-current-pass"
+msgid "Enter your current password to confirm to identity"
+msgstr "Digite tua palavra-passe atual para confirmar tua identidade"
+
+msgctxt "your-password"
+msgid "Your password"
+msgstr "Tua palavra-passe"
+
+msgctxt "new-password"
+msgid "New password"
+msgstr "Palavra-passe nova"
+
+msgctxt "job-title"
+msgid "Job title"
+msgstr "Cargo"
+
+msgctxt "msg-agent-type"
+msgid "Type is required!"
+msgstr "Tipo é necessário!"
+
+msgctxt "ms-agent-success"
+msgid "Update agent information successfully"
+msgstr "As informações do agente foram actualizadas com sucesso"
+
+msgctxt "msg_agent_create_success"
+msgid "Create agent successfully"
+msgstr "Agente criado com sucesso"
+
+msgctxt "msg-agent-something"
+msgid "Something went wrong"
+msgstr "Ocorreu um erro"
+
+msgctxt "msg_agent_name_invalid"
+msgid "Name invalid!"
+msgstr "Nome inválido!"
+
+msgctxt "msg_agent_name_null"
+msgid "Name is required!"
+msgstr "Nome é necessário!"
+
+msgctxt "msg_agent_email_null"
+msgid "Email is required!"
+msgstr "Email é necessário!"
+
+msgctxt "msg_agent_username_null"
+msgid "Username is required!"
+msgstr "Nome de usuário é necessário!"
+
+msgctxt "msg_agent_username_condition"
+msgid "Username only contains lowercase letter and numbers with 6 characters in minimum,starting with letters is required."
+msgstr "Nome de usuário deve conter apenas letras e números, deve ter no mínimo 6 caracteres e começar com letras!"
+
+msgctxt "msg_agent_pass_null"
+msgid "Password is required!"
+msgstr "Palavra-passe é necessária!"
+
+msgctxt "msg_agent_repass_null"
+msgid "Retype password is required!"
+msgstr "Redigitar é necessário!"
+
+msgctxt "msg_agent_job_null"
+msgid "Job title is required!"
+msgstr "Cargo é necessário!"
+
+msgctxt "msg_agent_email_invalid"
+msgid "Email invalid!"
+msgstr "Email inválido!"
+
+msgctxt "msg_agent_username_invalid"
+msgid "Username invalid!"
+msgstr "Nome de usuário inválido!"
+
+msgctxt "msg_agent_pass_invalid"
+msgid "Password invalid!"
+msgstr "Palavra-passe inválida!"
+
+msgctxt "msg_agent_pass_false"
+msgid "Password must contain more than 5 characters!"
+msgstr "A palavra-passe deve ter mais do que 5 caracteres!"
+
+msgctxt "msg_agent_repass_invalid"
+msgid "Retype password invalid!"
+msgstr "Essas palavras-passe não coincidem!"
+
+msgctxt "msg_agent_repass_false"
+msgid "Retype password must equal to new password!"
+msgstr "Digita a palavra-passe novamente, deve ser igual a palavra-passe nova!"
+
+msgctxt "msg_agent_job_invalid"
+msgid "Job title invalid!"
+msgstr "Cargo inválido!"
+
+msgctxt "msg_agent_email_exit"
+msgid "Email already exists!"
+msgstr "Email já existe!"
+
+msgctxt "msg_agent_username_exit"
+msgid "Username already exists!"
+msgstr "Nome de usuário já existe!"
+
+msgctxt "msg_agent_pass_requi"
+msgid "Your password is required!"
+msgstr "Tua palavra-passe é necessária!"
+
+msgctxt "msg_agent_newpass_requi"
+msgid "New password is required!"
+msgstr "Palavra-passe nova é necessária!"
+
+msgctxt "msg_agent_newpass_false"
+msgid "New password must contain more than 5 characters!"
+msgstr "A palavra-passe nova deve ter mais do que 5 caracteres!"
+
+msgctxt "msg_agent_repass_requi"
+msgid "Retype password is required!"
+msgstr "Redigitar a palavra-passe!"
+
+msgctxt "msg_agent_repass_not_equal"
+msgid "Retype password must equal to new password!"
+msgstr "Essas palavras-passe têm de coincidir!"
+
+msgctxt "msg_agent_changepass_success"
+msgid "Change password successfully"
+msgstr "Palavra-passe foi alterada com sucesso"
+
+msgctxt "msg_agent_delete_success"
+msgid "Delete agent successfully"
+msgstr "Agente foi eliminado com sucesso"
+
+msgctxt "msg_upload_file_type"
+msgid "File type is invalid ( accept file type: jpg, png, gif, jpeg )"
+msgstr "Tipo do ficheiro é inválido (Aceitar tipo do ficheiro: jpg, png, gif, jpeg)"
+
+msgctxt "msg_upload_file_size"
+msgid "File size must not exceed 50kb!"
+msgstr "Tamanho do ficheiro não pode ser mais que 50kb!"
+
+msgctxt "msg_upload_file_name"
+msgid "You must input username before upload avatar!"
+msgstr "Tu tens de digitar nome de usuário antes de carregar teu avatar!"
+
+msgctxt "msg_upload_error"
+msgid "Upload error!"
+msgstr "Erro ao carregar!"
+
+msgctxt "msg_agent_invalid"
+msgid "Agents invalid!"
+msgstr "Agente inválido!"
+
+msgctxt "msg_update_depart_success"
+msgid "Update department successfully"
+msgstr "Departamento foi actualizado com sucesso"
+
+msgctxt "msg_create_depart_success"
+msgid "Create department successfully"
+msgstr "Departamento foi criado com sucesso"
+
+msgctxt "msg_name_exit"
+msgid "Name already exists!"
+msgstr "Nome já existe!"
+
+msgctxt "msg_delete_depart_success"
+msgid "Delete department successfully"
+msgstr "Departamento foi eliminado com sucesso"
+
+msgctxt "add_more_department"
+msgid "Add more department"
+msgstr "Adicionar mais departamento"
+
+msgctxt "add_department"
+msgid "Add department"
+msgstr "Adicionar departamento"
+
+msgctxt "away"
+msgid "Away"
+msgstr "Fora"
+
+msgctxt "offline"
+msgid "Offline"
+msgstr "Não disponível"
+
+msgctxt "available"
+msgid "Available"
+msgstr "Disponível"
+
+msgctxt "delete_this_department"
+msgid "Delete this department"
+msgstr "Eliminar este departamento"
+
+msgctxt "archived_that_will"
+msgid "Archived that will not be removed, but all statistics will be lost"
+msgstr "Histórico de Chat não será eliminado, mas todas as estatísticas serão perdidas."
+
+msgctxt "member"
+msgid "Member"
+msgstr "Membro"
+
+msgctxt "enter-many-email"
+msgid "Enter various e-mail addresses separated with a comma to allow visitors to send you message when you are offline."
+msgstr "Digita endereços de email para receber mensagem (os endereços de email devem ser separados por vírgula)"
+
+msgctxt "receive-offline-message"
+msgid "Receive offline message"
+msgstr "Receber mensagem offline"
+
+msgctxt "you-can-enter-many-email"
+msgid "<p>You can enter various e-mail addresses separated with a comma</p><p>e.g: someone@example.com, someone@example.com </p>"
+msgstr "<p>Tu podes digitar muitos endereços de email (separados sempre por vírgula)</p"
+
+msgctxt "send-all-chat-transcript-to-emaile"
+msgid "Send all chat transcript to e-mail"
+msgstr "Enviar transcrição do chat por email"
+
+msgctxt "general-settings"
+msgid "General Settings"
+msgstr "Definições Gerais"
+
+msgctxt "chat-widget"
+msgid "Chat widget"
+msgstr "Janela de chat"
+
+msgctxt "theme"
+msgid "Theme"
+msgstr "Tema"
+
+msgctxt "language"
+msgid "Language"
+msgstr "Idioma"
+
+msgctxt "chat-button"
+msgid "Chat Button"
+msgstr "Botão do chat"
+
+msgctxt "chat-survey"
+msgid "Chat Survey"
+msgstr "Forma de pesquisa"
+
+msgctxt "triggers"
+msgid "Triggers"
+msgstr "Triggers"
+
+msgctxt "installations"
+msgid "Installations"
+msgstr "Instalação"
+
+msgctxt "chat-windows-online"
+msgid "Chat windows Online"
+msgstr "Chat disponíveis"
+
+msgctxt "chat-windows-offline"
+msgid "Chat windows Offline"
+msgstr "Chat não disponível"
+
+msgctxt "button-online"
+msgid "Button online"
+msgstr "Botão disponível"
+
+msgctxt "button-offline"
+msgid "Button offline"
+msgstr "Botão não disponível "
+
+msgctxt "customize"
+msgid "Customize"
+msgstr "Personalizar"
+
+msgctxt "custome-css"
+msgid "Customize css"
+msgstr "Personalizar CSS"
+
+msgctxt "add-your-own-css"
+msgid "Add your own CSS rules. For typical customizations visit our %s Knowledge base %s."
+msgstr "Tu podes editar CSS. Para receber instruções mais clara, visite %s Centro de suporte %s."
+
+msgctxt "social"
+msgid "Social"
+msgstr "Social"
+
+msgctxt "change-logo"
+msgid "Change logo"
+msgstr "Alterar logotipo"
+
+msgctxt "msg_setting_transcript_mail"
+msgid "Transcript to e-mail or receive offline message is required!"
+msgstr "Endereço de e-mail e conteúdo ou mensagem (é necessário)!"
+
+msgctxt "email_address"
+msgid "Email address"
+msgstr "Endereço de email"
+
+msgctxt "invalid"
+msgid "invalid"
+msgstr "Inválido"
+
+msgctxt "all_changes_saved"
+msgid "All changes saved"
+msgstr "Todas as alterações foram guardadas"
+
+msgctxt "msg_save_change_error"
+msgid "Save change error!"
+msgstr "Erro ao guardar alterações"
+
+msgctxt "show-sample-code"
+msgid "Show sample code"
+msgstr "Exibir modelo de código css  "
+
+msgctxt "edit_contact_details"
+msgid "Edit Contact Details"
+msgstr "Editar informações de contacto"
+
+msgctxt "visitor"
+msgid "Visitor"
+msgstr "Visitante"
+
+msgctxt "msg_sample_code"
+msgid "Sample code empty!"
+msgstr "Código css está vazio!"
+
+msgctxt "msg_can_not_open_file"
+msgid "Can not open file!"
+msgstr "Não é possível abrir o ficheiro!"
+
+msgctxt "msg_save_cust_error"
+msgid "Save change customize css error!"
+msgstr "Erro ao guardar alterações"
+
+msgctxt "msg_write_file_error"
+msgid "Write file css error!"
+msgstr "Erro ao guardar alterações"
+
+msgctxt "english-is-default-lanfuage"
+msgid "English is default language"
+msgstr "Inglês é o idioma padrão"
+
+msgctxt "welcome-to-subiz"
+msgid "Welcome to Subiz"
+msgstr "Bem vindo a Subiz"
+
+msgctxt "supporter"
+msgid "Supporter"
+msgstr "Atendente de suporte"
+
+msgctxt "ask-us-anything"
+msgid "Ask us anything"
+msgstr "Pergunte-nos qualquer coisa"
+
+msgctxt "type-your-messange-here"
+msgid "Type your message here"
+msgstr "Digite tua mensagem aqui"
+
+msgctxt "send-us-a-message"
+msgid "Send us a message"
+msgstr "Envie-nos a tua mensagem "
+
+msgctxt "sorry-we-are"
+msgid "Sorry, we aren't online at the moment. Leave a message and we'll get back to you."
+msgstr "Desculpa, nós não estamos disponíveis neste momento. Deixa tua mensagem, nós entraremos em contacto contigo mais tarde."
+
+msgctxt "rate_good"
+msgid "Good"
+msgstr "Bom"
+
+msgctxt "rate-as-good"
+msgid "Rate as good"
+msgstr "Boa avaliação"
+
+msgctxt "rate-as-bad"
+msgid "Rate as bad"
+msgstr "Má avaliação"
+
+msgctxt "supporter-is-typing"
+msgid "Supporter is typing"
+msgstr "Atendente está a digitar "
+
+msgctxt "option"
+msgid "Option"
+msgstr "Opção"
+
+msgctxt "sound"
+msgid "Sound"
+msgstr "Sons"
+
+msgctxt "email-transcript"
+msgid "Email Transcript"
+msgstr "Conteúdo de email"
+
+msgctxt "contact-details"
+msgid "Contact Details"
+msgstr "Detalhes Do Contacto"
+
+msgctxt "end-this-chat"
+msgid "End This Chat"
+msgstr "Terminar a conversa"
+
+msgctxt "message"
+msgid "Message"
+msgstr "Mensagem"
+
+msgctxt "name-help"
+msgid "Your name"
+msgstr "Teu nome"
+
+msgctxt "email-help"
+msgid "email@gmail.com"
+msgstr "email@gmail.com"
+
+msgctxt "phone-help"
+msgid "Phone number"
+msgstr "Número de telefone"
+
+msgctxt "send-email"
+msgid "Send email"
+msgstr "Enviar email"
+
+msgctxt "we-hope"
+msgid "We hope we've answered your queries. Are you ready to end this chat now?"
+msgstr "Esperamos que a nossa resposta atenda a tua demanda. O que tu queres fazer a seguir?"
+
+msgctxt "end-chat"
+msgid "End Chat"
+msgstr "Terminar a conversa"
+
+msgctxt "not-yet"
+msgid "Not Yet"
+msgstr "Continuar a conversar"
+
+msgctxt "send-message"
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+msgctxt "department-select"
+msgid "Department Select"
+msgstr "Selecionar departamento"
+
+msgctxt "question-help"
+msgid "Your question?"
+msgstr "Tua pergunta?"
+
+msgctxt "button-bubble"
+msgid "Chat Button / Chat bubble"
+msgstr "Botão de chat / Bolha de chat"
+
+msgctxt "chat-buttons"
+msgid "Chat buttons"
+msgstr "Botão de chat"
+
+msgctxt "chat-bubble"
+msgid "Chat bubble"
+msgstr "Bolha de chat"
+
+msgctxt "agent-available"
+msgid "Account available"
+msgstr "Disponível"
+
+msgctxt "agent-not-available"
+msgid "Account not available"
+msgstr "Não disponível"
+
+msgctxt "get-code-chat-buttons"
+msgid "Get code chat buttons"
+msgstr "Receber código do botão do chat "
+
+msgctxt "chat-button-code"
+msgid "Chat button code"
+msgstr "Código do botão do chat"
+
+msgctxt "you-can-adding"
+msgid "You can add the embed code or use syntax html."
+msgstr "Tu podes adicionar código embutido ou usar sintaxe de html."
+
+msgctxt "choose-bubble-gallery"
+msgid "Choose bubble from gallery"
+msgstr "Selecionar na biblioteca de bolha do chat "
+
+msgctxt "what-is-a-chat-button"
+msgid "<p><strong>What’s chat button?</strong></p><p>Chat button enables visitors to start a chat on your website.</p>"
+msgstr "<p><strong>O que é botão de chat ?</strong></p"
+
+msgctxt "choose-buttons-from-gallery"
+msgid "Choose button from gallery"
+msgstr "Abrir a biblioteca de bolhas de chat "
+
+msgctxt "upload-buttons-for"
+msgid "Upload buttons for"
+msgstr "Cerregar botão de chat para"
+
+msgctxt "what-is-chat-bubble"
+msgid "<p><strong>What’s a chat bubble?</strong></p><p>It is a cute picture that makes chat widget more attractive and builds trust between you and the visitors.</p>"
+msgstr "<p><strong>O que é bolha de chat?</strong></p"
+
+msgctxt "read-more"
+msgid "Read more"
+msgstr "Ler mais"
+
+msgctxt "enable-chat-bubble"
+msgid "Enable chat bubble"
+msgstr "Exibir bolha de chat"
+
+msgctxt "browse-chat-bubble-gallery"
+msgid "Browse chat bubble gallery"
+msgstr "Navegar na biblioteca de bolha de chat "
+
+msgctxt "upload-custom-picture"
+msgid "Upload custom picture"
+msgstr "Carregar foto"
+
+msgctxt "maximum-size-200kb"
+msgid "Maximum size 50kb, recommended dimensions 240x164 px"
+msgstr "Tamanho máximo 50kb, dimensão recomendada 240x164 px"
+
+msgctxt "avatar_max_size"
+msgid "Maximum size 50kb"
+msgstr "Tamanho máximo 50kb"
+
+msgctxt "msg_name_field_error"
+msgid "Name field upload error"
+msgstr "Erro ao carregar campo de nome"
+
+msgctxt "what-a-chat"
+msgid "What’s a chat survey?"
+msgstr "O que é a forma de levantamento?"
+
+msgctxt "chat-servey-lets"
+msgid "Chat survey helps you to collect visitor information before chat."
+msgstr "Forma de levantamento te ajuda a coletar informações sobre visitante antes do chat."
+
+msgctxt "enable-chat-survey"
+msgid "Enable chat survey"
+msgstr "Ativar forma de levantamento "
+
+msgctxt "require-department"
+msgid "Require department"
+msgstr "Selecionar departamento"
+
+msgctxt "require-question"
+msgid "Require question"
+msgstr "Digitar questão"
+
+msgctxt "allow-phone-number"
+msgid "Allow phone number"
+msgstr "Digitar número de telefone"
+
+msgctxt "customeize"
+msgid "Customize"
+msgstr "Personalizar"
+
+msgctxt "support"
+msgid "Support"
+msgstr "Suporte"
+
+msgctxt "please-provide-a-valid-email"
+msgid "Please provide a valid email"
+msgstr "Digita endereço de email válido, por favor "
+
+msgctxt "or-sign-in-withs"
+msgid "or sign in with"
+msgstr "ou entrar com"
+
+msgctxt "start-chat"
+msgid "Start Chat"
+msgstr "Começar a conversar"
+
+msgctxt "use_cus_survey"
+msgid "You have chosen Auto Detect language. Choose a specific language to customize chat survey form."
+msgstr "Tu escolheste detecção automática de idioma. Seleciona um idioma específico para personalizar a forma de levantamento."
+
+msgctxt "package_allow_trigger"
+msgid "Package allows"
+msgstr "Número permitido de trigger "
+
+msgctxt "enabled_trigger"
+msgid "enabled trigger"
+msgstr "trigger foi ativado"
+
+msgctxt "trigger_run_trigger"
+msgid "Run trigger"
+msgstr "Funcionar trigger"
+
+msgctxt "trigger_page_enter"
+msgid "When a visitor has loaded the chat widget"
+msgstr "Quando o visitante baixa a janela de chat "
+
+msgctxt "trigger_chat_requested"
+msgid "When a visitor requests a chat"
+msgstr "Quando o visitante manda o pedido de chat "
+
+msgctxt "trigger_btn_add"
+msgid "Add trigger"
+msgstr "Adicionar trigger"
+
+msgctxt "trigger_name"
+msgid "Trigger Name"
+msgstr "Nome de Trigger "
+
+msgctxt "trigger_description"
+msgid "Description"
+msgstr "Descrição"
+
+msgctxt "trigger_once_label"
+msgid "Fire only once per visitor"
+msgstr "Funcionar uma vez para cada visitante"
+
+msgctxt "trigger_once"
+msgid "Each visitor will receive this message only once"
+msgstr "Cada visitante receberá esta mensagem apenas uma vez "
+
+msgctxt "trigger_once_short"
+msgid "Fire once"
+msgstr "Funcionar uma vez"
+
+msgctxt "trigger_chat_message"
+msgid "When a visitor sends a chat message"
+msgstr "Quando o visitante envia uma mensagem de chat"
+
+msgctxt "trigger_check_conditions"
+msgid "Check conditions"
+msgstr "Verificar as condições"
+
+msgctxt "trigger_check_condition_and"
+msgid "Check all of the following conditions"
+msgstr "Verificar todas as condições"
+
+msgctxt "trigger_check_condition_or"
+msgid "Check any of the following conditions"
+msgstr "Verificar uma das condições"
+
+msgctxt "trigger_hour_of_day"
+msgid "Hour of day"
+msgstr "Hora do dia"
+
+msgctxt "trigger_day_of_week"
+msgid "Day of week"
+msgstr "Dia da semana"
+
+msgctxt "trigger_visitor_time_on_site"
+msgid "Visitor time on site"
+msgstr "Tempo de visita no website "
+
+msgctxt "trigger_visitor_ip"
+msgid "Visitor IP"
+msgstr "Endereço IP do visitante "
+
+msgctxt "trigger_visitor_city"
+msgid "Visitor city"
+msgstr "Cidade do visitante"
+
+msgctxt "trigger_visitor_country_code"
+msgid "Visitor country code"
+msgstr "Código do país do visitante"
+
+msgctxt "trigger_visitor_country_name"
+msgid "Visitor country name"
+msgstr "Nome do país do visitante"
+
+msgctxt "trigger_visitor_page_url"
+msgid "Visitor page url"
+msgstr "Url da página do visitante"
+
+msgctxt "trigger_visitor_page_title"
+msgid "Visitor page title"
+msgstr "Título da página do visitante"
+
+msgctxt "trigger_visitor_page_count"
+msgid "Visitor page count"
+msgstr "Número das páginas visualizadas"
+
+msgctxt "trigger_referrer"
+msgid "Previous page"
+msgstr "Página anterior"
+
+msgctxt "trigger_visitor_name"
+msgid "Visitor name"
+msgstr "Nome do visitante"
+
+msgctxt "trigger_visitor_referrer"
+msgid "Visitor referrer"
+msgstr "Url do visitante para página"
+
+msgctxt "trigger_visitor_search_engine"
+msgid "Visitor search engine"
+msgstr "Ferramenta de pesquisa do visitante"
+
+msgctxt "trigger_visitor_search_terms"
+msgid "Visitor search terms"
+msgstr "Palavra chave de pesquisa do visitante "
+
+msgctxt "trigger_visitor_type"
+msgid "Visitor type"
+msgstr "Tipo de visitante"
+
+msgctxt "trigger_help_hour_of_day"
+msgid "Hour of day (UTC timezone). 0 to 23"
+msgstr "Hora do dia (zona horária UTC). 0 a 23"
+
+msgctxt "trigger_help_hour_of_day_holder"
+msgid "Value is number. e.g 21"
+msgstr "Dados são números. Ex: 21"
+
+msgctxt "trigger_help_day_of_week"
+msgid "Day of the week. 0 = Monday, 6 = Sunday"
+msgstr "Dia da semana. 0 = Segunda, 6 = Sexta"
+
+msgctxt "trigger_help_day_of_week_holder"
+msgid "Value is number. e.g: 5"
+msgstr "Dados são números. Ex: 5"
+
+msgctxt "trigger_help_visitor_time_on_site"
+msgid "Number of seconds visitor has stayed on your site"
+msgstr "Número de segundos que o visitante fica no teu website"
+
+msgctxt "trigger_help_visitor_time_on_site_holder"
+msgid "Value is number. e.g: 60"
+msgstr "Dados são números. Ex: 60"
+
+msgctxt "trigger_help_visitor_ip"
+msgid "IP address of the visitor <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
+msgstr "Endereço IP do visitante <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
+
+msgctxt "trigger_help_visitor_ip_holder"
+msgid "Value. e.g: 117.23.23.1"
+msgstr "Endereço IP . Ex: 117.23.23.1"
+
+msgctxt "trigger_help_visitor_city"
+msgid "City where visitor come from (New York)"
+msgstr "Cidade corrente do visitante (Nova Iorque)"
+
+msgctxt "trigger_help_visitor_city_holder"
+msgid "Value. e.g: London"
+msgstr "Nome da cidade. Ex: London"
+
+msgctxt "trigger_help_visitor_country_code"
+msgid "2 letter country code (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
+msgstr "Código do país corrente 2 letras (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
+
+msgctxt "trigger_help_visitor_country_code_holder"
+msgid "Value. e.g: UK"
+msgstr "Código do país. Ex: uk"
+
+msgctxt "trigger_help_visitor_country_name"
+msgid "Country where visitors come from"
+msgstr "País corrente do visitante"
+
+msgctxt "trigger_help_visitor_country_name_holder"
+msgid "Value. e.g: United States"
+msgstr "Nome do país. Ex: Estados Unidos"
+
+msgctxt "trigger_help_visitor_page_url"
+msgid "URL of the page the visitor is currently on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
+msgstr "Url da página que o visitante está acessando. Ex: Para a página <i>http://www.mysite.com/page1.html</i> digite <i>www.mysite.com/page1.html</i>"
+
+msgctxt "trigger_help_visitor_page_url_holder"
+msgid "Value. e.g: www.yourdomain.com/page1.html"
+msgstr "Ex: www.yourdomain.com/page1.html"
+
+msgctxt "trigger_help_visitor_page_title"
+msgid "Title of the page the visitor is currently on. Title is content between the <code>&lt;title&gt;&lt;/title&gt;</code> on the page."
+msgstr "Título da página que o visitante está acessando. Título é conteúdo entre <code>&lt;title&gt;&lt;/title&gt;</code> na página."
+
+msgctxt "trigger_help_visitor_page_title_holder"
+msgid "Value"
+msgstr "Título"
+
+msgctxt "trigger_help_visitor_page_count"
+msgid "Number of pages visitor has viewed. First page = 1"
+msgstr "Número de páginas que o visitante acessou. Primeira página = 1"
+
+msgctxt "trigger_help_visitor_page_count_holder"
+msgid "Value is number"
+msgstr "Valor é número"
+
+msgctxt "trigger_help_referrer"
+msgid "URL of the previous page visitor was on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
+msgstr "Url da página anterior que o visitante acessou. Ex: Para a página <i>http://www.mysite.com/page1.html</i> digite <i>www.mysite.com/page1.html</i>"
+
+msgctxt "trigger_help_referrer_holder"
+msgid "Value"
+msgstr "Ex: www.mysite.com/page1.html"
+
+msgctxt "trigger_help_visitor_name"
+msgid "Name of the visitor"
+msgstr "Nome do visitante"
+
+msgctxt "trigger_help_visitor_name_holder"
+msgid "Value. e.g: David"
+msgstr "Nome do visitante. Ex: David"
+
+msgctxt "trigger_help_visitor_referrer"
+msgid "Referrer URL of the visitor (when he entered your site). E.g: For the page <i>http://www.google.com</i> enter <i>www.google.com</i>"
+msgstr "Url do visitante para entrar na sua página. Ex: Para a página <i>http://www.google.com</i> digite <i>www.google.com</i>"
+
+msgctxt "trigger_help_visitor_referrer_holder"
+msgid "Url"
+msgstr "Url"
+
+msgctxt "trigger_help_visitor_search_engine"
+msgid "Referring search engine, if applicable (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
+msgstr "Ferramenta de pesquisa aplicada para o teu site (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
+
+msgctxt "trigger_help_visitor_search_engine_holder"
+msgid "Search engine name"
+msgstr "Nome da ferramenta de pesquisa"
+
+msgctxt "trigger_help_visitor_search_terms"
+msgid "Referring search term, if applicable. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
+msgstr "Palavra chave de pesquisa aplicada para a tua página. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
+
+msgctxt "trigger_help_visitor_search_terms_holder"
+msgid "Keyword"
+msgstr "Palavra chave"
+
+msgctxt "trigger_help_visitor_type"
+msgid "Type (new visitor/return visitor) of visitor. Type <i>new</i> for new visitor, <i>return</i> for return visitor"
+msgstr "Tipo de visitante (visitante novo e visitante que retornou). Digite <i>new</i> para visitante novo, <i>return</i> para visitante de regresso"
+
+msgctxt "trigger_help_visitor_type_holder"
+msgid "type new/return"
+msgstr "Novo/Regresso"
+
+msgctxt "trigger_err_condition_empty"
+msgid "You have no condition. Please complete to continue"
+msgstr "Tu não instalaste condição ainda. Completa para continuar"
+
+msgctxt "trigger_err_action_empty"
+msgid "You have no action. Please complete to continue"
+msgstr "Tu não instalaste condição ainda. Completa para continuar"
+
+msgctxt "trigger_edit_msg_edit"
+msgid "The trigger has been saved!"
+msgstr "Trigger foi salvado!"
+
+msgctxt "trigger_edit_msg_add"
+msgid "The trigger was added successfully!"
+msgstr "Trigger foi adicionado!"
+
+msgctxt "trigger_not_exist"
+msgid "Sorry. Trigger can't not found. Please try again!"
+msgstr "Desculpa. Trigger não pode ser encontrado. Tenta novamente!"
+
+msgctxt "trigger_action_autoInvite"
+msgid "Auto Invite"
+msgstr "Convite automático"
+
+msgctxt "trigger_help_autoInvite_holder_name"
+msgid "Name of agent"
+msgstr "Nome do agente"
+
+msgctxt "trigger_help_autoInvite"
+msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
+msgstr ""Nome do agente" é "Nome de exibição" do Agente. Visitante verá este nome."
+
+msgctxt "trigger_action_sendMessageToVisitor"
+msgid "Send Message to Visitor"
+msgstr "Enviar mensagem para o visitante"
+
+msgctxt "trigger_help_sendMessageToVisitor_holder_name"
+msgid "Name of agent"
+msgstr "Nome do agente"
+
+msgctxt "trigger_help_sendMessageToVisitor"
+msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
+msgstr ""Nome do agente" é "Nome de exibição" do Agente. Visitante verá este nome."
+
+msgctxt "trigger_action_sendMessageToAgent"
+msgid "Send Message to Agent"
+msgstr "Enviar mensagem para agente"
+
+msgctxt "trigger_help_sendMessageToAgent_holder_username"
+msgid "Username of agent"
+msgstr "Nome de usuário do agente"
+
+msgctxt "trigger_help_sendMessageToAgent"
+msgid "Type "username" of agent or "all" to send to all agents online"
+msgstr "Digitar "Nome "de usuário de agente ou "Todos" para enviar para todos os agentes disponíveis "
+
+msgctxt "trigger_help_message_holder"
+msgid "Message ..."
+msgstr "Mensagem ..."
+
+msgctxt "warning_account_max_limit"
+msgid "Your account has been reached to maximum Trigger. Please %s click here %s to upgrade your account!"
+msgstr "Tu usaste o número máximo de trigger na conta. Por favor %s clique aqui %s para actualizar a tua conta!"
+
+msgctxt "subscription_none"
+msgid "None"
+msgstr "Nenhum"
+
+msgctxt "subscription_1_month"
+msgid "Monthly"
+msgstr "Ciclo de 1 mês"
+
+msgctxt "subscription_3_month"
+msgid "Every 3 months"
+msgstr "Ciclo de 3 meses"
+
+msgctxt "subscription_6_month"
+msgid "Every 6 months"
+msgstr "Ciclo de 6 meses"
+
+msgctxt "subscription_12_month"
+msgid "Yearly"
+msgstr "Ciclo de 1 ano"
+
+msgctxt "subscription_24_month"
+msgid "Every 2 years"
+msgstr "Ciclo de 2 anos"
+
+msgctxt "subscription_billing_cycle_none"
+msgid "None"
+msgstr "Nenhum"
+
+msgctxt "subscription_operation"
+msgid "%"
+msgstr "%"
+
+msgctxt "subscription_save"
+msgid "Save"
+msgstr "Guardar"
+
+msgctxt "subscription_save_none"
+msgid "None"
+msgstr "Nenhum"
+
+msgctxt "subscription_title_current_subscription"
+msgid "Current Subscription"
+msgstr "Informações de pagamento corrente"
+
+msgctxt "subscription_discounts_with_longer_cycles"
+msgid "Discounts with longer cycles"
+msgstr "Descontos para ciclo de pagamento mais longo "
+
+msgctxt "subscription_change_to"
+msgid "Change to"
+msgstr "Alterar para"
+
+msgctxt "subscription_current_billing_cycle"
+msgid "Current billing cycle"
+msgstr "Ciclo de pagamento corrente"
+
+msgctxt "subscription_change_billing_cycle"
+msgid "Change billing cycle "
+msgstr "Alterar ciclo de pagamento"
+
+msgctxt "subscription_change_billing_success"
+msgid "Change billing cycle successfully!"
+msgstr "Alteraste ciclo de pagamento!"
+
+msgctxt "subscription_require_billing_cycle"
+msgid "Select billing cycle"
+msgstr "Selecionar ciclo de pagamento"
+
+msgctxt "subscription_change_billing_error"
+msgid "Error change billing cycle"
+msgstr "Erro ao alterar ciclo de pagamento"
+
+msgctxt "subscription_add_agents_subscription"
+msgid "Add agents subscription"
+msgstr "Adicionar subscrição do agente"
+
+msgctxt "subscription_number_of_agent_subscribed"
+msgid "Number of subscribed agent(s)"
+msgstr "Quantidade de agentes subscritos"
+
+msgctxt "subscription_additional_agent_subscription_purchase"
+msgid "Additional agent(s) you wish to purchase"
+msgstr "Número de agentes que tu queres pagar mais"
+
+msgctxt "subscription_number_of_agent_after_addition"
+msgid "Number of subscribed agent after payment made"
+msgstr "Número de agente que é necessário pagar (depois de adicionar) "
+
+msgctxt "subscription_amount_for_agent"
+msgid "Amount to be paid for %s 1 %s agent(s) subscription"
+msgstr "O valor de pagamento é para um agente adicionado"
+
+msgctxt "subscription_add_agent_success"
+msgid "Add agent successfully"
+msgstr "Adicionaste agente"
+
+msgctxt "subscription_add_agent_error"
+msgid "Error add agent"
+msgstr "Erro ao adicionar agente"
+
+msgctxt "subscription_require_add_agent"
+msgid "Agent value invalid"
+msgstr "Agente adicionado não está inválido "
+
+msgctxt "subscription_expries_on"
+msgid "expires on"
+msgstr "Acabou prazo de pagamento em"
+
+msgctxt "subscription_subscription_detail_title"
+msgid "Subscription Details"
+msgstr "Detalhes de subscrição"
+
+msgctxt "subscription_per_agent"
+msgid "per agent"
+msgstr "/agente"
+
+msgctxt "subscription_per_month"
+msgid "per month"
+msgstr "/mês"
+
+msgctxt "subscription_triggers"
+msgid "Triggers"
+msgstr "Triggers"
+
+msgctxt "subscription_department"
+msgid "Department"
+msgstr "Departamento"
+
+msgctxt "subscription_concurrent_chat"
+msgid "Concurrent chat"
+msgstr "chat simultâneo"
+
+msgctxt "subscription_change_plan"
+msgid "Change plan"
+msgstr "Alterar o plano"
+
+msgctxt "subscription_agents"
+msgid "Agent(s)"
+msgstr "Agente(s)"
+
+msgctxt "subscription_choose_plan"
+msgid "Choose a plan based on your business needs"
+msgstr "Selecionar o plano adequado para a demanda do teu negócio"
+
+msgctxt "subscription_action_description"
+msgid "Upgrade, downgrade, cancel at any time. Pay as you "
+msgstr "Actualizar, rebaixar, cancelar em qualquer momento."
+
+msgctxt "subscription_action_description_go"
+msgid "go."
+msgstr "Continuar."
+
+msgctxt "subscription_per_agent_per_month"
+msgid "per agent/month"
+msgstr "/agente/mês"
+
+msgctxt "subscription_what_you_get"
+msgid "What you get:"
+msgstr "O que tu ganhas:"
+
+msgctxt "subscription_web_and_mobile_apps"
+msgid "Web and mobile apps"
+msgstr "aplicativos de Website e móveis"
+
+msgctxt "subscription_chat_history"
+msgid "Chat history"
+msgstr "Histórico de chat"
+
+msgctxt "subscription_transfer_chat"
+msgid "Transfer chat"
+msgstr "Transferir chat"
+
+msgctxt "subscription_real_time_visitor_info"
+msgid "Real-time Visitor Info"
+msgstr "Informações do visitante real "
+
+msgctxt "subscription_limited_concurrent_chats"
+msgid "Limited concurrent chats"
+msgstr "Número máximo de chat simultâneo "
+
+msgctxt "subscription_what_youre_missing"
+msgid "What you are missing:"
+msgstr "O que tu estás a perder:"
+
+msgctxt "subscription_trigger"
+msgid "Trigger"
+msgstr "Trigger"
+
+msgctxt "subscription_department_agent_group"
+msgid "Department ( agent group )"
+msgstr "Dividir o departamento de chat "
+
+msgctxt "subscription_unlimit_chat_history"
+msgid "Unlimited chat history"
+msgstr "Histórico ilimitado de chat "
+
+msgctxt "subscription_you_have"
+msgid "You have"
+msgstr "Tu inscreve-te:"
+
+msgctxt "subscription_you_will_be_charged"
+msgid "Your account will be charged on "
+msgstr "Tu tens de pagar em"
+
+msgctxt "subscription_for_your_first_billing_cycle"
+msgid "for your first billing cycle"
+msgstr "para o primeiro ciclo de uso "
+
+msgctxt "subscription_afterwards_you_will_be_charged"
+msgid "Afterwards, you will be charged"
+msgstr "Depois, tu tens de pagar"
+
+msgctxt "subscription_monthly"
+msgid "Monthly"
+msgstr "Mensal"
+
+msgctxt "subscription_total_price"
+msgid "Total price"
+msgstr "Preço total"
+
+msgctxt "subscription_subscribe_now"
+msgid "Subscribe now"
+msgstr "Pagar agora"
+
+msgctxt "subscription_compare_edition"
+msgid "Compare Editions"
+msgstr "Comparar os pacotes de chat"
+
+msgctxt "subscription_plan_selection"
+msgid "Plan Selection"
+msgstr "Selecionar plano"
+
+msgctxt "subscription_reduce_agent_success"
+msgid "Reduce agent successfully"
+msgstr "Diminuíste o número de agentes "
+
+msgctxt "subscription_reduce_agent_error"
+msgid "Error reduce agent"
+msgstr "Aconteceu um erro ao diminuir o número de agentes"
+
+msgctxt "subscription_require_reduce_agent"
+msgid "Select agent to reduce"
+msgstr "Selecionar agente para diminuir"
+
+msgctxt "subscription_cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "subscription_account_is_unsubscription"
+msgid "This account haven't subscribed"
+msgstr "Esta conta ainda não está subscrita"
+
+msgctxt "subscription_upgrade"
+msgid "Upgrade now"
+msgstr "Actualizar agora"
+
+msgctxt "subscription_now_and_add_more_agents"
+msgid "now and add more agents"
+msgstr "Adicionar mais agente"
+
+msgctxt "subscription_submit"
+msgid "Submit"
+msgstr "Submeter"
+
+msgctxt "subscription_complete_downgrade_to_free"
+msgid "Complete Downgrade to Free Package"
+msgstr "Rebaixar para pacote gratuito?"
+
+msgctxt "subscription_notice_downgrade"
+msgid "We are unfortunate to know that you have opted to downgrade to FREE package. Please select an option below that explains the reason for your decision. Your feedback will help us to improve our service"
+msgstr "Nós estamos lamentando ao saber que a tua conta foi rebaixada para edição gratuita. Mostra-nos a razão do suporte, basta selecionar as opções abaixo. Os teus comentários nos ajudarão a melhorar a qualidade do serviço."
+
+msgctxt "subscription_notice_1"
+msgid "Satisfied, will come back again when required"
+msgstr "Qualidade do serviço é boa. Vou voltar no momento adequado. "
+
+msgctxt "subscription_notice_2"
+msgid "Your service is good, but it still lacks of some certain features"
+msgstr "Teu serviço é satisfatório, mas falta ainda algumas características"
+
+msgctxt "subscription_notice_3"
+msgid "I am not at all satisfied with your service"
+msgstr "Não estou satisfeito com o teu serviço"
+
+msgctxt "subscription_notice_other"
+msgid "Please add your opinion"
+msgstr "Deixa teus comentários por favor"
+
+msgctxt "subscription_dowgrade_now"
+msgid "Downgrade now"
+msgstr "Rebaixar agora"
+
+msgctxt "subscription_cancel_account"
+msgid "Need to cancel your Account?"
+msgstr "É necessário cancelar tua conta ?"
+
+msgctxt "subscription_cancel_account_notice"
+msgid "We are sorry to see you go. Once your account is cancelled, all of your account information will be immediately and permanently terminated."
+msgstr "Nós estamos tristes ao ver que tua conta foi cancelada. Depois de cancelar a conta, todas as informações da conta serão eliminadas permanentemente."
+
+msgctxt "subscription_cancel_account_wanning"
+msgid "WARNING: deleting your account will permanently destroy all data in your account, including current setting and operation. If you have any reasons of cancellation, please to comment below."
+msgstr "AVISO: Eliminar a tua conta destruirá permanentemente todas as informações da tua conta, incluindo as instalações e acções correntes."
+
+msgctxt "subscription_cancel_account_reason"
+msgid "If you have any other reasons, feel free to comment below"
+msgstr "Deixa-nos saber porque queres cancelar a conta, por favor."
+
+msgctxt "subscription_cancel_account_delete"
+msgid "Delete account"
+msgstr "Eliminar a conta"
+
+msgctxt "subscription_invoices"
+msgid "Invoices"
+msgstr "Factura"
+
+msgctxt "subscription_invoice_id"
+msgid "Invoice ID"
+msgstr "Código de factura"
+
+msgctxt "subscription_invoice_created"
+msgid "Created"
+msgstr "Criado"
+
+msgctxt "subscription_invoice_status"
+msgid "Status"
+msgstr "Estado"
+
+msgctxt "subscription_invoice_amount"
+msgid "Total"
+msgstr "Valor total"
+
+msgctxt "subscription_cancel_account_notifycation"
+msgid "If you cancel your account, your Subiz Account will immediately stop working. Your account will not be charged again, but you will not be refunded for already paid subscriptions. Yes,"
+msgstr "Se tu cancelares a tua conta Subiz vai parar de funcionar imediatamente. Tu não precisas de mais continuar o pagamento, mas o valor investido não será devolvido."
+
+msgctxt "subscription_accept_cancel"
+msgid "I want to cancel Subiz account"
+msgstr "Eu quero cancelar a conta de Subiz"
+
+msgctxt "subscription_business_have_changed"
+msgid "If you do not need a subscription account, you can always "
+msgstr "Se tu não tens demanda para actualizar a conta, tu podes"
+
+msgctxt "subscription_downgrade_to_free"
+msgid "downgrade to Free package."
+msgstr "Rebaixar para edição gratuita"
+
+msgctxt "subscription_reduce_agent"
+msgid "Reduce agents"
+msgstr "Diminuir agente"
+
+msgctxt "subscription_add_agent"
+msgid "Add agents"
+msgstr "Adicionar agente"
+
+msgctxt "subscription_payment_frequency"
+msgid "Payment Frequency"
+msgstr "Frequência de pagamento"
+
+msgctxt "subscription_next_transaction"
+msgid "Next Transaction Details"
+msgstr "Informações sobre o pagamento seguinte"
+
+msgctxt "subscription_payment_method"
+msgid "Payment Method"
+msgstr "Método de pagamento"
+
+msgctxt "subscription_change_credit_card"
+msgid "Change credit card"
+msgstr "Alterar cartão de crédito"
+
+msgctxt "subscription_next_transaction_title"
+msgid "Next Transaction"
+msgstr "Pagamento seguinte"
+
+msgctxt "subscription_invoice_date"
+msgid "Date"
+msgstr "Data"
+
+msgctxt "subscription_history"
+msgid "Subscription History"
+msgstr "Histórico de pagamento"
+
+msgctxt "subscription_upgrade_plan"
+msgid "Upgrade Plan"
+msgstr "Plano de actualização"
+
+msgctxt "subscription_purchase_more_agent"
+msgid "Purchase more agents"
+msgstr "+ Comprar mais agentes"
+
+msgctxt "subscription_manage_agent"
+msgid "Manage agents"
+msgstr "Gerir agente"
+
+msgctxt "subscription_pay"
+msgid "Pay"
+msgstr "Pagar"
+
+msgctxt "subscription_agent"
+msgid "Agents"
+msgstr "Agentes"
+
+msgctxt "subscription_reduce_agents_subscription"
+msgid "Reduce agents subscription"
+msgstr "Diminuir o número de agente"
+
+msgctxt "subscription_reduce_agent_subscription"
+msgid "Number of agent subscription you wish to reduce"
+msgstr "Número de agente que você quer diminuir "
+
+msgctxt "subscription_number_of_agent_after_reduce"
+msgid "Number of agent subscription after reduction"
+msgstr "Número total de agente que é preciso pagar depois de diminuir "
+
+msgctxt "subscription_downgrade"
+msgid "Downgrade now"
+msgstr "Rebaixar agora"
+
+msgctxt "subscription_upgade_successfully"
+msgid "Upgrade successfully."
+msgstr "Actualizaste a conta."
+
+msgctxt "subscription_upgade_error"
+msgid "Upgrade error."
+msgstr "Erro ao actualizar a conta."
+
+msgctxt "subscription_downgade_successfully"
+msgid "Downgrade successfully."
+msgstr "Rebaixaste tua conta."
+
+msgctxt "subscription_downgade_error"
+msgid "Downgrade error."
+msgstr "Erro ao Rebaixar sua conta."
+
+msgctxt "subscription_upgade_downgrade_error"
+msgid "Upgrade or Downgrade error."
+msgstr "Erro ao Atualizar ou Rebaixar tua conta."
+
+msgctxt "subscription_downgrade_successfully"
+msgid "Downgrade to Free successfully"
+msgstr "Rebaixar gratuitamente com sucesso"
+
+msgctxt "subscription_downgrade_reason_require"
+msgid "Downgrade reason is required."
+msgstr "Dá as razões de rebaixamento da tua conta."
+
+msgctxt "subscription_downgrade_email_agent_require"
+msgid "Downgrade email agent is required."
+msgstr "Endereço de e-mail do agente rebaixado é necessário "
+
+msgctxt "subscription_cancel_successfully"
+msgid "Cancel account successfully"
+msgstr "Conta foi cancelada."
+
+msgctxt "subscription_cancel_reason_require"
+msgid "Reason for cancelling is required."
+msgstr "Dá a razão de cancelar a tua conta, por favor."
+
+msgctxt "subscription_cancel_email_agent_require"
+msgid "Email agent is required."
+msgstr "Dá endereço de email, por favor."
+
+msgctxt "subscription_unit_price"
+msgid "Unit price"
+msgstr "Preço unitário"
+
+msgctxt "visitor_offline"
+msgid "The visitor is offline"
+msgstr "Visitante não disponível"
+
+msgctxt "live-preview"
+msgid "<h3>Live preview</h3><p>See it from a visitor's perspective!</p>"
+msgstr "<h3>Prever</h3><p>Vê isso nas páginas perspectivas do visitante.</p>"
+
+msgctxt "pre_test_page"
+msgid "Preview test page"
+msgstr "Ver agora"
+
+msgctxt "tuttorial"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+msgctxt "learn-how-to-install"
+msgid "Learn how to install"
+msgstr "Como instala a janela de chat no website?"
+
+msgctxt "livechat-on"
+msgid "Start chatting with your website's visitors."
+msgstr "As maneiras de chat com Visitantes."
+
+msgctxt "and-any-more"
+msgid "And any more..."
+msgstr "Ver mais ..."
+
+msgctxt "subiz-widget-code"
+msgid "<h3>Subiz widget code</h3><p>Copy the following script and insert it into your website’s HTML source code  between the &lt;body&gt;&lt;/body&gt; tags. This code must be inserted into every page on which you wish to display the Subiz chat widget</p>"
+msgstr "<h3>Código embutido de janela de chat Subiz</h3"
+
+msgctxt "check-your-website"
+msgid "<h3>Check your website</h3><p>Check whether the Subiz Live Chat widget is correctly installed on your website.</p>"
+msgstr "<h3>Verifica o teu website</h3"
+
+msgctxt "check"
+msgid "Check"
+msgstr "Verifica"
+
+msgctxt "msg_url_invalid"
+msgid "Your URL is invalid. Please try again!"
+msgstr "Teu URL é inválido. Tenta novamente!"
+
+msgctxt "msg_widget_invalid"
+msgid "Widget not found or incorrectly embedded!"
+msgstr "Não achou o código embutido no website!"
+
+msgctxt "msg_widget_valid"
+msgid "Congratulation! Widget has been correctly embedded!"
+msgstr "Parabéns! Código embutido foi inserido no website!"
+
+msgctxt "subscription_payment_method_"
+msgid "None"
+msgstr "Nenhum"
+
+msgctxt "subscription_payment_method_fastspring"
+msgid "FastSpring"
+msgstr "FastSpring"
+
+msgctxt "subscription_payment_method_creditcard"
+msgid "Credit Card"
+msgstr "Cartão de crédito"
+
+msgctxt "subscription_payment_method_cash"
+msgid "Bank transfer"
+msgstr "Cash"
+
+msgctxt "subscription_invoice_unpaid"
+msgid "Unpaid"
+msgstr "Não pago"
+
+msgctxt "subscription_invoice_paid"
+msgid "Paid"
+msgstr "Pago"
+
+msgctxt "subscription_export_invoice_successfully"
+msgid "Export detailed invoice successfully."
+msgstr "Exportaste a factura detalhada"
+
+msgctxt "subscription_export_invoice_error"
+msgid "Export detailed invoice error!"
+msgstr "Erro ao exportar factura detalhada!."
+
+msgctxt "register_sologan"
+msgid "Live chat solution for website."
+msgstr "Solução de chat ao vivo para website."
+
+msgctxt "register_forfree"
+msgid "Start using Subiz for free!"
+msgstr "Começa a usar Subiz gratuitamente!"
+
+msgctxt "register_require"
+msgid "5 minutes setup, test all powerful features in 30 days for free, no credit card required"
+msgstr "5 minutos para instalar, podes testar por 30 dias, nenhum cartão de crédito é necessário "
+
+msgctxt "already_have_account"
+msgid "Already have an account? %s Login %s"
+msgstr "Tu já tens conta? %s Login %s"
+
+msgctxt "register_holder_fname"
+msgid "Full name"
+msgstr "Nome completo"
+
+msgctxt "register_holder_email"
+msgid "Email address"
+msgstr "Endereço de email"
+
+msgctxt "register_holder_uname"
+msgid "User name"
+msgstr "Nome de usuário"
+
+msgctxt "register_holder_pass"
+msgid "Password"
+msgstr "Palavra-passe"
+
+msgctxt "register_submit"
+msgid "Create my account"
+msgstr "Criar minha conta "
+
+msgctxt "register_term1"
+msgid "By signing up I agree to the "
+msgstr "Ao inscrever-se, eu concordo com "
+
+msgctxt "register_term2"
+msgid "Terms of Service"
+msgstr "Termos do serviço"
+
+msgctxt "register_policy"
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+msgctxt "register_copy_right"
+msgid "@2015 Subiz. All right reserved."
+msgstr "@2015 Subiz. Todos os direitos reservados."
+
+msgctxt "register_success"
+msgid "<span class="text-success">You have successfully registered, </span>please check your email to activate your account!"
+msgstr "<span class="text-success">A tua conta foi registrada,</span> verifica o teu email para ativar a tua conta!"
+
+msgctxt "register_mail_error"
+msgid "System error, please try again!"
+msgstr "Erro de sistema, tenta novamente, por favor!"
+
+msgctxt "register_error_username"
+msgid "User name has already been registered, please choose another user name!"
+msgstr "Alguém já escolheu esse nome de usuário, tenta outro!"
+
+msgctxt "register_error_email"
+msgid "Email has already been registered, please choose another email address!"
+msgstr "Alguém já escolheu esse email, tenta outro!"
+
+msgctxt "register_exist_user"
+msgid "User name already exists or is invalid! "
+msgstr "Nome de usuário existe ou é inválido! "
+
+msgctxt "register_exist_email"
+msgid "Email already exists or is invalid! "
+msgstr "Endereço de email existe ou é inválido! "
+
+msgctxt "register_char_user"
+msgid "User name not have special characters and not contain uppercase!"
+msgstr "Caracteres especiais e maiúsculas não são permitidos em nome de usuário!"
+
+msgctxt "register_error_system"
+msgid "An error occurred unexplained!"
+msgstr "Erro!"
+
+msgctxt "register_error_apikey"
+msgid "An error occurred unexplained, please try again later!"
+msgstr "Ocorreu um erro, tenta novamente, por favor!"
+
+msgctxt "activation_success"
+msgid "<span class="text-success">Your account has been activated successfully !</span>"
+msgstr "Tua conta foi ativada!"
+
+msgctxt "activation_invalid"
+msgid "Activation code is incorrect! "
+msgstr "Código de activação está incorreto! "
+
+msgctxt "activation_error"
+msgid "System error, please try again!"
+msgstr "Erro do sistema, tenta novamente, por favor!"
+
+msgctxt "timezone"
+msgid "TimeZone"
+msgstr "Zonas horárias"
+
+msgctxt "select_timezone"
+msgid "Select timezone"
+msgstr "Selecionar zona horária"
+
+msgctxt "register_user_space"
+msgid "User name must not contain space"
+msgstr "Nome de usuário não pode conter espaço"
+
+msgctxt "register_error_ip"
+msgid "Your IP address is not allowed!"
+msgstr "Teu endereço IP não é permitido!"
+
+msgctxt "register_server_error"
+msgid "Connect server failed!"
+msgstr "Não podes conectar ao servidor!"
+
+msgctxt "register_error_api_key"
+msgid "Invalid Api key!"
+msgstr "Chave Api inválida!"
+
+msgctxt "register_error_ip_400"
+msgid "Invalid Ip address!"
+msgstr "Endereço IP inválido!"
+
+msgctxt "report_date_1"
+msgid "Today"
+msgstr "Hoje"
+
+msgctxt "report_date_7"
+msgid "Last 7 days"
+msgstr "7 dias atrás"
+
+msgctxt "report_date_30"
+msgid "Last 30 days"
+msgstr "30 dias atrás"
+
+msgctxt "report_custom"
+msgid "Custom"
+msgstr "Personalizar"
+
+msgctxt "report_select"
+msgid "Select Agent/Department"
+msgstr "Selecionar Agente/Departamento"
+
+msgctxt "report_normal_chat"
+msgid "Normal Chats"
+msgstr "Chats normais"
+
+msgctxt "report_missed_chat"
+msgid "Missed Chats"
+msgstr "Chats perdidos"
+
+msgctxt "report_chats"
+msgid "Chats"
+msgstr "Chat"
+
+msgctxt "report_ratting"
+msgid "Rating"
+msgstr "Avaliação"
+
+msgctxt "report_avai"
+msgid "Availability"
+msgstr "Disponibilidade "
+
+msgctxt "report_trigger"
+msgid "Triggers"
+msgstr "Triggers"
+
+msgctxt "report_affiliate"
+msgid "Referral"
+msgstr "Filhado"
+
+msgctxt "report_rate_good"
+msgid "Rate good"
+msgstr "Boa avaliação"
+
+msgctxt "report_not_rate"
+msgid "Not rate"
+msgstr "Não tem avaliação"
+
+msgctxt "report_rate_bad"
+msgid "Rate bad"
+msgstr "Má avaliação"
+
+msgctxt "report_filter"
+msgid "Filter:"
+msgstr "Filtrar:"
+
+msgctxt "report_number_success"
+msgid "Number of successful triggers"
+msgstr "Número de trigger funcionando com sucesso"
+
+msgctxt "report_payment"
+msgid "Payment"
+msgstr "Pagamento"
+
+msgctxt "report_avai_time"
+msgid "Availability: "
+msgstr "Tempo de disponibilidade: "
+
+msgctxt "availability"
+msgid "Availability"
+msgstr "Disponibilidade"
+
+msgctxt "report_chat"
+msgid "Chats"
+msgstr "Chats"
+
+msgctxt "report_affiliate_register"
+msgid "Register Referral program"
+msgstr "Programa Referral"
+
+msgctxt "report_affiliate_sigup"
+msgid "Referral program Sign up"
+msgstr "Inscreve-te o programa Referral"
+
+msgctxt "ref_program"
+msgid "Referral program"
+msgstr "Programa Referral"
+
+msgctxt "how_does_work"
+msgid "How does the referral program work?"
+msgstr "Como funciona este programa?"
+
+msgctxt "aff_help"
+msgid "<p> Share the link with as many friends as you want! It contains a special tracking code.</p><p>Your friends will click on the link and sign up for a Subiz account. Every month, get rewarded with 15% of their payment when they upgrade to a paid plan.</p>"
+msgstr "<p>Partilha um link de apresentação Subiz aos teus amigos! Ele contém um código de rastreamento.</p><p>Quando teus amigos clicarem em um link e se inscreverem em uma conta Subiz. Todos os meses, tu receberás 15% de comissão de pagamento deles quando eles usarem um pacote de pagamento.</p><p>Subiz pagará a comissão através da conta Paypal. Se tu vives no Vietname, nós podemos transferir para a tua conta.</p>"
+
+msgctxt "report_affiliate_payment"
+msgid "Referral Payment"
+msgstr "Referral Pagamento"
+
+msgctxt "report_total"
+msgid "Total register"
+msgstr "Registo total"
+
+msgctxt "report_free"
+msgid "Free register"
+msgstr "Registo gratuito"
+
+msgctxt "report_paid"
+msgid "Paid register"
+msgstr "Registo pago"
+
+msgctxt "report_program"
+msgid "Register Referral Program"
+msgstr "Inscreve-te o programa Referral"
+
+msgctxt "report_rewards"
+msgid "Earn rewards when your friends sign up for a paid Subiz plan! Subiz gives you 15% off of month's payment.<p>Learn more about Referral program. %s detail %s</p>"
+msgstr "Apresenta Subiz para ganhar dinheiro. Tu receberás 15% de comissão do pagamento dos clientes que tu apresentas quando eles usam um pacote de pagamento.<p>Estuda mais informações do programa Referral. %s Ver mais %s </p>"
+
+msgctxt "report_usd"
+msgid "USD"
+msgstr "USD"
+
+msgctxt "report_register"
+msgid "Register"
+msgstr "Registo"
+
+msgctxt "report_cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "report_earn"
+msgid "Referral income"
+msgstr "Estatística de rendimento"
+
+msgctxt "report_this_month"
+msgid "Earned in this month:"
+msgstr "Ganhaste neste mês:"
+
+msgctxt "report_last_month"
+msgid "Earned in last month:"
+msgstr "Ganhaste no mês passado:"
+
+msgctxt "report_pending"
+msgid "Pending payment:"
+msgstr "Pagamento pendente:"
+
+msgctxt "report_your_link"
+msgid "Referral link"
+msgstr "link de filhado"
+
+msgctxt "report_link"
+msgid "Referral link:"
+msgstr "link de filhado:"
+
+msgctxt "report_id"
+msgid "Referral ID:"
+msgstr "ID de filhado:"
+
+msgctxt "report_commision"
+msgid "Commission:"
+msgstr "Comissão:"
+
+msgctxt "report_payment_setting"
+msgid "Payment setting:"
+msgstr "Definições do pagamento"
+
+msgctxt "report_email_paypal"
+msgid "Email Paypal:"
+msgstr "Email Paypal:"
+
+msgctxt "we_pay_money"
+msgid "Let us pay for you."
+msgstr "Deixa-nos te pagar."
+
+msgctxt "report_currency"
+msgid "Currency:"
+msgstr "Moeda corrente:"
+
+msgctxt "report_amount"
+msgid "Amount to pay:"
+msgstr "Valor de pagamento:"
+
+msgctxt "affiliate_num_20"
+msgid "Payment amount must not be less than 20$"
+msgstr "Valor a pagar não deve ser inferior a 20$"
+
+msgctxt "minimum_20"
+msgid "20$ minimum"
+msgstr "Mínimo 20$"
+
+msgctxt "report_save_change"
+msgid "Save change"
+msgstr "Guardar"
+
+msgctxt "report_error_500"
+msgid "Connect server failed!"
+msgstr "Não podes conectar ao servidor!"
+
+msgctxt "report_error_undefine"
+msgid "Failed, unspecified error!"
+msgstr "Falhou, erro não especificado!"
+
+msgctxt "report_error_value"
+msgid "Data not connected, please try again!"
+msgstr "Não podes conectar aos dados, tenta novamente, por favor!"
+
+msgctxt "report_error_daterange"
+msgid "Report period could not exceed 60 days!"
+msgstr "Prazo de pagamento não é superior a 60 dias!"
+
+msgctxt "report_error_customdate"
+msgid "Please enter starting date and ending date in custom form!"
+msgstr "Digitar data de início e data de término!"
+
+msgctxt "report_data_error"
+msgid "Data error!"
+msgstr "Erro de dados!"
+
+msgctxt "vistor_active_visitors"
+msgid "Active visitors"
+msgstr "Visitantes ativos"
+
+msgctxt "vistor_idle_visitors"
+msgid "Idle visitors"
+msgstr "Visitantes inativos"
+
+msgctxt "vistor_request_chats"
+msgid "Request chats"
+msgstr "Pedido de Chat"
+
+msgctxt "history_export"
+msgid "Export"
+msgstr "Exportar"
+
+msgctxt "export_history"
+msgid "Export History"
+msgstr "Exportar história"
+
+msgctxt "history_from"
+msgid "From"
+msgstr "De"
+
+msgctxt "history_to"
+msgid "To"
+msgstr "A"
+
+msgctxt "history_file_type"
+msgid "File type"
+msgstr "Tipo do ficheiro"
+
+msgctxt "history_submit"
+msgid "Export"
+msgstr "Exportar"
+
+msgctxt "history_cancel"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "history_filter"
+msgid "Filter chats by:"
+msgstr "Filtrar chat por:"
+
+msgctxt "history_date"
+msgid "Date"
+msgstr "Data"
+
+msgctxt "history_today"
+msgid "Today"
+msgstr "Hoje"
+
+msgctxt "history_yesterday"
+msgid "Yesterday"
+msgstr "Ontem"
+
+msgctxt "history_last_7days"
+msgid "Last 7 days"
+msgstr "7 dias atrás"
+
+msgctxt "history_last_30days"
+msgid "Last 30 days"
+msgstr "30 dias atrás"
+
+msgctxt "history_custom"
+msgid "Custom"
+msgstr "Personalizar"
+
+msgctxt "history_agent"
+msgid "Agent"
+msgstr "Agente"
+
+msgctxt "history_department"
+msgid "Department"
+msgstr "Departamento"
+
+msgctxt "history_rating"
+msgid "Rating"
+msgstr "Avaliação"
+
+msgctxt "history_rated_chat"
+msgid "Rated Chats"
+msgstr "Avaliado"
+
+msgctxt "history_not_rated"
+msgid "Not Rated"
+msgstr "Não tem avaliação"
+
+msgctxt "history_rated_bad"
+msgid "Rated Bad"
+msgstr "Má avaliação"
+
+msgctxt "history_rated_good"
+msgid "Rated Good"
+msgstr "Boa avaliação"
+
+msgctxt "history_type"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "history_new_visitor"
+msgid "New Visitors"
+msgstr "Visitante novo"
+
+msgctxt "history_return_visitor"
+msgid "Returning Visitors"
+msgstr "Visitante de regresso"
+
+msgctxt "history_search"
+msgid "Search visitors"
+msgstr "Pesquisar visitante "
+
+msgctxt "history_message"
+msgid "Message content"
+msgstr "Conteúdo da mensagem"
+
+msgctxt "history_name"
+msgid "Visitor name"
+msgstr "Nome do visitante"
+
+msgctxt "history_email"
+msgid "Visitor email"
+msgstr "Email do visitante"
+
+msgctxt "history_phone"
+msgid "Visitor phone"
+msgstr "Número do telefone do visitante"
+
+msgctxt "history_find_now"
+msgid "Find now "
+msgstr "Procurar agora"
+
+msgctxt "history_close"
+msgid "Close"
+msgstr "Fechar"
+
+msgctxt "history_transcript"
+msgid "TRANSCRIPT"
+msgstr "Conteúdo"
+
+msgctxt "history_visitor_info"
+msgid "VISITOR INFO"
+msgstr "Informação"
+
+msgctxt "history_visitor_notes"
+msgid "VISITOR NOTES"
+msgstr "Nota"
+
+msgctxt "history_time_on_site"
+msgid "Time on site"
+msgstr "Tempo no website"
+
+msgctxt "history_location"
+msgid "Location"
+msgstr "Local"
+
+msgctxt "history_label"
+msgid "Label:"
+msgstr "Etiqueta:"
+
+msgctxt "history_more"
+msgid "more"
+msgstr "mais"
+
+msgctxt "history_less"
+msgid "less"
+msgstr "menos"
+
+msgctxt "history_already"
+msgid "Already looked:"
+msgstr "Já visto:"
+
+msgctxt "history_add_note"
+msgid "Add visitor notes"
+msgstr "Adicionar nota do visitante "
+
+msgctxt "history_ip"
+msgid "IP address:"
+msgstr "Endereço IP:"
+
+msgctxt "history_browse"
+msgid "Browser: "
+msgstr "Navegador: "
+
+msgctxt "history_error_date"
+msgid "Please check date again, the time period is not over 30 days!"
+msgstr "Verifica a data novamente, período de tempo não pode ser superior a 30 dias! "
+
+msgctxt "history_export_success"
+msgid "Successful, the report will be sent to the email"
+msgstr "Exportaste arquivo, histórico de chat será enviado para o email"
+
+msgctxt "history_export_error"
+msgid "Write file CSV error!"
+msgstr "Erro ao criar ficheiro CSV!"
+
+msgctxt "history_server_error"
+msgid "Data error, please try later!"
+msgstr "Dados errados, tenta depois!"
+
+msgctxt "history_waiting_time"
+msgid "Waiting time"
+msgstr "Tempo de espera"
+
+msgctxt "history_email_empty"
+msgid "Email must not leave empty"
+msgstr "Email é necessário"
+
+msgctxt "history_error_01"
+msgid "Day export must not leave empty, please fill in from date and to date!"
+msgstr "Data de exportar o arquivo é necessária, digita o tempo, por favor!"
+
+msgctxt "history_error_02"
+msgid "Not found any information of history!"
+msgstr "Não achou informações exigidas!"
+
+msgctxt "history_visitor_name"
+msgid "Visitor name"
+msgstr "Nome do visitante"
+
+msgctxt "history_visitor_email"
+msgid "Visitor email"
+msgstr "Email do visitante"
+
+msgctxt "history_visitor_phone"
+msgid "Visitor phone"
+msgstr "Número do telefone do visitante"
+
+msgctxt "history_visitor_ip"
+msgid "Visitor Ip"
+msgstr "Endereço IP do visitante"
+
+msgctxt "history_country"
+msgid "Country"
+msgstr "País"
+
+msgctxt "history_city"
+msgid "City"
+msgstr "Cidade"
+
+msgctxt "history_start_by"
+msgid "Start by"
+msgstr "Começar por "
+
+msgctxt "history_created"
+msgid "Created"
+msgstr "Criar"
+
+msgctxt "history_end"
+msgid "End"
+msgstr "Terminar"
+
+msgctxt "history_chat_url"
+msgid "Chat Url"
+msgstr "Url de Chat"
+
+msgctxt "history_referer"
+msgid "Referral URL"
+msgstr "Url de chat"
+
+msgctxt "history_agent_export"
+msgid "Agent"
+msgstr "Agente"
+
+msgctxt "history_dep_export"
+msgid "Department"
+msgstr "Departamento"
+
+msgctxt "history_initial"
+msgid "Initial Question"
+msgstr "Pergunta inicial"
+
+msgctxt "history_time_second"
+msgid "second"
+msgstr "segundo"
+
+msgctxt "history_chat"
+msgid "Chats"
+msgstr "Chat"
+
+msgctxt "history_offline_message"
+msgid "Offline message"
+msgstr "Mensagem"
+
+msgctxt "history_list_email"
+msgid "Email Address, separated with a comma"
+msgstr "Endereços de email são separados por uma vírgula"
+
+msgctxt "history_note_send_email"
+msgid "The report will be sent to the specified email"
+msgstr "Histórico de chat será enviado para os email acima"
+
+msgctxt "history_of"
+msgid "of"
+msgstr "de"
+
+msgctxt "report_agent"
+msgid "AGENTS"
+msgstr "AGENTES"
+
+msgctxt "report_department"
+msgid "DEPARTMENTS"
+msgstr "Departamentos"
+
+msgctxt "history_return"
+msgid "Returning "
+msgstr "Voltar"
+
+msgctxt "visitors"
+msgid "Visitors"
+msgstr "Visitantes"
+
+msgctxt "all_type"
+msgid "All type"
+msgstr "Todos os tipos"
+
+msgctxt "return"
+msgid "Return"
+msgstr "Voltar"
+
+msgctxt "new"
+msgid "New"
+msgstr "Novo"
+
+msgctxt "online_more"
+msgid "Online more"
+msgstr "Disponível mais"
+
+msgctxt "all_minutes"
+msgid "All Minutes"
+msgstr "Minutos totais"
+
+msgctxt "1_minutes"
+msgid "1 minute"
+msgstr "1 minuto"
+
+msgctxt "2_minutes"
+msgid "2 minutes"
+msgstr "2 minutos"
+
+msgctxt "5_minutes"
+msgid "5 minutes"
+msgstr "5 minutos"
+
+msgctxt "10_minutes"
+msgid "10 minutes"
+msgstr "10 minutos"
+
+msgctxt "online"
+msgid "Online"
+msgstr "Disponível"
+
+msgctxt "looking"
+msgid "Looking"
+msgstr "Vendo"
+
+msgctxt "agent"
+msgid "Agent"
+msgstr "Agente"
+
+msgctxt "select_action"
+msgid "Select action"
+msgstr "Selecionar ação"
+
+msgctxt "ban_visitor"
+msgid "Ban Visitor"
+msgstr "Bloquear visitante"
+
+msgctxt "double_click_edit"
+msgid "Double-click here to edit"
+msgstr "Dá um duplo clique aqui para editar"
+
+msgctxt "information"
+msgid "Information"
+msgstr "Informação"
+
+msgctxt "note"
+msgid "Note"
+msgstr "Nota"
+
+msgctxt "to_minimize_this_chat"
+msgid "To minimize this chat, click the minimize button or out the chat window."
+msgstr "Para minimizar este chat, clica em botão de minimizar ou saia da janela do chat "
+
+msgctxt "tranfer_chat_to_agents"
+msgid "Transfer chat to Agents"
+msgstr "Transferir chat para outro Agente"
+
+msgctxt "agents_avaiable"
+msgid "Agents available"
+msgstr "Agente disponível"
+
+msgctxt "all_agents"
+msgid "All agents"
+msgstr "Todos os agentes"
+
+msgctxt "messenger"
+msgid "Messages"
+msgstr "Mensagens"
+
+msgctxt "messenger_send_to_agents"
+msgid "Messages sent to agents"
+msgstr "Mensagens enviadas para os agentes "
+
+msgctxt "transfer"
+msgid "Transfer"
+msgstr "Transferir"
+
+msgctxt "ban_visitors"
+msgid "Ban Visitors"
+msgstr "Banir visitante"
+
+msgctxt "reason"
+msgid "Reason"
+msgstr "Razão"
+
+msgctxt "also_ban_visitor_IP_adress"
+msgid "Also ban visitor's IP address"
+msgstr "Também banir o endereço IP do visitante"
+
+msgctxt "enable_sound_notification"
+msgid "Enable sound notification"
+msgstr "Ativar som de notificações"
+
+msgctxt "notification_browser_not_support"
+msgid "Desktop notifications are currently not supported for your browser."
+msgstr "Notificação na área do trabalho ainda não foi suportada para teu navegador."
+
+msgctxt "notification_recommend"
+msgid "Open the page in Chrome(version 23+), Safari(version6+), Fire fox(with ff-html5notifications plugin installed) and IE9+."
+msgstr "Abrir com Chrome(versão 23+), Safari(Versão 6+), Firefox (com ff-hatml5 notificações e plugin instalado) e Internet Explorer 9+."
+
+msgctxt "notification_allowed"
+msgid "Notifications allowed."
+msgstr "Ativaste a notificação."
+
+msgctxt "notification_not_allowed"
+msgid "Notifications not allowed. (click to enable)"
+msgstr "A notificação não é permitida. (clicar para ativar)"
+
+msgctxt "notification_denied"
+msgid "Notifications denied. (Change notifications permission in you browser(s) settings)"
+msgstr "Notificação é negada. (Alterar permissão de notificação na tua definições do navegador)"
+
+msgctxt "login_username"
+msgid "User name or Email"
+msgstr "Nome de usuário ou Email"
+
+msgctxt "login_pass"
+msgid "Password"
+msgstr "Palavra-passe"
+
+msgctxt "login_availalbe"
+msgid "Available"
+msgstr "Disponível"
+
+msgctxt "login_away"
+msgid "Away"
+msgstr "Fora"
+
+msgctxt "login_signin"
+msgid "Sign in"
+msgstr "Entrar"
+
+msgctxt "login_alway"
+msgid "Always sign in automatically"
+msgstr "Entrar automaticamente"
+
+msgctxt "login_forgot_pass"
+msgid "Forgot your password?"
+msgstr "Esqueceste-te da tua palavra-passe?"
+
+msgctxt "login_email"
+msgid "Email address"
+msgstr "Endereço de email"
+
+msgctxt "login_robot"
+msgid "Prove that you are not a robot"
+msgstr "Prova que tu não és robô"
+
+msgctxt "login_type_text"
+msgid "Type the text"
+msgstr "Digitar o texto"
+
+msgctxt "login_recover"
+msgid "Recover Password"
+msgstr "Recuperar a palavra-passe"
+
+msgctxt "login_copyright"
+msgid "@2015 Subiz. All right reserved."
+msgstr "@2015 Subiz. Todos os direitos reservados."
+
+msgctxt "login_enter_pass"
+msgid "Please enter your new password."
+msgstr "Digita tua palavra-passe nova por favor."
+
+msgctxt "login_new_pass"
+msgid "New password"
+msgstr "Palavra-passe nova"
+
+msgctxt "login_re_pass"
+msgid "Retype password"
+msgstr "Confirmar palavra-passe"
+
+msgctxt "login_submit"
+msgid "Submit"
+msgstr "Submeter"
+
+msgctxt "login_error_user"
+msgid "User does not exist!"
+msgstr "Usuário não existe ! "
+
+msgctxt "login_error_invalid"
+msgid "User or password incorrect!"
+msgstr "Usuário ou palavra-passe incorreto ! "
+
+msgctxt "login_error_inactive"
+msgid "This agent has been locked. Please contact your administrator to unlock!"
+msgstr "Este agente é trancado. Contacta a tua administração para destravar."
+
+msgctxt "login_error_delete"
+msgid "This agent has been suspended!"
+msgstr "Este agente foi eliminado!"
+
+msgctxt "login_error"
+msgid "Failed, unspecified error!"
+msgstr "Falhou, erro não especificado!"
+
+msgctxt "login_error_captcha"
+msgid "The code invalid!"
+msgstr "Código inválido!"
+
+msgctxt "login_send_mail"
+msgid "<span class="text-success">Email was sent,</span> please check your email to recover your password!"
+msgstr "<span class="text-success">Email foi enviado,</span> verifica teu email para recuperar tua senha, por favor!"
+
+msgctxt "login_fail"
+msgid "Login failed!"
+msgstr "Falhou!"
+
+msgctxt "login_error_email"
+msgid "Email does not exist!"
+msgstr "Email não existe! "
+
+msgctxt "login_account_delete"
+msgid "User account or account of this email was deleted!"
+msgstr "Conta do usuário ou conta deste email foi eliminada !"
+
+msgctxt "login_email_invalid"
+msgid "Email invalid!"
+msgstr "Email inválido!"
+
+msgctxt "login_not_success"
+msgid "System error, please try again!"
+msgstr "Erro do sistema, tenta novamente, por favor!"
+
+msgctxt "login_error_code"
+msgid "The code does not exist or expired!"
+msgstr "Código não existe ou expirou!"
+
+msgctxt "login_error_pass"
+msgid "Password does not match, please try again!"
+msgstr "As palavras-passe não coincidem, tenta novamente!"
+
+msgctxt "login_change_success"
+msgid "<span class="text-success">Successful change password!</span>"
+msgstr "<span class="text-success">Palavra-passe foi alterada com sucesso !</span>"
+
+msgctxt "login_email_delete"
+msgid "Email was deleted"
+msgstr "Email foi eliminado"
+
+msgctxt "login_click"
+msgid "Click "
+msgstr "Clicar"
+
+msgctxt "login_here"
+msgid "here "
+msgstr "aqui"
+
+msgctxt "to_login"
+msgid "to login Subiz"
+msgstr "para entrar em Subiz"
+
+msgctxt "register_invalid_ip"
+msgid "Invalid ip!"
+msgstr "Endereço IP inválido!"
+
+msgctxt "register_captcha"
+msgid "Type the text"
+msgstr "Digitar o texto"
+
+msgctxt "error_fullname"
+msgid "The full name"
+msgstr "Nome completo"
+
+msgctxt "error_username"
+msgid "The user name"
+msgstr "Nome de usuário"
+
+msgctxt "error_email"
+msgid "The email address"
+msgstr "Endereço de email:"
+
+msgctxt "error_password"
+msgid "The password"
+msgstr "Palavra-passe"
+
+msgctxt "mes_required"
+msgid "%s field is required."
+msgstr "%s de campo é necessário "
+
+msgctxt "mes_minlength"
+msgid "%s field must be at least %s characters in length."
+msgstr "Comprimento %s do campo é mínimo %s de caracteres."
+
+msgctxt "mes_maxlength"
+msgid "%s field can not exceed %s characters in length."
+msgstr "Comprimento de % de campo não pode exceder %s de caracteres."
+
+msgctxt "mes_valid_email"
+msgid "%s field must contain a valid email address."
+msgstr "%s de campo contém endereço de email válido."
+
+msgctxt "error_user_email"
+msgid "The User name or Email address"
+msgstr "Nome de usuário ou Endereço de Email:"
+
+msgctxt "error_new_pass"
+msgid "The new password"
+msgstr "Palavra-passe nova"
+
+msgctxt "error_re_pass"
+msgid "The retype password"
+msgstr "Redigitar a palavra-passe"
+
+msgctxt "affiliate_invalid_email"
+msgid "The email address is invalid."
+msgstr "Formato de email inválido."
+
+msgctxt "affiliate_required_email"
+msgid "Paypal email is required."
+msgstr "Email de paypal é necessário."
+
+msgctxt "affiliate_num_amount"
+msgid "The amount to pay is numeric."
+msgstr "Valor de pagamento deve ser numérico."
+
+msgctxt "affiliate_required_amount"
+msgid "The amount to pay field is required."
+msgstr "Campo de nível de pagamento é necessário"
+
+msgctxt "affiliate_required_currency"
+msgid "The currency field is required."
+msgstr "Campo de moeda estrangeira é necessário."
+
+msgctxt "affiliate_success_setting"
+msgid "Settings is successful!"
+msgstr "Settings is successful!"
+
+msgctxt "affiliate_success_register"
+msgid "Register successfully!"
+msgstr "Inscreveste-te com sucesso!"
+
+msgctxt "affiliate_total_paid"
+msgid "Total paid accounts"
+msgstr "Contas pagas totais"
+
+msgctxt "sologan"
+msgid "<span class="system-help">Follow the instructions</span> to install Chat Window on your website."
+msgstr "<span class="system-help">Instruções de instalação</span> de janela de chat no teu website."
+
+msgctxt "report_error_info"
+msgid "Can't find information of affiliate!"
+msgstr "Não achaste informações de filhado!"
+
+msgctxt "register_embed"
+msgid "Embed Widget"
+msgstr "Janela de chat embutida"
+
+msgctxt "register_embed_note_1"
+msgid "Copy the following script and insert it into your website's HTML source code between the &lt;body&gt;&lt;/body&gt; tags."
+msgstr "Copiar a escrita abaixo e insira o código de fonte Html no teu website entre etiquetas  &lt;body&gt;&lt;/body&gt; tags."
+
+msgctxt "register_embed_note_2"
+msgid "This code must be inserted into every page where you wish to display the Subiz chat widget."
+msgstr "O código tem de ser inserido em cada website para ter janela de chat Subiz."
+
+msgctxt "register_do_it_late"
+msgid "I'll do it later..."
+msgstr "Eu vou fazer isso depois…"
+
+msgctxt "register_embed_note_3"
+msgid "You will see your website visitors in your dashboard once the widgets are integrated"
+msgstr "Tu vais ver os visitantes no teu website quando uma janela de chat é embutida no website."
+
+msgctxt "dashboard-lang"
+msgid "Dashboard language"
+msgstr "Idioma do painel de instrumentos"
+
+msgctxt "vietnamese"
+msgid "Tiếng Việt"
+msgstr "Tiếng Việt"
+
+msgctxt "english"
+msgid "English"
+msgstr "English"
+
+msgctxt "portuguese"
+msgid "Português"
+msgstr "Português"
+
+msgctxt "brazilian portuguese"
+msgstr "Português Brasil"
+
+msgctxt "indonesian"
+msgid "Bahasa Indonesia"
+msgstr "Bahasa Indonesia"
+
+msgctxt "thai"
+msgid "ภาษาไทย"
+msgstr "ภาษาไทย"
+
+msgctxt "welcome"
+msgid "Welcome"
+msgstr "Bem vindo"
+
+msgctxt "trigger_action_applyToLabel"
+msgid "Apply to label"
+msgstr "Colocar etiqueta"
+
+msgctxt "trigger_help_applyToLabel_holder_name"
+msgid "Label"
+msgstr "Etiqueta"
+
+msgctxt "trigger_help_applyToLabel"
+msgid "Input label to apply. You can enter many Label separated with a semicolon. e.g: T-Shirt; Shoes"
+msgstr "Digitar etiqueta que quer colocar para visitante. Tu podes digitar várias etiquetas, sendo separadas por ponto e vírgula. Ex: Camisa; sapatos femininos"
+
+msgctxt "trigger_action_removeToLabel"
+msgid "Remove label"
+msgstr "Eliminar etiqueta"
+
+msgctxt "trigger_help_removeToLabel_holder_name"
+msgid "Label"
+msgstr "Etiqueta"
+
+msgctxt "trigger_help_removeToLabel"
+msgid "Input label to remove."
+msgstr "Digitar etiqueta para eliminar."
+
+msgctxt "your_account_has_been"
+msgid "Your account has been reached to maximum Agent. Please <a href="https://dashboard.subiz.com/subscription/index" target="_blank">upgrade your account</a>!"
+msgstr "Tua conta já usou número máximo de Agentes. Por favor<a href="https://dashboard.subiz.com/subscription/index" target="_blank">actualizar a tua conta</a>!"
+
+msgctxt "detail_name"
+msgid "Name:"
+msgstr "Nome:"
+
+msgctxt "detail_phone"
+msgid "Phone:"
+msgstr "Telofone:"
+
+msgctxt "detail_email"
+msgid "Email:"
+msgstr "Endereço de email:"
+
+msgctxt "trigger_visitor_email"
+msgid "Visitor email address"
+msgstr "Endereço de email do visitante"
+
+msgctxt "trigger_help_visitor_email"
+msgid "Visitor email address(account@domain.com)"
+msgstr "Endereço de email do visitante(conta@domain.com)"
+
+msgctxt "trigger_help_visitor_email_holder"
+msgid "account@domain.com"
+msgstr "Ex: account@domain.com"
+
+msgctxt "trigger_visitor_phone"
+msgid "Visitor phone number"
+msgstr "Número do telemóvel do visitante"
+
+msgctxt "trigger_help_visitor_phone"
+msgid "Visitor phone number (0913862548)"
+msgstr "Número do telemóvel do visitante (0913862548)"
+
+msgctxt "trigger_help_visitor_phone_holder"
+msgid "09xxxxxxxx"
+msgstr "Ex: 09xxxxxxxx"
+
+msgctxt "trigger_visitor_device"
+msgid "Visitor device"
+msgstr "Dispositivo do visitante"
+
+msgctxt "trigger_help_visitor_device"
+msgid "Visitor device (Mobile;Tablet;Desktop)"
+msgstr "Dispositivo do visitante (Telemóvel;Tablete;Área do trabalho)"
+
+msgctxt "trigger_help_visitor_device_holder"
+msgid "Ex Mobile"
+msgstr "Ex: Telemóvel"
+
+msgctxt "trigger_visitor_label"
+msgid "Visitor label"
+msgstr "Etiqueta do visitante"
+
+msgctxt "trigger_help_visitor_label"
+msgid "Visitor label (T-Shit)"
+msgstr "Etiqueta do visitante (T-Shit)"
+
+msgctxt "trigger_help_visitor_label_holder"
+msgid "Label"
+msgstr "Etiqueta"
+
+msgctxt "history_os"
+msgid "Os: "
+msgstr "Os: "
+
+msgctxt "subscription"
+msgid "Subscription"
+msgstr "Subscrição"
+
+msgctxt "subscription_free"
+msgid "Subscription"
+msgstr "Pagar custo"
+
+msgctxt "subscription_pays"
+msgid "Subscription"
+msgstr "Subscrição"
+
+msgctxt "logout"
+msgid "Logout"
+msgstr "Sair"
+
+msgctxt "reports"
+msgid "Reports"
+msgstr "Relatórios"
+
+msgctxt "setting"
+msgid "Setting"
+msgstr "Definições"
+
+msgctxt "history"
+msgid "History"
+msgstr "História"
+
+msgctxt "using-trigger"
+msgid "Create new label"
+msgstr "Criar etiqueta nova"
+
+msgctxt "search-depat"
+msgid "Search department"
+msgstr "Pesquisar departamento "
+
+msgctxt "type-your-message-here"
+msgid "Type your message here"
+msgstr "Digitar tua mensagem aqui"
+
+msgctxt "subiz_recommends"
+msgid "Subiz recommends you upgrade your browser to enjoy all the features in the new Subiz Live Chat"
+msgstr "Subiz recomenda usar o navegador abaixo para experimentar todas as novas funções de Subiz."
+
+msgctxt "upgrade"
+msgid "Upgrade"
+msgstr "Actualizar"
+
+msgctxt "continue"
+msgid "Continue</a> without upgrading</p>"
+msgstr "Continuar</a> sem atualizar</p>"
+
+msgctxt "by_google"
+msgid "Enhanced by Google"
+msgstr "por Google"
+
+msgctxt "by_mozilla"
+msgid "Enhanced by Mozilla"
+msgstr "por Mozilla"
+
+msgctxt "by_apple"
+msgid "Enhanced by Apple"
+msgstr "por Apple"
+
+msgctxt "availibility_line"
+msgid "Availability"
+msgstr "Tempo para Disponibilidade"
+
+msgctxt "trigger_line"
+msgid "Triggers"
+msgstr "Triggers"
+
+msgctxt "analytics"
+msgid "Analytics"
+msgstr "Gráfico de estatística"
+
+msgctxt "source_report"
+msgid "Source: Subiz.com"
+msgstr "Fonte: Subiz.com"
+
+msgctxt "subiz_chats"
+msgid "Subiz Chats"
+msgstr "Estatística de chat"
+
+msgctxt "subiz_rating"
+msgid "Subiz Rating"
+msgstr "Avaliação de chat"
+
+msgctxt "subiz_availibility"
+msgid "Subiz Availability"
+msgstr "Tempo para Disponibilidade"
+
+msgctxt "subiz_triggers"
+msgid "Subiz Triggers"
+msgstr "Estatística de triggers"
+
+msgctxt "subiz_affiliate"
+msgid "Subiz Affiliate"
+msgstr "Estatística de filhado"
+
+msgctxt "msg_not_is_image"
+msgid "Your file is not an image file"
+msgstr "Não é ficheiro de foto"
+
+msgctxt "report_all"
+msgid "ALL"
+msgstr "Tudo"
+
+msgctxt "subscription_featured_list_package_standard"
+msgstr "<li class="top">Você recebe:</li><li>Aplicativos de website e telemóvel</li><li>Histórico de chat(em 3 últimos meses)</li><li>Transferir chat</li><li>Informações de clientes</li><li>100 conversas ao mesmo tempo</li><li>03 Triggers</li><li>Conteúdo de chat para email</li><li>Personalizar janela de chat</li><li>Personalizar cumprimentos</li><li>Relatório básico (em 3 últimos meses)</li><li>conexão segura-SSL</li><li>Suporte aos clientes  24/7</li><li class="top" style="margin-top: 10px;">Você está perdendo:</li><li>Histórico de chat(em 6 últimos meses)</li><li>Trigger sem limite</li><li>200 conversas ao mesmo tempo</li>"
+
+msgctxt "subscription_featured_list_package_advanced"
+msgstr "<li class="top">Você recebe:</li><li>Aplicativos de website e telemóvel</li><li>Histórico de chat(em 6 últimos meses)</li><li>Transferir chat</li><li>Informações de clientes</li><li>200 conversas ao mesmo tempo</li><li>Trigger sem limite</li><li>Email transcript</li><li>Mensagem é enviada por email</li><li>Personalizar janela de chat</li><li>Personalizar cumprimentos</li><li>Relatório básico</li><li>conexão segura-SSL</li><li>Suporte aos clientes  24/7</li>"
+
+msgctxt "logo"
+msgid "Logo"
+msgstr "Logotipo"
+
+msgctxt "position"
+msgid "Widget position"
+msgstr "posição da janela de chat"
+
+msgctxt "left"
+msgid "Left"
+msgstr "Esquerda"
+
+msgctxt "right"
+msgid "Right"
+msgstr "Direita"
+
+msgctxt "your_account_has_not_been_confirmed"
+msgid "Your account has not been confirmed, please check your email to confirm your account before proceeding subscription. Once confirm account, please %s Logout %s then %s Login %s to continue"
+msgstr "Tua conta ainda não foi confirmada, verifica teu email para confirmar a tua conta antes de realizar subscrição. Quando confirma tua conta, por favor %s Sair %s depois %s Entrar %s para continuar"
+
+msgctxt "notify_send_mail_to_upgrade_downgrade"
+msgid "If you want to upgrade, downgrade, add / reduce agents... please send us an email at support@subiz.com"
+msgstr "Se tu queres actualizar, rebaixar, adicionar / reduzir agentes... envia email para support@subiz.com"
+
+msgctxt "report_unit_hour"
+msgid "(Hour)"
+msgstr "(Hora)"
+
+msgctxt "report_unit_min"
+msgid "(Minute)"
+msgstr "(Minuto)"
+
+msgctxt "login_error_msg"
+msgid "Login error, click <a href='https://dashboard.subiz.com/login/logout'>here</a> to login again!."
+msgstr "Erro ao entrar. <a href='https://dashboard.subiz.com/login/logout'>Entre novamente</a>"
+
+msgctxt "connecting_error_attemping_reconnect"
+msgid "Connecting error, attempting to reconnect..."
+msgstr "Erro ao conectar, tenta reconectar…"
+
+msgctxt "disconnected_try_now"
+msgid "Disconnected, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
+msgstr "Desconectado, <a href='javascript:void(0);' id='connect_trynow'>tenta novamente</a>."
+
+msgctxt "connecting_error"
+msgid "Connecting error, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
+msgstr "Erro ao conectar, <a href='javascript:void(0);' id='connect_trynow'>tenta novamente</a>."
+
+msgctxt "disconnected_attemping_to_connect"
+msgid "Disconnected, attempting to reconnect..."
+msgstr "Erro ao conectar, tenta reconectar…"
+
+msgctxt "online_status"
+msgid "I'm on Subiz"
+msgstr "Estou em Subiz"
+
+msgctxt "type_here_and_hit_enter_to_enter_chat"
+msgid "Type here and hit <enter> to chat"
+msgstr "Digita aqui e pressione Enter para conversar"
+
+msgctxt "start_typing_to_join_the_chat"
+msgid "Start typing to join the chat"
+msgstr "Começa a digitar aqui para entrar em chat "
+
+msgctxt "visitor_is_tvisitor_is_typing"
+msgid "is typing..."
+msgstr "Está a digitar…."
+
+msgctxt "visitor_label"
+msgid "Label"
+msgstr "Etiqueta"
+
+msgctxt "visitor_looking"
+msgid "Looking"
+msgstr "A ver"
+
+msgctxt "visitor_referrer"
+msgid "Referrer"
+msgstr "Referente"
+
+msgctxt "help_text_triggers"
+msgid "What is Trigger?"
+msgstr "O que é Trigger?"
+
+msgctxt "state-display-logo"
+msgid "Display logo"
+msgstr "Exibir logotipo"
+
+msgctxt "install_on_wordpress"
+msgstr "<a href="http://support.subiz.com/support/solutions/articles/76904-subiz-integration-guide-for-wordpress"><img src="https://static-dashboard.subiz.com/img/wordpress.png" alt=""></a>"
+
+msgctxt "install_on_shopify"
+msgstr "<a href="http://support.subiz.com/support/solutions/articles/3000007280-subiz-app-for-shopify"><img src="https://static-dashboard.subiz.com/img/shopify.png" alt=""></a>"
+
+msgctxt "install_on_magento"
+msgstr "<a href="http://support.subiz.com/support/solutions/articles/3000005415-subiz-plugins-for-magento"><img src="https://static-dashboard.subiz.com/img/magento.png" alt=""></a>"
+
+msgctxt "message_visitors_limit"
+msgid "Your account is registered as a free plan with the limit of 5 chat conversation at the same time. Click %s here %s to upgrade to a premium account."
+msgstr "A tua conta é a conta gratuita, limitando para ver só 5 visitantes ao mesmo tempo. Clica %s aqui %s para actualizar a tua conta."
+
+msgctxt "subiz_licence_id"
+msgid "Licence ID: "
+msgstr "Licença ID:"
+
+msgctxt "attemping_reconnect"
+msgid "Attemping reconnect..."
+msgstr "Tenta reconectar…"
+
+msgctxt "subscription_not_found"
+msgid "not found subscription"
+msgstr "Não achaste subscrição"
+
+msgctxt "subscription_downgrade_error"
+msgid "Downgrade error"
+msgstr "Erro em subscrição de rebaixamento"
+
+msgctxt "report_default"
+msgid "Select Triggers"
+msgstr "Selecionar Triggers"
+
+msgctxt "report_empty_data"
+msgid "Not found any data!"
+msgstr "Não foi encontrado nenhum dados!!"
+
+msgctxt "no_visitor"
+msgid "You have no visitor"
+msgstr "Tu não tens nenhum visitante"
+
+msgctxt "no_request_chat"
+msgid "You have no request chat"
+msgstr "Tu não tens nenhuma solicitação de chat"
+
+msgctxt "perform_test"
+msgid "Perform a test chat on the "
+msgstr "Prever as funções de chat em "
+
+msgctxt "type_and_chat"
+msgid "Type here and hit Enter to chat"
+msgstr "Digita aqui e pressiona Enter para conversar"
+
+msgctxt "to_install_subiz"
+msgid "To install Subiz, put this code on every page of your website just before the closing <b>&lt;/body&gt;</b> tags."
+msgstr "Para instalar Subiz, insere código embutido no final da etiqueta <b>&lt;body&gt;</b> em cada página do website"
+
+msgctxt "detail"
+msgid "View detail."
+msgstr "Ver detalhes."
+
+msgctxt "signed_another_device"
+msgid "Your account has been signed in on another device , <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
+msgstr "Tua conta foi assinada em outro dispositivo, <a href='javascript:void(0);' id='connect_trynow'>tenta agora</a>."
+
+msgctxt "agent_blocked"
+msgid "Oops ! There is a problem that prevents your agent from accessing to Dashboard. Please try again in 10 minutes."
+msgstr "Aviso! O teu agente não pode acessar temporariamente Dashboard. Tenta novamente em 10 minutos, por favor. Obrigado!"
+
+msgctxt "wait"
+msgid "Please wait a moment ..."
+msgstr "Espera um momento ..."
+
+msgctxt "f5_to_continue"
+msgid "Server connection time out. Press Ctrl + F5 to try again or check <a href='http://subiz.com/help/test' target='_blank'>Self-test page </a> to troubleshoot the problem."
+msgstr "Demora muito para conectar com o servidor, pressiona F5 para continuar."
+
+msgctxt "cannot_connect_socket"
+msgid "Press F5 to re-login. Please contact us if you receive this notice again !"
+msgstr "Pressiona F5 para entrar novamente. Depois de entrar novamente, se tu vês esta mensagem novamente, contacta-nos, por favor."
+
+msgctxt "aff_pending"
+msgid "Your account is waiting for approval, it may take up to 3 working days to activate account."
+msgstr "Tua conta está esperando para ser aprovada, vai demorar 2-3 dias para ativar a conta."
+
+msgctxt "verify_account"
+msgid "You have not yet verified your account. You have 24h to verify it, otherwise you will no longer be able to log in. <a href="#">Click here to resend a verification email</a>"
+msgstr "Tu ainda não verificaste a tua conta. Tu tens 24h para verificá-la, se não, tu não podes entrar no sistema.<a href="#">Clica aqui para receber e-mail de verificação.</a>"
+
+msgctxt "check_mail"
+msgid "Please check your email to activate your account."
+msgstr "Verifica teu email para ativar tua conta."
+
+msgctxt "agent_tool"
+msgid "Agent tools"
+msgstr "Ferramentas de agente"
+
+msgctxt "canned_responses"
+msgid "Canned responses"
+msgstr "Biblioteca das respostas"
+
+msgctxt "client_app"
+msgid "Client Apps"
+msgstr "Aplicativos de cliente"
+
+msgctxt "create_canned_responses"
+msgid "Create canned responses"
+msgstr "Criar as formas de respostas"
+
+msgctxt "tag"
+msgid "Tag"
+msgstr "Identificar"
+
+msgctxt "shortcut"
+msgid "Shortcut"
+msgstr "Atalho"
+
+msgctxt "function"
+msgid "Functions"
+msgstr "Função"
+
+msgctxt "enable"
+msgid "Enable"
+msgstr "Ativar"
+
+msgctxt "disable"
+msgid "Disable"
+msgstr "Desativar"
+
+msgctxt "package_allows"
+msgid "Package allows"
+msgstr "Pacote permitido"
+
+msgctxt "sure"
+msgid "Do you really want to DELETE this record?"
+msgstr "Tu queres realmente ELIMINAR este atalho de resposta?"
+
+msgctxt "shortcut_require"
+msgid "Shortcut is required."
+msgstr "Atalho é necessário."
+
+msgctxt "message_require"
+msgid "Message is required."
+msgstr "Mensagem não pode ser vazia."
+
+msgctxt "import"
+msgid "Import"
+msgstr "Importar"
+
+msgctxt "export"
+msgid "Export"
+msgstr "Exportar"
+
+msgctxt "upload_success"
+msgid "Import success."
+msgstr "Importaste."
+
+msgctxt "upload_invalid"
+msgid "File type is invalid."
+msgstr "Formato do ficheiro inválido"
+
+msgctxt "message_length"
+msgid "Message content must be less than 250 characters"
+msgstr "Conteúdo de mensagem não deve ser superior a 250 caracteres"
+
+msgctxt "canned_not_use"
+msgid "Canned response is not available for your package. Please upgrade to the standard or advance package to use the feature."
+msgstr "Esta função não está disponível para tua conta. Actualize tua conta para o pacote padrão ou avançado para usar esta função, por favor. "
+
+msgctxt "share_for_agent"
+msgid "Share"
+msgstr "Partilhar"
+
+msgctxt "guide_1"
+msgid "Filter your visitors based to categories: Active Visitors (default), Idle Visitors, Request chats - Visitors who are asking for helps and Labels."
+msgstr "Filtrar os teus visitantes de acordo com categorias: Visitantes ativos (padrão); visitantes inativos; pedidos de chat - O visitante está pedindo ajuda; e etiquetas."
+
+msgctxt "guide_2"
+msgid "List of visitors and their basic information. Each line shows one visitor online on your site. You can click on this line to see more information about the visitor."
+msgstr "Lista dos visitantes com as tuas informações. Cada linha é um visitante que está acessando o website. Tu podes clicar em um cliente para saber todas as informações dele ou conversar com ele."
+
+msgctxt "guide_3"
+msgid "Each button reveals one conversation. Switch the buttons to choose the conversation you want to chat."
+msgstr "Os botões representam cada conversa. Tu podes mudar os botões para escolher a conversa que tu queres."
+
+msgctxt "guide_4"
+msgid "This is chat widget where you chat with visitors. In chat widget, you can see the visitor's information and chat transcript."
+msgstr "Esta é a janela, onde tu podes conversar com os visitantes que acessam o seu website. Incluindo as informações detalhadas dos visitantes com os conteúdos de conversa."
+
+msgctxt "next_step"
+msgid "Next step"
+msgstr "Passo seguinte"
+
+msgctxt "or"
+msgid "or"
+msgstr "ou"
+
+msgctxt "skip_tutorial"
+msgid "Skip this tutorial"
+msgstr "Pular este tutorial"
+
+msgctxt "close_tutorial"
+msgid "Close tutorial"
+msgstr "Terminar"
+
+msgctxt "sign_up_now"
+msgid "Sign up now!"
+msgstr "Inscreve-te agora!"
+
+msgctxt "new_to_subiz"
+msgid "New to Subiz?"
+msgstr "Não tens conta ainda?"
+
+msgctxt "today"
+msgid "Today"
+msgstr "Hoje"
+
+msgctxt "yesterday"
+msgid "Yesterday"
+msgstr "Ontem"
+
+msgctxt "2_day_ago"
+msgid "2 days ago"
+msgstr "2 dias atrás"
+
+msgctxt "3_day_ago"
+msgid "3 days ago"
+msgstr "3 dias atrás"
+
+msgctxt "sound_config"
+msgid "Sound configuration"
+msgstr "configurações de sons"
+
+msgctxt "chat_request"
+msgid "Chat request"
+msgstr "Pedido de chat"
+
+msgctxt "new_message"
+msgid "New message"
+msgstr "Mensagem nova"
+
+msgctxt "sound_widget"
+msgid "Sound on widget"
+msgstr "Sons em janela de chat"
+
+msgctxt "sound_dashboard"
+msgid "Sound on dashboard"
+msgstr "Sons em dashboard"
+
+msgctxt "avatar_default"
+msgid "Default avatar"
+msgstr "Avatar padrão"
+
+msgctxt "chat_feature"
+msgid "Chat"
+msgstr "Chat"
+
+msgctxt "history_feature"
+msgid "History"
+msgstr "História"
+
+msgctxt "report_feature"
+msgid "Report"
+msgstr "Relatório"
+
+msgctxt "agent_feature"
+msgid "Agent"
+msgstr "Agente"
+
+msgctxt "department_feature"
+msgid "Department"
+msgstr "Departamento"
+
+msgctxt "chat_view_all"
+msgid "View all"
+msgstr "Ver tudo"
+
+msgctxt "history_view_all"
+msgid "View all"
+msgstr "Ver tudo"
+
+msgctxt "report_view_all"
+msgid "View all"
+msgstr "Ver tudo"
+
+msgctxt "full_permission"
+msgid "Full permission"
+msgstr "Todas as permissões"
+
+msgctxt "no_permission"
+msgid "You don't have permission to view this history"
+msgstr "Tu não tens permissão para ver esta história"
+
+msgctxt "vistior_endchat"
+msgid "The visitor ended chat"
+msgstr "O visitante terminou o chat "
+
+msgctxt "mes_end_chat"
+msgid "ended chat"
+msgstr "Terminaste o chat"
+
+msgctxt "no_permission_chat"
+msgid "You don't have permission to view this chat.<br /> This visitor is chatting with "
+msgstr "Tu não tens permissão para ver este Chat .<br /> Este visitante está conversando com"
+
+msgctxt "no_permission_report"
+msgid "You don't have permission to view this report"
+msgstr "Tu não tens permissão para ver este relatório"
+
+msgctxt "permission"
+msgid "Permissions"
+msgstr "Permissões"
+
+msgctxt "perm_group"
+msgid "Agent Type"
+msgstr "Tipo de agente"
+
+msgctxt "perm_group_select"
+msgid "Select agent type"
+msgstr "Selecionar tipo de agente"
+
+msgctxt "perm_intro"
+msgid "This feature helps you to manage module-level permissions for your agents."
+msgstr "Esta função te ajuda a descentralizar para os grupos de agentes"
+
+msgctxt "perm_edit"
+msgid "Edit"
+msgstr "Editar"
+
+msgctxt "perm_close"
+msgid "Close"
+msgstr "Fechar"
+
+msgctxt "perm_read_more"
+msgid "read more"
+msgstr "Ler mais"
+
+msgctxt "create_trigger"
+msgid "Create"
+msgstr "Criar"
+
+msgctxt "trigger_library"
+msgid "Triggers library"
+msgstr "Biblioteca Triggers"
+
+msgctxt "trigger_info"
+msgid "Triggers help you to send invitations / custom messages to pre-qualified leads"
+msgstr "Triggers te ajuda a enviar convites de chat, mensagens são instaladas para o clientes selecionados "
+
+msgctxt "user_trigger"
+msgid "Use this Trigger"
+msgstr "Usar este Trigger"
+
+msgctxt "cus_trigger"
+msgid "Customize Trigger"
+msgstr "Personalizar Trigger"
+
+msgctxt "trigger_select_con"
+msgid "Select condition"
+msgstr "Selecionar condição"
+
+msgctxt "trigger_select_action"
+msgid "Select action"
+msgstr "Selecionar ação"
+
+msgctxt "trigger_action"
+msgid "Action"
+msgstr "Acção"
+
+msgctxt "history_alert_package"
+msgid "This feature is limited in free version, %s upgrade now %s."
+msgstr "Tu estás a usar o o pacote <b>gratuito</b>, %s atualizar %s hoje para usar esta função."
+
+msgctxt "history_limit"
+msgid "500 conversation limit for each export."
+msgstr "Subiz limita no máximo 500 conversas em cada exportação."
+
+msgctxt "help_theme"
+msgid "Modify color, CSS, default avatar, logo, social media link. %s read more %s"
+msgstr "Personalizar css, cores, avatar padrão, logotipo, adicionando link da rede social. %s ver mais %s"
+
+msgctxt "help_lang"
+msgid "Choose the auto-detect mode or a certain language on chat widget, change the template sentences. %s read more %s"
+msgstr "Selecionar o modo de detecção automática ou um idioma determinado na janela de chat, alterando os modelos das sentenças. %s ver mais %s"
+
+msgctxt "help_chat_button"
+msgid "Make your chat widget more professional and attractive with Button chat and Bubble chat. %s read more %s"
+msgstr "Fazer janela de chat mais destaque com botão de chat e bolha de chat. %s ver mais %s"
+
+msgctxt "help_chat_survey"
+msgid "Enable this form for visitor to type their name, email, phone or choose department.<br /> %s read more %s"
+msgstr "Onde tu ativas a forma de pedido para clientes fornecer as informações antes de chat ou exibir departamento.<br /> %s ver mais %s"
+
+msgctxt "hepl_theme_title"
+msgid "Theme customization"
+msgstr "Personalizar tema"
+
+msgctxt "hepl_lang_title"
+msgid "Language customization"
+msgstr "Personalizar idioma"
+
+msgctxt "help_chat_button_title"
+msgid "Chat button customization"
+msgstr "Personalizar botão de chat"
+
+msgctxt "help_chat_survey_title"
+msgid "Chat survey customization"
+msgstr "Personalização de forma de levantamento"
+
+msgctxt "help_trigger_title"
+msgid "Create trigger"
+msgstr "Criar trigger"
+
+msgctxt "help_trigger"
+msgid "Trigger is a powerful tool that helps you to do some actions automatically such as: sending message to visitor, open chat window, label visitor based on set of conditions. %s read more %s"
+msgstr "Trigger é a ferramenta para te ajudar a classificar, identificar clientes especificamente e realizar as ações como: enviar automaticamente solicitação, enviar mensagem, inserir etiqueta nos clientes . %s ver mais %s"
+
+msgctxt "notification"
+msgid "Notification"
+msgstr "Notificação"
+
+msgctxt "notifications"
+msgid "Notifications"
+msgstr "Notificações"
+
+msgctxt "firefox_denied"
+msgid "You disabled desktop notification in your browser. <b>Open Tools > Page Info > Permissions</b> in Firefox and choose "Allow" in "Show Notifications" section. Then, refresh this page."
+msgstr "Tu desativaste a exibição de notificações na área do trabalho no teu navegador. <b>ferramenta > Informações da página > Permissão</b> Em Firefox seleciona "Permitir" em "Exibir notificações". Depois recarrega a página."
+
+msgctxt "chrome_denied"
+msgid "You disabled desktop notification in your browser. <b>Open Settings > Show advanced settings > Content settings</b> in Chrome and choose "Allow all sites to show desktop notifications". Then click "Manage exceptions..." to remove if https://dashboard.subiz.com is blocked, refresh this page."
+msgstr "Tu desativaste a exibição de notificações na área do trabalho no teu navegador. <b>Configurações  > Mostra configurações avançadas > Conteúdo de configurações </b>no Chrome e seleciona  "Permitir todos os sites para exibir notificações na área do trabalho". Depois clica "Gerenciar exceções..." se a página https://dashboard.subiz.com está bloqueada tu tens de apagar este link, actualizar esta página."
+
+msgctxt "safari_denied"
+msgid "You disabled desktop notification in your browser. <b>Choose Safari > Preferences, click Notifications </b>, and select Allow or Deny for the website whose notification permission you want to change."
+msgstr "Tu desativaste a exibição de notificações na área do trabalho no teu navegador. Seleciona Safari > Preferências, clicar Notificações, e seleciona Permitir ou Negar para os website que tu queres alterar permissão de exibição notificação."
+
+msgctxt "notification_default"
+msgid "You must enable desktop notifications in your browser."
+msgstr "Tu deves ativar notificação na área do trabalho."
+
+msgctxt "turn_on_notification"
+msgid "Turn on notifications"
+msgstr "Ativar notificações"
+
+msgctxt "notification_preview"
+msgid "Preview"
+msgstr "Prever"
+
+msgctxt "noti_request_chat"
+msgid "Request Chat"
+msgstr "Pedido de chat"
+
+msgctxt "noti_message"
+msgid "New message in chat"
+msgstr "Mensagem nova"
+
+msgctxt "noti_new_visitor"
+msgid "New visitor enters your website"
+msgstr "Visitante novo entra no teu website"
+
+msgctxt "noti_return_visitor"
+msgid "Returning visitor comes to your website"
+msgstr "Visitante regressa ao website"
+
+msgctxt "chat_request_title"
+msgid "Subiz live chat"
+msgstr "Subiz chat ao vivo"
+
+msgctxt "chat_request_body"
+msgid "You have new chat request"
+msgstr "Tu tens pedido novo de chat"
+
+msgctxt "new_message_title"
+msgid "Subiz live chat"
+msgstr "Subiz chat ao vivo"
+
+msgctxt "new_message_body"
+msgid "You have new message"
+msgstr "Tu tens mensagem nova"
+
+msgctxt "new_visitor_title"
+msgid "Subiz live chat"
+msgstr "Subiz chat ao vivo"
+
+msgctxt "new_visitor_body"
+msgid "You have new visitor"
+msgstr "Tu tens visitante novo"
+
+msgctxt "return_visitor_title"
+msgid "Subiz live chat"
+msgstr "Subiz chat ao vivo"
+
+msgctxt "return_visitor_body"
+msgid "You have return visitor"
+msgstr "Tem visitante regressou ao teu website."
+
+msgctxt "noti_timeout_note"
+msgid "This customization is only available for Chrome (Timeout in seconds, maximum 600. Set to zero to show until dismissed)"
+msgstr "Esta personalização é disponível apenas no Chrome (máximo 600 segundos, pões 0 para exibir até quando tu inativas notificação.)"
+
+msgctxt "noti_timeout"
+msgid "Notification time out"
+msgstr "Tempo de exibição de notificação"
+
+msgctxt "noti_config"
+msgid "Notification configuration"
+msgstr "Configurações de notificações"
+
+msgctxt "noti_second"
+msgid "second"
+msgstr "segundo"
+
+msgctxt "msg_delete_success"
+msgid "Delete successfully."
+msgstr "Eliminado com sucesso"
+
+msgctxt "until_you_cancel_account"
+msgid "until you cancel your account."
+msgstr "até que tu canceles a tua conta."
+
+msgctxt "select_code"
+msgid "Select code"
+msgstr "Selecionar código"
+
+msgctxt "embed_widget"
+msgid "Embed widget"
+msgstr "Código embutido"
+
+msgctxt "department_name"
+msgid "Department name"
+msgstr "Nome do departamento"
+
+msgctxt "history_disable"
+msgid "The feature has been temporarily disabled for optimization. Please %s contact us %s if you need any further assistance relating to chat history data"
+msgstr "Esta função está desativada para otimização, Desculpa por esta inconveniência. Por favor %s contacta-nos %s para obter histórico de chat."
+
+msgctxt "message_limit_60_chat"
+msgid "Your monthly conversation amount has been exceeded. Please <a href="http://subiz.com/landingpage/faqs-en/faqs.html?faq=64" target="_blank" >contact us </a> to continue"
+msgstr "Tempo de chat do pacote gratuito da tua conta acabou. Por favor <a href="http://subiz.com/landingpage/faqs/faqs.html?faq=66" target="_blank" >contacta-nos</a> para continuar"
+
+msgctxt "back"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "file-sharing"
+msgid "File sharing"
+msgstr "File sharing"
+
+msgctxt "enabled-for-agent"
+msgid "Enable for Agent"
+msgstr "Enable for Agent"
+
+msgctxt "enabled-for-visitor"
+msgid "Enable for Visitor"
+msgstr "Enable for Visitor"
+
+msgctxt "support-file-type"
+msgid "Supported files: "
+msgstr "Supported files: "
+
+msgctxt "number_agent"
+msgid "Number of Agents"
+msgstr "Number of Agents"
+
+msgctxt "next_payment_dua"
+msgid "Next payment due date"
+msgstr "Next payment due date"
+
+msgctxt "next_billing_date"
+msgid "Next billing date"
+msgstr "Next billing date"
+
+msgctxt "plan_billing"
+msgid "Plan & Billing"
+msgstr "Plan & Billing"
+
+msgctxt "your_plan"
+msgid "Your current package"
+msgstr "Your current package"
+
+msgctxt "view_invoice"
+msgid "View invoice"
+msgstr "View invoice"
+
+msgctxt "credit"
+msgid "Credit"
+msgstr "Credit"
+
+msgctxt "add_credit"
+msgid "Add credits"
+msgstr "Add credits"
+
+msgctxt "more"
+msgid "More options"
+msgstr "More options"
+
+msgctxt "update_payment_method"
+msgid "Update payment method"
+msgstr "Update payment method"
+
+msgctxt "all_invoice"
+msgid "Invoices"
+msgstr "Invoices"
+
+msgctxt "invoice"
+msgid "Invoice"
+msgstr "Invoice"
+
+msgctxt "total_dua"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "payment"
+msgid "Payment"
+msgstr "Payment"
+
+msgctxt "make_payment"
+msgid "Make payment"
+msgstr "Make payment"
+
+msgctxt "cancel_account"
+msgid "Cancel account"
+msgstr "Cancel account"
+
+msgctxt "term_of_use"
+msgid "Terms of use"
+msgstr "Terms of use"
+
+msgctxt "faq"
+msgid "FAQ"
+msgstr "FAQ"
+
+msgctxt "sub_support"
+msgid "support"
+msgstr "support"
+
+msgctxt "current_billing_cycle"
+msgid "Current billing cycle"
+msgstr "Current billing cycle"
+
+msgctxt "sub_save"
+msgid "save"
+msgstr "save"
+
+msgctxt "last_bill"
+msgid "Last billed on"
+msgstr "Last billed on"
+
+msgctxt "using_trial"
+msgid "You are using a free trial of the Standard plan with 100 agents. Your account will expire on"
+msgstr "You are using a free trial of the Standard plan with 100 agents. Your account will expire on"
+
+msgctxt "you_will_have"
+msgid "You will have"
+msgstr "You will have"
+
+msgctxt "account_credit"
+msgid "Credits"
+msgstr "Credits"
+
+msgctxt "you_need_pay"
+msgid "You will pay"
+msgstr "You will pay"
+
+msgctxt "auto_renew"
+msgid "Automatic Renewal"
+msgstr "Automatic Renewal"
+
+msgctxt "auto_renew_content"
+msgid "For your convenience, subscription will be automatically renewed when the current one ends. You can stop the automatic renewal at any time."
+msgstr "For your convenience, subscription will be automatically renewed when the current one ends. You can stop the automatic renewal at any time."
+
+msgctxt "Upgrade_downgrade"
+msgid "Upgrade/Dowgrade!"
+msgstr "Upgrade/Dowgrade!"
+
+msgctxt "Upgrade_downgrade_content"
+msgid "Enjoy the flexibility of our billing system. Upgrade, downgrade, add / reduce agents, change billing cycle whenever you want."
+msgstr "Enjoy the flexibility of our billing system. Upgrade, downgrade, add / reduce agents, change billing cycle whenever you want."
+
+msgctxt "sub_compare_plan"
+msgid "Compare plans"
+msgstr "Compare plans"
+
+msgctxt "sub_current_plan"
+msgid "Your current plan"
+msgstr "Your current plan"
+
+msgctxt "sub_standard_price"
+msgid "$9.59 per agent / month"
+msgstr "$9.59 per agent / month"
+
+msgctxt "sub_advanced_price"
+msgid "$16.8 per agent / month"
+msgstr "$16.8 per agent / month"
+
+msgctxt "subscription_title_changeplan"
+msgid "Subscription change plan"
+msgstr "Subscription change plan"
+
+msgctxt "subscription_upgrade_advanced"
+msgid "Upgrade to Advanced Plan"
+msgstr "Upgrade to Advanced Plan"
+
+msgctxt "subscription_add_credit_title"
+msgid "Redeem promotion code"
+msgstr "Redeem promotion code"
+
+msgctxt "subscription_add_credit_promotion_code"
+msgid "Promotion code"
+msgstr "Promotion code"
+
+msgctxt "subscription_add_credit_promotion_error"
+msgid "The promotion code you entered is not valid"
+msgstr "The promotion code you entered is not valid"
+
+msgctxt "subscription_add_credit_promotion_error2"
+msgid "The promotion code could not be empty"
+msgstr "The promotion code could not be empty"
+
+msgctxt "subscription_add_credit_promotion_continue"
+msgid "Continue"
+msgstr "Continue"
+
+msgctxt "subscription_add_credit_promotion_redeem"
+msgid "Redeem"
+msgstr "Redeem"
+
+msgctxt "subscription_title_free"
+msgid "Subscription Free"
+msgstr "Subscription Free"
+
+msgctxt "subscription_redirect_fastpring"
+msgid "Redirecting to FastPring to complete transaction..."
+msgstr "Redirecting to FastPring to complete transaction..."
+
+msgctxt "subscription_active_pmt_method_success"
+msgid "Make primary successfully"
+msgstr "Make primary successfully"
+
+msgctxt "subscription_active_pmt_method_error"
+msgid "Make primary error"
+msgstr "Make primary error"
+
+msgctxt "subscription_active_pmt_method_cash_success"
+msgid "Active payment method successfully"
+msgstr "Active payment method successfully"
+
+msgctxt "subscription_active_pmt_method_cash_error"
+msgid "Active payment method error"
+msgstr "Active payment method error"
+
+msgctxt "subscription_notice_choose_least_invoice"
+msgid "Please choose at least one invoice"
+msgstr "Please choose at least one invoice"
+
+msgctxt "subscription_not_enough_credit"
+msgid "Not enough credit"
+msgstr "Not enough credit"
+
+msgctxt "subscription_notice_setprimary_method"
+msgid "Please set primary payment method"
+msgstr "Please set primary payment method"
+
+msgctxt "subscription_notice_active_method"
+msgid "Please active payment method"
+msgstr "Please active payment method"
+
+msgctxt "condition_fastspring_not_true"
+msgid "Your request could not be processed at this time. Please visit FAQ or chat with us for more detail"
+msgstr "Your request could not be processed at this time. Please visit FAQ or chat with us for more detail"
+
+msgctxt "pay_invoices_failure"
+msgid "Transaction failed. Please update payment method"
+msgstr "Transaction failed. Please update payment method"
+
+msgctxt "pay_success"
+msgid "Successful payment"
+msgstr "Successful payment"
+
+msgctxt "pay_error"
+msgid "Error payment"
+msgstr "Error payment"
+
+msgctxt "add_credit_success"
+msgid "Add credit successfully"
+msgstr "Add credit successfully"
+
+msgctxt "payment_method"
+msgid "Payment Methods"
+msgstr "Payment Methods"
+
+msgctxt "credit_card"
+msgid "Credit card"
+msgstr "Credit card"
+
+msgctxt "payment_primary"
+msgid "Default"
+msgstr "Default"
+
+msgctxt "payment_active"
+msgid "Active"
+msgstr "Active"
+
+msgctxt "payment_bk_transfer"
+msgid "Bank transfer"
+msgstr "Bank transfer"
+
+msgctxt "payment_make_primary"
+msgid "Make default"
+msgstr "Make default"
+
+msgctxt "payment_q1"
+msgid "Can I change package at any time ?"
+msgstr "Can I change package at any time ?"
+
+msgctxt "payment_q2"
+msgid "How can I change the payment's information like my credit card...?"
+msgstr "How can I change the payment's information like my credit card...?"
+
+msgctxt "sub_success"
+msgid "Successfully"
+msgstr "Successfully"
+
+msgctxt "sub_error"
+msgid "Error"
+msgstr "Error"
+
+msgctxt "sub_confirm_downgrade"
+msgid "Do you want to downgrade account?"
+msgstr "Do you want to downgrade account?"
+
+msgctxt "sub_confirm_cancelacc"
+msgid "Do you want to cancel account?"
+msgstr "Do you want to cancel account?"
+
+msgctxt "sub_total"
+msgid "Sub Total"
+msgstr "Sub Total"
+
+msgctxt "sub_credit"
+msgid "Credits"
+msgstr "Credits"
+
+msgctxt "total_payment"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "history_tag"
+msgid "Tag"
+msgstr "Tag"
+
+msgctxt "brazilian_portuguese"
+msgid "Brasil"
+msgstr "Português Brasil"
+
+msgctxt "tags"
+msgid "Tags"
+msgstr "Tags"
+
+msgctxt "tag_name"
+msgid "Tag name"
+msgstr "Tag name"
+
+msgctxt "add_tag"
+msgid "Add tag"
+msgstr "Add tag"
+
+msgctxt "add_a_tag"
+msgid "Add a tag"
+msgstr "Add a tag"
+
+msgctxt "tag_setting"
+msgid "Tag setting"
+msgstr "Tag setting"
+
+msgctxt "learn_more..."
+msgid "Learn more..."
+msgstr "Learn more..."
+
+msgctxt "tags_let_you_categorize_your_chats"
+msgid "Tags let you categorize your chats"
+msgstr "Tags let you categorize your chats"
+
+msgctxt "added_this_tag_on"
+msgid "added this tag on"
+msgstr "added this tag on"
+
+msgctxt "create_new_tag_successful"
+msgid "Create new tag successfully"
+msgstr "Create new tag successfully"
+
+msgctxt "create_new_tag_fail"
+msgid "Create new tag failed"
+msgstr "Create new tag failed"
+
+msgctxt "delete_tag_successful"
+msgid "Delete tag successfully"
+msgstr "Delete tag successfully"
+
+msgctxt "delete_tag_fail"
+msgid "Delete tag failed"
+msgstr "Delete tag failed"
+
+msgctxt "assign_tag_successful"
+msgid "Assign tag successfully"
+msgstr "Assign tag successfully"
+
+msgctxt "assign_tag_fail"
+msgid "Assign tag failed"
+msgstr "Assign tag failed"
+
+msgctxt "report_tags"
+msgid "Report Tags"
+msgstr "Report Tags"
+
+msgctxt "total_conversation"
+msgid "Total conversation"
+msgstr "Total conversation"
+
+msgctxt "system_end_chat"
+msgid "Chat ended automatically."
+msgstr "Chat ended automatically."
+
+msgctxt "file_send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "file_cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "file_can_upload"
+msgid "Files to upload"
+msgstr "Files to upload"
+
+msgctxt "file_cannot_upload"
+msgid "Unsupported file types can't be uploaded"
+msgstr "Unsupported file types can't be uploaded"
+
+msgctxt "file_upload_failed"
+msgid "Upload failed"
+msgstr "Upload failed"
+
+msgctxt "login"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "sign_up"
+msgid "Sign Up"
+msgstr "Sign Up"
+
+msgctxt "the_system_is_currently_being_upgraded"
+msgid "The system is currently being upgraded"
+msgstr "The system is currently being upgraded"
+
+msgctxt "your_browser_will_automatically_refresh_after"
+msgid "Your browser will automatically refresh after:"
+msgstr "Your browser will automatically refresh after:"
+
+msgctxt "seconds"
+msgid "seconds"
+msgstr "seconds"
+
+msgctxt "message_too_long"
+msgid "Message is too long, please shorten it and try send."
+msgstr "Message is too long, please shorten it and try send."
+
+msgctxt "server_error"
+msgid "The Dashboard could not be connected. Please check %s Self-test page %s to troubleshoot the problem and contact us!"
+msgstr "Could not connect to server. Please contact us!"
+
+msgctxt "desc_trigger_lib1"
+msgid "Trigger will recognize all visitors who have never come to your website before and invite chat"
+msgstr ""
+
+msgctxt "you_need_payment_in"
+msgid "If you want to transfer the amount of %s, please transfer it to the following bank account:"
+msgstr ""
+
+msgctxt "name_card"
+msgid "Account name"
+msgstr ""
+
+msgctxt "number_card"
+msgid "Account number"
+msgstr ""
+
+msgctxt "bank_name"
+msgid "Bank"
+msgstr ""
+
+msgctxt "description_pay"
+msgid "Remark: <strong>Transfer payment for account %s</strong>"
+msgstr ""
+
+msgctxt "subiz_will_update_after_payment"
+msgid " Any payments that have been transfered successfully will receive email confirmations from Subiz. Please %s contact us %s if you have any further questions"
+msgstr ""
+
+msgctxt "help"
+msgid "Help"
+msgstr ""
+
+msgctxt "let_write_vat"
+msgid "Request VAT invoice"
+msgstr ""
+
+msgctxt "extension_of_service"
+msgid "Renew your subscription?"
+msgstr ""
