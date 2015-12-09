@@ -5,9 +5,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-08 04:15+0000\n"
 "PO-Revision-Date: 2015-12-08 05:39+0000\n"
-"Last-Translator: Tin Vu <minhtinit@gmail.com>\n"
+"Last-Translator: Tin Vu <tinvu@vietnambiz.com>\n"
 "Language-Team: \n"
-"Language: vi-Vn\n"
+"Language: id-ID\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,51 +23,55 @@ msgstr ""
 
 msgctxt "edit"
 msgid "Edit"
-msgstr "Sửa"
+msgstr "Edit"
 
 msgctxt "save-change"
 msgid "Save change"
-msgstr "Lưu thay đổi"
+msgstr "Save change"
 
 msgctxt "reset"
 msgid "Reset"
-msgstr "Khôi phục lại cài đặt gốc"
+msgstr "Reset"
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Cancel"
 
 msgctxt "status"
 msgid "Status"
-msgstr "Trạng thái"
+msgstr "Status"
 
 msgctxt "save"
 msgid "Save"
-msgstr "Lưu"
+msgstr "Save"
 
 msgctxt "close"
 msgid "Close"
-msgstr "Đóng"
+msgstr "Close"
 
 msgctxt "delete"
 msgid "Delete"
-msgstr "Xóa"
+msgstr "Delete"
+
+msgctxt "back"
+msgid "Back"
+msgstr "Back"
 
 msgctxt "search"
 msgid "Search"
-msgstr "Tìm kiếm"
+msgstr "Search"
 
 msgctxt "keyword"
 msgid "Keyword"
-msgstr "Từ khóa"
+msgstr "Keyword"
 
 msgctxt "find"
 msgid "Find now"
-msgstr "Tìm kiếm"
+msgstr "Find now"
 
 msgctxt "and"
 msgid "and"
-msgstr "và"
+msgstr "and"
 
 msgctxt "show-me"
 msgid "Show me"
@@ -75,19 +79,19 @@ msgstr "Show me"
 
 msgctxt "agents"
 msgid "Agents"
-msgstr "Agent"
+msgstr "Agents"
 
 msgctxt "department"
 msgid "Departments"
-msgstr "Bộ phận"
+msgstr "Departments"
 
 msgctxt "add-more-agents"
 msgid "Add more agents"
-msgstr "Thêm agent"
+msgstr "Add more agents"
 
 msgctxt "search-agents"
 msgid "Search agents"
-msgstr "Tìm kiếm agent"
+msgstr "Search agents"
 
 msgctxt "email"
 msgid "Email"
@@ -95,55 +99,55 @@ msgstr "Email"
 
 msgctxt "user-name"
 msgid "User name"
-msgstr "Tên đăng nhập"
+msgstr "User name"
 
 msgctxt "member-of-department"
 msgid "Member of department"
-msgstr "Nhân viên của Bộ phận"
+msgstr "Member of department"
 
 msgctxt "last-loged"
 msgid "Last login"
-msgstr "Lần đăng nhập cuối"
+msgstr "Last login"
 
 msgctxt "type"
 msgid "Type"
-msgstr "Loại"
+msgstr "Type"
 
 msgctxt "last-7-days"
 msgid "Last 7 days"
-msgstr "7 ngày vừa qua"
+msgstr "Last 7 days"
 
 msgctxt "delete-agent"
 msgid "Delete agent"
-msgstr "Xóa Agent"
+msgstr "Delete agent"
 
 msgctxt "change-password"
 msgid "Change password"
-msgstr "Thay đổi mật khẩu"
+msgstr "Change password"
 
 msgctxt "archived-that"
 msgid "Archived that will not be removed, but all statistics will be lost."
-msgstr "Tất cả thông tin lưu trữ không bị xóa. Nhưng dữ liệu thống kế thì mất."
+msgstr "Archived that will not be removed, but all statistics will be lost."
 
 msgctxt "delete-this-account"
 msgid "Delete this account"
-msgstr "Xóa tài khoản"
+msgstr "Delete this account"
 
 msgctxt "change-avatar"
 msgid "Change avatar"
-msgstr "Thay ảnh đại diện"
+msgstr "Change avatar"
 
 msgctxt "name"
 msgid "Name"
-msgstr "Tên"
+msgstr "Name"
 
 msgctxt "password"
 msgid "Password"
-msgstr "Mật khẩu"
+msgstr "Password"
 
 msgctxt "retype-password"
 msgid "Retype password"
-msgstr "Gõ lại mật khẩu mới"
+msgstr "Retype password"
 
 msgctxt "normal"
 msgid "Normal"
@@ -155,175 +159,175 @@ msgstr "Administrator"
 
 msgctxt "enter-your-current-pass"
 msgid "Enter your current password to confirm to identity"
-msgstr "Gõ mật khẩu hiện tại để xác nhận"
+msgstr "Enter your current password to confirm to identity"
 
 msgctxt "your-password"
 msgid "Your password"
-msgstr "Mật khẩu hiện tại"
+msgstr "Your password"
 
 msgctxt "new-password"
 msgid "New password"
-msgstr "Mật khẩu mới "
+msgstr "New password"
 
 msgctxt "job-title"
 msgid "Job title"
-msgstr "Vị trí công việc"
+msgstr "Job title"
 
 msgctxt "msg-agent-type"
 msgid "Type is required!"
-msgstr "Yêu cầu nhập loại agent!"
+msgstr "Type is required!"
 
 msgctxt "ms-agent-success"
 msgid "Update agent information successfully"
-msgstr "Cập nhật thông tin agent thành công"
+msgstr "Update agent information successfully"
 
 msgctxt "msg_agent_create_success"
 msgid "Create agent successfully"
-msgstr "Tạo agent thành công"
+msgstr "Create agent successfully"
 
 msgctxt "msg-agent-something"
 msgid "Something went wrong"
-msgstr "Đã có lỗi xảy ra"
+msgstr "Something went wrong"
 
 msgctxt "msg_agent_name_invalid"
 msgid "Name invalid!"
-msgstr "Tên không hợp lệ!"
+msgstr "Name invalid!"
 
 msgctxt "msg_agent_name_null"
 msgid "Name is required!"
-msgstr "Tên không được trống!"
+msgstr "Name is required!"
 
 msgctxt "msg_agent_email_null"
 msgid "Email is required!"
-msgstr "Email không được trống!"
+msgstr "Email is required!"
 
 msgctxt "msg_agent_username_null"
 msgid "Username is required!"
-msgstr "Tên đăng nhập không được trống!"
+msgstr "Username is required!"
 
 msgctxt "msg_agent_username_condition"
 msgid "Username only contains lowercase letter and numbers with 6 characters in minimum,starting with letters is required."
-msgstr "Tên đăng nhập chỉ bao gồm chữ thường và số, độ dài từ 6 kí tự trở lên và bắt đầu bằng chữ!"
+msgstr "Username only contains lowercase letter and numbers with 6 characters in minimum,starting with letters is required."
 
 msgctxt "msg_agent_pass_null"
 msgid "Password is required!"
-msgstr "Password không được trống!"
+msgstr "Password is required!"
 
 msgctxt "msg_agent_repass_null"
 msgid "Retype password is required!"
-msgstr "Retype không được trống!"
+msgstr "Retype password is required!"
 
 msgctxt "msg_agent_job_null"
 msgid "Job title is required!"
-msgstr "Vị trí công việc không được trống!"
+msgstr "Job title is required!"
 
 msgctxt "msg_agent_email_invalid"
 msgid "Email invalid!"
-msgstr "Email không hợp lệ!"
+msgstr "Email invalid!"
 
 msgctxt "msg_agent_username_invalid"
 msgid "Username invalid!"
-msgstr "Tên đăng nhập không hợp lệ!"
+msgstr "Username invalid!"
 
 msgctxt "msg_agent_pass_invalid"
 msgid "Password invalid!"
-msgstr "Mật khẩu không hợp lệ!"
+msgstr "Password invalid!"
 
 msgctxt "msg_agent_pass_false"
 msgid "Password must contain more than 5 characters!"
-msgstr "Mật khẩu phải nhiều hơn 5 ký tự!"
+msgstr "Password must contain more than 5 characters!"
 
 msgctxt "msg_agent_repass_invalid"
 msgid "Retype password invalid!"
-msgstr "Mật khẩu gõ lại không đúng"
+msgstr "Retype password invalid!"
 
 msgctxt "msg_agent_repass_false"
 msgid "Retype password must equal to new password!"
-msgstr "Mật khẩu không giống nhau!"
+msgstr "Retype password must equal to new password!"
 
 msgctxt "msg_agent_job_invalid"
 msgid "Job title invalid!"
-msgstr "Vị trí công việc không hợp lệ!"
+msgstr "Job title invalid!"
 
 msgctxt "msg_agent_email_exit"
 msgid "Email already exists!"
-msgstr "Email đã tồn tại!"
+msgstr "Email already exists!"
 
 msgctxt "msg_agent_username_exit"
 msgid "Username already exists!"
-msgstr "Tên đăng nhập đã tồn tại!"
+msgstr "Username already exists!"
 
 msgctxt "msg_agent_pass_requi"
 msgid "Your password is required!"
-msgstr "Xin vui lòng nhập mật khẩu!"
+msgstr "Your password is required!"
 
 msgctxt "msg_agent_newpass_requi"
 msgid "New password is required!"
-msgstr "Xin vui lòng nhập mật khẩu mới!"
+msgstr "New password is required!"
 
 msgctxt "msg_agent_newpass_false"
 msgid "New password must contain more than 5 characters!"
-msgstr "Mật khẩu mới phải nhiều hơn 5 ký tự!"
+msgstr "New password must contain more than 5 characters!"
 
 msgctxt "msg_agent_repass_requi"
 msgid "Retype password is required!"
-msgstr "Xin vui lòng nhập lại mật khẩu!"
+msgstr "Retype password is required!"
 
 msgctxt "msg_agent_repass_not_equal"
 msgid "Retype password must equal to new password!"
-msgstr "Mật khấu phải giống nhau!"
+msgstr "Retype password must equal to new password!"
 
 msgctxt "msg_agent_changepass_success"
 msgid "Change password successfully"
-msgstr "Thay đổi mật khẩu thành công"
+msgstr "Change password successfully"
 
 msgctxt "msg_agent_delete_success"
 msgid "Delete agent successfully"
-msgstr "Xóa agent thành công"
+msgstr "Delete agent successfully"
 
 msgctxt "msg_upload_file_type"
 msgid "File type is invalid ( accept file type: jpg, png, gif, jpeg )"
-msgstr "Định dạng file không hợp lệ ( chấp nhận định dạng: jpg, png, gif, jpeg )"
+msgstr "File type is invalid ( accept file type: jpg, png, gif, jpeg )"
 
 msgctxt "msg_upload_file_size"
 msgid "File size must not exceed 50kb!"
-msgstr "Kích cỡ file không vượt quá 50kb!"
+msgstr "File size must not exceed 50kb!"
 
 msgctxt "msg_upload_file_name"
 msgid "You must input username before upload avatar!"
-msgstr "Xin vui lòng cung cấp tên đăng nhập trước khi tải hình đại diện!"
+msgstr "You must input username before upload avatar!"
 
 msgctxt "msg_upload_error"
 msgid "Upload error!"
-msgstr "Tải lên bị lỗi!"
+msgstr "Upload error!"
 
 msgctxt "msg_agent_invalid"
 msgid "Agents invalid!"
-msgstr "Agent không hợp lệ!"
+msgstr "Agents invalid!"
 
 msgctxt "msg_update_depart_success"
 msgid "Update department successfully"
-msgstr "Cập nhật thành công"
+msgstr "Update department successfully"
 
 msgctxt "msg_create_depart_success"
 msgid "Create department successfully"
-msgstr "Khởi tạo thành công"
+msgstr "Create department successfully"
 
 msgctxt "msg_name_exit"
 msgid "Name already exists!"
-msgstr "Tên Bộ phận bị trùng!"
+msgstr "Name already exists!"
 
 msgctxt "msg_delete_depart_success"
 msgid "Delete department successfully"
-msgstr "Xóa Bộ phận thành công"
+msgstr "Delete department successfully"
 
 msgctxt "add_more_department"
 msgid "Add more department"
-msgstr "Thêm Bộ phận"
+msgstr "Add more department"
 
 msgctxt "add_department"
 msgid "Add department"
-msgstr "Thêm Bộ phận"
+msgstr "Add department"
 
 msgctxt "away"
 msgid "Away"
@@ -339,56 +343,55 @@ msgstr "Available"
 
 msgctxt "delete_this_department"
 msgid "Delete this department"
-msgstr "Xóa Bộ phận"
+msgstr "Delete this department"
 
 msgctxt "archived_that_will"
 msgid "Archived that will not be removed, but all statistics will be lost"
-msgstr "Lịch sử Chat không bị xóa, nhưng thống kê sẽ bị mất"
+msgstr "Archived that will not be removed, but all statistics will be lost"
 
 msgctxt "member"
 msgid "Member"
-msgstr "Thành viên"
+msgstr "Member"
 
 msgctxt "enter-many-email"
 msgid "Enter various e-mail addresses separated with a comma to allow visitors to send you message when you are offline."
-msgstr "Điền địa chỉ email để nhận tin nhắn offline (các địa chỉ email ngăn cách bởi dấu phẩy)"
+msgstr "Enter various e-mail addresses separated with a comma to allow visitors to send you message when you are offline."
 
 msgctxt "receive-offline-message"
 msgid "Receive offline message"
-msgstr "Nhận tin nhắn offline"
+msgstr "Receive offline message"
 
 msgctxt "you-can-enter-many-email"
 msgid "<p>You can enter various e-mail addresses separated with a comma</p><p>e.g: someone@example.com, someone@example.com </p>"
-msgstr "<p>Bạn có thể nhập nhiều địa chỉ email (được ngăn cách nhau bởi dấu phẩy)</p>
-                                    <p>ví dụ: someone@example.com, someone@example.com </p>"
+msgstr "<p>You can enter various e-mail addresses separated with a comma</p><p>e.g: someone@example.com, someone@example.com </p>"
 
 msgctxt "send-all-chat-transcript-to-emaile"
 msgid "Send all chat transcript to e-mail"
-msgstr "Gửi chat transcript qua email"
+msgstr "Send all chat transcript to e-mail"
 
 msgctxt "general-settings"
 msgid "General Settings"
-msgstr "Cài đặt chung"
+msgstr "General Settings"
 
 msgctxt "chat-widget"
 msgid "Chat widget"
-msgstr "Cửa sổ chat"
+msgstr "Chat widget"
 
 msgctxt "theme"
 msgid "Theme"
-msgstr "Giao diện"
+msgstr "Theme"
 
 msgctxt "language"
 msgid "Language"
-msgstr "Ngôn ngữ"
+msgstr "Language"
 
 msgctxt "chat-button"
 msgid "Chat Button"
-msgstr "Chat button"
+msgstr "Chat Button"
 
 msgctxt "chat-survey"
 msgid "Chat Survey"
-msgstr "Form khảo sát"
+msgstr "Chat Survey"
 
 msgctxt "triggers"
 msgid "Triggers"
@@ -396,71 +399,71 @@ msgstr "Triggers"
 
 msgctxt "installations"
 msgid "Installations"
-msgstr "Tích hợp"
+msgstr "Installations"
 
 msgctxt "chat-windows-online"
 msgid "Chat windows Online"
-msgstr "Cửa sổ chat online"
+msgstr "Chat windows Online"
 
 msgctxt "chat-windows-offline"
 msgid "Chat windows Offline"
-msgstr "Cửa sổ chat offline"
+msgstr "Chat windows Offline"
 
 msgctxt "button-online"
 msgid "Button online"
-msgstr "Tiêu đề online"
+msgstr "Button online"
 
 msgctxt "button-offline"
 msgid "Button offline"
-msgstr "Tiêu đề offline"
+msgstr "Button offline"
 
 msgctxt "customize"
 msgid "Customize"
-msgstr "Tùy chỉnh"
+msgstr "Customize"
 
 msgctxt "custome-css"
 msgid "Customize css"
-msgstr "Tùy chỉnh CSS"
+msgstr "Customize css"
 
 msgctxt "add-your-own-css"
 msgid "Add your own CSS rules. For typical customizations visit our %s Knowledge base %s."
-msgstr "Bạn có thể chỉnh sửa CSS. Để được hướng dẫn cụ thể hơn, truy cập %s Trung tâm hỗ trợ %s."
+msgstr "Add your own CSS rules. For typical customizations visit our %s Knowledge base %s."
 
 msgctxt "social"
 msgid "Social"
-msgstr "Mạng xã hội"
+msgstr "Social"
 
 msgctxt "change-logo"
 msgid "Change logo"
-msgstr "Thay logo"
+msgstr "Change logo"
 
 msgctxt "msg_setting_transcript_mail"
 msgid "Transcript to e-mail or receive offline message is required!"
-msgstr "Địa chỉ nhận transcript hoặc tin nhắn offline (bắt buộc)!"
+msgstr "Transcript to e-mail or receive offline message is required!"
 
 msgctxt "email_address"
 msgid "Email address"
-msgstr "Địa chỉ Email"
+msgstr "Email address"
 
 msgctxt "invalid"
 msgid "invalid"
-msgstr "Không hợp lệ"
+msgstr "invalid"
 
 msgctxt "all_changes_saved"
 msgid "All changes saved"
-msgstr "Mọi thay đổi đã được lưu"
+msgstr "All changes saved"
 
 msgctxt "msg_save_change_error"
 msgid "Save change error!"
-msgstr "Lỗi! Lưu không thành công"
+msgstr "Save change error!"
 
 msgctxt "show-sample-code"
 msgid "Show sample code"
-msgstr "Hiện mẫu code css"
+msgstr "Show sample code"
 
 msgctxt "edit_contact_details"
 msgid "Edit Contact Details"
-msgstr "Thay đổi thông tin liên lạc"
+msgstr "Edit Contact Details"
 
 msgctxt "visitor"
 msgid "Visitor"
@@ -468,135 +471,135 @@ msgstr "Visitor"
 
 msgctxt "msg_sample_code"
 msgid "Sample code empty!"
-msgstr "Mẫu code css hiện trống!"
+msgstr "Sample code empty!"
 
 msgctxt "msg_can_not_open_file"
 msgid "Can not open file!"
-msgstr "Không thể mở được file!"
+msgstr "Can not open file!"
 
 msgctxt "msg_save_cust_error"
 msgid "Save change customize css error!"
-msgstr "Lỗi! Lưu không thành công"
+msgstr "Save change customize css error!"
 
 msgctxt "msg_write_file_error"
 msgid "Write file css error!"
-msgstr "Lỗi! Lưu không thành công"
+msgstr "Write file css error!"
 
 msgctxt "english-is-default-lanfuage"
 msgid "English is default language"
-msgstr "Tiếng Anh sẽ là ngôn ngữ mặc định"
+msgstr "English is default language"
 
 msgctxt "welcome-to-subiz"
 msgid "Welcome to Subiz"
-msgstr "Chào mừng đến với Subiz"
+msgstr "Welcome to Subiz"
 
 msgctxt "supporter"
 msgid "Supporter"
-msgstr "Tư vấn trực tuyến"
+msgstr "Supporter"
 
 msgctxt "ask-us-anything"
 msgid "Ask us anything"
-msgstr "Sẵn sàng hỗ trợ"
+msgstr "Ask us anything"
 
 msgctxt "type-your-messange-here"
 msgid "Type your message here"
-msgstr "Để lại tin nhắn ở đây"
+msgstr "Type your message here"
 
 msgctxt "send-us-a-message"
 msgid "Send us a message"
-msgstr "Gửi tin nhắn cho chúng tôi"
+msgstr "Send us a message"
 
 msgctxt "sorry-we-are"
 msgid "Sorry, we aren't online at the moment. Leave a message and we'll get back to you."
-msgstr "Xin lỗi, hiện tại chúng tôi không online. Xin vui lòng để lại tin nhắn, chúng tôi sẽ liên hệ với bạn sau"
+msgstr "Sorry, we aren't online at the moment. Leave a message and we'll get back to you."
 
 msgctxt "rate_good"
 msgid "Good"
-msgstr "Tốt"
+msgstr "Good"
 
 msgctxt "rate-as-good"
 msgid "Rate as good"
-msgstr "Đánh giá tốt"
+msgstr "Rate as good"
 
 msgctxt "rate-as-bad"
 msgid "Rate as bad"
-msgstr "Đánh giá không tốt"
+msgstr "Rate as bad"
 
 msgctxt "supporter-is-typing"
 msgid "Supporter is typing"
-msgstr "Nhân viên hỗ trợ đang nhập câu trả lời"
+msgstr "Supporter is typing"
 
 msgctxt "option"
 msgid "Option"
-msgstr "Lựa chọn"
+msgstr "Option"
 
 msgctxt "sound"
 msgid "Sound"
-msgstr "Âm thanh"
+msgstr "Sound"
 
 msgctxt "email-transcript"
 msgid "Email Transcript"
-msgstr "Email transcript"
+msgstr "Email Transcript"
 
 msgctxt "contact-details"
 msgid "Contact Details"
-msgstr "Thông tin liên lạc"
+msgstr "Contact Details"
 
 msgctxt "end-this-chat"
 msgid "End This Chat"
-msgstr "Kết thúc cuộc trò chuyện"
+msgstr "End This Chat"
 
 msgctxt "message"
 msgid "Message"
-msgstr "Tin nhắn"
+msgstr "Message"
 
 msgctxt "name-help"
 msgid "Your name"
-msgstr "Tên của bạn"
+msgstr "Your name"
 
 msgctxt "email-help"
 msgid "email@gmail.com"
-msgstr "abcxyz@gmail.com"
+msgstr "email@gmail.com"
 
 msgctxt "phone-help"
 msgid "Phone number"
-msgstr "Số điện thoại"
+msgstr "Phone number"
 
 msgctxt "send-email"
 msgid "Send email"
-msgstr "Gửi email"
+msgstr "Send email"
 
 msgctxt "we-hope"
 msgid "We hope we've answered your queries. Are you ready to end this chat now?"
-msgstr "Hi vọng câu trả lời trên đáp ứng yêu cầu của bạn. Bạn muốn làm gì tiếp theo?"
+msgstr "We hope we've answered your queries. Are you ready to end this chat now?"
 
 msgctxt "end-chat"
 msgid "End Chat"
-msgstr "Kết thúc trò chuyện"
+msgstr "End Chat"
 
 msgctxt "not-yet"
 msgid "Not Yet"
-msgstr "Tiếp tục trò chuyện"
+msgstr "Not Yet"
 
 msgctxt "send-message"
 msgid "Send message"
-msgstr "Gửi tin nhắn"
+msgstr "Send message"
 
 msgctxt "department-select"
 msgid "Department Select"
-msgstr "Chọn Bộ phận"
+msgstr "Department Select"
 
 msgctxt "question-help"
 msgid "Your question?"
-msgstr "Bạn có câu hỏi?"
+msgstr "Your question?"
 
 msgctxt "button-bubble"
 msgid "Chat Button / Chat bubble"
-msgstr "Chat button / Chat bubble"
+msgstr "Chat Button / Chat bubble"
 
 msgctxt "chat-buttons"
 msgid "Chat buttons"
-msgstr "Chat button"
+msgstr "Chat buttons"
 
 msgctxt "chat-bubble"
 msgid "Chat bubble"
@@ -604,69 +607,67 @@ msgstr "Chat bubble"
 
 msgctxt "agent-available"
 msgid "Account available"
-msgstr "Trạng thái online"
+msgstr "Account available"
 
 msgctxt "agent-not-available"
 msgid "Account not available"
-msgstr "Trạng thái offline"
+msgstr "Account not available"
 
 msgctxt "get-code-chat-buttons"
 msgid "Get code chat buttons"
-msgstr "Nhận mã nhúng của chat button"
+msgstr "Get code chat buttons"
 
 msgctxt "chat-button-code"
 msgid "Chat button code"
-msgstr "Mã nhúng của chat button"
+msgstr "Chat button code"
 
 msgctxt "you-can-adding"
 msgid "You can add the embed code or use syntax html."
-msgstr "Bạn có thể chèn mã nhúng hoặc cú pháp html."
+msgstr "You can add the embed code or use syntax html."
 
 msgctxt "choose-bubble-gallery"
 msgid "Choose bubble from gallery"
-msgstr "Chọn trong thư viện chat bubble"
+msgstr "Choose bubble from gallery"
 
 msgctxt "what-is-a-chat-button"
 msgid "<p><strong>What’s chat button?</strong></p><p>Chat button enables visitors to start a chat on your website.</p>"
-msgstr "<p><strong>Chat button là gì ?</strong></p>
-                					<p>Chat button giúp visitor bắt đầu chat. "
+msgstr "<p><strong>What’s chat button?</strong></p><p>Chat button enables visitors to start a chat on your website.</p>"
 
 msgctxt "choose-buttons-from-gallery"
 msgid "Choose button from gallery"
-msgstr "Duyệt thư viện chat button"
+msgstr "Choose button from gallery"
 
 msgctxt "upload-buttons-for"
 msgid "Upload buttons for"
-msgstr "tải chat button cho"
+msgstr "Upload buttons for"
 
 msgctxt "what-is-chat-bubble"
 msgid "<p><strong>What’s a chat bubble?</strong></p><p>It is a cute picture that makes chat widget more attractive and builds trust between you and the visitors.</p>"
-msgstr "<p><strong>Thế nào là chat bubble?</strong></p>
-                					<p>là một hình ảnh sống động giúp tăng thêm sự tin tưởng giữa bạn và visitor."
+msgstr "<p><strong>What’s a chat bubble?</strong></p><p>It is a cute picture that makes chat widget more attractive and builds trust between you and the visitors.</p>"
 
 msgctxt "read-more"
 msgid "Read more"
-msgstr "Xem thêm"
+msgstr "Read more"
 
 msgctxt "enable-chat-bubble"
 msgid "Enable chat bubble"
-msgstr "Hiển thị chat bubble"
+msgstr "Enable chat bubble"
 
 msgctxt "browse-chat-bubble-gallery"
 msgid "Browse chat bubble gallery"
-msgstr "Duyệt thư viện chat bubble"
+msgstr "Browse chat bubble gallery"
 
 msgctxt "upload-custom-picture"
 msgid "Upload custom picture"
-msgstr "Tải lên hình ảnh"
+msgstr "Upload custom picture"
 
 msgctxt "maximum-size-200kb"
 msgid "Maximum size 50kb, recommended dimensions 240x164 px"
-msgstr "Dung lượng tối đa 50kb, khuyến nghị kích cỡ 240x164 px"
+msgstr "Maximum size 50kb, recommended dimensions 240x164 px"
 
 msgctxt "avatar_max_size"
 msgid "Maximum size 50kb"
-msgstr "Dung lượng tối đa 50kb"
+msgstr "Maximum size 50kb"
 
 msgctxt "msg_name_field_error"
 msgid "Name field upload error"
@@ -674,407 +675,407 @@ msgstr "Name field upload error"
 
 msgctxt "what-a-chat"
 msgid "What’s a chat survey?"
-msgstr "Thế nào là Form khảo sát?"
+msgstr "What’s a chat survey?"
 
 msgctxt "chat-servey-lets"
 msgid "Chat survey helps you to collect visitor information before chat."
-msgstr "Form khảo sát giúp bạn thu thập thông tin về visitor trước khi chat."
+msgstr "Chat survey helps you to collect visitor information before chat."
 
 msgctxt "enable-chat-survey"
 msgid "Enable chat survey"
-msgstr "Bật Form khảo sát"
+msgstr "Enable chat survey"
 
 msgctxt "require-department"
 msgid "Require department"
-msgstr "Bắt buộc chọn bộ phận"
+msgstr "Require department"
 
 msgctxt "require-question"
 msgid "Require question"
-msgstr "Bắt buộc nhập câu hỏi"
+msgstr "Require question"
 
 msgctxt "allow-phone-number"
 msgid "Allow phone number"
-msgstr "Bắt buộc nhập số điện thoại"
+msgstr "Allow phone number"
 
 msgctxt "customeize"
 msgid "Customize"
-msgstr "Tùy chỉnh"
+msgstr "Customize"
 
 msgctxt "support"
 msgid "Support"
-msgstr "Hỗ trợ"
+msgstr "Support"
 
 msgctxt "please-provide-a-valid-email"
 msgid "Please provide a valid email"
-msgstr "Xin vui lòng điền địa chỉ email hợp lệ"
+msgstr "Please provide a valid email"
 
 msgctxt "or-sign-in-withs"
 msgid "or sign in with"
-msgstr "hoặc đăng nhập bằng"
+msgstr "or sign in with"
 
 msgctxt "start-chat"
 msgid "Start Chat"
-msgstr "Bắt đầu chat"
+msgstr "Start Chat"
 
 msgctxt "use_cus_survey"
 msgid "You have chosen Auto Detect language. Choose a specific language to customize chat survey form."
-msgstr "Bạn đang chọn Auto detect ngôn ngữ. Hãy chọn một ngôn ngữ cụ thể để có thể chỉnh sửa form khảo sát."
+msgstr "You have chosen Auto Detect language. Choose a specific language to customize chat survey form."
 
 msgctxt "file-sharing"
 msgid "File sharing"
-msgstr "Chia sẻ file"
+msgstr "File sharing"
 
 msgctxt "enabled-for-agent"
 msgid "Enable for Agent"
-msgstr "Bật cho Agent"
+msgstr "Enable for Agent"
 
 msgctxt "enabled-for-visitor"
 msgid "Enable for Visitor"
-msgstr "Bật cho Visitor"
+msgstr "Enable for Visitor"
 
 msgctxt "support-file-type"
 msgid "Supported files: "
-msgstr "Loại file hỗ trợ: "
+msgstr "Supported files: "
 
 msgctxt "package_allow_trigger"
 msgid "Package allows"
-msgstr "Số trigger cho phép"
+msgstr "Package allows"
 
 msgctxt "enabled_trigger"
 msgid "enabled trigger"
-msgstr "trigger được bật"
+msgstr "enabled trigger"
 
 msgctxt "trigger_run_trigger"
 msgid "Run trigger"
-msgstr "Chạy trigger"
+msgstr "Run trigger"
 
 msgctxt "trigger_page_enter"
 msgid "When a visitor has loaded the chat widget"
-msgstr "Khi visitor tải cửa sổ chat"
+msgstr "When a visitor has loaded the chat widget"
 
 msgctxt "trigger_chat_requested"
 msgid "When a visitor requests a chat"
-msgstr "Khi visitor yêu cầu chat"
+msgstr "When a visitor requests a chat"
 
 msgctxt "trigger_btn_add"
 msgid "Add trigger"
-msgstr "Thêm trigger"
+msgstr "Add trigger"
 
 msgctxt "trigger_name"
 msgid "Trigger Name"
-msgstr "Tên Trigger "
+msgstr "Trigger Name"
 
 msgctxt "trigger_description"
 msgid "Description"
-msgstr "Mô tả"
+msgstr "Description"
 
 msgctxt "trigger_once_label"
 msgid "Fire only once per visitor"
-msgstr "Chạy một lần đối với mỗi visitor"
+msgstr "Fire only once per visitor"
 
 msgctxt "trigger_once"
 msgid "Each visitor will receive this message only once"
-msgstr "Mỗi visitor sẽ nhận tin nhắn một lần"
+msgstr "Each visitor will receive this message only once"
 
 msgctxt "trigger_once_short"
 msgid "Fire once"
-msgstr "Chạy một lần"
+msgstr "Fire once"
 
 msgctxt "trigger_chat_message"
 msgid "When a visitor sends a chat message"
-msgstr "Khi visitor gửi tin nhắn"
+msgstr "When a visitor sends a chat message"
 
 msgctxt "trigger_check_conditions"
 msgid "Check conditions"
-msgstr "Kiểm tra điều kiện"
+msgstr "Check conditions"
 
 msgctxt "trigger_check_condition_and"
 msgid "Check all of the following conditions"
-msgstr "Kiểm tra tất cả các điều kiện"
+msgstr "Check all of the following conditions"
 
 msgctxt "trigger_check_condition_or"
 msgid "Check any of the following conditions"
-msgstr "Kiểm tra một trong các điều kiện"
+msgstr "Check any of the following conditions"
 
 msgctxt "trigger_hour_of_day"
 msgid "Hour of day"
-msgstr "Giờ trong ngày"
+msgstr "Hour of day"
 
 msgctxt "trigger_day_of_week"
 msgid "Day of week"
-msgstr "Ngày trong tuần"
+msgstr "Day of week"
 
 msgctxt "trigger_visitor_time_on_site"
 msgid "Visitor time on site"
-msgstr "Thời gian visitor trên website"
+msgstr "Visitor time on site"
 
 msgctxt "trigger_visitor_ip"
 msgid "Visitor IP"
-msgstr "Địa chỉ IP của visitor"
+msgstr "Visitor IP"
 
 msgctxt "trigger_visitor_city"
 msgid "Visitor city"
-msgstr "Thành phố hiện tại của visitor"
+msgstr "Visitor city"
 
 msgctxt "trigger_visitor_country_code"
 msgid "Visitor country code"
-msgstr "Mã quốc gia hiện tại của visitor"
+msgstr "Visitor country code"
 
 msgctxt "trigger_visitor_country_name"
 msgid "Visitor country name"
-msgstr "Tên quốc gia hiện tại của visitor"
+msgstr "Visitor country name"
 
 msgctxt "trigger_visitor_page_url"
 msgid "Visitor page url"
-msgstr "Đường dẫn trang truy cập"
+msgstr "Visitor page url"
 
 msgctxt "trigger_visitor_page_title"
 msgid "Visitor page title"
-msgstr "Tiêu đề trang truy cập"
+msgstr "Visitor page title"
 
 msgctxt "trigger_visitor_page_count"
 msgid "Visitor page count"
-msgstr "Số trang đã xem"
+msgstr "Visitor page count"
 
 msgctxt "trigger_referrer"
 msgid "Previous page"
-msgstr "Trang truy cập trước"
+msgstr "Previous page"
 
 msgctxt "trigger_visitor_name"
 msgid "Visitor name"
-msgstr "Tên visitor"
+msgstr "Visitor name"
 
 msgctxt "trigger_visitor_referrer"
 msgid "Visitor referrer"
-msgstr "Nguồn dẫn visitor đến trang"
+msgstr "Visitor referrer"
 
 msgctxt "trigger_visitor_search_engine"
 msgid "Visitor search engine"
-msgstr "Công cụ tìm kiếm của visitor"
+msgstr "Visitor search engine"
 
 msgctxt "trigger_visitor_search_terms"
 msgid "Visitor search terms"
-msgstr "Từ khóa tìm kiếm của visitor"
+msgstr "Visitor search terms"
 
 msgctxt "trigger_visitor_type"
 msgid "Visitor type"
-msgstr "Loại visitor"
+msgstr "Visitor type"
 
 msgctxt "trigger_help_hour_of_day"
 msgid "Hour of day (UTC timezone). 0 to 23"
-msgstr "Giờ trong ngày(Theo UTC timezone). 0 to 23"
+msgstr "Hour of day (UTC timezone). 0 to 23"
 
 msgctxt "trigger_help_hour_of_day_holder"
 msgid "Value is number. e.g 21"
-msgstr "Dữ liệu là con số. Ví dụ 21"
+msgstr "Value is number. e.g 21"
 
 msgctxt "trigger_help_day_of_week"
 msgid "Day of the week. 0 = Monday, 6 = Sunday"
-msgstr "Ngày trong tuần. 0 = Monday, 6 = Sunday"
+msgstr "Day of the week. 0 = Monday, 6 = Sunday"
 
 msgctxt "trigger_help_day_of_week_holder"
 msgid "Value is number. e.g: 5"
-msgstr "Dữ liệu là con số. Ví dụ: 5"
+msgstr "Value is number. e.g: 5"
 
 msgctxt "trigger_help_visitor_time_on_site"
 msgid "Number of seconds visitor has stayed on your site"
-msgstr "Số giây mà visitor ở trên website của bạn"
+msgstr "Number of seconds visitor has stayed on your site"
 
 msgctxt "trigger_help_visitor_time_on_site_holder"
 msgid "Value is number. e.g: 60"
-msgstr "Dữ liệu là con số. Ví dụ: 60"
+msgstr "Value is number. e.g: 60"
 
 msgctxt "trigger_help_visitor_ip"
 msgid "IP address of the visitor <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
-msgstr "Địa chỉ IP của visitor <span class=\"tip\" data-original-title=\"Example\" data-content=\"Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>\"></span>"
+msgstr "IP address of the visitor <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
 
 msgctxt "trigger_help_visitor_ip_holder"
 msgid "Value. e.g: 117.23.23.1"
-msgstr "Địa chỉ IP. Ví dụ: 117.23.23.1"
+msgstr "Value. e.g: 117.23.23.1"
 
 msgctxt "trigger_help_visitor_city"
 msgid "City where visitor come from (New York)"
-msgstr "Thành phố hiện tại của visitor(new york)"
+msgstr "City where visitor come from (New York)"
 
 msgctxt "trigger_help_visitor_city_holder"
 msgid "Value. e.g: London"
-msgstr "Tên thành phố. Ví dụ: London"
+msgstr "Value. e.g: London"
 
 msgctxt "trigger_help_visitor_country_code"
 msgid "2 letter country code (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
-msgstr "Mã quốc gia hiện tại 2 chữ số (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
+msgstr "2 letter country code (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
 
 msgctxt "trigger_help_visitor_country_code_holder"
 msgid "Value. e.g: UK"
-msgstr "Mã quốc gia. Ví dụ: uk"
+msgstr "Value. e.g: UK"
 
 msgctxt "trigger_help_visitor_country_name"
 msgid "Country where visitors come from"
-msgstr "Quốc gia hiện tại của visitor"
+msgstr "Country where visitors come from"
 
 msgctxt "trigger_help_visitor_country_name_holder"
 msgid "Value. e.g: United States"
-msgstr "Tên quốc gia. Ví dụ: united states"
+msgstr "Value. e.g: United States"
 
 msgctxt "trigger_help_visitor_page_url"
 msgid "URL of the page the visitor is currently on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
-msgstr "Đường dẫn trang visitor đang truy cập. Ví dụ: Đối với trang <i>http://www.mysite.com/page1.html</i> gõ <i>www.mysite.com/page1.html</i>"
+msgstr "URL of the page the visitor is currently on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
 
 msgctxt "trigger_help_visitor_page_url_holder"
 msgid "Value. e.g: www.yourdomain.com/page1.html"
-msgstr "Ví dụ: www.yourdomain.com/page1.html"
+msgstr "Value. e.g: www.yourdomain.com/page1.html"
 
 msgctxt "trigger_help_visitor_page_title"
 msgid "Title of the page the visitor is currently on. Title is content between the <code>&lt;title&gt;&lt;/title&gt;</code> on the page."
-msgstr "Tiêu đề của trang mà visitor đang truy cập. Tiêu đề là nội dung giữa <code>&lt;title&gt;&lt;/title&gt;</code> trên trang truy cập."
+msgstr "Title of the page the visitor is currently on. Title is content between the <code>&lt;title&gt;&lt;/title&gt;</code> on the page."
 
 msgctxt "trigger_help_visitor_page_title_holder"
 msgid "Value"
-msgstr "Tiêu đề"
+msgstr "Value"
 
 msgctxt "trigger_help_visitor_page_count"
 msgid "Number of pages visitor has viewed. First page = 1"
-msgstr "Số trang mà visitor đã xem. Trang đầu tiên = 1"
+msgstr "Number of pages visitor has viewed. First page = 1"
 
 msgctxt "trigger_help_visitor_page_count_holder"
 msgid "Value is number"
-msgstr "Giá trị là con số"
+msgstr "Value is number"
 
 msgctxt "trigger_help_referrer"
 msgid "URL of the previous page visitor was on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
-msgstr "Đường dẫn trang visitor vào trước đó. E.g: Đối với trang <i>http://www.mysite.com/page1.html</i> gõ <i>www.mysite.com/page1.html</i>"
+msgstr "URL of the previous page visitor was on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
 
 msgctxt "trigger_help_referrer_holder"
 msgid "Value"
-msgstr "Ví dụ: www.mysite.com/page1.html"
+msgstr "Value"
 
 msgctxt "trigger_help_visitor_name"
 msgid "Name of the visitor"
-msgstr "Tên của visitor"
+msgstr "Name of the visitor"
 
 msgctxt "trigger_help_visitor_name_holder"
 msgid "Value. e.g: David"
-msgstr "Tên của visitor. Ví dụ: David"
+msgstr "Value. e.g: David"
 
 msgctxt "trigger_help_visitor_referrer"
 msgid "Referrer URL of the visitor (when he entered your site). E.g: For the page <i>http://www.google.com</i> enter <i>www.google.com</i>"
-msgstr "Nguồn dẫn visitor đến trang của bạn. E.g: Đối với trang <i>http://www.google.com</i> gõ <i>www.google.com</i>"
+msgstr "Referrer URL of the visitor (when he entered your site). E.g: For the page <i>http://www.google.com</i> enter <i>www.google.com</i>"
 
 msgctxt "trigger_help_visitor_referrer_holder"
 msgid "Url"
-msgstr "Đường dẫn"
+msgstr "Url"
 
 msgctxt "trigger_help_visitor_search_engine"
 msgid "Referring search engine, if applicable (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
-msgstr "Công cụ tìm kiếm áp dụng tới trang của bạn(google / yahoo / bing ...). <a href=\"http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list\" target=\"_blank\">View Search Engine List and name for the condition</a>"
+msgstr "Referring search engine, if applicable (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
 
 msgctxt "trigger_help_visitor_search_engine_holder"
 msgid "Search engine name"
-msgstr "Tên công cụ tìm kiếm"
+msgstr "Search engine name"
 
 msgctxt "trigger_help_visitor_search_terms"
 msgid "Referring search term, if applicable. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
-msgstr "Từ khóa tìm kiếm áp dụng tới trang của bạn. <a href=\"http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list\" target=\"_blank\">Subiz automatically detects Search Engines</a>"
+msgstr "Referring search term, if applicable. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
 
 msgctxt "trigger_help_visitor_search_terms_holder"
 msgid "Keyword"
-msgstr "Từ khóa"
+msgstr "Keyword"
 
 msgctxt "trigger_help_visitor_type"
 msgid "Type (new visitor/return visitor) of visitor. Type <i>new</i> for new visitor, <i>return</i> for return visitor"
-msgstr "Loại visitor (visitor mới và visitor quay lại). Gõ <i>new</i> cho visitor mới, <i>return</i> cho khách quay lại"
+msgstr "Type (new visitor/return visitor) of visitor. Type <i>new</i> for new visitor, <i>return</i> for return visitor"
 
 msgctxt "trigger_help_visitor_type_holder"
 msgid "type new/return"
-msgstr "New/Return"
+msgstr "type new/return"
 
 msgctxt "trigger_err_condition_empty"
 msgid "You have no condition. Please complete to continue"
-msgstr "Bạn chưa cài đặt điều kiện. Xin vui lòng hoàn thành để tiếp tục"
+msgstr "You have no condition. Please complete to continue"
 
 msgctxt "trigger_err_action_empty"
 msgid "You have no action. Please complete to continue"
-msgstr "Bạn chưa cài đặt hành động. Xin vui lòng hoàn thành để tiếp tục"
+msgstr "You have no action. Please complete to continue"
 
 msgctxt "trigger_edit_msg_edit"
 msgid "The trigger has been saved!"
-msgstr "Trigger đã lưu sửa đổi!"
+msgstr "The trigger has been saved!"
 
 msgctxt "trigger_edit_msg_add"
 msgid "The trigger was added successfully!"
-msgstr "Trigger đã được thêm thành công!"
+msgstr "The trigger was added successfully!"
 
 msgctxt "trigger_not_exist"
 msgid "Sorry. Trigger can't not found. Please try again!"
-msgstr "Xin lỗi. Không thể tìm thấy trigger. Xin vui lòng thử lại!"
+msgstr "Sorry. Trigger can't not found. Please try again!"
 
 msgctxt "trigger_action_autoInvite"
 msgid "Auto Invite"
-msgstr "Mời chat tự động"
+msgstr "Auto Invite"
 
 msgctxt "trigger_help_autoInvite_holder_name"
 msgid "Name of agent"
-msgstr "Tên của agent"
+msgstr "Name of agent"
 
 msgctxt "trigger_help_autoInvite"
 msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
-msgstr "\"Tên của agent\" là  \"Tên hiển thị\" của Agent. visitor sẽ nhìn thấy tên này."
+msgstr ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
 
 msgctxt "trigger_action_sendMessageToVisitor"
 msgid "Send Message to Visitor"
-msgstr "Gửi tin nhắn tới visitor"
+msgstr "Send Message to Visitor"
 
 msgctxt "trigger_help_sendMessageToVisitor_holder_name"
 msgid "Name of agent"
-msgstr "Tên của agent"
+msgstr "Name of agent"
 
 msgctxt "trigger_help_sendMessageToVisitor"
 msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
-msgstr "\"Tên của agent\" là \"Display Name\" của Agent. visitor sẽ nhìn thấy tên này."
+msgstr ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
 
 msgctxt "trigger_action_sendMessageToAgent"
 msgid "Send Message to Agent"
-msgstr "Gửi tin nhắn tới agent"
+msgstr "Send Message to Agent"
 
 msgctxt "trigger_help_sendMessageToAgent_holder_username"
 msgid "Username of agent"
-msgstr "Tên đăng nhập của agent"
+msgstr "Username of agent"
 
 msgctxt "trigger_help_sendMessageToAgent"
 msgid "Type "username" of agent or "all" to send to all agents online"
-msgstr "Loại \"Tên đăng nhập\" của agent hoặc \"Tất cả\" để gửi đến tất cả các agent đang online"
+msgstr "Type "username" of agent or "all" to send to all agents online"
 
 msgctxt "trigger_help_message_holder"
 msgid "Message ..."
-msgstr "Tin nhắn ..."
+msgstr "Message ..."
 
 msgctxt "warning_account_max_limit"
 msgid "Your account has been reached to maximum Trigger. Please %s click here %s to upgrade your account!"
-msgstr "Bạn đã sử dụng tối đa số lượng trigger trong tài khoản. Xin vui lòng %s click vào đây %s để nâng cấp tài khoản!"
+msgstr "Your account has been reached to maximum Trigger. Please %s click here %s to upgrade your account!"
 
 msgctxt "number_agent"
 msgid "Number of Agents"
-msgstr "Số lượng Agents"
+msgstr "Number of Agents"
 
 msgctxt "next_payment_dua"
 msgid "Next payment due date"
-msgstr "Ngày thanh toán tiếp theo"
+msgstr "Next payment due date"
 
 msgctxt "next_billing_date"
 msgid "Next billing date"
-msgstr "Ngày thanh toán tiếp theo"
+msgstr "Next billing date"
 
 msgctxt "plan_billing"
 msgid "Plan & Billing"
-msgstr "Gói cước & Thanh toán"
+msgstr "Plan & Billing"
 
 msgctxt "your_plan"
 msgid "Your current package"
-msgstr "Gói hiện tại"
+msgstr "Your current package"
 
 msgctxt "view_invoice"
 msgid "View invoice"
-msgstr "Xem hóa đơn"
+msgstr "View invoice"
 
 msgctxt "credit"
 msgid "Credit"
@@ -1082,59 +1083,59 @@ msgstr "Credit"
 
 msgctxt "add_credit"
 msgid "Add credits"
-msgstr "Nạp credits"
+msgstr "Add credits"
 
 msgctxt "more"
 msgid "More options"
-msgstr "Lựa chọn khác"
+msgstr "More options"
 
 msgctxt "update_payment_method"
 msgid "Update payment method"
-msgstr "Cập nhật phương thức thanh toán"
+msgstr "Update payment method"
 
 msgctxt "all_invoice"
 msgid "Invoices"
-msgstr "Hóa đơn"
+msgstr "Invoices"
 
 msgctxt "invoice"
 msgid "Invoice"
-msgstr "Hóa đơn"
+msgstr "Invoice"
 
 msgctxt "total_dua"
 msgid "Total"
-msgstr "Tổng"
+msgstr "Total"
 
 msgctxt "payment"
 msgid "Payment"
-msgstr "Thanh toán"
+msgstr "Payment"
 
 msgctxt "make_payment"
 msgid "Make payment"
-msgstr "Thanh toán"
+msgstr "Make payment"
 
 msgctxt "cancel_account"
 msgid "Cancel account"
-msgstr "Hủy tài khoản"
+msgstr "Cancel account"
 
 msgctxt "term_of_use"
 msgid "Terms of use"
-msgstr "Điều khoản sử dụng"
+msgstr "Terms of use"
 
 msgctxt "faq"
 msgid "FAQ"
-msgstr "Câu hỏi thường gặp"
+msgstr "FAQ"
 
 msgctxt "sub_support"
 msgid "support"
-msgstr "Hỗ trợ"
+msgstr "support"
 
 msgctxt "current_billing_cycle"
 msgid "Current billing cycle"
-msgstr "Chu kì hiện tại"
+msgstr "Current billing cycle"
 
 msgctxt "sub_save"
 msgid "save"
-msgstr "Tiết kiệm"
+msgstr "save"
 
 msgctxt "last_bill"
 msgid "Last billed on"
@@ -1142,171 +1143,179 @@ msgstr "Last billed on"
 
 msgctxt "using_trial"
 msgid "You are using a free trial of the Standard plan with 100 agents. Your account will expire on"
-msgstr "Bạn đang dùng thử miễn phí gói Cơ bản với 100 agents, tài khoản của bạn hết hạn ngày"
+msgstr "You are using a free trial of the Standard plan with 100 agents. Your account will expire on"
 
 msgctxt "you_will_have"
 msgid "You will have"
-msgstr "Số agents"
+msgstr "You will have"
 
 msgctxt "account_credit"
 msgid "Credits"
-msgstr "Credits thanh toán"
+msgstr "Credits"
 
 msgctxt "you_need_pay"
 msgid "You will pay"
-msgstr "Bạn phải trả"
+msgstr "You will pay"
 
 msgctxt "auto_renew"
 msgid "Automatic Renewal"
-msgstr "Tự động gia hạn"
+msgstr "Automatic Renewal"
 
 msgctxt "auto_renew_content"
 msgid "For your convenience, subscription will be automatically renewed when the current one ends. You can stop the automatic renewal at any time."
-msgstr "Để đảm bảo sự thuận tiện cho khách hàng, tài khoản trả phí sẽ được tự động gia hạn mỗi khi thời hạn sử dụng kết thúc. Bạn có thể hủy bỏ việc tự động gia hạn bất cứ lúc nào"
+msgstr "For your convenience, subscription will be automatically renewed when the current one ends. You can stop the automatic renewal at any time."
 
 msgctxt "Upgrade_downgrade"
 msgid "Upgrade/Dowgrade!"
-msgstr "Nâng cấp / Hạ cấp!"
+msgstr "Upgrade/Dowgrade!"
 
 msgctxt "Upgrade_downgrade_content"
 msgid "Enjoy the flexibility of our billing system. Upgrade, downgrade, add / reduce agents, change billing cycle whenever you want."
-msgstr "Hãy tận hưởng sự linh hoạt của hệ thống thanh toán của chúng tôi. Bạn có thể nâng cấp, hạ cấp, tăng, giảm các agent, thay đổi chu kỳ thanh toán bất cứ khi nào bạn muốn."
+msgstr "Enjoy the flexibility of our billing system. Upgrade, downgrade, add / reduce agents, change billing cycle whenever you want."
 
 msgctxt "sub_compare_plan"
 msgid "Compare plans"
-msgstr "So sánh gói"
+msgstr "Compare plans"
 
 msgctxt "sub_current_plan"
 msgid "Your current plan"
-msgstr "Gói hiện tại"
+msgstr "Your current plan"
 
 msgctxt "sub_standard_price"
 msgid "$9.59 per agent / month"
-msgstr "$9.59 / agent / tháng"
+msgstr "$9.59 per agent / month"
 
 msgctxt "sub_advanced_price"
 msgid "$16.8 per agent / month"
-msgstr "$16.8 / agent / tháng"
+msgstr "$16.8 per agent / month"
 
 msgctxt "subscription_title_changeplan"
 msgid "Subscription change plan"
-msgstr "Thay đổi gói cước"
+msgstr "Subscription change plan"
 
 msgctxt "subscription_upgrade_advanced"
 msgid "Upgrade to Advanced Plan"
-msgstr "Nâng cấp lên gói Advanced"
+msgstr "Upgrade to Advanced Plan"
 
 msgctxt "subscription_reduce_agent_subscription"
 msgid "Number of agent subscription you wish to reduce"
-msgstr "Số lượng agent muốn giảm"
+msgstr "Number of agent subscription you wish to reduce"
 
 msgctxt "subscription_add_credit_title"
 msgid "Redeem promotion code"
-msgstr "Áp dụng mã giảm giá"
+msgstr "Redeem promotion code"
 
 msgctxt "subscription_add_credit_promotion_code"
 msgid "Promotion code"
-msgstr "Mã giảm giá"
+msgstr "Promotion code"
 
 msgctxt "subscription_add_credit_promotion_error"
 msgid "The promotion code you entered is not valid"
-msgstr "Mã giảm giá không hợp lệ"
+msgstr "The promotion code you entered is not valid"
 
 msgctxt "subscription_add_credit_promotion_error2"
 msgid "The promotion code could not be empty"
-msgstr "Mã giảm giá không được bỏ trống"
+msgstr "The promotion code could not be empty"
 
 msgctxt "subscription_add_credit_promotion_continue"
 msgid "Continue"
-msgstr "Tiếp tục"
+msgstr "Continue"
 
 msgctxt "subscription_add_credit_promotion_redeem"
 msgid "Redeem"
-msgstr "Áp dụng"
+msgstr "Redeem"
 
 msgctxt "subscription_title_free"
 msgid "Subscription Free"
-msgstr "Gói Free"
+msgstr "Subscription Free"
 
 msgctxt "subscription_redirect_fastpring"
 msgid "Redirecting to FastPring to complete transaction..."
-msgstr "Đang chuyển đến trang FastPring để hoàn thành giao dịch"
+msgstr "Redirecting to FastPring to complete transaction..."
 
 msgctxt "subscription_active_pmt_method_success"
 msgid "Make primary successfully"
-msgstr "Kích hoạt thành công"
+msgstr "Make primary successfully"
 
 msgctxt "subscription_active_pmt_method_error"
 msgid "Make primary error"
-msgstr "Kích hoạt lỗi "
+msgstr "Make primary error"
+
+msgctxt "subscription_active_pmt_method_cash_success"
+msgid "Active payment method successfully"
+msgstr "Active payment method successfully"
+
+msgctxt "subscription_active_pmt_method_cash_error"
+msgid "Active payment method error"
+msgstr "Active payment method error"
 
 msgctxt "subscription_notice_choose_least_invoice"
 msgid "Please choose at least one invoice"
-msgstr "Vui lòng chọn ít nhất một invoice"
+msgstr "Please choose at least one invoice"
 
 msgctxt "subscription_not_enough_credit"
 msgid "Not enough credit"
-msgstr "Không đủ credit"
+msgstr "Not enough credit"
 
 msgctxt "subscription_notice_setprimary_method"
 msgid "Please set primary payment method"
-msgstr "Vui lòng thiết lập phương thức thanh toán chính"
+msgstr "Please set primary payment method"
 
 msgctxt "subscription_notice_active_method"
 msgid "Please active payment method"
-msgstr "Vui lòng kích hoạt phương thức thanh toán"
+msgstr "Please active payment method"
 
 msgctxt "condition_fastspring_not_true"
 msgid "Your request could not be processed at this time. Please visit FAQ or chat with us for more detail"
-msgstr "Yêu cầu của bạn chưa được thực hiện. Vui lòng xem FAQ hoặc liên lạc billing@subiz.com để được giải đáp"
+msgstr "Your request could not be processed at this time. Please visit FAQ or chat with us for more detail"
 
 msgctxt "pay_invoices_failure"
 msgid "Transaction failed. Please update payment method"
-msgstr "Thanh toán không thành công. Vui lòng cập nhật phương thức thanh toán"
+msgstr "Transaction failed. Please update payment method"
 
 msgctxt "pay_success"
 msgid "Successful payment"
-msgstr "Thanh toán thành công"
+msgstr "Successful payment"
 
 msgctxt "pay_error"
 msgid "Error payment"
-msgstr "Thanh toán lỗi"
+msgstr "Error payment"
 
 msgctxt "add_credit_success"
 msgid "Add credit successfully"
-msgstr "Áp dụng mã giảm giá thành công"
+msgstr "Add credit successfully"
 
 msgctxt "payment_method"
 msgid "Payment Methods"
-msgstr "Phương thức thanh toán"
+msgstr "Payment Methods"
 
 msgctxt "credit_card"
 msgid "Credit card"
-msgstr "Thẻ tín dụng"
+msgstr "Credit card"
 
 msgctxt "payment_primary"
 msgid "Default"
-msgstr "Mặc định"
+msgstr "Default"
 
 msgctxt "payment_active"
 msgid "Active"
-msgstr "Kích hoạt"
+msgstr "Active"
 
 msgctxt "payment_bk_transfer"
 msgid "Bank transfer"
-msgstr "Chuyển khoản"
+msgstr "Bank transfer"
 
 msgctxt "payment_make_primary"
 msgid "Make default"
-msgstr "Chọn làm mặc định"
+msgstr "Make default"
 
 msgctxt "payment_q1"
 msgid "Can I change package at any time ?"
-msgstr "Tôi có thể thay đổi gói cước bất kỳ lúc nào phải không?"
+msgstr "Can I change package at any time ?"
 
 msgctxt "payment_q2"
 msgid "How can I change the payment's information like my credit card...?"
-msgstr "Làm thế nào để thay đổi thông tin thanh toán, ví dụ thông tin thẻ tín dụng?"
+msgstr "How can I change the payment's information like my credit card...?"
 
 msgctxt "subscription_none"
 msgid "None"
@@ -1314,23 +1323,23 @@ msgstr "None"
 
 msgctxt "subscription_1_month"
 msgid "Monthly"
-msgstr "1 tháng"
+msgstr "Monthly"
 
 msgctxt "subscription_3_month"
 msgid "Every 3 months"
-msgstr "3 tháng"
+msgstr "Every 3 months"
 
 msgctxt "subscription_6_month"
 msgid "Every 6 months"
-msgstr "6 tháng"
+msgstr "Every 6 months"
 
 msgctxt "subscription_12_month"
 msgid "Yearly"
-msgstr "1 năm"
+msgstr "Yearly"
 
 msgctxt "subscription_24_month"
 msgid "Every 2 years"
-msgstr "2 năm"
+msgstr "Every 2 years"
 
 msgctxt "subscription_billing_cycle_none"
 msgid "None"
@@ -1342,7 +1351,7 @@ msgstr "%"
 
 msgctxt "subscription_save"
 msgid "Save"
-msgstr "Lưu"
+msgstr "Save"
 
 msgctxt "subscription_save_none"
 msgid "None"
@@ -1350,79 +1359,83 @@ msgstr "None"
 
 msgctxt "subscription_title_current_subscription"
 msgid "Current Subscription"
-msgstr "Thông tin trả phí hiện tại"
+msgstr "Current Subscription"
 
 msgctxt "subscription_discounts_with_longer_cycles"
 msgid "Discounts with longer cycles"
-msgstr "Chiết khấu cho chu kỳ thanh toán dài hơn"
+msgstr "Discounts with longer cycles"
 
 msgctxt "subscription_change_to"
 msgid "Change to"
-msgstr "Chuyển thành"
+msgstr "Change to"
 
 msgctxt "subscription_current_billing_cycle"
 msgid "Current billing cycle"
-msgstr "Chu kỳ thanh toán"
+msgstr "Current billing cycle"
+
+msgctxt "subscription_change_billing_cycle"
+msgid "Change billing cycle "
+msgstr "Change billing cycle "
 
 msgctxt "subscription_change_billing_success"
 msgid "Change billing cycle successfully!"
-msgstr "Thay đổi chu kỳ thanh toán hiện tại thành công!"
+msgstr "Change billing cycle successfully!"
 
 msgctxt "subscription_require_billing_cycle"
 msgid "Select billing cycle"
-msgstr "Chọn chu kỳ thanh toán"
+msgstr "Select billing cycle"
 
 msgctxt "subscription_change_billing_error"
 msgid "Error change billing cycle"
-msgstr "Lỗi khi thay đổi chu kỳ thanh toán"
+msgstr "Error change billing cycle"
 
 msgctxt "subscription_add_agents_subscription"
 msgid "Add agents subscription"
-msgstr "Thêm số lượng agent"
+msgstr "Add agents subscription"
 
 msgctxt "subscription_number_of_agent_subscribed"
 msgid "Number of subscribed agent(s)"
-msgstr "Số lượng agent bạn đang có"
+msgstr "Number of subscribed agent(s)"
 
 msgctxt "subscription_additional_agent_subscription_purchase"
 msgid "Additional agent(s) you wish to purchase"
-msgstr "Số lượng agent bạn muốn thanh toán thêm"
+msgstr "Additional agent(s) you wish to purchase"
 
 msgctxt "subscription_number_of_agent_after_addition"
 msgid "Number of subscribed agent after payment made"
-msgstr "Số lượng agent bạn có sau khi thanh toán thêm"
+msgstr "Number of subscribed agent after payment made"
 
 msgctxt "subscription_amount_for_agent"
 msgid "Amount to be paid for %s 1 %s agent(s) subscription"
-msgstr "Số tiền thanh toán cho %s 1 %s agent thêm vào"
+msgstr "Amount to be paid for %s 1 %s agent(s) subscription"
 
 msgctxt "subscription_add_agent_success"
 msgid "Add agent successfully"
-msgstr "Thêm agent thành công"
+msgstr "Add agent successfully"
 
 msgctxt "subscription_add_agent_error"
 msgid "Error add agent"
-msgstr "Lỗi khi thêm agent"
+msgstr "Error add agent"
 
 msgctxt "subscription_require_add_agent"
 msgid "Agent value invalid"
-msgstr "Agent thêm vào không hợp lệ"
+msgstr "Agent value invalid"
 
 msgctxt "subscription_expries_on"
 msgid "expires on"
-msgstr "hết hạn thanh toán vào"
+msgstr "expires on"
 
 msgctxt "subscription_subscription_detail_title"
 msgid "Subscription Details"
-msgstr "Thuê bao dịch vụ"
+msgstr "Subscription Details"
 
 msgctxt "subscription_per_agent"
 msgid "per agent"
-msgstr "/agent"
+msgstr "per agent"
 
 msgctxt "subscription_per_month"
 msgid "per month"
-msgstr "/tháng"
+msgstr "per month"
 
 msgctxt "subscription_triggers"
 msgid "Triggers"
@@ -1430,15 +1443,15 @@ msgstr "Triggers"
 
 msgctxt "subscription_department"
 msgid "Department"
-msgstr "Bộ phận"
+msgstr "Department"
 
 msgctxt "subscription_concurrent_chat"
 msgid "Concurrent chat"
-msgstr "Cuộc chat cùng lúc"
+msgstr "Concurrent chat"
 
 msgctxt "subscription_change_plan"
 msgid "Change plan"
-msgstr "Thay đổi gói cước "
+msgstr "Change plan"
 
 msgctxt "subscription_agents"
 msgid "Agent(s)"
@@ -1446,47 +1459,47 @@ msgstr "Agent(s)"
 
 msgctxt "subscription_choose_plan"
 msgid "Choose a plan based on your business needs"
-msgstr "Chọn gói chat phù hợp với nhu cầu doanh nghiệp "
+msgstr "Choose a plan based on your business needs"
 
 msgctxt "subscription_action_description"
 msgid "Upgrade, downgrade, cancel at any time. Pay as you "
-msgstr "Nâng cấp, hạ cấp, hủy bỏ bất cứ thời điểm nào."
+msgstr "Upgrade, downgrade, cancel at any time. Pay as you "
 
 msgctxt "subscription_action_description_go"
 msgid "go."
-msgstr "Tiếp tục."
+msgstr "go."
 
 msgctxt "subscription_per_agent_per_month"
 msgid "per agent/month"
-msgstr "/agent/tháng"
+msgstr "per agent/month"
 
 msgctxt "subscription_what_you_get"
 msgid "What you get:"
-msgstr "Những gì bạn nhận được:"
+msgstr "What you get:"
 
 msgctxt "subscription_web_and_mobile_apps"
 msgid "Web and mobile apps"
-msgstr "Ứng dụng web và điện thoại"
+msgstr "Web and mobile apps"
 
 msgctxt "subscription_chat_history"
 msgid "Chat history"
-msgstr "Lịch sử chat"
+msgstr "Chat history"
 
 msgctxt "subscription_transfer_chat"
 msgid "Transfer chat"
-msgstr "Chuyển chat"
+msgstr "Transfer chat"
 
 msgctxt "subscription_real_time_visitor_info"
 msgid "Real-time Visitor Info"
-msgstr "Thông tin khách hàng thực tế"
+msgstr "Real-time Visitor Info"
 
 msgctxt "subscription_limited_concurrent_chats"
 msgid "Limited concurrent chats"
-msgstr "Số lượng cuộc chat cùng lúc tối đa"
+msgstr "Limited concurrent chats"
 
 msgctxt "subscription_what_youre_missing"
 msgid "What you are missing:"
-msgstr "Bạn đang bỏ lỡ những gì:"
+msgstr "What you are missing:"
 
 msgctxt "subscription_trigger"
 msgid "Trigger"
@@ -1494,219 +1507,215 @@ msgstr "Trigger"
 
 msgctxt "subscription_department_agent_group"
 msgid "Department ( agent group )"
-msgstr "Chia Bộ phận chat"
+msgstr "Department ( agent group )"
 
 msgctxt "subscription_unlimit_chat_history"
 msgid "Unlimited chat history"
-msgstr "Lịch sử chat không giới hạn"
+msgstr "Unlimited chat history"
 
 msgctxt "subscription_you_have"
 msgid "You have"
-msgstr "Bạn đăng ký:"
+msgstr "You have"
 
 msgctxt "subscription_you_will_be_charged"
 msgid "Your account will be charged on "
-msgstr "Bạn sẽ phải thanh toán vào "
+msgstr "Your account will be charged on "
 
 msgctxt "subscription_for_your_first_billing_cycle"
 msgid "for your first billing cycle"
-msgstr "cho chu kỳ sử dụng đầu tiên"
+msgstr "for your first billing cycle"
 
 msgctxt "subscription_afterwards_you_will_be_charged"
 msgid "Afterwards, you will be charged"
-msgstr "Sau đó, bạn sẽ phải thanh toán"
+msgstr "Afterwards, you will be charged"
 
 msgctxt "subscription_monthly"
 msgid "Monthly"
-msgstr "Hàng tháng"
+msgstr "Monthly"
 
 msgctxt "subscription_total_price"
 msgid "Total price"
-msgstr "Tổng số tiền thanh toán"
+msgstr "Total price"
 
 msgctxt "subscription_subscribe_now"
 msgid "Subscribe now"
-msgstr "Thanh toán ngay"
+msgstr "Subscribe now"
 
 msgctxt "subscription_compare_edition"
 msgid "Compare Editions"
-msgstr "So sánh giữa các Gói chat"
+msgstr "Compare Editions"
 
 msgctxt "subscription_plan_selection"
 msgid "Plan Selection"
-msgstr "Chọn gói"
+msgstr "Plan Selection"
 
 msgctxt "subscription_reduce_agent_success"
 msgid "Reduce agent successfully"
-msgstr "Giảm số lượng agent thành công"
+msgstr "Reduce agent successfully"
 
 msgctxt "subscription_reduce_agent_error"
 msgid "Error reduce agent"
-msgstr "Xảy ra lỗi khi giảm số lượng agent"
+msgstr "Error reduce agent"
 
 msgctxt "subscription_require_reduce_agent"
 msgid "Select agent to reduce"
-msgstr "Chọn agent để giảm"
+msgstr "Select agent to reduce"
 
 msgctxt "subscription_cancel"
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Cancel"
 
 msgctxt "subscription_account_is_unsubscription"
 msgid "This account haven't subscribed"
-msgstr "Tài khoản chưa đăng ký thuê bao định kì"
+msgstr "This account haven't subscribed"
 
 msgctxt "subscription_upgrade"
 msgid "Upgrade now"
-msgstr "Nâng cấp ngay bây giờ"
+msgstr "Upgrade now"
 
 msgctxt "subscription_now_and_add_more_agents"
 msgid "now and add more agents"
-msgstr "để thêm agent"
+msgstr "now and add more agents"
 
 msgctxt "subscription_submit"
 msgid "Submit"
-msgstr "Gửi"
+msgstr "Submit"
 
 msgctxt "subscription_complete_downgrade_to_free"
 msgid "Complete Downgrade to Free Package"
-msgstr "Cần Hạ xuống Gói miễn phí?"
+msgstr "Complete Downgrade to Free Package"
 
 msgctxt "subscription_notice_downgrade"
 msgid "We are unfortunate to know that you have opted to downgrade to FREE package. Please select an option below that explains the reason for your decision. Your feedback will help us to improve our service"
-msgstr "Chúng tôi rất tiếc khi thấy tài khoản của bạn hạ xuống Gói miễn phí. Xin vui lòng cho chúng tôi biết lý do bằng cách chọn các phương án bên dưới. Ý kiến của bạn sẽ giúp chúng tôi rất nhiều trong việc nâng cao chất lượng phục vụ."
+msgstr "We are unfortunate to know that you have opted to downgrade to FREE package. Please select an option below that explains the reason for your decision. Your feedback will help us to improve our service"
 
 msgctxt "subscription_notice_1"
 msgid "Satisfied, will come back again when required"
-msgstr "Chất lượng dịch vụ tốt. Sẽ quay lại vào thời điểm thích hợp "
+msgstr "Satisfied, will come back again when required"
 
 msgctxt "subscription_notice_2"
 msgid "Your service is good, but it still lacks of some certain features"
-msgstr "Khá hài lòng về chất lượng dịch vụ, tuy nhiên vẫn còn thiếu sót"
+msgstr "Your service is good, but it still lacks of some certain features"
 
 msgctxt "subscription_notice_3"
 msgid "I am not at all satisfied with your service"
-msgstr "Hoàn toàn không hài lòng về chất lượng dịch vụ "
+msgstr "I am not at all satisfied with your service"
 
 msgctxt "subscription_notice_other"
 msgid "Please add your opinion"
-msgstr "Xin vui lòng cho biết thêm ý kiến của bạn"
+msgstr "Please add your opinion"
 
 msgctxt "subscription_dowgrade_now"
 msgid "Downgrade now"
-msgstr "Hạ cấp ngay bây giờ"
+msgstr "Downgrade now"
 
 msgctxt "subscription_cancel_account"
 msgid "Need to cancel your Account?"
-msgstr "Cần hủy bỏ tài khoản ?"
+msgstr "Need to cancel your Account?"
 
 msgctxt "subscription_cancel_account_notice"
 msgid "We are sorry to see you go. Once your account is cancelled, all of your account information will be immediately and permanently terminated."
-msgstr "Chúng tôi rất tiếc khi thấy bạn hủy tài khoản. Một khi tài khoản bị hủy, tất cả những thông tin về tài khoản sẽ bị xóa vĩnh viễn."
+msgstr "We are sorry to see you go. Once your account is cancelled, all of your account information will be immediately and permanently terminated."
 
 msgctxt "subscription_cancel_account_wanning"
 msgid "WARNING: deleting your account will permanently destroy all data in your account, including current setting and operation. If you have any reasons of cancellation, please to comment below."
-msgstr "Cảnh báo: Việc xóa tài khoản sẽ làm mất thông tin tài khoản của bạn vĩnh viễn, bao gồm cả những cài đặt và những hoạt động đang diễn ra."
+msgstr "WARNING: deleting your account will permanently destroy all data in your account, including current setting and operation. If you have any reasons of cancellation, please to comment below."
 
 msgctxt "subscription_cancel_account_reason"
 msgid "If you have any other reasons, feel free to comment below"
-msgstr "Xin vui lòng cho chúng tôi biết lý do hủy tài khoản"
+msgstr "If you have any other reasons, feel free to comment below"
 
 msgctxt "subscription_cancel_account_delete"
 msgid "Delete account"
-msgstr "Xóa tài khoản"
+msgstr "Delete account"
 
 msgctxt "subscription_invoices"
 msgid "Invoices"
-msgstr "Hóa đơn"
+msgstr "Invoices"
 
 msgctxt "subscription_invoice_id"
 msgid "Invoice ID"
-msgstr "Mã số hóa đơn"
+msgstr "Invoice ID"
 
 msgctxt "subscription_invoice_created"
 msgid "Created"
-msgstr "Đã tạo"
+msgstr "Created"
 
 msgctxt "subscription_invoice_status"
 msgid "Status"
-msgstr "Tình trạng"
+msgstr "Status"
 
 msgctxt "subscription_invoice_amount"
 msgid "Total"
-msgstr "Tổng số tiền thanh toán"
+msgstr "Total"
 
 msgctxt "subscription_cancel_account_notifycation"
 msgid "If you cancel your account, your Subiz Account will immediately stop working. Your account will not be charged again, but you will not be refunded for already paid subscriptions. Yes,"
-msgstr "Nếu bạn hủy bỏ tài khoản, tài khoản Subiz sẽ dừng hoạt động ngay. Bạn sẽ không phải tiếp tục thanh toán nhưng đồng thời cũng không được bồi hoàn lại số tiền đã thanh toán. Đồng ý,"
+msgstr "If you cancel your account, your Subiz Account will immediately stop working. Your account will not be charged again, but you will not be refunded for already paid subscriptions. Yes,"
 
 msgctxt "subscription_accept_cancel"
 msgid "I want to cancel Subiz account"
-msgstr "Tôi muốn hủy bỏ tài khoản Subiz"
+msgstr "I want to cancel Subiz account"
 
 msgctxt "subscription_business_have_changed"
 msgid "If you do not need a subscription account, you can always "
-msgstr "Nếu bạn không có nhu cầu nâng cấp tài khoản, bạn sẽ được "
+msgstr "If you do not need a subscription account, you can always "
 
 msgctxt "subscription_downgrade_to_free"
 msgid "downgrade to Free package."
-msgstr "hạ xuống gói miễn phí."
+msgstr "downgrade to Free package."
 
 msgctxt "subscription_reduce_agent"
 msgid "Reduce agents"
-msgstr "Giảm agent"
+msgstr "Reduce agents"
 
 msgctxt "subscription_add_agent"
 msgid "Add agents"
-msgstr "Thêm agent"
+msgstr "Add agents"
 
 msgctxt "subscription_payment_frequency"
 msgid "Payment Frequency"
-msgstr "Định kì thanh toán"
-
-msgctxt "subscription_change_billing_cycle"
-msgid "Change billing cycle "
-msgstr "Thay đổi chu kỳ thanh toán"
+msgstr "Payment Frequency"
 
 msgctxt "subscription_next_transaction"
 msgid "Next Transaction Details"
-msgstr "Thông tin chi tiết lần thanh toán tiếp theo"
+msgstr "Next Transaction Details"
 
 msgctxt "subscription_payment_method"
 msgid "Payment Method"
-msgstr "Phương thức thanh toán"
+msgstr "Payment Method"
 
 msgctxt "subscription_change_credit_card"
 msgid "Change credit card"
-msgstr "Thay đổi thẻ tín dụng"
+msgstr "Change credit card"
 
 msgctxt "subscription_next_transaction_title"
 msgid "Next Transaction"
-msgstr "Lần thanh toán tiếp theo"
+msgstr "Next Transaction"
 
 msgctxt "subscription_invoice_date"
 msgid "Date"
-msgstr "Ngày"
+msgstr "Date"
 
 msgctxt "subscription_history"
 msgid "Subscription History"
-msgstr "Lịch sử thanh toán"
+msgstr "Subscription History"
 
 msgctxt "subscription_upgrade_plan"
 msgid "Upgrade Plan"
-msgstr "Kế hoạch nâng cấp"
+msgstr "Upgrade Plan"
 
 msgctxt "subscription_purchase_more_agent"
 msgid "Purchase more agents"
-msgstr "Thêm agent"
+msgstr "Purchase more agents"
 
 msgctxt "subscription_manage_agent"
 msgid "Manage agents"
-msgstr "Quản lý agent"
+msgstr "Manage agents"
 
 msgctxt "subscription_pay"
 msgid "Pay"
-msgstr "Thanh toán"
+msgstr "Pay"
 
 msgctxt "subscription_agent"
 msgid "Agents"
@@ -1714,83 +1723,83 @@ msgstr "Agents"
 
 msgctxt "subscription_reduce_agents_subscription"
 msgid "Reduce agents subscription"
-msgstr "Giảm số lượng agent"
+msgstr "Reduce agents subscription"
 
 msgctxt "subscription_number_of_agent_after_reduce"
 msgid "Number of agent subscription after reduction"
-msgstr "Tổng số agent sau khi giảm"
+msgstr "Number of agent subscription after reduction"
 
 msgctxt "subscription_downgrade"
 msgid "Downgrade now"
-msgstr "Hạ cấp ngay bây giờ"
+msgstr "Downgrade now"
 
 msgctxt "subscription_upgade_successfully"
 msgid "Upgrade successfully."
-msgstr "Nâng cấp tài khoản thành công."
+msgstr "Upgrade successfully."
 
 msgctxt "subscription_upgade_error"
 msgid "Upgrade error."
-msgstr "Nâng cấp tài khoản bị lỗi."
+msgstr "Upgrade error."
 
 msgctxt "subscription_downgade_successfully"
 msgid "Downgrade successfully."
-msgstr "Hạ cấp tài khoản thành công."
+msgstr "Downgrade successfully."
 
 msgctxt "subscription_downgade_error"
 msgid "Downgrade error."
-msgstr "Hạ cấp tài khoản bị lỗi."
+msgstr "Downgrade error."
 
 msgctxt "subscription_upgade_downgrade_error"
 msgid "Upgrade or Downgrade error."
-msgstr "Nâng cấp hoặc hạ cấp tài khoản bị lỗi."
+msgstr "Upgrade or Downgrade error."
 
 msgctxt "subscription_downgrade_successfully"
 msgid "Downgrade to Free successfully"
-msgstr "Hạ cấp xuống Gói miễn phí thành công"
+msgstr "Downgrade to Free successfully"
 
 msgctxt "subscription_downgrade_reason_require"
 msgid "Downgrade reason is required."
-msgstr "Vui lòng đưa ra lý do hạ cấp tài khoản."
+msgstr "Downgrade reason is required."
 
 msgctxt "subscription_downgrade_email_agent_require"
 msgid "Downgrade email agent is required."
-msgstr "Vui lòng cung cấp địa chỉ email của agent hạ cấp tài khoản."
+msgstr "Downgrade email agent is required."
 
 msgctxt "subscription_cancel_successfully"
 msgid "Cancel account successfully"
-msgstr "Hủy bỏ tài khoản thành công"
+msgstr "Cancel account successfully"
 
 msgctxt "subscription_cancel_reason_require"
 msgid "Reason for cancelling is required."
-msgstr "Vui lòng đưa ra lý do hủy bỏ tài khoản."
+msgstr "Reason for cancelling is required."
 
 msgctxt "subscription_cancel_email_agent_require"
 msgid "Email agent is required."
-msgstr "Vui lòng cung cấp địa chỉ email của agent."
+msgstr "Email agent is required."
+
+msgctxt "subscription_unit_price"
+msgid "Unit price"
+msgstr "Unit price"
 
 msgctxt "sub_success"
 msgid "Successfully"
-msgstr "Thành công"
+msgstr "Successfully"
 
 msgctxt "sub_error"
 msgid "Error"
-msgstr "Có lỗi xảy ra"
-
-msgctxt "visitor_offline"
-msgid "The visitor is offline"
-msgstr "Visitor đã offline"
+msgstr "Error"
 
 msgctxt "sub_confirm_downgrade"
 msgid "Do you want to downgrade account?"
-msgstr "Bạn có chắc chắn muốn hạ cấp không?"
+msgstr "Do you want to downgrade account?"
 
 msgctxt "sub_confirm_cancelacc"
 msgid "Do you want to cancel account?"
-msgstr "Bạn có chắc chắn muốn hủy tài khoản không?"
+msgstr "Do you want to cancel account?"
 
 msgctxt "sub_total"
 msgid "Sub Total"
-msgstr "Tổng"
+msgstr "Sub Total"
 
 msgctxt "sub_credit"
 msgid "Credits"
@@ -1798,57 +1807,59 @@ msgstr "Credits"
 
 msgctxt "total_payment"
 msgid "Total"
-msgstr "Thanh toán"
+msgstr "Total"
+
+msgctxt "visitor_offline"
+msgid "The visitor is offline"
+msgstr "The visitor is offline"
 
 msgctxt "live-preview"
 msgid "<h3>Live preview</h3><p>See it from a visitor's perspective!</p>"
-msgstr "<h3>Xem trước</h3><p>Xem trực quan trên trang mô phỏng.</p>"
+msgstr "<h3>Live preview</h3><p>See it from a visitor's perspective!</p>"
 
 msgctxt "pre_test_page"
 msgid "Preview test page"
-msgstr "Xem ngay"
+msgstr "Preview test page"
 
 msgctxt "tuttorial"
 msgid "Tutorial"
-msgstr "Hướng dẫn"
+msgstr "Tutorial"
 
 msgctxt "learn-how-to-install"
 msgid "Learn how to install"
-msgstr "Làm thế nào để cài đặt cửa sổ chat lên website?"
+msgstr "Learn how to install"
 
 msgctxt "livechat-on"
 msgid "Start chatting with your website's visitors."
-msgstr "Các cách để chat với Visitors."
+msgstr "Start chatting with your website's visitors."
 
 msgctxt "and-any-more"
 msgid "And any more..."
-msgstr "Xem nhiều hơn ..."
+msgstr "And any more..."
 
 msgctxt "subiz-widget-code"
 msgid "<h3>Subiz widget code</h3><p>Copy the following script and insert it into your website’s HTML source code  between the &lt;body&gt;&lt;/body&gt; tags. This code must be inserted into every page on which you wish to display the Subiz chat widget</p>"
-msgstr "<h3>Mã nhúng cửa sổ chat Subiz</h3>
-            							<p>Sao chép đoạn mã dưới đây và chèn vào mã nguồn html của website giữa &lt;body&gt;&lt;/body&gt; tags. Mã nhúng này phải được chèn vào từng website riêng rẽ bạn muốn hiện cửa sổ chat</p>"
+msgstr "<h3>Subiz widget code</h3><p>Copy the following script and insert it into your website’s HTML source code  between the &lt;body&gt;&lt;/body&gt; tags. This code must be inserted into every page on which you wish to display the Subiz chat widget</p>"
 
 msgctxt "check-your-website"
 msgid "<h3>Check your website</h3><p>Check whether the Subiz Live Chat widget is correctly installed on your website.</p>"
-msgstr "<h3>Kiểm tra website của bạn</h3>
-            							<p>Kiểm tra xem mã nhúng Subiz đã đặt thành công trên website của bạn chưa.</p>"
+msgstr "<h3>Check your website</h3><p>Check whether the Subiz Live Chat widget is correctly installed on your website.</p>"
 
 msgctxt "check"
 msgid "Check"
-msgstr "Kiểm tra"
+msgstr "Check"
 
 msgctxt "msg_url_invalid"
 msgid "Your URL is invalid. Please try again!"
-msgstr "Đường dẫn URL không hợp lệ. Xin vui lòng thử lại !"
+msgstr "Your URL is invalid. Please try again!"
 
 msgctxt "msg_widget_invalid"
 msgid "Widget not found or incorrectly embedded!"
-msgstr "Không tìm thấy mã nhúng trên website !"
+msgstr "Widget not found or incorrectly embedded!"
 
 msgctxt "msg_widget_valid"
 msgid "Congratulation! Widget has been correctly embedded!"
-msgstr "Xin chúc mừng. Mã nhúng đã được chèn vào website !"
+msgstr "Congratulation! Widget has been correctly embedded!"
 
 msgctxt "subscription_payment_method_"
 msgid "None"
@@ -1860,191 +1871,191 @@ msgstr "FastSpring"
 
 msgctxt "subscription_payment_method_creditcard"
 msgid "Credit Card"
-msgstr "Thẻ tín dụng"
+msgstr "Credit Card"
 
 msgctxt "subscription_payment_method_cash"
 msgid "Bank transfer"
-msgstr "Chuyển khoản"
+msgstr "Bank transfer"
 
 msgctxt "subscription_invoice_unpaid"
 msgid "Unpaid"
-msgstr "Chưa thanh toán"
+msgstr "Unpaid"
 
 msgctxt "subscription_invoice_paid"
 msgid "Paid"
-msgstr "Đã thanh toán"
+msgstr "Paid"
 
 msgctxt "subscription_export_invoice_successfully"
 msgid "Export detailed invoice successfully."
-msgstr "Xuất hóa đơn chi tiết thành công"
+msgstr "Export detailed invoice successfully."
 
 msgctxt "subscription_export_invoice_error"
 msgid "Export detailed invoice error!"
-msgstr "Xuất hóa đơn chi tiết bị lỗi!."
+msgstr "Export detailed invoice error!"
 
 msgctxt "register_sologan"
 msgid "Live chat solution for website."
-msgstr "Giải pháp chat trực tuyến cho website."
+msgstr "Live chat solution for website."
 
 msgctxt "register_forfree"
 msgid "Start using Subiz for free!"
-msgstr "Bắt đầu sử dụng Subiz miễn phí!"
+msgstr "Start using Subiz for free!"
 
 msgctxt "register_require"
 msgid "5 minutes setup, test all powerful features in 30 days for free, no credit card required"
-msgstr "Cài đặt chỉ mất 5 phút, được sử dụng thử trong 30 ngày, không yêu cầu thẻ tín dụng"
+msgstr "5 minutes setup, test all powerful features in 30 days for free, no credit card required"
 
 msgctxt "already_have_account"
 msgid "Already have an account? %s Login %s"
-msgstr "Bạn đã có tài khoản? %s Đăng nhập %s"
+msgstr "Already have an account? %s Login %s"
 
 msgctxt "register_holder_fname"
 msgid "Full name"
-msgstr "Họ tên đầy đủ"
+msgstr "Full name"
 
 msgctxt "register_holder_email"
 msgid "Email address"
-msgstr "Địa chỉ email"
+msgstr "Email address"
 
 msgctxt "register_holder_uname"
 msgid "User name"
-msgstr "Tên đăng nhập"
+msgstr "User name"
 
 msgctxt "register_holder_pass"
 msgid "Password"
-msgstr "Mật khẩu"
+msgstr "Password"
 
 msgctxt "register_submit"
 msgid "Create my account"
-msgstr "Tạo tài khoản "
+msgstr "Create my account"
 
 msgctxt "register_term1"
 msgid "By signing up I agree to the "
-msgstr "Bằng việc đăng ký bạn chấp nhận "
+msgstr "By signing up I agree to the "
 
 msgctxt "register_term2"
 msgid "Terms of Service"
-msgstr "Điều khoản sử dụng dịch vụ"
+msgstr "Terms of Service"
 
 msgctxt "register_policy"
 msgid "Privacy Policy"
-msgstr "Chính sách bảo mật"
+msgstr "Privacy Policy"
 
 msgctxt "register_copy_right"
 msgid "@2015 Subiz. All right reserved."
-msgstr "@2015 Subiz. Bản quyền đã đươc bảo hộ."
+msgstr "@2015 Subiz. All right reserved."
 
 msgctxt "register_success"
 msgid "<span class="text-success">You have successfully registered, </span>please check your email to activate your account!"
-msgstr "<span class="text-success">Bạn đã đăng ký tài khoản thành công,</span> vui lòng kiểm tra email để kích hoạt!"
+msgstr "<span class="text-success">You have successfully registered, </span>please check your email to activate your account!"
 
 msgctxt "register_mail_error"
 msgid "System error, please try again!"
-msgstr "Hệ thống lỗi, vui lòng thử lại!"
+msgstr "System error, please try again!"
 
 msgctxt "register_error_username"
 msgid "User name has already been registered, please choose another user name!"
-msgstr "Tên đăng nhập đã tồn tại, vui lòng chọn tên đăng nhập khác!"
+msgstr "User name has already been registered, please choose another user name!"
 
 msgctxt "register_error_email"
 msgid "Email has already been registered, please choose another email address!"
-msgstr "Email đăng ký đã tồn tại, vui lòng chọn địa chỉ email khác!"
+msgstr "Email has already been registered, please choose another email address!"
 
 msgctxt "register_exist_user"
 msgid "User name already exists or is invalid! "
-msgstr "Tên đăng nhập đã tồn tại hoặc không hợp lệ! "
+msgstr "User name already exists or is invalid! "
 
 msgctxt "register_exist_email"
 msgid "Email already exists or is invalid! "
-msgstr "Địa chỉ email đã tồn tại hoặc không hợp lệ! "
+msgstr "Email already exists or is invalid! "
 
 msgctxt "register_char_user"
 msgid "User name not have special characters and not contain uppercase!"
-msgstr "Tên đăng nhập không cho phép có kí tự đặc biệt và kí tự viết hoa!"
+msgstr "User name not have special characters and not contain uppercase!"
 
 msgctxt "register_error_system"
 msgid "An error occurred unexplained!"
-msgstr "Lỗi xảy ra!"
+msgstr "An error occurred unexplained!"
 
 msgctxt "register_error_apikey"
 msgid "An error occurred unexplained, please try again later!"
-msgstr "Lỗi xảy ra, vui lòng thử lại sau !"
+msgstr "An error occurred unexplained, please try again later!"
 
 msgctxt "activation_success"
 msgid "<span class="text-success">Your account has been activated successfully !</span>"
-msgstr "Tài khoản của bạn đã được kích hoạt thành công !"
+msgstr "<span class="text-success">Your account has been activated successfully !</span>"
 
 msgctxt "activation_invalid"
 msgid "Activation code is incorrect! "
-msgstr "Mã kích hoạt không đúng! "
+msgstr "Activation code is incorrect! "
 
 msgctxt "activation_error"
 msgid "System error, please try again!"
-msgstr "Lỗi hệ thống, vui lòng thử lại sau !"
+msgstr "System error, please try again!"
 
 msgctxt "timezone"
 msgid "TimeZone"
-msgstr "Múi giờ"
+msgstr "TimeZone"
 
 msgctxt "select_timezone"
 msgid "Select timezone"
-msgstr "Chọn múi giờ"
+msgstr "Select timezone"
 
 msgctxt "register_user_space"
 msgid "User name must not contain space"
-msgstr "Tên đăng nhập không cho phép khoảng trống"
+msgstr "User name must not contain space"
 
 msgctxt "register_error_ip"
 msgid "Your IP address is not allowed!"
-msgstr "Địa chỉ IP không được cho phép !"
+msgstr "Your IP address is not allowed!"
 
 msgctxt "register_server_error"
 msgid "Connect server failed!"
-msgstr "Không thể kết nối máy chủ!"
+msgstr "Connect server failed!"
 
 msgctxt "register_error_api_key"
 msgid "Invalid Api key!"
-msgstr "Api key không hợp lệ!"
+msgstr "Invalid Api key!"
 
 msgctxt "register_error_ip_400"
 msgid "Invalid Ip address!"
-msgstr "Địa chỉ IP không hợp lệ !"
+msgstr "Invalid Ip address!"
 
 msgctxt "report_date_1"
 msgid "Today"
-msgstr "Hôm nay"
+msgstr "Today"
 
 msgctxt "report_date_7"
 msgid "Last 7 days"
-msgstr "7 ngày vừa qua"
+msgstr "Last 7 days"
 
 msgctxt "report_date_30"
 msgid "Last 30 days"
-msgstr "30 ngày vừa qua"
+msgstr "Last 30 days"
 
 msgctxt "report_custom"
 msgid "Custom"
-msgstr "Tùy chỉnh"
+msgstr "Custom"
 
 msgctxt "report_select"
 msgid "Select Agent/Department"
-msgstr "Chọn Agent/Bộ phận"
+msgstr "Select Agent/Department"
 
 msgctxt "report_normal_chat"
 msgid "Normal Chats"
-msgstr "Cuộc chat thông thường"
+msgstr "Normal Chats"
 
 msgctxt "report_missed_chat"
 msgid "Missed Chats"
-msgstr "Cuộc chat bỏ lỡ"
+msgstr "Missed Chats"
 
 msgctxt "report_chats"
 msgid "Chats"
-msgstr "Chat"
+msgstr "Chats"
 
 msgctxt "report_ratting"
 msgid "Rating"
-msgstr "Đánh giá"
+msgstr "Rating"
 
 msgctxt "report_avai"
 msgid "Availability"
@@ -2060,35 +2071,35 @@ msgstr "Referral"
 
 msgctxt "report_rate_good"
 msgid "Rate good"
-msgstr "Đánh giá tốt"
+msgstr "Rate good"
 
 msgctxt "report_not_rate"
 msgid "Not rate"
-msgstr "Không đánh giá"
+msgstr "Not rate"
 
 msgctxt "report_rate_bad"
 msgid "Rate bad"
-msgstr "Đánh giá không tốt"
+msgstr "Rate bad"
 
 msgctxt "report_filter"
 msgid "Filter:"
-msgstr "Lọc thông tin:"
+msgstr "Filter:"
 
 msgctxt "report_number_success"
 msgid "Number of successful triggers"
-msgstr "Số lần thực hiện trigger thành công"
+msgstr "Number of successful triggers"
 
 msgctxt "report_payment"
 msgid "Payment"
-msgstr "Thanh toán"
+msgstr "Payment"
 
 msgctxt "report_avai_time"
 msgid "Availability: "
-msgstr "Thời gian sẵn sàng chat: "
+msgstr "Availability: "
 
 msgctxt "availability"
 msgid "Availability"
-msgstr "Sự sẵn sàng chat"
+msgstr "Availability"
 
 msgctxt "report_chat"
 msgid "Chats"
@@ -2096,11 +2107,11 @@ msgstr "Chats"
 
 msgctxt "report_affiliate_register"
 msgid "Register Referral program"
-msgstr "Chương trình Referral"
+msgstr "Register Referral program"
 
 msgctxt "report_affiliate_sigup"
 msgid "Referral program Sign up"
-msgstr "Đăng ký chương trình Referral"
+msgstr "Referral program Sign up"
 
 msgctxt "ref_program"
 msgid "Referral program"
@@ -2108,11 +2119,11 @@ msgstr "Referral program"
 
 msgctxt "how_does_work"
 msgid "How does the referral program work?"
-msgstr "Chức năng này hoạt động như thế nào?"
+msgstr "How does the referral program work?"
 
 msgctxt "aff_help"
 msgid "<p> Share the link with as many friends as you want! It contains a special tracking code.</p><p>Your friends will click on the link and sign up for a Subiz account. Every month, get rewarded with 15% of their payment when they upgrade to a paid plan.</p>"
-msgstr "<p>Chia sẻ một link giới thiệu về Subiz đến bạn bè của bạn. Nó chứa một mã theo dõi.</p><p>Bạn bè của bạn sẽ click vào link và đăng ký một tài khoản Subiz. Hàng tháng, bạn sẽ nhận được 15% hoa hồng từ thanh toán của họ khi họ sử dụng một gói trả phí.</p><p>Subiz sẽ trả hoa hồng qua tài khoản Paypal. Nếu bạn ở Việt Nam, chúng tôi có thể chuyển khoản cho bạn.</p>"
+msgstr "<p> Share the link with as many friends as you want! It contains a special tracking code.</p><p>Your friends will click on the link and sign up for a Subiz account. Every month, get rewarded with 15% of their payment when they upgrade to a paid plan.</p>"
 
 msgctxt "report_affiliate_payment"
 msgid "Referral Payment"
@@ -2120,23 +2131,23 @@ msgstr "Referral Payment"
 
 msgctxt "report_total"
 msgid "Total register"
-msgstr "Tổng số đăng kí"
+msgstr "Total register"
 
 msgctxt "report_free"
 msgid "Free register"
-msgstr "Đăng kí dùng gói miễn phí"
+msgstr "Free register"
 
 msgctxt "report_paid"
 msgid "Paid register"
-msgstr "Đăng kí dùng gói trả phí"
+msgstr "Paid register"
 
 msgctxt "report_program"
 msgid "Register Referral Program"
-msgstr "Đăng ký chương trình Referral"
+msgstr "Register Referral Program"
 
 msgctxt "report_rewards"
 msgid "Earn rewards when your friends sign up for a paid Subiz plan! Subiz gives you 15% off of month's payment.<p>Learn more about Referral program. %s detail %s</p>"
-msgstr "Giới thiệu Subiz để có thể thêm thu nhập. Bạn sẽ nhận được 15% hoa hồng từ thanh toán của khách hàng bạn giới thiệu khi họ sử dụng gói trả phí.<p>Tìm hiểu thêm thông tin về chương trình Referral. %s xem thêm %s </p>"
+msgstr "Earn rewards when your friends sign up for a paid Subiz plan! Subiz gives you 15% off of month's payment.<p>Learn more about Referral program. %s detail %s</p>"
 
 msgctxt "report_usd"
 msgid "USD"
@@ -2144,27 +2155,27 @@ msgstr "USD"
 
 msgctxt "report_register"
 msgid "Register"
-msgstr "Đăng kí"
+msgstr "Register"
 
 msgctxt "report_cancel"
 msgid "Cancel"
-msgstr "Hủy"
+msgstr "Cancel"
 
 msgctxt "report_earn"
 msgid "Referral income"
-msgstr "Thống kê thu nhập"
+msgstr "Referral income"
 
 msgctxt "report_this_month"
 msgid "Earned in this month:"
-msgstr "Thu nhập trong tháng:"
+msgstr "Earned in this month:"
 
 msgctxt "report_last_month"
 msgid "Earned in last month:"
-msgstr "Thu nhập tháng trước:"
+msgstr "Earned in last month:"
 
 msgctxt "report_pending"
 msgid "Pending payment:"
-msgstr "Chờ thanh toán:"
+msgstr "Pending payment:"
 
 msgctxt "report_your_link"
 msgid "Referral link"
@@ -2180,11 +2191,11 @@ msgstr "Referral ID:"
 
 msgctxt "report_commision"
 msgid "Commission:"
-msgstr "Hoa hồng:"
+msgstr "Commission:"
 
 msgctxt "report_payment_setting"
 msgid "Payment setting:"
-msgstr "Cài đặt"
+msgstr "Payment setting:"
 
 msgctxt "report_email_paypal"
 msgid "Email Paypal:"
@@ -2192,119 +2203,119 @@ msgstr "Email Paypal:"
 
 msgctxt "we_pay_money"
 msgid "Let us pay for you."
-msgstr "Để chúng tôi trả tiền cho bạn."
+msgstr "Let us pay for you."
 
 msgctxt "report_currency"
 msgid "Currency:"
-msgstr "Tiền tệ:"
+msgstr "Currency:"
 
 msgctxt "report_amount"
 msgid "Amount to pay:"
-msgstr "Mức thanh toán:"
+msgstr "Amount to pay:"
 
 msgctxt "affiliate_num_20"
 msgid "Payment amount must not be less than 20$"
-msgstr "Mức thanh toán từ 20$ trở lên"
+msgstr "Payment amount must not be less than 20$"
 
 msgctxt "minimum_20"
 msgid "20$ minimum"
-msgstr "Tối thiểu 20$"
+msgstr "20$ minimum"
 
 msgctxt "report_save_change"
 msgid "Save change"
-msgstr "Lưu lại"
+msgstr "Save change"
 
 msgctxt "report_error_500"
 msgid "Connect server failed!"
-msgstr "Không thể kết nối máy chủ !"
+msgstr "Connect server failed!"
 
 msgctxt "report_error_undefine"
 msgid "Failed, unspecified error!"
-msgstr "Không thành công, lỗi không xác định !"
+msgstr "Failed, unspecified error!"
 
 msgctxt "report_error_value"
 msgid "Data not connected, please try again!"
-msgstr "Không kết nối được cơ sở dữ liệu, xin vui lòng thử lại!"
+msgstr "Data not connected, please try again!"
 
 msgctxt "report_error_daterange"
 msgid "Report period could not exceed 60 days!"
-msgstr "Thời hạn thống kê không vượt quá 60 ngày !"
+msgstr "Report period could not exceed 60 days!"
 
 msgctxt "report_error_customdate"
 msgid "Please enter starting date and ending date in custom form!"
-msgstr "Vui lòng nhập ngày bắt đầu và ngày kết thúc!"
+msgstr "Please enter starting date and ending date in custom form!"
 
 msgctxt "report_data_error"
 msgid "Data error!"
-msgstr "Dữ liệu lỗi!"
+msgstr "Data error!"
 
 msgctxt "vistor_active_visitors"
 msgid "Active visitors"
-msgstr "Active Visitors"
+msgstr "Active visitors"
 
 msgctxt "vistor_idle_visitors"
 msgid "Idle visitors"
-msgstr "Idle Visitors"
+msgstr "Idle visitors"
 
 msgctxt "vistor_request_chats"
 msgid "Request chats"
-msgstr "Yêu cầu Chat"
+msgstr "Request chats"
 
 msgctxt "history_export"
 msgid "Export"
-msgstr "Xuất"
+msgstr "Export"
 
 msgctxt "export_history"
 msgid "Export History"
-msgstr "Xuất Lịch sử chat"
+msgstr "Export History"
 
 msgctxt "history_from"
 msgid "From"
-msgstr "Từ"
+msgstr "From"
 
 msgctxt "history_to"
 msgid "To"
-msgstr "Đến"
+msgstr "To"
 
 msgctxt "history_file_type"
 msgid "File type"
-msgstr "Định dạng file"
+msgstr "File type"
 
 msgctxt "history_submit"
 msgid "Export"
-msgstr "Xuất"
+msgstr "Export"
 
 msgctxt "history_cancel"
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr "Cancel"
 
 msgctxt "history_filter"
 msgid "Filter chats by:"
-msgstr "Lọc cuộc chat theo:"
+msgstr "Filter chats by:"
 
 msgctxt "history_date"
 msgid "Date"
-msgstr "Ngày"
+msgstr "Date"
 
 msgctxt "history_today"
 msgid "Today"
-msgstr "Hôm nay"
+msgstr "Today"
 
 msgctxt "history_yesterday"
 msgid "Yesterday"
-msgstr "Hôm qua"
+msgstr "Yesterday"
 
 msgctxt "history_last_7days"
 msgid "Last 7 days"
-msgstr "7 ngày vừa qua"
+msgstr "Last 7 days"
 
 msgctxt "history_last_30days"
 msgid "Last 30 days"
-msgstr "30 ngày vừa qua"
+msgstr "Last 30 days"
 
 msgctxt "history_custom"
 msgid "Custom"
-msgstr "Tùy chỉnh"
+msgstr "Custom"
 
 msgctxt "history_agent"
 msgid "Agent"
@@ -2312,11 +2323,11 @@ msgstr "Agent"
 
 msgctxt "history_department"
 msgid "Department"
-msgstr "Bộ phận"
+msgstr "Department"
 
 msgctxt "history_rating"
 msgid "Rating"
-msgstr "Đánh giá"
+msgstr "Rating"
 
 msgctxt "history_tag"
 msgid "Tag"
@@ -2324,59 +2335,59 @@ msgstr "Tag"
 
 msgctxt "history_rated_chat"
 msgid "Rated Chats"
-msgstr "Được đánh giá"
+msgstr "Rated Chats"
 
 msgctxt "history_not_rated"
 msgid "Not Rated"
-msgstr "Không được đánh giá"
+msgstr "Not Rated"
 
 msgctxt "history_rated_bad"
 msgid "Rated Bad"
-msgstr "Đánh giá không tốt"
+msgstr "Rated Bad"
 
 msgctxt "history_rated_good"
 msgid "Rated Good"
-msgstr "Đánh giá tốt"
+msgstr "Rated Good"
 
 msgctxt "history_type"
 msgid "Type"
-msgstr "Loại"
+msgstr "Type"
 
 msgctxt "history_new_visitor"
 msgid "New Visitors"
-msgstr "Visitor mới"
+msgstr "New Visitors"
 
 msgctxt "history_return_visitor"
 msgid "Returning Visitors"
-msgstr "Visitor quay lại"
+msgstr "Returning Visitors"
 
 msgctxt "history_search"
 msgid "Search visitors"
-msgstr "Tìm kiếm visitor"
+msgstr "Search visitors"
 
 msgctxt "history_message"
 msgid "Message content"
-msgstr "Nội dung tin nhắn"
+msgstr "Message content"
 
 msgctxt "history_name"
 msgid "Visitor name"
-msgstr "Tên visitor"
+msgstr "Visitor name"
 
 msgctxt "history_email"
 msgid "Visitor email"
-msgstr "Email visitor"
+msgstr "Visitor email"
 
 msgctxt "history_phone"
 msgid "Visitor phone"
-msgstr "Số điện thoại visitor"
+msgstr "Visitor phone"
 
 msgctxt "history_find_now"
 msgid "Find now "
-msgstr "Tìm kiếm ngay"
+msgstr "Find now "
 
 msgctxt "history_close"
 msgid "Close"
-msgstr "Đóng"
+msgstr "Close"
 
 msgctxt "history_transcript"
 msgid "TRANSCRIPT"
@@ -2384,123 +2395,123 @@ msgstr "TRANSCRIPT"
 
 msgctxt "history_visitor_info"
 msgid "VISITOR INFO"
-msgstr "Thông tin "
+msgstr "VISITOR INFO"
 
 msgctxt "history_visitor_notes"
 msgid "VISITOR NOTES"
-msgstr "Ghi chú"
+msgstr "VISITOR NOTES"
 
 msgctxt "history_time_on_site"
 msgid "Time on site"
-msgstr "Thời gian trên website"
+msgstr "Time on site"
 
 msgctxt "history_location"
 msgid "Location"
-msgstr "Địa điểm"
+msgstr "Location"
 
 msgctxt "history_label"
 msgid "Label:"
-msgstr "Gắn nhãn:"
+msgstr "Label:"
 
 msgctxt "history_more"
 msgid "more"
-msgstr "Nhiều hơn"
+msgstr "more"
 
 msgctxt "history_less"
 msgid "less"
-msgstr "Ít hơn"
+msgstr "less"
 
 msgctxt "history_already"
 msgid "Already looked:"
-msgstr "Vừa xem :"
+msgstr "Already looked:"
 
 msgctxt "history_add_note"
 msgid "Add visitor notes"
-msgstr "Thêm ghi chú visitor"
+msgstr "Add visitor notes"
 
 msgctxt "history_ip"
 msgid "IP address:"
-msgstr "Địa chỉ IP:"
+msgstr "IP address:"
 
 msgctxt "history_browse"
 msgid "Browser: "
-msgstr "Trình duyệt: "
+msgstr "Browser: "
 
 msgctxt "history_error_date"
 msgid "Please check date again, the time period is not over 30 days!"
-msgstr "Vui lòng kiểm tra lại thời gian, khoảng thời gian cho phép không vượt quá 30 ngày!"
+msgstr "Please check date again, the time period is not over 30 days!"
 
 msgctxt "history_export_success"
 msgid "Successful, the report will be sent to the email"
-msgstr "Xuất file thành công, lịch sử chat sẽ được gửi vào email"
+msgstr "Successful, the report will be sent to the email"
 
 msgctxt "history_export_error"
 msgid "Write file CSV error!"
-msgstr "Tạo file CSV bị lỗi!"
+msgstr "Write file CSV error!"
 
 msgctxt "history_server_error"
 msgid "Data error, please try later!"
-msgstr "Không kết nối được dữ liệu, vui lòng thử lại sau!"
+msgstr "Data error, please try later!"
 
 msgctxt "history_waiting_time"
 msgid "Waiting time"
-msgstr "Thời gian chờ phản hồi"
+msgstr "Waiting time"
 
 msgctxt "history_email_empty"
 msgid "Email must not leave empty"
-msgstr "Email không được bỏ trống"
+msgstr "Email must not leave empty"
 
 msgctxt "history_error_01"
 msgid "Day export must not leave empty, please fill in from date and to date!"
-msgstr "Thời gian xuất file không được bỏ trống, vui lòng điền khoảng thời gian!"
+msgstr "Day export must not leave empty, please fill in from date and to date!"
 
 msgctxt "history_error_02"
 msgid "Not found any information of history!"
-msgstr "Không tìm thấy thông tin được yêu cầu !"
+msgstr "Not found any information of history!"
 
 msgctxt "history_visitor_name"
 msgid "Visitor name"
-msgstr "Tên visitor"
+msgstr "Visitor name"
 
 msgctxt "history_visitor_email"
 msgid "Visitor email"
-msgstr "Email visitor"
+msgstr "Visitor email"
 
 msgctxt "history_visitor_phone"
 msgid "Visitor phone"
-msgstr "Số điện thoại visitor"
+msgstr "Visitor phone"
 
 msgctxt "history_visitor_ip"
 msgid "Visitor Ip"
-msgstr "Địa chỉ IP visitor"
+msgstr "Visitor Ip"
 
 msgctxt "history_country"
 msgid "Country"
-msgstr "Quốc gia"
+msgstr "Country"
 
 msgctxt "history_city"
 msgid "City"
-msgstr "Thành phố"
+msgstr "City"
 
 msgctxt "history_start_by"
 msgid "Start by"
-msgstr "Bắt đầu bằng"
+msgstr "Start by"
 
 msgctxt "history_created"
 msgid "Created"
-msgstr "Khởi tạo"
+msgstr "Created"
 
 msgctxt "history_end"
 msgid "End"
-msgstr "Kết thúc"
+msgstr "End"
 
 msgctxt "history_chat_url"
 msgid "Chat Url"
-msgstr "Đường dẫn chat"
+msgstr "Chat Url"
 
 msgctxt "history_referer"
 msgid "Referral URL"
-msgstr "Nguồn dẫn chat"
+msgstr "Referral URL"
 
 msgctxt "history_agent_export"
 msgid "Agent"
@@ -2508,35 +2519,35 @@ msgstr "Agent"
 
 msgctxt "history_dep_export"
 msgid "Department"
-msgstr "Bộ phận"
+msgstr "Department"
 
 msgctxt "history_initial"
 msgid "Initial Question"
-msgstr "Câu hỏi bắt đầu"
+msgstr "Initial Question"
 
 msgctxt "history_time_second"
 msgid "second"
-msgstr "giây"
+msgstr "second"
 
 msgctxt "history_chat"
 msgid "Chats"
-msgstr "Chat"
+msgstr "Chats"
 
 msgctxt "history_offline_message"
 msgid "Offline message"
-msgstr "Tin nhắn offline"
+msgstr "Offline message"
 
 msgctxt "history_list_email"
 msgid "Email Address, separated with a comma"
-msgstr "Danh sách email, ngăn cách nhau bởi dấu phẩy"
+msgstr "Email Address, separated with a comma"
 
 msgctxt "history_note_send_email"
 msgid "The report will be sent to the specified email"
-msgstr "Lịch sử chat sẽ được gửi vào những email ở trên"
+msgstr "The report will be sent to the specified email"
 
 msgctxt "history_of"
 msgid "of"
-msgstr "của"
+msgstr "of"
 
 msgctxt "report_agent"
 msgid "AGENTS"
@@ -2544,51 +2555,51 @@ msgstr "AGENTS"
 
 msgctxt "report_department"
 msgid "DEPARTMENTS"
-msgstr "Bộ phận"
+msgstr "DEPARTMENTS"
 
 msgctxt "history_return"
 msgid "Returning "
-msgstr "Quay lại "
+msgstr "Returning "
 
 msgctxt "visitors"
 msgid "Visitors"
-msgstr "Visitor"
+msgstr "Visitors"
 
 msgctxt "all_type"
 msgid "All type"
-msgstr "Tất cả các loại"
+msgstr "All type"
 
 msgctxt "return"
 msgid "Return"
-msgstr "Quay lại"
+msgstr "Return"
 
 msgctxt "new"
 msgid "New"
-msgstr "Mới"
+msgstr "New"
 
 msgctxt "online_more"
 msgid "Online more"
-msgstr "Online nhiều hơn"
+msgstr "Online more"
 
 msgctxt "all_minutes"
 msgid "All Minutes"
-msgstr "Tổng số phút"
+msgstr "All Minutes"
 
 msgctxt "1_minutes"
 msgid "1 minute"
-msgstr "1 phút"
+msgstr "1 minute"
 
 msgctxt "2_minutes"
 msgid "2 minutes"
-msgstr "2 phút"
+msgstr "2 minutes"
 
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 phút"
+msgstr "5 minutes"
 
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 phút"
+msgstr "10 minutes"
 
 msgctxt "online"
 msgid "Online"
@@ -2596,7 +2607,7 @@ msgstr "Online"
 
 msgctxt "looking"
 msgid "Looking"
-msgstr "Đang xem"
+msgstr "Looking"
 
 msgctxt "agent"
 msgid "Agent"
@@ -2604,95 +2615,95 @@ msgstr "Agent"
 
 msgctxt "select_action"
 msgid "Select action"
-msgstr "Chọn hành động"
+msgstr "Select action"
 
 msgctxt "ban_visitor"
 msgid "Ban Visitor"
-msgstr "Chặn visitor"
+msgstr "Ban Visitor"
 
 msgctxt "double_click_edit"
 msgid "Double-click here to edit"
-msgstr "Click hai lần ở đây để sửa đổi"
+msgstr "Double-click here to edit"
 
 msgctxt "information"
 msgid "Information"
-msgstr "Thông tin"
+msgstr "Information"
 
 msgctxt "note"
 msgid "Note"
-msgstr "Ghi chú"
+msgstr "Note"
 
 msgctxt "to_minimize_this_chat"
 msgid "To minimize this chat, click the minimize button or out the chat window."
-msgstr "Để thu nhỏ cuộc hội thoại, ấn nút thu nhỏ hoặc thoát ra ngoài cửa sổ chat"
+msgstr "To minimize this chat, click the minimize button or out the chat window."
 
 msgctxt "tranfer_chat_to_agents"
 msgid "Transfer chat to Agents"
-msgstr "Chuyển cuộc chat tới Agent khác"
+msgstr "Transfer chat to Agents"
 
 msgctxt "agents_avaiable"
 msgid "Agents available"
-msgstr "Agent sẵn sàng"
+msgstr "Agents available"
 
 msgctxt "all_agents"
 msgid "All agents"
-msgstr "Tất cả agent"
+msgstr "All agents"
 
 msgctxt "messenger"
 msgid "Messages"
-msgstr "Tin nhắn"
+msgstr "Messages"
 
 msgctxt "messenger_send_to_agents"
 msgid "Messages sent to agents"
-msgstr "Tin nhắn gửi tới agent"
+msgstr "Messages sent to agents"
 
 msgctxt "transfer"
 msgid "Transfer"
-msgstr "Chuyển"
+msgstr "Transfer"
 
 msgctxt "ban_visitors"
 msgid "Ban Visitors"
-msgstr "Chặn visitor"
+msgstr "Ban Visitors"
 
 msgctxt "reason"
 msgid "Reason"
-msgstr "Lý do"
+msgstr "Reason"
 
 msgctxt "also_ban_visitor_IP_adress"
 msgid "Also ban visitor's IP address"
-msgstr "Đồng thời chặn địa chỉ IP visitor"
+msgstr "Also ban visitor's IP address"
 
 msgctxt "enable_sound_notification"
 msgid "Enable sound notification"
-msgstr "Bật âm thanh thông báo"
+msgstr "Enable sound notification"
 
 msgctxt "notification_browser_not_support"
 msgid "Desktop notifications are currently not supported for your browser."
-msgstr "Thông báo ngoài màn hình nền hiện tại chưa được hỗ trợ cho trình duyệt của bạn."
+msgstr "Desktop notifications are currently not supported for your browser."
 
 msgctxt "notification_recommend"
 msgid "Open the page in Chrome(version 23+), Safari(version6+), Fire fox(with ff-html5notifications plugin installed) and IE9+."
-msgstr "Mở bằng Chrome(version 23+), Safari(version6+), Firefox (với ff-html5notifications plugin) và IE9+."
+msgstr "Open the page in Chrome(version 23+), Safari(version6+), Fire fox(with ff-html5notifications plugin installed) and IE9+."
 
 msgctxt "notification_allowed"
 msgid "Notifications allowed."
-msgstr "Thông báo được kích hoạt."
+msgstr "Notifications allowed."
 
 msgctxt "notification_not_allowed"
 msgid "Notifications not allowed. (click to enable)"
-msgstr "Thông báo không được cho phép. (click để kích hoạt)"
+msgstr "Notifications not allowed. (click to enable)"
 
 msgctxt "notification_denied"
 msgid "Notifications denied. (Change notifications permission in you browser(s) settings)"
-msgstr "Thông báo bị từ chối. (Thay đổi quyền cho phép thông báo trong phần cài đặt trong trình duyệt)"
+msgstr "Notifications denied. (Change notifications permission in you browser(s) settings)"
 
 msgctxt "login_username"
 msgid "User name or Email"
-msgstr "Tên đăng nhập hoặc Email"
+msgstr "User name or Email"
 
 msgctxt "login_pass"
 msgid "Password"
-msgstr "Mật khẩu"
+msgstr "Password"
 
 msgctxt "login_availalbe"
 msgid "Available"
@@ -2704,115 +2715,115 @@ msgstr "Away"
 
 msgctxt "login_signin"
 msgid "Sign in"
-msgstr "Đăng nhập"
+msgstr "Sign in"
 
 msgctxt "login_alway"
 msgid "Always sign in automatically"
-msgstr "Luôn đăng nhập tự động"
+msgstr "Always sign in automatically"
 
 msgctxt "login_forgot_pass"
 msgid "Forgot your password?"
-msgstr "Quên mật khẩu?"
+msgstr "Forgot your password?"
 
 msgctxt "login_email"
 msgid "Email address"
-msgstr "Địa chỉ email"
+msgstr "Email address"
 
 msgctxt "login_robot"
 msgid "Prove that you are not a robot"
-msgstr "Chứng minh bạn không phải robot"
+msgstr "Prove that you are not a robot"
 
 msgctxt "login_type_text"
 msgid "Type the text"
-msgstr "Điền nội dung"
+msgstr "Type the text"
 
 msgctxt "login_recover"
 msgid "Recover Password"
-msgstr "Khôi phục lại mật khẩu"
+msgstr "Recover Password"
 
 msgctxt "login_copyright"
 msgid "@2015 Subiz. All right reserved."
-msgstr "@2015 Subiz. Bản quyền đã được bảo hộ."
+msgstr "@2015 Subiz. All right reserved."
 
 msgctxt "login_enter_pass"
 msgid "Please enter your new password."
-msgstr "Vui lòng điền mật khẩu mới."
+msgstr "Please enter your new password."
 
 msgctxt "login_new_pass"
 msgid "New password"
-msgstr "Mật khẩu mới"
+msgstr "New password"
 
 msgctxt "login_re_pass"
 msgid "Retype password"
-msgstr "Gõ lại mật khẩu"
+msgstr "Retype password"
 
 msgctxt "login_submit"
 msgid "Submit"
-msgstr "Gửi"
+msgstr "Submit"
 
 msgctxt "login_error_user"
 msgid "User does not exist!"
-msgstr "Người dùng không tồn tại ! "
+msgstr "User does not exist!"
 
 msgctxt "login_error_invalid"
 msgid "User or password incorrect!"
-msgstr "Người dùng hoặc mật khẩu không đúng ! "
+msgstr "User or password incorrect!"
 
 msgctxt "login_error_inactive"
 msgid "This agent has been locked. Please contact your administrator to unlock!"
-msgstr "Agent này đang bị khóa. Vui lòng liên hệ admin của bạn để mở khóa."
+msgstr "This agent has been locked. Please contact your administrator to unlock!"
 
 msgctxt "login_error_delete"
 msgid "This agent has been suspended!"
-msgstr "Agent này đã bị xóa !"
+msgstr "This agent has been suspended!"
 
 msgctxt "login_error"
 msgid "Failed, unspecified error!"
-msgstr "Không thành công, lỗi không xác định !"
+msgstr "Failed, unspecified error!"
 
 msgctxt "login_error_captcha"
 msgid "The code invalid!"
-msgstr "Mã không hợp lệ!"
+msgstr "The code invalid!"
 
 msgctxt "login_send_mail"
 msgid "<span class="text-success">Email was sent,</span> please check your email to recover your password!"
-msgstr "<span class="text-success">Đã gửi email,</span> vui lòng check email để khôi phục mật khẩu!"
+msgstr "<span class="text-success">Email was sent,</span> please check your email to recover your password!"
 
 msgctxt "login_fail"
 msgid "Login failed!"
-msgstr "Không thành công!"
+msgstr "Login failed!"
 
 msgctxt "login_error_email"
 msgid "Email does not exist!"
-msgstr "Email không tồn tại! "
+msgstr "Email does not exist!"
 
 msgctxt "login_account_delete"
 msgid "User account or account of this email was deleted!"
-msgstr "Tài khoản người dùng hoặc tài khoản sử dụng email này đã bị xóa ! "
+msgstr "User account or account of this email was deleted!"
 
 msgctxt "login_email_invalid"
 msgid "Email invalid!"
-msgstr "Email không hợp lệ!"
+msgstr "Email invalid!"
 
 msgctxt "login_not_success"
 msgid "System error, please try again!"
-msgstr "Lỗi hệ thống, xin vui lòng thử lại !"
+msgstr "System error, please try again!"
 
 msgctxt "login_error_code"
 msgid "The code does not exist or expired!"
-msgstr "Mã không tồn tại hoặc đã hết hạn !"
+msgstr "The code does not exist or expired!"
 
 msgctxt "login_error_pass"
 msgid "Password does not match, please try again!"
-msgstr "Mật khẩu không đúng, xin vui lòng thử lại!"
+msgstr "Password does not match, please try again!"
 
 msgctxt "login_change_success"
 msgid "<span class="text-success">Successful change password!</span>"
-msgstr "<span class="text-success">Thay đổi mật khẩu thành công !</span>"
+msgstr "<span class="text-success">Successful change password!</span>"
 
 msgctxt "login_email_delete"
 msgid "Email was deleted"
-msgstr "Đã xóa email"
+msgstr "Email was deleted"
 
 msgctxt "login_click"
 msgid "Click "
@@ -2820,79 +2831,79 @@ msgstr "Click "
 
 msgctxt "login_here"
 msgid "here "
-msgstr "ở đây"
+msgstr "here "
 
 msgctxt "to_login"
 msgid "to login Subiz"
-msgstr "để đăng nhập Subiz"
+msgstr "to login Subiz"
 
 msgctxt "register_invalid_ip"
 msgid "Invalid ip!"
-msgstr "Địa chỉ IP không hợp lệ !"
+msgstr "Invalid ip!"
 
 msgctxt "register_captcha"
 msgid "Type the text"
-msgstr "Điền nội dung"
+msgstr "Type the text"
 
 msgctxt "error_fullname"
 msgid "The full name"
-msgstr "Họ tên đầy đủ"
+msgstr "The full name"
 
 msgctxt "error_username"
 msgid "The user name"
-msgstr "Tên đăng nhập"
+msgstr "The user name"
 
 msgctxt "error_email"
 msgid "The email address"
-msgstr "Địa chỉ email"
+msgstr "The email address"
 
 msgctxt "error_password"
 msgid "The password"
-msgstr "Mật khẩu"
+msgstr "The password"
 
 msgctxt "mes_required"
 msgid "%s field is required."
-msgstr "%s field yêu cầu."
+msgstr "%s field is required."
 
 msgctxt "mes_minlength"
 msgid "%s field must be at least %s characters in length."
-msgstr "Độ dài %s field ít nhất %s kí tự."
+msgstr "%s field must be at least %s characters in length."
 
 msgctxt "mes_maxlength"
 msgid "%s field can not exceed %s characters in length."
-msgstr "Độ dài %s field không vượt quá %s kí tự."
+msgstr "%s field can not exceed %s characters in length."
 
 msgctxt "mes_valid_email"
 msgid "%s field must contain a valid email address."
-msgstr "%s field bao gồm địa chỉ email hợp lệ."
+msgstr "%s field must contain a valid email address."
 
 msgctxt "error_user_email"
 msgid "The User name or Email address"
-msgstr "Tên đăng nhập hoặc địa chỉ email"
+msgstr "The User name or Email address"
 
 msgctxt "error_new_pass"
 msgid "The new password"
-msgstr "Mật khẩu mới"
+msgstr "The new password"
 
 msgctxt "error_re_pass"
 msgid "The retype password"
-msgstr "Gõ lại mật khẩu"
+msgstr "The retype password"
 
 msgctxt "affiliate_invalid_email"
 msgid "The email address is invalid."
-msgstr "Định dạng email không đúng."
+msgstr "The email address is invalid."
 
 msgctxt "affiliate_required_email"
 msgid "Paypal email is required."
-msgstr "Email paypal không được trống."
+msgstr "Paypal email is required."
 
 msgctxt "affiliate_num_amount"
 msgid "The amount to pay is numeric."
-msgstr "Mức thanh toán phải là số."
+msgstr "The amount to pay is numeric."
 
 msgctxt "affiliate_required_amount"
 msgid "The amount to pay field is required."
-msgstr "Mức thanh toán không được trống"
+msgstr "The amount to pay field is required."
 
 msgctxt "affiliate_required_currency"
 msgid "The currency field is required."
@@ -2904,43 +2915,43 @@ msgstr "Settings is successful!"
 
 msgctxt "affiliate_success_register"
 msgid "Register successfully!"
-msgstr "Đăng kí thành công!"
+msgstr "Register successfully!"
 
 msgctxt "affiliate_total_paid"
 msgid "Total paid accounts"
-msgstr "Tổng số tài khoản trả phí"
+msgstr "Total paid accounts"
 
 msgctxt "sologan"
 msgid "<span class="system-help">Follow the instructions</span> to install Chat Window on your website."
-msgstr "<span class="system-help">Hướng dẫn tích hợp</span> cửa sổ chat vào website của bạn."
+msgstr "<span class="system-help">Follow the instructions</span> to install Chat Window on your website."
 
 msgctxt "report_error_info"
 msgid "Can't find information of affiliate!"
-msgstr "Không tìm thấy thông tin của Affiliate!"
+msgstr "Can't find information of affiliate!"
 
 msgctxt "register_embed"
 msgid "Embed Widget"
-msgstr "Nhúng cửa sổ chat widget"
+msgstr "Embed Widget"
 
 msgctxt "register_embed_note_1"
 msgid "Copy the following script and insert it into your website's HTML source code between the &lt;body&gt;&lt;/body&gt; tags."
-msgstr "Sao chép đoạn dưới đây và chèn vào mã nguồn Html website của bạn giữa thẻ &lt;body&gt;&lt;/body&gt; tags."
+msgstr "Copy the following script and insert it into your website's HTML source code between the &lt;body&gt;&lt;/body&gt; tags."
 
 msgctxt "register_embed_note_2"
 msgid "This code must be inserted into every page where you wish to display the Subiz chat widget."
-msgstr "Đoạn mã phải được chèn vào mỗi website bạn muốn đặt cửa sổ chat widget Subiz."
+msgstr "This code must be inserted into every page where you wish to display the Subiz chat widget."
 
 msgctxt "register_do_it_late"
 msgid "I'll do it later..."
-msgstr "Tôi sẽ thực hiện sau..."
+msgstr "I'll do it later..."
 
 msgctxt "register_embed_note_3"
 msgid "You will see your website visitors in your dashboard once the widgets are integrated"
-msgstr "Bạn sẽ nhìn thấy visitor trên website của bạn một khi cửa sổ chat widget được nhúng vào website"
+msgstr "You will see your website visitors in your dashboard once the widgets are integrated"
 
 msgctxt "dashboard-lang"
 msgid "Dashboard language"
-msgstr "Ngôn ngữ Dashboard"
+msgstr "Dashboard language"
 
 msgctxt "vietnamese"
 msgid "Tiếng Việt"
@@ -2968,95 +2979,95 @@ msgstr "ภาษาไทย"
 
 msgctxt "welcome"
 msgid "Welcome"
-msgstr "Chào mừng"
+msgstr "Welcome"
 
 msgctxt "trigger_action_applyToLabel"
 msgid "Apply to label"
-msgstr "Gắn Nhãn"
+msgstr "Apply to label"
 
 msgctxt "trigger_help_applyToLabel_holder_name"
 msgid "Label"
-msgstr "Nhãn"
+msgstr "Label"
 
 msgctxt "trigger_help_applyToLabel"
 msgid "Input label to apply. You can enter many Label separated with a semicolon. e.g: T-Shirt; Shoes"
-msgstr "Nhập Nhãn muốn gắn cho Visitor. Bạn có thể nhập nhiều nhãn cách nhau dấu chấm phẩy. Vd: Áo Sơ mi;Giầy Nữ"
+msgstr "Input label to apply. You can enter many Label separated with a semicolon. e.g: T-Shirt; Shoes"
 
 msgctxt "trigger_action_removeToLabel"
 msgid "Remove label"
-msgstr "Xóa Nhãn"
+msgstr "Remove label"
 
 msgctxt "trigger_help_removeToLabel_holder_name"
 msgid "Label"
-msgstr "Nhãn"
+msgstr "Label"
 
 msgctxt "trigger_help_removeToLabel"
 msgid "Input label to remove."
-msgstr "Nhập Nhãn để xóa bỏ."
+msgstr "Input label to remove."
 
 msgctxt "your_account_has_been"
 msgid "Your account has been reached to maximum Agent. Please <a href="https://dashboard.subiz.com/subscription/index" target="_blank">upgrade your account</a>!"
-msgstr "Tài khoản của bạn đã sử dụng số lượng Agent tối đa cho phép. Xin vui lòng <a href="https://dashboard.subiz.com/subscription/index" target="_blank">nâng cấp tài khoản</a>!"
+msgstr "Your account has been reached to maximum Agent. Please <a href="https://dashboard.subiz.com/subscription/index" target="_blank">upgrade your account</a>!"
 
 msgctxt "detail_name"
 msgid "Name:"
-msgstr "Tên:"
+msgstr "Name:"
 
 msgctxt "detail_phone"
 msgid "Phone:"
-msgstr "Điện thoại:"
+msgstr "Phone:"
 
 msgctxt "detail_email"
 msgid "Email:"
-msgstr "Địa chỉ Email:"
+msgstr "Email:"
 
 msgctxt "trigger_visitor_email"
 msgid "Visitor email address"
-msgstr "Địa chỉ email visitor"
+msgstr "Visitor email address"
 
 msgctxt "trigger_help_visitor_email"
 msgid "Visitor email address(account@domain.com)"
-msgstr "Địa chỉ email visitor(account@domain.com)"
+msgstr "Visitor email address(account@domain.com)"
 
 msgctxt "trigger_help_visitor_email_holder"
 msgid "account@domain.com"
-msgstr "Ví dụ: account@domain.com"
+msgstr "account@domain.com"
 
 msgctxt "trigger_visitor_phone"
 msgid "Visitor phone number"
-msgstr "Số điện thoại visitor"
+msgstr "Visitor phone number"
 
 msgctxt "trigger_help_visitor_phone"
 msgid "Visitor phone number (0913862548)"
-msgstr "Số điện thoại visitor (0913862548)"
+msgstr "Visitor phone number (0913862548)"
 
 msgctxt "trigger_help_visitor_phone_holder"
 msgid "09xxxxxxxx"
-msgstr "Ví dụ: 09xxxxxxxx"
+msgstr "09xxxxxxxx"
 
 msgctxt "trigger_visitor_device"
 msgid "Visitor device"
-msgstr "Thiết bị visitor sử dụng"
+msgstr "Visitor device"
 
 msgctxt "trigger_help_visitor_device"
 msgid "Visitor device (Mobile;Tablet;Desktop)"
-msgstr "Thiết bị visitor sử dụng(Mobile;Tablet;Desktop)"
+msgstr "Visitor device (Mobile;Tablet;Desktop)"
 
 msgctxt "trigger_help_visitor_device_holder"
 msgid "Ex Mobile"
-msgstr "Ví dụ: Mobile"
+msgstr "Ex Mobile"
 
 msgctxt "trigger_visitor_label"
 msgid "Visitor label"
-msgstr "Nhãn của visitor"
+msgstr "Visitor label"
 
 msgctxt "trigger_help_visitor_label"
 msgid "Visitor label (T-Shit)"
-msgstr "Nhãn của visitor (T-Shit)"
+msgstr "Visitor label (T-Shit)"
 
 msgctxt "trigger_help_visitor_label_holder"
 msgid "Label"
-msgstr "Nhãn"
+msgstr "Label"
 
 msgctxt "history_os"
 msgid "Os: "
@@ -3064,71 +3075,71 @@ msgstr "Os: "
 
 msgctxt "subscription"
 msgid "Subscription"
-msgstr "Thông tin trả phí"
+msgstr "Subscription"
 
 msgctxt "subscription_free"
 msgid "Subscription"
-msgstr "Trả phí"
+msgstr "Subscription"
 
 msgctxt "subscription_pays"
 msgid "Subscription"
-msgstr "Thuê bao dịch vụ"
+msgstr "Subscription"
 
 msgctxt "logout"
 msgid "Logout"
-msgstr "Đăng xuất"
+msgstr "Logout"
 
 msgctxt "reports"
 msgid "Reports"
-msgstr "Thống kê"
+msgstr "Reports"
 
 msgctxt "setting"
 msgid "Setting"
-msgstr "Cài đặt"
+msgstr "Setting"
 
 msgctxt "history"
 msgid "History"
-msgstr "Lịch sử"
+msgstr "History"
 
 msgctxt "using-trigger"
 msgid "Create new label"
-msgstr "Tạo nhãn mới"
+msgstr "Create new label"
 
 msgctxt "search-depat"
 msgid "Search department"
-msgstr "Tìm kiếm Bộ phận"
+msgstr "Search department"
 
 msgctxt "type-your-message-here"
 msgid "Type your message here"
-msgstr "Nhập tin nhắn ở đây"
+msgstr "Type your message here"
 
 msgctxt "subiz_recommends"
 msgid "Subiz recommends you upgrade your browser to enjoy all the features in the new Subiz Live Chat"
-msgstr "Subiz khuyến nghị bạn sử dụng trình duyệt dưới đây để trải nghiệm đầy đủ chức năng mới của Subiz"
+msgstr "Subiz recommends you upgrade your browser to enjoy all the features in the new Subiz Live Chat"
 
 msgctxt "upgrade"
 msgid "Upgrade"
-msgstr "Nâng cấp"
+msgstr "Upgrade"
 
 msgctxt "continue"
 msgid "Continue</a> without upgrading</p>"
-msgstr "Tiếp tục truy cập</a> mà không nâng cấp</p>"
+msgstr "Continue</a> without upgrading</p>"
 
 msgctxt "by_google"
 msgid "Enhanced by Google"
-msgstr "với Google"
+msgstr "Enhanced by Google"
 
 msgctxt "by_mozilla"
 msgid "Enhanced by Mozilla"
-msgstr "với Mozilla"
+msgstr "Enhanced by Mozilla"
 
 msgctxt "by_apple"
 msgid "Enhanced by Apple"
-msgstr "với Apple"
+msgstr "Enhanced by Apple"
 
 msgctxt "availibility_line"
 msgid "Availability"
-msgstr "Thời gian sẵn sàng chat"
+msgstr "Availability"
 
 msgctxt "trigger_line"
 msgid "Triggers"
@@ -3136,39 +3147,39 @@ msgstr "Triggers"
 
 msgctxt "analytics"
 msgid "Analytics"
-msgstr "Biểu đồ thống kê"
+msgstr "Analytics"
 
 msgctxt "source_report"
 msgid "Source: Subiz.com"
-msgstr "Nguồn: Subiz.com"
+msgstr "Source: Subiz.com"
 
 msgctxt "subiz_chats"
 msgid "Subiz Chats"
-msgstr "Thống kê chat"
+msgstr "Subiz Chats"
 
 msgctxt "subiz_rating"
 msgid "Subiz Rating"
-msgstr "Đánh giá chat"
+msgstr "Subiz Rating"
 
 msgctxt "subiz_availibility"
 msgid "Subiz Availability"
-msgstr "Thời gian sẵn sàng chat"
+msgstr "Subiz Availability"
 
 msgctxt "subiz_triggers"
 msgid "Subiz Triggers"
-msgstr "Thống kê triggers"
+msgstr "Subiz Triggers"
 
 msgctxt "subiz_affiliate"
 msgid "Subiz Affiliate"
-msgstr "Thống kê referral"
+msgstr "Subiz Affiliate"
 
 msgctxt "msg_not_is_image"
 msgid "Your file is not an image file"
-msgstr "Không phải file ảnh"
+msgstr "Your file is not an image file"
 
 msgctxt "report_all"
 msgid "ALL"
-msgstr "Tất cả"
+msgstr "ALL"
 
 msgctxt "logo"
 msgid "Logo"
@@ -3176,15 +3187,15 @@ msgstr "Logo"
 
 msgctxt "position"
 msgid "Widget position"
-msgstr "Vị trí của cửa sổ chat"
+msgstr "Widget position"
 
 msgctxt "left"
 msgid "Left"
-msgstr "Trái"
+msgstr "Left"
 
 msgctxt "right"
 msgid "Right"
-msgstr "Phải"
+msgstr "Right"
 
 msgctxt "your_account_has_not_been_confirmed"
 msgid "Your account has not been confirmed, please check your email to confirm your account before proceeding subscription. Once confirm account, please %s Logout %s then %s Login %s to continue"
@@ -3192,59 +3203,59 @@ msgstr "Your account has not been confirmed, please check your email to confirm 
 
 msgctxt "notify_send_mail_to_upgrade_downgrade"
 msgid "If you want to upgrade, downgrade, add / reduce agents... please send us an email at support@subiz.com"
-msgstr "If you want to upgrade, downgrade, add / reduce agents... please send email to support@subiz.com"
+msgstr "If you want to upgrade, downgrade, add / reduce agents... please send us an email at support@subiz.com"
 
 msgctxt "report_unit_hour"
 msgid "(Hour)"
-msgstr "(Giờ)"
+msgstr "(Hour)"
 
 msgctxt "report_unit_min"
 msgid "(Minute)"
-msgstr "(Phút)"
+msgstr "(Minute)"
 
 msgctxt "login_error_msg"
 msgid "Login error, click <a href='https://dashboard.subiz.com/login/logout'>here</a> to login again!."
-msgstr "Đăng nhập bị trùng lặp. <a href='https://dashboard.subiz.com/login/logout'>Đăng nhập lại</a>"
+msgstr "Login error, click <a href='https://dashboard.subiz.com/login/logout'>here</a> to login again!."
 
 msgctxt "connecting_error_attemping_reconnect"
 msgid "Connecting error, attempting to reconnect..."
-msgstr "Kết nối gián đoạn, đang thực hiện lại..."
+msgstr "Connecting error, attempting to reconnect..."
 
 msgctxt "disconnected_try_now"
 msgid "Disconnected, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Kết nối bị gián đoạn, <a href='javascript:void(0);' id='connect_trynow'>thử lại</a>."
+msgstr "Disconnected, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
 
 msgctxt "connecting_error"
 msgid "Connecting error, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Lỗi kết nối, <a href='javascript:void(0);' id='connect_trynow'>thử lại</a>."
+msgstr "Connecting error, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
 
 msgctxt "disconnected_attemping_to_connect"
 msgid "Disconnected, attempting to reconnect..."
-msgstr "Kết nối bị gián đoạn, đang thực hiện lại..."
+msgstr "Disconnected, attempting to reconnect..."
 
 msgctxt "online_status"
 msgid "I'm on Subiz"
-msgstr "Tôi đang online trên Subiz"
+msgstr "I'm on Subiz"
 
 msgctxt "type_here_and_hit_enter_to_enter_chat"
 msgid "Type here and hit <enter> to chat"
-msgstr "Gõ vào đây và enter để chat"
+msgstr "Type here and hit <enter> to chat"
 
 msgctxt "start_typing_to_join_the_chat"
 msgid "Start typing to join the chat"
-msgstr "Gõ vào đây để bắt đầu cuộc chat"
+msgstr "Start typing to join the chat"
 
 msgctxt "visitor_is_tvisitor_is_typing"
 msgid "is typing..."
-msgstr "đang gõ..."
+msgstr "is typing..."
 
 msgctxt "visitor_label"
 msgid "Label"
-msgstr "Nhãn"
+msgstr "Label"
 
 msgctxt "visitor_looking"
 msgid "Looking"
-msgstr "Đang xem"
+msgstr "Looking"
 
 msgctxt "visitor_referrer"
 msgid "Referrer"
@@ -3252,24 +3263,15 @@ msgstr "Referrer"
 
 msgctxt "help_text_triggers"
 msgid "What is Trigger?"
-msgstr "Trigger là gì?"
+msgstr "What is Trigger?"
 
 msgctxt "state-display-logo"
 msgid "Display logo"
-msgstr "Hiển thị logo"
-
-msgctxt "install_on_wordpress"
-msgstr "<a href="http://support.subiz.com/support/solutions/articles/76904-subiz-integration-guide-for-wordpress"><img src="https://static-dashboard.subiz.com/img/wordpress.png" alt=""></a>"
-
-msgctxt "install_on_shopify"
-msgstr "<a href="http://support.subiz.com/support/solutions/articles/3000007280-subiz-app-for-shopify"><img src="https://static-dashboard.subiz.com/img/shopify.png" alt=""></a>"
-
-msgctxt "install_on_magento"
-msgstr "<a href="http://support.subiz.com/support/solutions/articles/3000005415-subiz-plugins-for-magento"><img src="https://static-dashboard.subiz.com/img/magento.png" alt=""></a>"
+msgstr "Display logo"
 
 msgctxt "message_visitors_limit"
 msgid "Your account is registered as a free plan with the limit of 5 chat conversation at the same time. Click %s here %s to upgrade to a premium account."
-msgstr "Tài khoản hiện tại của bạn là tài khoản miễn phí, giới hạn chỉ nhìn thấy 5 visitors cùng lúc. Click %s ở đây %s để tiến hành nâng cấp tài khoản. "
+msgstr "Your account is registered as a free plan with the limit of 5 chat conversation at the same time. Click %s here %s to upgrade to a premium account."
 
 msgctxt "subiz_licence_id"
 msgid "Licence ID: "
@@ -3285,71 +3287,71 @@ msgstr "not found subscription"
 
 msgctxt "subscription_downgrade_error"
 msgid "Downgrade error"
-msgstr "Subdcription downgrade error"
+msgstr "Downgrade error"
 
 msgctxt "report_default"
 msgid "Select Triggers"
-msgstr "Chọn Triggers"
+msgstr "Select Triggers"
 
 msgctxt "report_empty_data"
 msgid "Not found any data!"
-msgstr "Không có dữ liệu !"
+msgstr "Not found any data!"
 
 msgctxt "no_visitor"
 msgid "You have no visitor"
-msgstr "Bạn chưa có khách truy cập"
+msgstr "You have no visitor"
 
 msgctxt "no_request_chat"
 msgid "You have no request chat"
-msgstr "Bạn chưa có yêu cầu chat"
+msgstr "You have no request chat"
 
 msgctxt "perform_test"
 msgid "Perform a test chat on the "
-msgstr "Xem trước tính năng chat trên "
+msgstr "Perform a test chat on the "
 
 msgctxt "type_and_chat"
 msgid "Type here and hit Enter to chat"
-msgstr "Gõ và nhấn Enter để chat"
+msgstr "Type here and hit Enter to chat"
 
 msgctxt "to_install_subiz"
 msgid "To install Subiz, put this code on every page of your website just before the closing <b>&lt;/body&gt;</b> tags."
-msgstr "Để cài đặt subiz, Chỉ cần chèn mã nhúng vào cuối thẻ <b>&lt;body&gt;</b> ở từng trang của website."
+msgstr "To install Subiz, put this code on every page of your website just before the closing <b>&lt;/body&gt;</b> tags."
 
 msgctxt "detail"
 msgid "View detail."
-msgstr "Xem chi tiết."
+msgstr "View detail."
 
 msgctxt "signed_another_device"
 msgid "Your account has been signed in on another device , <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Tài khoản của bạn đã được đăng nhập ở thiết bị khác, <a href='javascript:void(0);' id='connect_trynow'>thử lại</a>."
+msgstr "Your account has been signed in on another device , <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
 
 msgctxt "agent_blocked"
 msgid "Oops ! There is a problem that prevents your agent from accessing to Dashboard. Please try again in 10 minutes."
-msgstr "Thông báo!  Agent của bạn tạm thời không thể truy cập vào Dashboard. Bạn vui lòng quay lại trong 10 phút nữa. Cảm ơn !"
+msgstr "Oops ! There is a problem that prevents your agent from accessing to Dashboard. Please try again in 10 minutes."
 
 msgctxt "wait"
 msgid "Please wait a moment ..."
-msgstr "Vui lòng chờ trong giây lát ..."
+msgstr "Please wait a moment ..."
 
 msgctxt "f5_to_continue"
 msgid "Server connection time out. Press Ctrl + F5 to try again or check <a href='http://subiz.com/help/test' target='_blank'>Self-test page </a> to troubleshoot the problem."
-msgstr "Thời gian kết nối đến Dashboard quá lâu, Nhấn Ctrl+F5 để thử lại hoặc <a href=\"http://subiz.com/help/test\" target=\"_blank\">vào đây</a> để xác định nguyên nhân."
+msgstr "Server connection time out. Press Ctrl + F5 to try again or check <a href='http://subiz.com/help/test' target='_blank'>Self-test page </a> to troubleshoot the problem."
 
 msgctxt "cannot_connect_socket"
 msgid "Press F5 to re-login. Please contact us if you receive this notice again !"
-msgstr "Nhấn F5 để login lại. Nếu sau khi login lại bạn vẫn thấy thông báo này thì vui lòng liên hệ với chúng tôi."
+msgstr "Press F5 to re-login. Please contact us if you receive this notice again !"
 
 msgctxt "aff_pending"
 msgid "Your account is waiting for approval, it may take up to 3 working days to activate account."
-msgstr "Tài khoản của bạn đang chờ kích hoạt, sẽ mất khoảng 2-3 ngày để kích hoạt."
+msgstr "Your account is waiting for approval, it may take up to 3 working days to activate account."
 
 msgctxt "verify_account"
 msgid "You have not yet verified your account. You have 24h to verify it, otherwise you will no longer be able to log in. <a href="#">Click here to resend a verification email</a>"
-msgstr "Bạn chưa xác minh tài khoản, nếu trong 24h tiếp theo bạn không xác mình thì bạn không thể đăng nhập vào hệ thống. <a href="#">Click để nhận email xác minh.</a>"
+msgstr "You have not yet verified your account. You have 24h to verify it, otherwise you will no longer be able to log in. <a href="#">Click here to resend a verification email</a>"
 
 msgctxt "check_mail"
 msgid "Please check your email to activate your account."
-msgstr "Vui lòng check mail để kích hoạt tài khoản."
+msgstr "Please check your email to activate your account."
 
 msgctxt "agent_tool"
 msgid "Agent tools"
@@ -3357,7 +3359,7 @@ msgstr "Agent tools"
 
 msgctxt "canned_responses"
 msgid "Canned responses"
-msgstr "Thư viện câu trả lời"
+msgstr "Canned responses"
 
 msgctxt "client_app"
 msgid "Client Apps"
@@ -3365,11 +3367,11 @@ msgstr "Client Apps"
 
 msgctxt "tags"
 msgid "Tags"
-msgstr "Tag"
+msgstr "Tags"
 
 msgctxt "create_canned_responses"
 msgid "Create canned responses"
-msgstr "Tạo câu trả lời mẫu"
+msgstr "Create canned responses"
 
 msgctxt "tag"
 msgid "Tag"
@@ -3377,19 +3379,19 @@ msgstr "Tag"
 
 msgctxt "shortcut"
 msgid "Shortcut"
-msgstr "Viết tắt"
+msgstr "Shortcut"
 
 msgctxt "function"
 msgid "Functions"
-msgstr "Tác vụ"
+msgstr "Functions"
 
 msgctxt "enable"
 msgid "Enable"
-msgstr "On"
+msgstr "Enable"
 
 msgctxt "disable"
 msgid "Disable"
-msgstr "Off"
+msgstr "Disable"
 
 msgctxt "package_allows"
 msgid "Package allows"
@@ -3397,183 +3399,183 @@ msgstr "Package allows"
 
 msgctxt "sure"
 msgid "Do you really want to DELETE this record?"
-msgstr "Bạn có thực sự muốn xóa bản ghi này?"
+msgstr "Do you really want to DELETE this record?"
 
 msgctxt "shortcut_require"
 msgid "Shortcut is required."
-msgstr "Tên viết tắt không được trống."
+msgstr "Shortcut is required."
 
 msgctxt "message_require"
 msgid "Message is required."
-msgstr "Tin nhắn không được trống."
+msgstr "Message is required."
 
 msgctxt "import"
 msgid "Import"
-msgstr "Nhập"
+msgstr "Import"
 
 msgctxt "export"
 msgid "Export"
-msgstr "Xuất"
+msgstr "Export"
 
 msgctxt "upload_success"
 msgid "Import success."
-msgstr "Import thành công."
+msgstr "Import success."
 
 msgctxt "upload_invalid"
 msgid "File type is invalid."
-msgstr "Định dạng tài liệu không đúng"
+msgstr "File type is invalid."
 
 msgctxt "message_length"
 msgid "Message content must be less than 250 characters"
-msgstr "Nội dung tin nhắn không vượt quá 250 kí tự"
+msgstr "Message content must be less than 250 characters"
 
 msgctxt "canned_not_use"
 msgid "Canned response is not available for your package. Please upgrade to the standard or advance package to use the feature."
-msgstr "Chức năng này không có sẵn cho tài khoản của bạn. Vui lòng nâng cấp tài khoản lên gói cơ bản hoặc nâng cao để sử dụng chức năng này."
+msgstr "Canned response is not available for your package. Please upgrade to the standard or advance package to use the feature."
 
 msgctxt "share_for_agent"
 msgid "Share"
-msgstr "Chia sẻ"
+msgstr "Share"
 
 msgctxt "guide_1"
 msgid "Filter your visitors based to categories: Active Visitors (default), Idle Visitors, Request chats - Visitors who are asking for helps and Labels."
-msgstr "Đây là những danh mục giúp bạn lọc khách truy cập vào web. Mặc định sẽ là Active Visitors; idle Visitors; Request chats - Các visitor đang yêu cầu trợ giúp; và các Nhãn."
+msgstr "Filter your visitors based to categories: Active Visitors (default), Idle Visitors, Request chats - Visitors who are asking for helps and Labels."
 
 msgctxt "guide_2"
 msgid "List of visitors and their basic information. Each line shows one visitor online on your site. You can click on this line to see more information about the visitor."
-msgstr "Những khách truy cập được liệt kê và kèm theo những thông tin của họ. Mỗi dòng là một khách đang truy cập website. bạn có thể click vào một khách truy cập để xem đầy đủ thông tin hoặc chat với họ."
+msgstr "List of visitors and their basic information. Each line shows one visitor online on your site. You can click on this line to see more information about the visitor."
 
 msgctxt "guide_3"
 msgid "Each button reveals one conversation. Switch the buttons to choose the conversation you want to chat."
-msgstr "Những nút đại diện cho các cuộc hội thoại của bạn. Bạn có thể di chuyển giữa các cuộc trò chuyện bằng cách chọn các nút khác nhau."
+msgstr "Each button reveals one conversation. Switch the buttons to choose the conversation you want to chat."
 
 msgctxt "guide_4"
 msgid "This is chat widget where you chat with visitors. In chat widget, you can see the visitor's information and chat transcript."
-msgstr "Đây là cửa sổ, nơi bạn có thể trò chuyện với khách truy cập website của bạn.  Trong đó bao gồm cả thông tin chi tiết của khách truy cập cùng với những nội dung cuộc trò chuyện."
+msgstr "This is chat widget where you chat with visitors. In chat widget, you can see the visitor's information and chat transcript."
 
 msgctxt "next_step"
 msgid "Next step"
-msgstr "Tiếp tục"
+msgstr "Next step"
 
 msgctxt "or"
 msgid "or"
-msgstr "Hoặc"
+msgstr "or"
 
 msgctxt "skip_tutorial"
 msgid "Skip this tutorial"
-msgstr "Bỏ qua hướng dẫn này"
+msgstr "Skip this tutorial"
 
 msgctxt "close_tutorial"
 msgid "Close tutorial"
-msgstr "Kết thúc"
+msgstr "Close tutorial"
 
 msgctxt "tag_name"
 msgid "Tag name"
-msgstr "Tên tag"
+msgstr "Tag name"
 
 msgctxt "add_tag"
 msgid "Add tag"
-msgstr "Thêm tag"
+msgstr "Add tag"
 
 msgctxt "add_a_tag"
 msgid "Add a tag"
-msgstr "Gán tag"
+msgstr "Add a tag"
 
 msgctxt "tag_setting"
 msgid "Tag setting"
-msgstr "Cài đặt tag"
+msgstr "Tag setting"
 
 msgctxt "learn_more..."
 msgid "Learn more..."
-msgstr "Xem hướng dẫn..."
+msgstr "Learn more..."
 
 msgctxt "tags_let_you_categorize_your_chats"
 msgid "Tags let you categorize your chats"
-msgstr "Tag cho phép bạn tổ chức các cuộc chat theo chủ đề riêng"
+msgstr "Tags let you categorize your chats"
 
 msgctxt "added_this_tag_on"
 msgid "added this tag on"
-msgstr "đã thêm tag này vào"
+msgstr "added this tag on"
 
 msgctxt "create_new_tag_successful"
 msgid "Create new tag successfully"
-msgstr "Tạo tag mới thành công"
+msgstr "Create new tag successfully"
 
 msgctxt "create_new_tag_fail"
 msgid "Create new tag failed"
-msgstr "Tạo tag mới bị lỗi"
+msgstr "Create new tag failed"
 
 msgctxt "delete_tag_successful"
 msgid "Delete tag successfully"
-msgstr "Xóa tag thành công"
+msgstr "Delete tag successfully"
 
 msgctxt "delete_tag_fail"
 msgid "Delete tag failed"
-msgstr "Xóa tag bị lỗi"
+msgstr "Delete tag failed"
 
 msgctxt "assign_tag_successful"
 msgid "Assign tag successfully"
-msgstr "Gán tag thành công"
+msgstr "Assign tag successfully"
 
 msgctxt "assign_tag_fail"
 msgid "Assign tag failed"
-msgstr "Gán tag bị lỗi"
+msgstr "Assign tag failed"
 
 msgctxt "report_tags"
 msgid "Report Tags"
-msgstr "Thống kê tag"
+msgstr "Report Tags"
 
 msgctxt "total_conversation"
 msgid "Total conversation"
-msgstr "Tổng số cuộc thoại"
+msgstr "Total conversation"
 
 msgctxt "sign_up_now"
 msgid "Sign up now!"
-msgstr "Đăng kí ngay!"
+msgstr "Sign up now!"
 
 msgctxt "new_to_subiz"
 msgid "New to Subiz?"
-msgstr "Chưa có tài khoản?"
+msgstr "New to Subiz?"
 
 msgctxt "today"
 msgid "Today"
-msgstr "Hôm nay"
+msgstr "Today"
 
 msgctxt "yesterday"
 msgid "Yesterday"
-msgstr "Hôm qua"
+msgstr "Yesterday"
 
 msgctxt "2_day_ago"
 msgid "2 days ago"
-msgstr "2 Ngày trước"
+msgstr "2 days ago"
 
 msgctxt "3_day_ago"
 msgid "3 days ago"
-msgstr "3 Ngày trước"
+msgstr "3 days ago"
 
 msgctxt "sound_config"
 msgid "Sound configuration"
-msgstr "Cài đặt âm báo"
+msgstr "Sound configuration"
 
 msgctxt "chat_request"
 msgid "Chat request"
-msgstr "Yêu cầu chat"
+msgstr "Chat request"
 
 msgctxt "new_message"
 msgid "New message"
-msgstr "Tin nhắn mới"
+msgstr "New message"
 
 msgctxt "sound_widget"
 msgid "Sound on widget"
-msgstr "Âm báo trên cửa sổ chat"
+msgstr "Sound on widget"
 
 msgctxt "sound_dashboard"
 msgid "Sound on dashboard"
-msgstr "Âm báo trên dashboard"
+msgstr "Sound on dashboard"
 
 msgctxt "avatar_default"
 msgid "Default avatar"
-msgstr "Avatar mặc định"
+msgstr "Default avatar"
 
 msgctxt "chat_feature"
 msgid "Chat"
@@ -3581,11 +3583,11 @@ msgstr "Chat"
 
 msgctxt "history_feature"
 msgid "History"
-msgstr "Lịch sử"
+msgstr "History"
 
 msgctxt "report_feature"
 msgid "Report"
-msgstr "Thống kê"
+msgstr "Report"
 
 msgctxt "agent_feature"
 msgid "Agent"
@@ -3593,203 +3595,203 @@ msgstr "Agent"
 
 msgctxt "department_feature"
 msgid "Department"
-msgstr "Bộ phận"
+msgstr "Department"
 
 msgctxt "chat_view_all"
 msgid "View all"
-msgstr "Xem tất cả"
+msgstr "View all"
 
 msgctxt "history_view_all"
 msgid "View all"
-msgstr "Xem tất cả"
+msgstr "View all"
 
 msgctxt "report_view_all"
 msgid "View all"
-msgstr "Xem tất cả"
+msgstr "View all"
 
 msgctxt "full_permission"
 msgid "Full permission"
-msgstr "Tất cả các quyền"
+msgstr "Full permission"
 
 msgctxt "no_permission"
 msgid "You don't have permission to view this history"
-msgstr "Bạn không có quyền truy cập Lịch sử này"
+msgstr "You don't have permission to view this history"
 
 msgctxt "vistior_endchat"
 msgid "The visitor ended chat"
-msgstr "Khách truy cập kết thúc chat"
+msgstr "The visitor ended chat"
 
 msgctxt "system_end_chat"
 msgid "Chat ended automatically."
-msgstr "Cuộc chat đã kết thúc."
+msgstr "Chat ended automatically."
 
 msgctxt "mes_end_chat"
 msgid "ended chat"
-msgstr "kết thúc chat"
+msgstr "ended chat"
 
 msgctxt "no_permission_chat"
 msgid "You don't have permission to view this chat.<br /> This visitor is chatting with "
-msgstr "Bạn không có quyền xem cuộc Chat này.<br /> Visitor đang chat với "
+msgstr "You don't have permission to view this chat.<br /> This visitor is chatting with "
 
 msgctxt "no_permission_report"
 msgid "You don't have permission to view this report"
-msgstr "Bạn không có quyền xem thống kê này"
+msgstr "You don't have permission to view this report"
 
 msgctxt "permission"
 msgid "Permissions"
-msgstr "Phân quyền"
+msgstr "Permissions"
 
 msgctxt "perm_group"
 msgid "Agent Type"
-msgstr "Nhóm quyền"
+msgstr "Agent Type"
 
 msgctxt "perm_group_select"
 msgid "Select agent type"
-msgstr "Chọn nhóm quyền"
+msgstr "Select agent type"
 
 msgctxt "perm_intro"
 msgid "This feature helps you to manage module-level permissions for your agents."
-msgstr "Chức năng này giúp bạn phân quyền cho các nhóm Agents."
+msgstr "This feature helps you to manage module-level permissions for your agents."
 
 msgctxt "perm_edit"
 msgid "Edit"
-msgstr "Sửa"
+msgstr "Edit"
 
 msgctxt "perm_close"
 msgid "Close"
-msgstr "Đóng"
+msgstr "Close"
 
 msgctxt "perm_read_more"
 msgid "read more"
-msgstr "hướng dẫn"
+msgstr "read more"
 
 msgctxt "create_trigger"
 msgid "Create"
-msgstr "Tạo mới"
+msgstr "Create"
 
 msgctxt "trigger_library"
 msgid "Triggers library"
-msgstr "Thư viện Triggers"
+msgstr "Triggers library"
 
 msgctxt "trigger_info"
 msgid "Triggers help you to send invitations / custom messages to pre-qualified leads"
-msgstr "Triggers giúp bạn gửi lời mời chat, tin nhắn được cài đặt sẵn tới khách hàng được chọn."
+msgstr "Triggers help you to send invitations / custom messages to pre-qualified leads"
 
 msgctxt "user_trigger"
 msgid "Use this Trigger"
-msgstr "Sử dụng"
+msgstr "Use this Trigger"
 
 msgctxt "cus_trigger"
 msgid "Customize Trigger"
-msgstr "Tùy chọn Trigger"
+msgstr "Customize Trigger"
 
 msgctxt "trigger_select_con"
 msgid "Select condition"
-msgstr "Chọn điều kiện"
+msgstr "Select condition"
 
 msgctxt "trigger_select_action"
 msgid "Select action"
-msgstr "Chọn hành động"
+msgstr "Select action"
 
 msgctxt "trigger_action"
 msgid "Action"
-msgstr "Hành động"
+msgstr "Action"
 
 msgctxt "history_alert_package"
 msgid "This feature is limited in free version, %s upgrade now %s."
-msgstr "Bạn đang sử dụng gói <b>miễn phí</b>, %s nâng cấp %s ngay hôm nay để sử dụng chức năng này."
+msgstr "This feature is limited in free version, %s upgrade now %s."
 
 msgctxt "history_limit"
 msgid "500 conversation limit for each export."
-msgstr "Subiz giới hạn tối đa 500 cuộc trò chuyện trong mỗi lần xuất dữ liệu."
+msgstr "500 conversation limit for each export."
 
 msgctxt "help_theme"
 msgid "Modify color, CSS, default avatar, logo, social media link. %s read more %s"
-msgstr "Tùy chỉnh css, màu sắc, avatar mặc định, logo, add link mạng xã hội. %s xem thêm %s"
+msgstr "Modify color, CSS, default avatar, logo, social media link. %s read more %s"
 
 msgctxt "help_lang"
 msgid "Choose the auto-detect mode or a certain language on chat widget, change the template sentences. %s read more %s"
-msgstr "Tùy chọn chế độ nhận diện hoặc chọn cố định 1 ngôn ngữ trên cửa sổ chat, thay đổi các mẫu câu có sẵn. %s xem thêm %s"
+msgstr "Choose the auto-detect mode or a certain language on chat widget, change the template sentences. %s read more %s"
 
 msgctxt "help_chat_button"
 msgid "Make your chat widget more professional and attractive with Button chat and Bubble chat. %s read more %s"
-msgstr "Làm nổi bật cửa sổ chat với button chat và bubble chat. %s xem thêm %s"
+msgstr "Make your chat widget more professional and attractive with Button chat and Bubble chat. %s read more %s"
 
 msgctxt "help_chat_survey"
 msgid "Enable this form for visitor to type their name, email, phone or choose department.<br /> %s read more %s"
-msgstr "Nơi bạn kích hoạt form yêu cầu khách hàng nhập thông tin trước khi chat hoặc hiển thị bộ phận.<br /> %s xem thêm %s"
+msgstr "Enable this form for visitor to type their name, email, phone or choose department.<br /> %s read more %s"
 
 msgctxt "hepl_theme_title"
 msgid "Theme customization"
-msgstr "Tùy chỉnh giao diện"
+msgstr "Theme customization"
 
 msgctxt "hepl_lang_title"
 msgid "Language customization"
-msgstr "Tùy chỉnh ngôn ngữ"
+msgstr "Language customization"
 
 msgctxt "help_chat_button_title"
 msgid "Chat button customization"
-msgstr "Tùy chỉnh button chat"
+msgstr "Chat button customization"
 
 msgctxt "help_chat_survey_title"
 msgid "Chat survey customization"
-msgstr "Tùy chỉnh form khảo sát"
+msgstr "Chat survey customization"
 
 msgctxt "help_trigger_title"
 msgid "Create trigger"
-msgstr "Tạo trigger"
+msgstr "Create trigger"
 
 msgctxt "help_trigger"
 msgid "Trigger is a powerful tool that helps you to do some actions automatically such as: sending message to visitor, open chat window, label visitor based on set of conditions. %s read more %s"
-msgstr "Trigger là công cụ giúp bạn phân loại, nhận diện được một đối tượng khách hàng cụ thể và thực hiện các hành động như: tự động mời chat, gửi tin nhắn, gắn nhãn với những đối tượng này. %s xem thêm %s"
+msgstr "Trigger is a powerful tool that helps you to do some actions automatically such as: sending message to visitor, open chat window, label visitor based on set of conditions. %s read more %s"
 
 msgctxt "notification"
 msgid "Notification"
-msgstr "Thông báo"
+msgstr "Notification"
 
 msgctxt "notifications"
 msgid "Notifications"
-msgstr "Thông báo"
+msgstr "Notifications"
 
 msgctxt "firefox_denied"
 msgid "You disabled desktop notification in your browser. <b>Open Tools > Page Info > Permissions</b> in Firefox and choose "Allow" in "Show Notifications" section. Then, refresh this page."
-msgstr "Trình duyệt của bạn đang vô hiệu tính năng hiển thị thông báo trên màn hình. <b>Tool > Page Info > Permissions</b> ở Firefox và chọn "Allow" trong mục "Show Notifications”. Sau đó tải lại trang."
+msgstr "You disabled desktop notification in your browser. <b>Open Tools > Page Info > Permissions</b> in Firefox and choose "Allow" in "Show Notifications" section. Then, refresh this page."
 
 msgctxt "chrome_denied"
 msgid "You disabled desktop notification in your browser. <b>Open Settings > Show advanced settings > Content settings</b> in Chrome and choose "Allow all sites to show desktop notifications". Then click "Manage exceptions..." to remove if https://dashboard.subiz.com is blocked, refresh this page."
-msgstr "Trình duyệt của bạn đang vô hiệu tính năng hiển thị thông báo trên màn hình. <b>Settings > Show advanced settings > Content settings</b> ở Chrome và chọn "Allow all sites to show desktop notifications". Sau đó click vào nút "Manager exceptions..." nếu trang https://dashboard.subiz.com đang bị block bạn cần xóa dòng đó đi,tải lại trang."
+msgstr "You disabled desktop notification in your browser. <b>Open Settings > Show advanced settings > Content settings</b> in Chrome and choose "Allow all sites to show desktop notifications". Then click "Manage exceptions..." to remove if https://dashboard.subiz.com is blocked, refresh this page."
 
 msgctxt "safari_denied"
 msgid "You disabled desktop notification in your browser. <b>Choose Safari > Preferences, click Notifications </b>, and select Allow or Deny for the website whose notification permission you want to change."
-msgstr "Trình duyệt của bạn đang vô hiệu tính năng hiển thị thông báo trên màn hình.Choose Safari > Preferences, click Notifications, và chọn  Allow hoặc Deny đối với những website mà bạn muốn thay đổi quyền hiển thị thông báo."
+msgstr "You disabled desktop notification in your browser. <b>Choose Safari > Preferences, click Notifications </b>, and select Allow or Deny for the website whose notification permission you want to change."
 
 msgctxt "notification_default"
 msgid "You must enable desktop notifications in your browser."
-msgstr "Bạn cần kích hoạt thông báo trên màn hình."
+msgstr "You must enable desktop notifications in your browser."
 
 msgctxt "turn_on_notification"
 msgid "Turn on notifications"
-msgstr "Bật thông báo"
+msgstr "Turn on notifications"
 
 msgctxt "notification_preview"
 msgid "Preview"
-msgstr "Xem thử"
+msgstr "Preview"
 
 msgctxt "noti_request_chat"
 msgid "Request Chat"
-msgstr "Yêu cầu chat"
+msgstr "Request Chat"
 
 msgctxt "noti_message"
 msgid "New message in chat"
-msgstr "Tin nhắn mới"
+msgstr "New message in chat"
 
 msgctxt "noti_new_visitor"
 msgid "New visitor enters your website"
-msgstr "Khách lần đầu truy cập vào website"
+msgstr "New visitor enters your website"
 
 msgctxt "noti_return_visitor"
 msgid "Returning visitor comes to your website"
-msgstr "Khách cũ quay lại website"
+msgstr "Returning visitor comes to your website"
 
 msgctxt "chat_request_title"
 msgid "Subiz live chat"
@@ -3797,7 +3799,7 @@ msgstr "Subiz live chat"
 
 msgctxt "chat_request_body"
 msgid "You have new chat request"
-msgstr "Bạn có một yêu cầu chat mới"
+msgstr "You have new chat request"
 
 msgctxt "new_message_title"
 msgid "Subiz live chat"
@@ -3805,7 +3807,7 @@ msgstr "Subiz live chat"
 
 msgctxt "new_message_body"
 msgid "You have new message"
-msgstr "Bạn có tin nhắn mới"
+msgstr "You have new message"
 
 msgctxt "new_visitor_title"
 msgid "Subiz live chat"
@@ -3813,7 +3815,7 @@ msgstr "Subiz live chat"
 
 msgctxt "new_visitor_body"
 msgid "You have new visitor"
-msgstr "Có khách lần đầu tiên vào website bạn"
+msgstr "You have new visitor"
 
 msgctxt "return_visitor_title"
 msgid "Subiz live chat"
@@ -3821,152 +3823,136 @@ msgstr "Subiz live chat"
 
 msgctxt "return_visitor_body"
 msgid "You have return visitor"
-msgstr "Có khách cũ vừa quay lại website của bạn"
+msgstr "You have return visitor"
 
 msgctxt "noti_timeout_note"
 msgid "This customization is only available for Chrome (Timeout in seconds, maximum 600. Set to zero to show until dismissed)"
-msgstr "Cài đặt này chỉ có tác dụng trên Chrome (tối đa là 600 giây, đặt 0 sẽ hiển thị đến khi bạn tắt thông báo đi.)"
+msgstr "This customization is only available for Chrome (Timeout in seconds, maximum 600. Set to zero to show until dismissed)"
 
 msgctxt "noti_timeout"
 msgid "Notification time out"
-msgstr "Thời gian hiển thị thông báo"
+msgstr "Notification time out"
 
 msgctxt "noti_config"
 msgid "Notification configuration"
-msgstr "Tùy chỉnh thông báo màn hình"
+msgstr "Notification configuration"
 
 msgctxt "noti_second"
 msgid "second"
-msgstr "giây"
+msgstr "second"
 
 msgctxt "msg_delete_success"
 msgid "Delete successfully."
-msgstr "Xóa thành công."
+msgstr "Delete successfully."
 
 msgctxt "until_you_cancel_account"
 msgid "until you cancel your account."
-msgstr "Cho đến khi bạn hủy tài khoản."
+msgstr "until you cancel your account."
 
 msgctxt "select_code"
 msgid "Select code"
-msgstr "Chọn mã"
+msgstr "Select code"
 
 msgctxt "embed_widget"
 msgid "Embed widget"
-msgstr "Mã nhúng"
+msgstr "Embed widget"
 
 msgctxt "department_name"
 msgid "Department name"
-msgstr "Tên bộ phận"
+msgstr "Department name"
 
 msgctxt "history_disable"
 msgid "The feature has been temporarily disabled for optimization. Please %s contact us %s if you need any further assistance relating to chat history data"
-msgstr "Chức năng đang được bảo trì, Subiz xin lỗi bạn về sự bất tiện này. Vui lòng %s liên hệ với chúng tôi %s để được hỗ trợ lấy dữ liệu."
+msgstr "The feature has been temporarily disabled for optimization. Please %s contact us %s if you need any further assistance relating to chat history data"
 
 msgctxt "message_limit_60_chat"
 msgid "Your monthly conversation amount has been exceeded. Please <a href="http://subiz.com/landingpage/faqs-en/faqs.html?faq=64" target="_blank" >contact us </a> to continue"
-msgstr "Tài khoản của bạn đã sử dụng hết số lượng cuộc chat cho phép của gói miễn phí. Mời bạn <a href="http://subiz.com/landingpage/faqs/faqs.html?faq=66" target="_blank" >liên hệ với chúng tôi</a> để được hỗ trợ"
+msgstr "Your monthly conversation amount has been exceeded. Please <a href="http://subiz.com/landingpage/faqs-en/faqs.html?faq=64" target="_blank" >contact us </a> to continue"
 
 msgctxt "file_send"
 msgid "Send"
-msgstr "Gửi"
+msgstr "Send"
 
 msgctxt "file_cancel"
 msgid "Cancel"
-msgstr "Hủy"
+msgstr "Cancel"
 
 msgctxt "file_can_upload"
 msgid "Files to upload"
-msgstr "File được gửi"
+msgstr "Files to upload"
 
 msgctxt "file_cannot_upload"
 msgid "Unsupported file types can't be uploaded"
-msgstr "Những file này không được hỗ trợ"
+msgstr "Unsupported file types can't be uploaded"
 
 msgctxt "file_upload_failed"
 msgid "Upload failed"
-msgstr "Tải file có lỗi"
-
-msgctxt "the_system_is_currently_being_upgraded"
-msgid "The system is currently being upgraded"
-msgstr "Hệ thống đang được tiến hành nâng cấp"
-
-msgctxt "your_browser_will_automatically_refresh_after"
-msgid "Your browser will automatically refresh after:"
-msgstr "Trình duyệt của bạn sẽ tự động refresh sau:"
-
-msgctxt "seconds"
-msgid "seconds"
-msgstr "giây"
-
-msgctxt "you_need_payment_in"
-msgid "If you want to transfer the amount of %s, please transfer it to the following bank account:"
-msgstr "Bạn cần thanh toán số tiền %s tương ứng %s đ vào tài khoản ngân hàng dưới:"
-
-msgctxt "name_card"
-msgid "Account name"
-msgstr "Chủ tài khoản"
-
-msgctxt "number_card"
-msgid "Account number"
-msgstr "Số tài khoản"
-
-msgctxt "bank_name"
-msgid "Bank"
-msgstr "Ngân hàng"
-
-msgctxt "description_pay"
-msgid "Remark: <strong>Transfer payment for account %s</strong>"
-msgstr "Nội dung: <strong>Mua dịch vụ Subiz cho tài khoản %s</strong>"
-
-msgctxt "subiz_will_update_after_payment"
-msgid " Any payments that have been transfered successfully will receive email confirmations from Subiz. Please %s contact us %s if you have any further questions"
-msgstr "Subiz sẽ nâng cấp ngay sau khi nhận được thanh toán. Nếu bạn cần gấp, có thể %s liên hệ ngay với chúng tôi.%s"
-
-msgctxt "help"
-msgid "Help"
-msgstr "Trợ giúp"
-
-msgctxt "let_write_vat"
-msgid "Request VAT invoice"
-msgstr "Yêu cầu viết hóa đơn VAT."
-
-msgctxt "extension_of_service"
-msgid "Renew your subscription?"
-msgstr "Gia hạn dịch vụ?"
-
-msgctxt "message_too_long"
-msgid "Message is too long, please shorten it and try send."
-msgstr "Tin nhắn quá dài, vui lòng rút gọn và gửi lại."
-
-msgctxt "server_error"
-msgid "The Dashboard could not be connected. Please check %s Self-test page %s to troubleshoot the problem and contact us!"
-msgstr "Không thể kết nối Dashboard, vui lòng %s vào đây %s để kiểm tra nguyên nhân và liên hệ với Subiz."
-
-msgctxt "back"
-msgid "Back"
-msgstr ""
-
-msgctxt "subscription_active_pmt_method_cash_success"
-msgid "Active payment method successfully"
-msgstr ""
-
-msgctxt "subscription_active_pmt_method_cash_error"
-msgid "Active payment method error"
-msgstr ""
-
-msgctxt "subscription_unit_price"
-msgid "Unit price"
-msgstr ""
+msgstr "Upload failed"
 
 msgctxt "login"
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 msgctxt "sign_up"
 msgid "Sign Up"
-msgstr ""
+msgstr "Sign Up"
 
 msgctxt "desc_trigger_lib1"
 msgid "Trigger will recognize all visitors who have never come to your website before and invite chat"
-msgstr ""
+msgstr "Trigger will recognize all visitors who have never come to your website before and invite chat"
+
+msgctxt "the_system_is_currently_being_upgraded"
+msgid "The system is currently being upgraded"
+msgstr "The system is currently being upgraded"
+
+msgctxt "your_browser_will_automatically_refresh_after"
+msgid "Your browser will automatically refresh after:"
+msgstr "Your browser will automatically refresh after:"
+
+msgctxt "seconds"
+msgid "seconds"
+msgstr "seconds"
+
+msgctxt "you_need_payment_in"
+msgid "If you want to transfer the amount of %s, please transfer it to the following bank account:"
+msgstr "If you want to transfer the amount of %s, please transfer it to the following bank account:"
+
+msgctxt "name_card"
+msgid "Account name"
+msgstr "Account name"
+
+msgctxt "number_card"
+msgid "Account number"
+msgstr "Account number"
+
+msgctxt "bank_name"
+msgid "Bank"
+msgstr "Bank"
+
+msgctxt "description_pay"
+msgid "Remark: <strong>Transfer payment for account %s</strong>"
+msgstr "Remark: <strong>Transfer payment for account %s</strong>"
+
+msgctxt "subiz_will_update_after_payment"
+msgid " Any payments that have been transfered successfully will receive email confirmations from Subiz. Please %s contact us %s if you have any further questions"
+msgstr " Any payments that have been transfered successfully will receive email confirmations from Subiz. Please %s contact us %s if you have any further questions"
+
+msgctxt "help"
+msgid "Help"
+msgstr "Help"
+
+msgctxt "let_write_vat"
+msgid "Request VAT invoice"
+msgstr "Request VAT invoice"
+
+msgctxt "extension_of_service"
+msgid "Renew your subscription?"
+msgstr "Renew your subscription?"
+
+msgctxt "message_too_long"
+msgid "Message is too long, please shorten it and try send."
+msgstr "Message is too long, please shorten it and try send."
+
+msgctxt "server_error"
+msgid "The Dashboard could not be connected. Please check %s Self-test page %s to troubleshoot the problem and contact us!"
+msgstr "The Dashboard could not be connected. Please check %s Self-test page %s to troubleshoot the problem and contact us!"

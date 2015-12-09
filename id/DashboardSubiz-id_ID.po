@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-08 04:15+0000\n"
 "PO-Revision-Date: 2015-12-08 05:39+0000\n"
-"Last-Translator: Tin Vu <minhtinit@gmail.com>\n"
+"Last-Translator: Tin Vu <tinvu@vietnambiz.com>\n"
 "Language-Team: \n"
 "Language: id-ID\n"
 "MIME-Version: 1.0\n"
@@ -21,21 +21,22 @@ msgstr ""
 #. - License, v. 1.0.
 #. - file, You can obtain one at http://subiz.com
 
+
 msgctxt "edit"
 msgid "Edit"
-msgstr "Edit"
+msgstr "Sunting"
 
 msgctxt "save-change"
 msgid "Save change"
-msgstr "Save change"
+msgstr "Simpan perubahan"
 
 msgctxt "reset"
 msgid "Reset"
-msgstr "Reset"
+msgstr "Atur ulang"
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Batal"
 
 msgctxt "status"
 msgid "Status"
@@ -43,55 +44,51 @@ msgstr "Status"
 
 msgctxt "save"
 msgid "Save"
-msgstr "Save"
+msgstr "Simpan"
 
 msgctxt "close"
 msgid "Close"
-msgstr "Close"
+msgstr "Tutup"
 
 msgctxt "delete"
 msgid "Delete"
-msgstr "Delete"
-
-msgctxt "back"
-msgid "Back"
-msgstr "Back"
+msgstr "Hapus"
 
 msgctxt "search"
 msgid "Search"
-msgstr "Search"
+msgstr "Cari"
 
 msgctxt "keyword"
 msgid "Keyword"
-msgstr "Keyword"
+msgstr "Kata kunci"
 
 msgctxt "find"
 msgid "Find now"
-msgstr "Find now"
+msgstr "Temukan sekarang"
 
 msgctxt "and"
 msgid "and"
-msgstr "and"
+msgstr "dan"
 
 msgctxt "show-me"
 msgid "Show me"
-msgstr "Show me"
+msgstr "Tunjukkan pada saya"
 
 msgctxt "agents"
 msgid "Agents"
-msgstr "Agents"
+msgstr "Agen"
 
 msgctxt "department"
 msgid "Departments"
-msgstr "Departments"
+msgstr "Departemen"
 
 msgctxt "add-more-agents"
 msgid "Add more agents"
-msgstr "Add more agents"
+msgstr "Tambahkan agen"
 
 msgctxt "search-agents"
 msgid "Search agents"
-msgstr "Search agents"
+msgstr "Cari agen"
 
 msgctxt "email"
 msgid "Email"
@@ -99,55 +96,55 @@ msgstr "Email"
 
 msgctxt "user-name"
 msgid "User name"
-msgstr "User name"
+msgstr "Nama pengguna"
 
 msgctxt "member-of-department"
 msgid "Member of department"
-msgstr "Member of department"
+msgstr "Anggota departemen"
 
 msgctxt "last-loged"
 msgid "Last login"
-msgstr "Last login"
+msgstr "Terakhir masuk"
 
 msgctxt "type"
 msgid "Type"
-msgstr "Type"
+msgstr "Ketik"
 
 msgctxt "last-7-days"
 msgid "Last 7 days"
-msgstr "Last 7 days"
+msgstr "7 hari terakhir"
 
 msgctxt "delete-agent"
 msgid "Delete agent"
-msgstr "Delete agent"
+msgstr "Hapus agen"
 
 msgctxt "change-password"
 msgid "Change password"
-msgstr "Change password"
+msgstr "Ubah kata sandi"
 
 msgctxt "archived-that"
 msgid "Archived that will not be removed, but all statistics will be lost."
-msgstr "Archived that will not be removed, but all statistics will be lost."
+msgstr "Arsip tidak akan dihapus, namun seluruh statistik akan hilang."
 
 msgctxt "delete-this-account"
 msgid "Delete this account"
-msgstr "Delete this account"
+msgstr "Hapus akun ini"
 
 msgctxt "change-avatar"
 msgid "Change avatar"
-msgstr "Change avatar"
+msgstr "Ubah avatar"
 
 msgctxt "name"
 msgid "Name"
-msgstr "Name"
+msgstr "Nama"
 
 msgctxt "password"
 msgid "Password"
-msgstr "Password"
+msgstr "Kata sandi"
 
 msgctxt "retype-password"
 msgid "Retype password"
-msgstr "Retype password"
+msgstr "Ketik ulang kata sandi"
 
 msgctxt "normal"
 msgid "Normal"
@@ -159,179 +156,179 @@ msgstr "Administrator"
 
 msgctxt "enter-your-current-pass"
 msgid "Enter your current password to confirm to identity"
-msgstr "Enter your current password to confirm to identity"
+msgstr "Masukkan kata sandi yang berlaku untuk memastikan identitas"
 
 msgctxt "your-password"
 msgid "Your password"
-msgstr "Your password"
+msgstr "Kata sandi Anda"
 
 msgctxt "new-password"
 msgid "New password"
-msgstr "New password"
+msgstr "Kata sandi baru"
 
 msgctxt "job-title"
 msgid "Job title"
-msgstr "Job title"
+msgstr "Jabatan"
 
 msgctxt "msg-agent-type"
 msgid "Type is required!"
-msgstr "Type is required!"
+msgstr "Wajib diisi!"
 
 msgctxt "ms-agent-success"
 msgid "Update agent information successfully"
-msgstr "Update agent information successfully"
+msgstr "Pembaruan informasi agen berhasil"
 
 msgctxt "msg_agent_create_success"
 msgid "Create agent successfully"
-msgstr "Create agent successfully"
+msgstr "Pembuatan agen berhasil"
 
 msgctxt "msg-agent-something"
 msgid "Something went wrong"
-msgstr "Something went wrong"
+msgstr "Terjadi kesalahan"
 
 msgctxt "msg_agent_name_invalid"
 msgid "Name invalid!"
-msgstr "Name invalid!"
+msgstr "Nama tidak sah!"
 
 msgctxt "msg_agent_name_null"
 msgid "Name is required!"
-msgstr "Name is required!"
+msgstr "Nama dibutuhkan!"
 
 msgctxt "msg_agent_email_null"
 msgid "Email is required!"
-msgstr "Email is required!"
+msgstr "Email dibutuhkan!"
 
 msgctxt "msg_agent_username_null"
 msgid "Username is required!"
-msgstr "Username is required!"
+msgstr "Nama pengguna dibutuhkan!"
 
 msgctxt "msg_agent_username_condition"
 msgid "Username only contains lowercase letter and numbers with 6 characters in minimum,starting with letters is required."
-msgstr "Username only contains lowercase letter and numbers with 6 characters in minimum,starting with letters is required."
+msgstr "Nama pengguna hanya mengandung huruf kecil dan angka dengan batas minimum 6 karakter, wajib dimulai dengan huruf."
 
 msgctxt "msg_agent_pass_null"
 msgid "Password is required!"
-msgstr "Password is required!"
+msgstr "Kata sandi dibutuhkan!"
 
 msgctxt "msg_agent_repass_null"
 msgid "Retype password is required!"
-msgstr "Retype password is required!"
+msgstr "Pengetikan ulang kata sandi dibutuhkan!"
 
 msgctxt "msg_agent_job_null"
 msgid "Job title is required!"
-msgstr "Job title is required!"
+msgstr "Jabatan dibutuhkan!"
 
 msgctxt "msg_agent_email_invalid"
 msgid "Email invalid!"
-msgstr "Email invalid!"
+msgstr "Email tidak sah!"
 
 msgctxt "msg_agent_username_invalid"
 msgid "Username invalid!"
-msgstr "Username invalid!"
+msgstr "Nama pengguna tidak sah!"
 
 msgctxt "msg_agent_pass_invalid"
 msgid "Password invalid!"
-msgstr "Password invalid!"
+msgstr "Kata sandi tidak sah!"
 
 msgctxt "msg_agent_pass_false"
 msgid "Password must contain more than 5 characters!"
-msgstr "Password must contain more than 5 characters!"
+msgstr "Kata sandi harus lebih dari 5 karakter!"
 
 msgctxt "msg_agent_repass_invalid"
 msgid "Retype password invalid!"
-msgstr "Retype password invalid!"
+msgstr "Pengetikan ulang kata sandi tidak sah!"
 
 msgctxt "msg_agent_repass_false"
 msgid "Retype password must equal to new password!"
-msgstr "Retype password must equal to new password!"
+msgstr "Pengetikan ulang kata sandi wajib sama dengan kata sandi baru!"
 
 msgctxt "msg_agent_job_invalid"
 msgid "Job title invalid!"
-msgstr "Job title invalid!"
+msgstr "Jabatan tidak sah!"
 
 msgctxt "msg_agent_email_exit"
 msgid "Email already exists!"
-msgstr "Email already exists!"
+msgstr "Email sudah terpakai!"
 
 msgctxt "msg_agent_username_exit"
 msgid "Username already exists!"
-msgstr "Username already exists!"
+msgstr "Nama pengguna sudah terpakai!"
 
 msgctxt "msg_agent_pass_requi"
 msgid "Your password is required!"
-msgstr "Your password is required!"
+msgstr "Kata sandi Anda dibutuhkan!"
 
 msgctxt "msg_agent_newpass_requi"
 msgid "New password is required!"
-msgstr "New password is required!"
+msgstr "Kata sandi baru dibutuhkan!"
 
 msgctxt "msg_agent_newpass_false"
 msgid "New password must contain more than 5 characters!"
-msgstr "New password must contain more than 5 characters!"
+msgstr "Kata sandi baru wajib lebih dari 5 karakter!"
 
 msgctxt "msg_agent_repass_requi"
 msgid "Retype password is required!"
-msgstr "Retype password is required!"
+msgstr "Pengetikan ulang kata sandi dibutuhkan!"
 
 msgctxt "msg_agent_repass_not_equal"
 msgid "Retype password must equal to new password!"
-msgstr "Retype password must equal to new password!"
+msgstr "Pengetikan ulang kata sandi wajib sama dengan kata sandi baru!"
 
 msgctxt "msg_agent_changepass_success"
 msgid "Change password successfully"
-msgstr "Change password successfully"
+msgstr "Pengubahan kata sandi berhasil"
 
 msgctxt "msg_agent_delete_success"
 msgid "Delete agent successfully"
-msgstr "Delete agent successfully"
+msgstr "Penghapusan agen berhasil"
 
 msgctxt "msg_upload_file_type"
 msgid "File type is invalid ( accept file type: jpg, png, gif, jpeg )"
-msgstr "File type is invalid ( accept file type: jpg, png, gif, jpeg )"
+msgstr "Tipe file tidak sah ( tipe file yang diterima: jpg, png, gif, jpeg)"
 
 msgctxt "msg_upload_file_size"
 msgid "File size must not exceed 50kb!"
-msgstr "File size must not exceed 50kb!"
+msgstr "Ukuran file tidak boleh melebihi 50kb!"
 
 msgctxt "msg_upload_file_name"
 msgid "You must input username before upload avatar!"
-msgstr "You must input username before upload avatar!"
+msgstr "Anda wajib memasukkan nama pengguna sebelum mengunggah gambar profil!"
 
 msgctxt "msg_upload_error"
 msgid "Upload error!"
-msgstr "Upload error!"
+msgstr "Kesalahan pada pengunggahan!"
 
 msgctxt "msg_agent_invalid"
 msgid "Agents invalid!"
-msgstr "Agents invalid!"
+msgstr "Agen tidak sah!"
 
 msgctxt "msg_update_depart_success"
 msgid "Update department successfully"
-msgstr "Update department successfully"
+msgstr "Pembaruan departemen berhasil"
 
 msgctxt "msg_create_depart_success"
 msgid "Create department successfully"
-msgstr "Create department successfully"
+msgstr "Pembuatan departemen berhasil"
 
 msgctxt "msg_name_exit"
 msgid "Name already exists!"
-msgstr "Name already exists!"
+msgstr "Nama sudah terpakai!"
 
 msgctxt "msg_delete_depart_success"
 msgid "Delete department successfully"
-msgstr "Delete department successfully"
+msgstr "Penghapusan departemen berhasil"
 
 msgctxt "add_more_department"
 msgid "Add more department"
-msgstr "Add more department"
+msgstr "Tambah departemen"
 
 msgctxt "add_department"
 msgid "Add department"
-msgstr "Add department"
+msgstr "Tambah departemen"
 
 msgctxt "away"
 msgid "Away"
-msgstr "Away"
+msgstr "Tidak di tempat"
 
 msgctxt "offline"
 msgid "Offline"
@@ -339,223 +336,223 @@ msgstr "Offline"
 
 msgctxt "available"
 msgid "Available"
-msgstr "Available"
+msgstr "Online"
 
 msgctxt "delete_this_department"
 msgid "Delete this department"
-msgstr "Delete this department"
+msgstr "Hapus departemen ini"
 
 msgctxt "archived_that_will"
 msgid "Archived that will not be removed, but all statistics will be lost"
-msgstr "Archived that will not be removed, but all statistics will be lost"
+msgstr "Arsip tidak akan dihapus, namun semua statistik akan hilang"
 
 msgctxt "member"
 msgid "Member"
-msgstr "Member"
+msgstr "Anggota"
 
 msgctxt "enter-many-email"
 msgid "Enter various e-mail addresses separated with a comma to allow visitors to send you message when you are offline."
-msgstr "Enter various e-mail addresses separated with a comma to allow visitors to send you message when you are offline."
+msgstr "Masukkan alamat email dan pisahkan dengan koma agar pengunjung dapat mengirimi Anda pesan saat Anda offline."
 
 msgctxt "receive-offline-message"
 msgid "Receive offline message"
-msgstr "Receive offline message"
+msgstr "Terima pesan offline"
 
 msgctxt "you-can-enter-many-email"
 msgid "<p>You can enter various e-mail addresses separated with a comma</p><p>e.g: someone@example.com, someone@example.com </p>"
-msgstr "<p>You can enter various e-mail addresses separated with a comma</p><p>e.g: someone@example.com, someone@example.com </p>"
+msgstr "<p> Anda dapat memasukkan lebih dari satu alamat email yang dipisah dengan koma</p><p>mis: someone@example.com, someone@example.com </p>"
 
 msgctxt "send-all-chat-transcript-to-emaile"
 msgid "Send all chat transcript to e-mail"
-msgstr "Send all chat transcript to e-mail"
+msgstr "Kirim semua transkripsi chat ke email"
 
 msgctxt "general-settings"
 msgid "General Settings"
-msgstr "General Settings"
+msgstr "Pengaturan Umum"
 
 msgctxt "chat-widget"
 msgid "Chat widget"
-msgstr "Chat widget"
+msgstr "Widget chat"
 
 msgctxt "theme"
 msgid "Theme"
-msgstr "Theme"
+msgstr "Tema"
 
 msgctxt "language"
 msgid "Language"
-msgstr "Language"
+msgstr "Bahasa"
 
 msgctxt "chat-button"
 msgid "Chat Button"
-msgstr "Chat Button"
+msgstr "Tombol Chat"
 
 msgctxt "chat-survey"
 msgid "Chat Survey"
-msgstr "Chat Survey"
+msgstr "Survei Chat"
 
 msgctxt "triggers"
 msgid "Triggers"
-msgstr "Triggers"
+msgstr "Pemicu"
 
 msgctxt "installations"
 msgid "Installations"
-msgstr "Installations"
+msgstr "Pemasangan"
 
 msgctxt "chat-windows-online"
 msgid "Chat windows Online"
-msgstr "Chat windows Online"
+msgstr "Jendela chat Online"
 
 msgctxt "chat-windows-offline"
 msgid "Chat windows Offline"
-msgstr "Chat windows Offline"
+msgstr "Jendela chat Offline"
 
 msgctxt "button-online"
 msgid "Button online"
-msgstr "Button online"
+msgstr "Tombol online"
 
 msgctxt "button-offline"
 msgid "Button offline"
-msgstr "Button offline"
+msgstr "Tombol offline"
 
 msgctxt "customize"
 msgid "Customize"
-msgstr "Customize"
+msgstr "Sesuaikan"
 
 msgctxt "custome-css"
 msgid "Customize css"
-msgstr "Customize css"
+msgstr "Sesuaikan css"
 
 msgctxt "add-your-own-css"
 msgid "Add your own CSS rules. For typical customizations visit our %s Knowledge base %s."
-msgstr "Add your own CSS rules. For typical customizations visit our %s Knowledge base %s."
+msgstr "Tambahkan aturan CSS Anda. Untuk penyesuaian khusus kunjungi laman %s Pengetahuan Dasar %s."
 
 msgctxt "social"
 msgid "Social"
-msgstr "Social"
+msgstr "Sosial"
 
 msgctxt "change-logo"
 msgid "Change logo"
-msgstr "Change logo"
+msgstr "Ubah logo"
 
 msgctxt "msg_setting_transcript_mail"
 msgid "Transcript to e-mail or receive offline message is required!"
-msgstr "Transcript to e-mail or receive offline message is required!"
+msgstr "Transkripsi ke email atau menerima pesan offline dibutuhkan!"
 
 msgctxt "email_address"
 msgid "Email address"
-msgstr "Email address"
+msgstr "Alamat email"
 
 msgctxt "invalid"
 msgid "invalid"
-msgstr "invalid"
+msgstr "tidak sah"
 
 msgctxt "all_changes_saved"
 msgid "All changes saved"
-msgstr "All changes saved"
+msgstr "Semua perubahan tersimpan"
 
 msgctxt "msg_save_change_error"
 msgid "Save change error!"
-msgstr "Save change error!"
+msgstr "Kesalahan pada penyimpanan perubahan!"
 
 msgctxt "show-sample-code"
 msgid "Show sample code"
-msgstr "Show sample code"
+msgstr "Tunjukkan kode sampel"
 
 msgctxt "edit_contact_details"
 msgid "Edit Contact Details"
-msgstr "Edit Contact Details"
+msgstr "Edit Detil Kontak"
 
 msgctxt "visitor"
 msgid "Visitor"
-msgstr "Visitor"
+msgstr "Pengunjung"
 
 msgctxt "msg_sample_code"
 msgid "Sample code empty!"
-msgstr "Sample code empty!"
+msgstr "Kode sampel kosong!"
 
 msgctxt "msg_can_not_open_file"
 msgid "Can not open file!"
-msgstr "Can not open file!"
+msgstr "Tidak dapat membuka file!"
 
 msgctxt "msg_save_cust_error"
 msgid "Save change customize css error!"
-msgstr "Save change customize css error!"
+msgstr "Kesalahan pada penyimpanan penyesuaian CSS!"
 
 msgctxt "msg_write_file_error"
 msgid "Write file css error!"
-msgstr "Write file css error!"
+msgstr "Kesalahan pada penulisan file CSS!"
 
 msgctxt "english-is-default-lanfuage"
 msgid "English is default language"
-msgstr "English is default language"
+msgstr "Inggris adalah bahasa default"
 
 msgctxt "welcome-to-subiz"
 msgid "Welcome to Subiz"
-msgstr "Welcome to Subiz"
+msgstr "Selamat datang di Subiz"
 
 msgctxt "supporter"
 msgid "Supporter"
-msgstr "Supporter"
+msgstr "Pendukung"
 
 msgctxt "ask-us-anything"
 msgid "Ask us anything"
-msgstr "Ask us anything"
+msgstr "Tanya kami apa saja"
 
 msgctxt "type-your-messange-here"
 msgid "Type your message here"
-msgstr "Type your message here"
+msgstr "Ketik pesan Anda di sini"
 
 msgctxt "send-us-a-message"
 msgid "Send us a message"
-msgstr "Send us a message"
+msgstr "Kirimi kami pesan"
 
 msgctxt "sorry-we-are"
 msgid "Sorry, we aren't online at the moment. Leave a message and we'll get back to you."
-msgstr "Sorry, we aren't online at the moment. Leave a message and we'll get back to you."
+msgstr "Maaf, kami sedang tidak online saat ini. Tinggalkan pesan dan kami akan menghubungi Anda kembali."
 
 msgctxt "rate_good"
 msgid "Good"
-msgstr "Good"
+msgstr "Baik"
 
 msgctxt "rate-as-good"
 msgid "Rate as good"
-msgstr "Rate as good"
+msgstr "Beri nilai baik"
 
 msgctxt "rate-as-bad"
 msgid "Rate as bad"
-msgstr "Rate as bad"
+msgstr "Beri nilai buruk "
 
 msgctxt "supporter-is-typing"
 msgid "Supporter is typing"
-msgstr "Supporter is typing"
+msgstr "Pendukung sedang mengetik"
 
 msgctxt "option"
 msgid "Option"
-msgstr "Option"
+msgstr "Opsi"
 
 msgctxt "sound"
 msgid "Sound"
-msgstr "Sound"
+msgstr "Suara"
 
 msgctxt "email-transcript"
 msgid "Email Transcript"
-msgstr "Email Transcript"
+msgstr "Transkripsi email"
 
 msgctxt "contact-details"
 msgid "Contact Details"
-msgstr "Contact Details"
+msgstr "Detil kontak"
 
 msgctxt "end-this-chat"
 msgid "End This Chat"
-msgstr "End This Chat"
+msgstr "Akhiri Chat"
 
 msgctxt "message"
 msgid "Message"
-msgstr "Message"
+msgstr "Pesan"
 
 msgctxt "name-help"
 msgid "Your name"
-msgstr "Your name"
+msgstr "Nama Anda"
 
 msgctxt "email-help"
 msgid "email@gmail.com"
@@ -563,403 +560,387 @@ msgstr "email@gmail.com"
 
 msgctxt "phone-help"
 msgid "Phone number"
-msgstr "Phone number"
+msgstr "Nomor telepon"
 
 msgctxt "send-email"
 msgid "Send email"
-msgstr "Send email"
+msgstr "Kirim email"
 
 msgctxt "we-hope"
 msgid "We hope we've answered your queries. Are you ready to end this chat now?"
-msgstr "We hope we've answered your queries. Are you ready to end this chat now?"
+msgstr "Kami harap pertanyaan Anda telah terjawab. Apakah Anda ingin mengakhiri chat sekarang?"
 
 msgctxt "end-chat"
 msgid "End Chat"
-msgstr "End Chat"
+msgstr "Akhiri chat"
 
 msgctxt "not-yet"
 msgid "Not Yet"
-msgstr "Not Yet"
+msgstr "Belum"
 
 msgctxt "send-message"
 msgid "Send message"
-msgstr "Send message"
+msgstr "Kirim pesan"
 
 msgctxt "department-select"
 msgid "Department Select"
-msgstr "Department Select"
+msgstr "Pemilihan Departemen"
 
 msgctxt "question-help"
 msgid "Your question?"
-msgstr "Your question?"
+msgstr "Pertanyaan Anda?"
 
 msgctxt "button-bubble"
 msgid "Chat Button / Chat bubble"
-msgstr "Chat Button / Chat bubble"
+msgstr "Tombol Chat / Gelembung Chat"
 
 msgctxt "chat-buttons"
 msgid "Chat buttons"
-msgstr "Chat buttons"
+msgstr "Tombol chat"
 
 msgctxt "chat-bubble"
 msgid "Chat bubble"
-msgstr "Chat bubble"
+msgstr "Gelembung chat"
 
 msgctxt "agent-available"
 msgid "Account available"
-msgstr "Account available"
+msgstr "Akun online"
 
 msgctxt "agent-not-available"
 msgid "Account not available"
-msgstr "Account not available"
+msgstr "Akun offline"
 
 msgctxt "get-code-chat-buttons"
 msgid "Get code chat buttons"
-msgstr "Get code chat buttons"
+msgstr "Dapatkan kode tombol chat"
 
 msgctxt "chat-button-code"
 msgid "Chat button code"
-msgstr "Chat button code"
+msgstr "Kode tombol chat"
 
 msgctxt "you-can-adding"
 msgid "You can add the embed code or use syntax html."
-msgstr "You can add the embed code or use syntax html."
+msgstr "Anda dapat menambahkan kode yang tertera atau menggunakan sintaksis html."
 
 msgctxt "choose-bubble-gallery"
 msgid "Choose bubble from gallery"
-msgstr "Choose bubble from gallery"
+msgstr "Pilih gelembung dari galeri"
 
 msgctxt "what-is-a-chat-button"
 msgid "<p><strong>What’s chat button?</strong></p><p>Chat button enables visitors to start a chat on your website.</p>"
-msgstr "<p><strong>What’s chat button?</strong></p><p>Chat button enables visitors to start a chat on your website.</p>"
+msgstr "<p><strong> Apa itu tombol chat?</strong></p><p>Gelembung chat memungkinkan pengunjung memulai chat di situs Anda.</p>"
 
 msgctxt "choose-buttons-from-gallery"
 msgid "Choose button from gallery"
-msgstr "Choose button from gallery"
+msgstr "Pilih tombol chat dari galeri"
 
 msgctxt "upload-buttons-for"
 msgid "Upload buttons for"
-msgstr "Upload buttons for"
+msgstr "Unggah tombol untuk"
 
 msgctxt "what-is-chat-bubble"
 msgid "<p><strong>What’s a chat bubble?</strong></p><p>It is a cute picture that makes chat widget more attractive and builds trust between you and the visitors.</p>"
-msgstr "<p><strong>What’s a chat bubble?</strong></p><p>It is a cute picture that makes chat widget more attractive and builds trust between you and the visitors.</p>"
+msgstr "<p><strong> Apa itu gelembung chat?</strong></p><p>Gelembung adalah gambar lucu yang membuat widget chat semakin menarik dan membangung kepercayaan antara Anda dengan pengunjung.</p>"
 
 msgctxt "read-more"
 msgid "Read more"
-msgstr "Read more"
+msgstr "Baca selengkapnya"
 
 msgctxt "enable-chat-bubble"
 msgid "Enable chat bubble"
-msgstr "Enable chat bubble"
+msgstr "Aktifkan gelembung chat"
 
 msgctxt "browse-chat-bubble-gallery"
 msgid "Browse chat bubble gallery"
-msgstr "Browse chat bubble gallery"
+msgstr "Buka galeri gelembung chat"
 
 msgctxt "upload-custom-picture"
 msgid "Upload custom picture"
-msgstr "Upload custom picture"
+msgstr "Unggah gambar kustom"
 
 msgctxt "maximum-size-200kb"
 msgid "Maximum size 50kb, recommended dimensions 240x164 px"
-msgstr "Maximum size 50kb, recommended dimensions 240x164 px"
+msgstr "Ukuran maksimum 50kb, dimensi yang dianjurkan 240x164 px"
 
 msgctxt "avatar_max_size"
 msgid "Maximum size 50kb"
-msgstr "Maximum size 50kb"
+msgstr "Ukuran maksimum 50kb"
 
 msgctxt "msg_name_field_error"
 msgid "Name field upload error"
-msgstr "Name field upload error"
+msgstr "Kesalahan pada pengunggahan bagian nama"
 
 msgctxt "what-a-chat"
 msgid "What’s a chat survey?"
-msgstr "What’s a chat survey?"
+msgstr "Apa itu survei chat?"
 
 msgctxt "chat-servey-lets"
 msgid "Chat survey helps you to collect visitor information before chat."
-msgstr "Chat survey helps you to collect visitor information before chat."
+msgstr "Survei chat membantu Anda mengumpulkan informasi tentang pengunjung sebelum chat dimulai."
 
 msgctxt "enable-chat-survey"
 msgid "Enable chat survey"
-msgstr "Enable chat survey"
+msgstr "Aktifkan survei chat"
 
 msgctxt "require-department"
 msgid "Require department"
-msgstr "Require department"
+msgstr "Departemen yang dibutuhkan"
 
 msgctxt "require-question"
 msgid "Require question"
-msgstr "Require question"
+msgstr "Pertanyaan yang dibutuhkan"
 
 msgctxt "allow-phone-number"
 msgid "Allow phone number"
-msgstr "Allow phone number"
+msgstr "Perbolehkan nomor telepon"
 
 msgctxt "customeize"
 msgid "Customize"
-msgstr "Customize"
+msgstr "Sesuaikan"
 
 msgctxt "support"
 msgid "Support"
-msgstr "Support"
+msgstr "Dukungan"
 
 msgctxt "please-provide-a-valid-email"
 msgid "Please provide a valid email"
-msgstr "Please provide a valid email"
+msgstr "Silakan masukkan email yang sah"
 
 msgctxt "or-sign-in-withs"
 msgid "or sign in with"
-msgstr "or sign in with"
+msgstr "atau masuk dengan"
 
 msgctxt "start-chat"
 msgid "Start Chat"
-msgstr "Start Chat"
+msgstr "Mulai chat"
 
 msgctxt "use_cus_survey"
 msgid "You have chosen Auto Detect language. Choose a specific language to customize chat survey form."
-msgstr "You have chosen Auto Detect language. Choose a specific language to customize chat survey form."
-
-msgctxt "file-sharing"
-msgid "File sharing"
-msgstr "File sharing"
-
-msgctxt "enabled-for-agent"
-msgid "Enable for Agent"
-msgstr "Enable for Agent"
-
-msgctxt "enabled-for-visitor"
-msgid "Enable for Visitor"
-msgstr "Enable for Visitor"
-
-msgctxt "support-file-type"
-msgid "Supported files: "
-msgstr "Supported files: "
+msgstr "Anda sudah memilih Auto Detect bahasa. Pilih bahasa tertentu untuk formulir survei chat."
 
 msgctxt "package_allow_trigger"
 msgid "Package allows"
-msgstr "Package allows"
+msgstr "Paket memungkinkan"
 
 msgctxt "enabled_trigger"
 msgid "enabled trigger"
-msgstr "enabled trigger"
+msgstr "pemicu aktif"
 
 msgctxt "trigger_run_trigger"
 msgid "Run trigger"
-msgstr "Run trigger"
+msgstr "Jalankan pemicu"
 
 msgctxt "trigger_page_enter"
 msgid "When a visitor has loaded the chat widget"
-msgstr "When a visitor has loaded the chat widget"
+msgstr "Ketika pengunjung sudah memuat widget chat"
 
 msgctxt "trigger_chat_requested"
 msgid "When a visitor requests a chat"
-msgstr "When a visitor requests a chat"
+msgstr "Ketika pengunjung memulai chat"
 
 msgctxt "trigger_btn_add"
 msgid "Add trigger"
-msgstr "Add trigger"
+msgstr "Tambahkan pemicu"
 
 msgctxt "trigger_name"
 msgid "Trigger Name"
-msgstr "Trigger Name"
+msgstr "Nama Pemicu"
 
 msgctxt "trigger_description"
 msgid "Description"
-msgstr "Description"
+msgstr "Deskripsi"
 
 msgctxt "trigger_once_label"
 msgid "Fire only once per visitor"
-msgstr "Fire only once per visitor"
+msgstr "Satu kali untuk tiap pengunjung"
 
 msgctxt "trigger_once"
 msgid "Each visitor will receive this message only once"
-msgstr "Each visitor will receive this message only once"
+msgstr "Setiap pengunjung hanya akan menerima pesan ini satu kali"
 
 msgctxt "trigger_once_short"
 msgid "Fire once"
-msgstr "Fire once"
+msgstr "Satu kali "
 
 msgctxt "trigger_chat_message"
 msgid "When a visitor sends a chat message"
-msgstr "When a visitor sends a chat message"
+msgstr "Ketika pengunjung mengirimkan pesan chat"
 
 msgctxt "trigger_check_conditions"
 msgid "Check conditions"
-msgstr "Check conditions"
+msgstr "Lihat ketentuan"
 
 msgctxt "trigger_check_condition_and"
 msgid "Check all of the following conditions"
-msgstr "Check all of the following conditions"
+msgstr "Lihat semua ketentuan berikut"
 
 msgctxt "trigger_check_condition_or"
 msgid "Check any of the following conditions"
-msgstr "Check any of the following conditions"
+msgstr "Lihat salah satu ketentuan berikut"
 
 msgctxt "trigger_hour_of_day"
 msgid "Hour of day"
-msgstr "Hour of day"
+msgstr "Jam"
 
 msgctxt "trigger_day_of_week"
 msgid "Day of week"
-msgstr "Day of week"
+msgstr "Hari"
 
 msgctxt "trigger_visitor_time_on_site"
 msgid "Visitor time on site"
-msgstr "Visitor time on site"
+msgstr "Waktu pengunjung di dalam situs"
 
 msgctxt "trigger_visitor_ip"
 msgid "Visitor IP"
-msgstr "Visitor IP"
+msgstr "IP pengunjung"
 
 msgctxt "trigger_visitor_city"
 msgid "Visitor city"
-msgstr "Visitor city"
+msgstr "Kota pengunjung"
 
 msgctxt "trigger_visitor_country_code"
 msgid "Visitor country code"
-msgstr "Visitor country code"
+msgstr "Kode negara pengunjung"
 
 msgctxt "trigger_visitor_country_name"
 msgid "Visitor country name"
-msgstr "Visitor country name"
+msgstr "Nama negara pengunjung"
 
 msgctxt "trigger_visitor_page_url"
 msgid "Visitor page url"
-msgstr "Visitor page url"
+msgstr "Halaman url pengunjung"
 
 msgctxt "trigger_visitor_page_title"
 msgid "Visitor page title"
-msgstr "Visitor page title"
+msgstr "Judul laman pengunjung"
 
 msgctxt "trigger_visitor_page_count"
 msgid "Visitor page count"
-msgstr "Visitor page count"
+msgstr "Jumlah laman pengunjung"
 
 msgctxt "trigger_referrer"
 msgid "Previous page"
-msgstr "Previous page"
+msgstr "Laman sebelumnya"
 
 msgctxt "trigger_visitor_name"
 msgid "Visitor name"
-msgstr "Visitor name"
+msgstr "Nama pengunjung"
 
 msgctxt "trigger_visitor_referrer"
 msgid "Visitor referrer"
-msgstr "Visitor referrer"
+msgstr "Perujuk pengunjung"
 
 msgctxt "trigger_visitor_search_engine"
 msgid "Visitor search engine"
-msgstr "Visitor search engine"
+msgstr "Alat pencari pengunjung"
 
 msgctxt "trigger_visitor_search_terms"
 msgid "Visitor search terms"
-msgstr "Visitor search terms"
+msgstr "Syarat pencarian pengunjung"
 
 msgctxt "trigger_visitor_type"
 msgid "Visitor type"
-msgstr "Visitor type"
+msgstr "Tipe pengunjung"
 
 msgctxt "trigger_help_hour_of_day"
 msgid "Hour of day (UTC timezone). 0 to 23"
-msgstr "Hour of day (UTC timezone). 0 to 23"
+msgstr "Jam (zona waktu UTC). 0 sampai 23"
 
 msgctxt "trigger_help_hour_of_day_holder"
 msgid "Value is number. e.g 21"
-msgstr "Value is number. e.g 21"
+msgstr "Nilai berupa angka. mis: 21"
 
 msgctxt "trigger_help_day_of_week"
 msgid "Day of the week. 0 = Monday, 6 = Sunday"
-msgstr "Day of the week. 0 = Monday, 6 = Sunday"
+msgstr "Hari. 0 = Senin, 6 = Minggu"
 
 msgctxt "trigger_help_day_of_week_holder"
 msgid "Value is number. e.g: 5"
-msgstr "Value is number. e.g: 5"
+msgstr "Nilai berupa angka. mis: 5"
 
 msgctxt "trigger_help_visitor_time_on_site"
 msgid "Number of seconds visitor has stayed on your site"
-msgstr "Number of seconds visitor has stayed on your site"
+msgstr "Jumlah detik pengunjung berada dalam situs Anda"
 
 msgctxt "trigger_help_visitor_time_on_site_holder"
 msgid "Value is number. e.g: 60"
-msgstr "Value is number. e.g: 60"
+msgstr "Nilai berupa angka. mis: 60"
 
 msgctxt "trigger_help_visitor_ip"
 msgid "IP address of the visitor <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
-msgstr "IP address of the visitor <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
+msgstr "Alamat IP pengunjung <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Pemicu untuk id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
 
 msgctxt "trigger_help_visitor_ip_holder"
 msgid "Value. e.g: 117.23.23.1"
-msgstr "Value. e.g: 117.23.23.1"
+msgstr "Nilai. mis: 117.23.23.1"
 
 msgctxt "trigger_help_visitor_city"
 msgid "City where visitor come from (New York)"
-msgstr "City where visitor come from (New York)"
+msgstr "Kota asal pengunjung (New York)"
 
 msgctxt "trigger_help_visitor_city_holder"
 msgid "Value. e.g: London"
-msgstr "Value. e.g: London"
+msgstr "Nilai. mis: London"
 
 msgctxt "trigger_help_visitor_country_code"
 msgid "2 letter country code (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
-msgstr "2 letter country code (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
+msgstr "Kode negara 2 huruf (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) pengunjung Indonesia knows UK only as Inggri However, US is known as A"
 
 msgctxt "trigger_help_visitor_country_code_holder"
 msgid "Value. e.g: UK"
-msgstr "Value. e.g: UK"
+msgstr "Nilai. mis: UK"
 
 msgctxt "trigger_help_visitor_country_name"
 msgid "Country where visitors come from"
-msgstr "Country where visitors come from"
+msgstr "Negara asal pengunjung"
 
 msgctxt "trigger_help_visitor_country_name_holder"
 msgid "Value. e.g: United States"
-msgstr "Value. e.g: United States"
+msgstr "Nilai. mis: Amerika Serikat"
 
 msgctxt "trigger_help_visitor_page_url"
 msgid "URL of the page the visitor is currently on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
-msgstr "URL of the page the visitor is currently on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
+msgstr "URL laman keberadaan pengunjung. Mis: untuk laman <i>http://www.mysite.com/page1.html</i> masukkan <i>www.mysite.com/page1.html</i>"
 
 msgctxt "trigger_help_visitor_page_url_holder"
 msgid "Value. e.g: www.yourdomain.com/page1.html"
-msgstr "Value. e.g: www.yourdomain.com/page1.html"
+msgstr "Nilai. mis: www.yourdomain.com/page1.html"
 
 msgctxt "trigger_help_visitor_page_title"
 msgid "Title of the page the visitor is currently on. Title is content between the <code>&lt;title&gt;&lt;/title&gt;</code> on the page."
-msgstr "Title of the page the visitor is currently on. Title is content between the <code>&lt;title&gt;&lt;/title&gt;</code> on the page."
+msgstr "Judul laman keberadaan pengunjung. Judul adalah konten antara <code>&lt;title&gt;&lt;/title&gt;</code> pada laman."
 
 msgctxt "trigger_help_visitor_page_title_holder"
 msgid "Value"
-msgstr "Value"
+msgstr "Nilai"
 
 msgctxt "trigger_help_visitor_page_count"
 msgid "Number of pages visitor has viewed. First page = 1"
-msgstr "Number of pages visitor has viewed. First page = 1"
+msgstr "Jumlah laman yang dilihat pengunjung. Laman pertama = 1"
 
 msgctxt "trigger_help_visitor_page_count_holder"
 msgid "Value is number"
-msgstr "Value is number"
+msgstr "Nilai berupa angka"
 
 msgctxt "trigger_help_referrer"
 msgid "URL of the previous page visitor was on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
-msgstr "URL of the previous page visitor was on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
+msgstr "URL laman keberadaan pengunjung sebelumnya. Mis: untuk laman <i>http://www.mysite.com/page1.html</i> masukkan <i>www.mysite.com/page1.html</i>"
 
 msgctxt "trigger_help_referrer_holder"
 msgid "Value"
-msgstr "Value"
+msgstr "Nilai"
 
 msgctxt "trigger_help_visitor_name"
 msgid "Name of the visitor"
-msgstr "Name of the visitor"
+msgstr "Nama pengunjung"
 
 msgctxt "trigger_help_visitor_name_holder"
 msgid "Value. e.g: David"
-msgstr "Value. e.g: David"
+msgstr "Nilai. mis: David"
 
 msgctxt "trigger_help_visitor_referrer"
 msgid "Referrer URL of the visitor (when he entered your site). E.g: For the page <i>http://www.google.com</i> enter <i>www.google.com</i>"
-msgstr "Referrer URL of the visitor (when he entered your site). E.g: For the page <i>http://www.google.com</i> enter <i>www.google.com</i>"
+msgstr "URL perujuk pengunjung (saat memasuki situs Anda). Mis: Untuk laman <i>http://www.google.com</i> masukkan <i>www.google.com</i>"
 
 msgctxt "trigger_help_visitor_referrer_holder"
 msgid "Url"
@@ -967,383 +948,119 @@ msgstr "Url"
 
 msgctxt "trigger_help_visitor_search_engine"
 msgid "Referring search engine, if applicable (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
-msgstr "Referring search engine, if applicable (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
+msgstr "Meisn pencari perujuk, jika berlaku (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Lihat Daftar Mesin Pencari dan nama untuk ketentuan</a>"
 
 msgctxt "trigger_help_visitor_search_engine_holder"
 msgid "Search engine name"
-msgstr "Search engine name"
+msgstr "Nama mesin pencari"
 
 msgctxt "trigger_help_visitor_search_terms"
 msgid "Referring search term, if applicable. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
-msgstr "Referring search term, if applicable. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
+msgstr "Syarat pencarian perujuk, jika berlaku. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank"> Subiz mendeteksi Mesin Pencari secara otomatis</a>"
 
 msgctxt "trigger_help_visitor_search_terms_holder"
 msgid "Keyword"
-msgstr "Keyword"
+msgstr "Kata kunci"
 
 msgctxt "trigger_help_visitor_type"
 msgid "Type (new visitor/return visitor) of visitor. Type <i>new</i> for new visitor, <i>return</i> for return visitor"
-msgstr "Type (new visitor/return visitor) of visitor. Type <i>new</i> for new visitor, <i>return</i> for return visitor"
+msgstr "Tipe (pengunjung baru/pengunjung yang kembali) pengunjung. Ketik <i>baru</i> untuk pengunjung baru, <i>kembali</i> untuk pengunjung yang kembali"
 
 msgctxt "trigger_help_visitor_type_holder"
 msgid "type new/return"
-msgstr "type new/return"
+msgstr "ketik baru/kembali"
 
 msgctxt "trigger_err_condition_empty"
 msgid "You have no condition. Please complete to continue"
-msgstr "You have no condition. Please complete to continue"
+msgstr "Anda belum memiliki ketentuan. Silakan isi untuk melanjutkan"
 
 msgctxt "trigger_err_action_empty"
 msgid "You have no action. Please complete to continue"
-msgstr "You have no action. Please complete to continue"
+msgstr "Anda belum membuat tindakan. Silakan isi untuk melanjutkan"
 
 msgctxt "trigger_edit_msg_edit"
 msgid "The trigger has been saved!"
-msgstr "The trigger has been saved!"
+msgstr "Pemicu tersimpan!"
 
 msgctxt "trigger_edit_msg_add"
 msgid "The trigger was added successfully!"
-msgstr "The trigger was added successfully!"
+msgstr "Penambahan pemicu berhasil! English suggestion Sorry. Trigger can\'t be found. Please try again O Sorry. Trigger cannot be found. Please try again"
 
 msgctxt "trigger_not_exist"
 msgid "Sorry. Trigger can't not found. Please try again!"
-msgstr "Sorry. Trigger can't not found. Please try again!"
+msgstr "Maaf. Pemicu tidak dapat ditemukan. Silakan coba kembali !"
 
 msgctxt "trigger_action_autoInvite"
 msgid "Auto Invite"
-msgstr "Auto Invite"
+msgstr "Undang Otomatis"
 
 msgctxt "trigger_help_autoInvite_holder_name"
 msgid "Name of agent"
-msgstr "Name of agent"
+msgstr "Nama agen"
 
 msgctxt "trigger_help_autoInvite"
 msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
-msgstr ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
+msgstr ""Nama agen" sebagai "Nama tampilan" agen. Pengunjung akan melihat Nama."
 
 msgctxt "trigger_action_sendMessageToVisitor"
 msgid "Send Message to Visitor"
-msgstr "Send Message to Visitor"
+msgstr "Kirim Pesan ke Pengunjung"
 
 msgctxt "trigger_help_sendMessageToVisitor_holder_name"
 msgid "Name of agent"
-msgstr "Name of agent"
+msgstr "Nama agen"
 
 msgctxt "trigger_help_sendMessageToVisitor"
 msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
-msgstr ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
+msgstr ""Nama agen" sebagai "Nama tampilan" agen. Pengunjung akan melihat Nama."
 
 msgctxt "trigger_action_sendMessageToAgent"
 msgid "Send Message to Agent"
-msgstr "Send Message to Agent"
+msgstr "Kirim Pesan ke Agen"
 
 msgctxt "trigger_help_sendMessageToAgent_holder_username"
 msgid "Username of agent"
-msgstr "Username of agent"
+msgstr "Nama pengguna agen"
 
 msgctxt "trigger_help_sendMessageToAgent"
 msgid "Type "username" of agent or "all" to send to all agents online"
-msgstr "Type "username" of agent or "all" to send to all agents online"
+msgstr "Ketik "nama pengguna" agen atau "semua" untuk mengirim ke semua agen yang online"
 
 msgctxt "trigger_help_message_holder"
 msgid "Message ..."
-msgstr "Message ..."
+msgstr "Pesan ..."
 
 msgctxt "warning_account_max_limit"
 msgid "Your account has been reached to maximum Trigger. Please %s click here %s to upgrade your account!"
-msgstr "Your account has been reached to maximum Trigger. Please %s click here %s to upgrade your account!"
-
-msgctxt "number_agent"
-msgid "Number of Agents"
-msgstr "Number of Agents"
-
-msgctxt "next_payment_dua"
-msgid "Next payment due date"
-msgstr "Next payment due date"
-
-msgctxt "next_billing_date"
-msgid "Next billing date"
-msgstr "Next billing date"
-
-msgctxt "plan_billing"
-msgid "Plan & Billing"
-msgstr "Plan & Billing"
-
-msgctxt "your_plan"
-msgid "Your current package"
-msgstr "Your current package"
-
-msgctxt "view_invoice"
-msgid "View invoice"
-msgstr "View invoice"
-
-msgctxt "credit"
-msgid "Credit"
-msgstr "Credit"
-
-msgctxt "add_credit"
-msgid "Add credits"
-msgstr "Add credits"
-
-msgctxt "more"
-msgid "More options"
-msgstr "More options"
-
-msgctxt "update_payment_method"
-msgid "Update payment method"
-msgstr "Update payment method"
-
-msgctxt "all_invoice"
-msgid "Invoices"
-msgstr "Invoices"
-
-msgctxt "invoice"
-msgid "Invoice"
-msgstr "Invoice"
-
-msgctxt "total_dua"
-msgid "Total"
-msgstr "Total"
-
-msgctxt "payment"
-msgid "Payment"
-msgstr "Payment"
-
-msgctxt "make_payment"
-msgid "Make payment"
-msgstr "Make payment"
-
-msgctxt "cancel_account"
-msgid "Cancel account"
-msgstr "Cancel account"
-
-msgctxt "term_of_use"
-msgid "Terms of use"
-msgstr "Terms of use"
-
-msgctxt "faq"
-msgid "FAQ"
-msgstr "FAQ"
-
-msgctxt "sub_support"
-msgid "support"
-msgstr "support"
-
-msgctxt "current_billing_cycle"
-msgid "Current billing cycle"
-msgstr "Current billing cycle"
-
-msgctxt "sub_save"
-msgid "save"
-msgstr "save"
-
-msgctxt "last_bill"
-msgid "Last billed on"
-msgstr "Last billed on"
-
-msgctxt "using_trial"
-msgid "You are using a free trial of the Standard plan with 100 agents. Your account will expire on"
-msgstr "You are using a free trial of the Standard plan with 100 agents. Your account will expire on"
-
-msgctxt "you_will_have"
-msgid "You will have"
-msgstr "You will have"
-
-msgctxt "account_credit"
-msgid "Credits"
-msgstr "Credits"
-
-msgctxt "you_need_pay"
-msgid "You will pay"
-msgstr "You will pay"
-
-msgctxt "auto_renew"
-msgid "Automatic Renewal"
-msgstr "Automatic Renewal"
-
-msgctxt "auto_renew_content"
-msgid "For your convenience, subscription will be automatically renewed when the current one ends. You can stop the automatic renewal at any time."
-msgstr "For your convenience, subscription will be automatically renewed when the current one ends. You can stop the automatic renewal at any time."
-
-msgctxt "Upgrade_downgrade"
-msgid "Upgrade/Dowgrade!"
-msgstr "Upgrade/Dowgrade!"
-
-msgctxt "Upgrade_downgrade_content"
-msgid "Enjoy the flexibility of our billing system. Upgrade, downgrade, add / reduce agents, change billing cycle whenever you want."
-msgstr "Enjoy the flexibility of our billing system. Upgrade, downgrade, add / reduce agents, change billing cycle whenever you want."
-
-msgctxt "sub_compare_plan"
-msgid "Compare plans"
-msgstr "Compare plans"
-
-msgctxt "sub_current_plan"
-msgid "Your current plan"
-msgstr "Your current plan"
-
-msgctxt "sub_standard_price"
-msgid "$9.59 per agent / month"
-msgstr "$9.59 per agent / month"
-
-msgctxt "sub_advanced_price"
-msgid "$16.8 per agent / month"
-msgstr "$16.8 per agent / month"
-
-msgctxt "subscription_title_changeplan"
-msgid "Subscription change plan"
-msgstr "Subscription change plan"
-
-msgctxt "subscription_upgrade_advanced"
-msgid "Upgrade to Advanced Plan"
-msgstr "Upgrade to Advanced Plan"
-
-msgctxt "subscription_reduce_agent_subscription"
-msgid "Number of agent subscription you wish to reduce"
-msgstr "Number of agent subscription you wish to reduce"
-
-msgctxt "subscription_add_credit_title"
-msgid "Redeem promotion code"
-msgstr "Redeem promotion code"
-
-msgctxt "subscription_add_credit_promotion_code"
-msgid "Promotion code"
-msgstr "Promotion code"
-
-msgctxt "subscription_add_credit_promotion_error"
-msgid "The promotion code you entered is not valid"
-msgstr "The promotion code you entered is not valid"
-
-msgctxt "subscription_add_credit_promotion_error2"
-msgid "The promotion code could not be empty"
-msgstr "The promotion code could not be empty"
-
-msgctxt "subscription_add_credit_promotion_continue"
-msgid "Continue"
-msgstr "Continue"
-
-msgctxt "subscription_add_credit_promotion_redeem"
-msgid "Redeem"
-msgstr "Redeem"
-
-msgctxt "subscription_title_free"
-msgid "Subscription Free"
-msgstr "Subscription Free"
-
-msgctxt "subscription_redirect_fastpring"
-msgid "Redirecting to FastPring to complete transaction..."
-msgstr "Redirecting to FastPring to complete transaction..."
-
-msgctxt "subscription_active_pmt_method_success"
-msgid "Make primary successfully"
-msgstr "Make primary successfully"
-
-msgctxt "subscription_active_pmt_method_error"
-msgid "Make primary error"
-msgstr "Make primary error"
-
-msgctxt "subscription_active_pmt_method_cash_success"
-msgid "Active payment method successfully"
-msgstr "Active payment method successfully"
-
-msgctxt "subscription_active_pmt_method_cash_error"
-msgid "Active payment method error"
-msgstr "Active payment method error"
-
-msgctxt "subscription_notice_choose_least_invoice"
-msgid "Please choose at least one invoice"
-msgstr "Please choose at least one invoice"
-
-msgctxt "subscription_not_enough_credit"
-msgid "Not enough credit"
-msgstr "Not enough credit"
-
-msgctxt "subscription_notice_setprimary_method"
-msgid "Please set primary payment method"
-msgstr "Please set primary payment method"
-
-msgctxt "subscription_notice_active_method"
-msgid "Please active payment method"
-msgstr "Please active payment method"
-
-msgctxt "condition_fastspring_not_true"
-msgid "Your request could not be processed at this time. Please visit FAQ or chat with us for more detail"
-msgstr "Your request could not be processed at this time. Please visit FAQ or chat with us for more detail"
-
-msgctxt "pay_invoices_failure"
-msgid "Transaction failed. Please update payment method"
-msgstr "Transaction failed. Please update payment method"
-
-msgctxt "pay_success"
-msgid "Successful payment"
-msgstr "Successful payment"
-
-msgctxt "pay_error"
-msgid "Error payment"
-msgstr "Error payment"
-
-msgctxt "add_credit_success"
-msgid "Add credit successfully"
-msgstr "Add credit successfully"
-
-msgctxt "payment_method"
-msgid "Payment Methods"
-msgstr "Payment Methods"
-
-msgctxt "credit_card"
-msgid "Credit card"
-msgstr "Credit card"
-
-msgctxt "payment_primary"
-msgid "Default"
-msgstr "Default"
-
-msgctxt "payment_active"
-msgid "Active"
-msgstr "Active"
-
-msgctxt "payment_bk_transfer"
-msgid "Bank transfer"
-msgstr "Bank transfer"
-
-msgctxt "payment_make_primary"
-msgid "Make default"
-msgstr "Make default"
-
-msgctxt "payment_q1"
-msgid "Can I change package at any time ?"
-msgstr "Can I change package at any time ?"
-
-msgctxt "payment_q2"
-msgid "How can I change the payment's information like my credit card...?"
-msgstr "How can I change the payment's information like my credit card...?"
+msgstr "Akun Anda telah mencapai batas maksimum Pemicu. Silakan %s klik di sini %s untuk meningkatkan akun Anda!"
 
 msgctxt "subscription_none"
 msgid "None"
-msgstr "None"
+msgstr "Tidak ada"
 
 msgctxt "subscription_1_month"
 msgid "Monthly"
-msgstr "Monthly"
+msgstr "Bulanan"
 
 msgctxt "subscription_3_month"
 msgid "Every 3 months"
-msgstr "Every 3 months"
+msgstr "Setiap 3 bulan"
 
 msgctxt "subscription_6_month"
 msgid "Every 6 months"
-msgstr "Every 6 months"
+msgstr "Setiap 6 bulan"
 
 msgctxt "subscription_12_month"
 msgid "Yearly"
-msgstr "Yearly"
+msgstr "Tahunan"
 
 msgctxt "subscription_24_month"
 msgid "Every 2 years"
-msgstr "Every 2 years"
+msgstr "Setiap 2 tahun"
 
 msgctxt "subscription_billing_cycle_none"
 msgid "None"
-msgstr "None"
+msgstr "Tidak ada"
 
 msgctxt "subscription_operation"
 msgid "%"
@@ -1351,295 +1068,295 @@ msgstr "%"
 
 msgctxt "subscription_save"
 msgid "Save"
-msgstr "Save"
+msgstr "Simpan"
 
 msgctxt "subscription_save_none"
 msgid "None"
-msgstr "None"
+msgstr "Tidak ada"
 
 msgctxt "subscription_title_current_subscription"
 msgid "Current Subscription"
-msgstr "Current Subscription"
+msgstr "Paket berlangganan saat ini"
 
 msgctxt "subscription_discounts_with_longer_cycles"
 msgid "Discounts with longer cycles"
-msgstr "Discounts with longer cycles"
+msgstr "Potongan harga dengan siklus lebih panjang"
 
 msgctxt "subscription_change_to"
 msgid "Change to"
-msgstr "Change to"
+msgstr "Ubah ke"
 
 msgctxt "subscription_current_billing_cycle"
 msgid "Current billing cycle"
-msgstr "Current billing cycle"
+msgstr "Siklus tagihan saat ini"
 
 msgctxt "subscription_change_billing_cycle"
 msgid "Change billing cycle "
-msgstr "Change billing cycle "
+msgstr "Ubah siklus tagihan"
 
 msgctxt "subscription_change_billing_success"
 msgid "Change billing cycle successfully!"
-msgstr "Change billing cycle successfully!"
+msgstr "Penrubahan siklus tagihan berhasil!"
 
 msgctxt "subscription_require_billing_cycle"
 msgid "Select billing cycle"
-msgstr "Select billing cycle"
+msgstr "Pilih siklus tagihan"
 
 msgctxt "subscription_change_billing_error"
 msgid "Error change billing cycle"
-msgstr "Error change billing cycle"
+msgstr "Kesalahan perubahan siklus tagihan"
 
 msgctxt "subscription_add_agents_subscription"
 msgid "Add agents subscription"
-msgstr "Add agents subscription"
+msgstr "Tambahkan agen berlangganan"
 
 msgctxt "subscription_number_of_agent_subscribed"
 msgid "Number of subscribed agent(s)"
-msgstr "Number of subscribed agent(s)"
+msgstr "Jumlah agen berlangganan"
 
 msgctxt "subscription_additional_agent_subscription_purchase"
 msgid "Additional agent(s) you wish to purchase"
-msgstr "Additional agent(s) you wish to purchase"
+msgstr "Tambahan agen yang iAnda inginkan"
 
 msgctxt "subscription_number_of_agent_after_addition"
 msgid "Number of subscribed agent after payment made"
-msgstr "Number of subscribed agent after payment made"
+msgstr "Jumlah agen berlangganan setelah pembayaran"
 
 msgctxt "subscription_amount_for_agent"
 msgid "Amount to be paid for %s 1 %s agent(s) subscription"
-msgstr "Amount to be paid for %s 1 %s agent(s) subscription"
+msgstr "Jumlah yang harus dibayarkan untuk %s 1 %s agen berlangganan"
 
 msgctxt "subscription_add_agent_success"
 msgid "Add agent successfully"
-msgstr "Add agent successfully"
+msgstr "Penambahan agen berhasil"
 
 msgctxt "subscription_add_agent_error"
 msgid "Error add agent"
-msgstr "Error add agent"
+msgstr "Kesalahan penambahan agen"
 
 msgctxt "subscription_require_add_agent"
 msgid "Agent value invalid"
-msgstr "Agent value invalid"
+msgstr "Nilai agen tidak sah"
 
 msgctxt "subscription_expries_on"
 msgid "expires on"
-msgstr "expires on"
+msgstr "berakhir pada"
 
 msgctxt "subscription_subscription_detail_title"
 msgid "Subscription Details"
-msgstr "Subscription Details"
+msgstr "Detil Berlangganan"
 
 msgctxt "subscription_per_agent"
 msgid "per agent"
-msgstr "per agent"
+msgstr "per agen"
 
 msgctxt "subscription_per_month"
 msgid "per month"
-msgstr "per month"
+msgstr "per bulan"
 
 msgctxt "subscription_triggers"
 msgid "Triggers"
-msgstr "Triggers"
+msgstr "Pemicu"
 
 msgctxt "subscription_department"
 msgid "Department"
-msgstr "Department"
+msgstr "Departemen"
 
 msgctxt "subscription_concurrent_chat"
 msgid "Concurrent chat"
-msgstr "Concurrent chat"
+msgstr "Chat bersamaan"
 
 msgctxt "subscription_change_plan"
 msgid "Change plan"
-msgstr "Change plan"
+msgstr "Ubah paket"
 
 msgctxt "subscription_agents"
 msgid "Agent(s)"
-msgstr "Agent(s)"
+msgstr "Agen"
 
 msgctxt "subscription_choose_plan"
 msgid "Choose a plan based on your business needs"
-msgstr "Choose a plan based on your business needs"
+msgstr "Pilih paket sesuai kebutuhan bisnis Anda"
 
 msgctxt "subscription_action_description"
 msgid "Upgrade, downgrade, cancel at any time. Pay as you "
-msgstr "Upgrade, downgrade, cancel at any time. Pay as you "
+msgstr "Tingkatkan, turunkan, batalkan kapan saja. Bayar saat"
 
 msgctxt "subscription_action_description_go"
 msgid "go."
-msgstr "go."
+msgstr "berjalan."
 
 msgctxt "subscription_per_agent_per_month"
 msgid "per agent/month"
-msgstr "per agent/month"
+msgstr "per agen/bulan"
 
 msgctxt "subscription_what_you_get"
 msgid "What you get:"
-msgstr "What you get:"
+msgstr "Yang Anda dapatkan:"
 
 msgctxt "subscription_web_and_mobile_apps"
 msgid "Web and mobile apps"
-msgstr "Web and mobile apps"
+msgstr "Aplikasi web dan seluler"
 
 msgctxt "subscription_chat_history"
 msgid "Chat history"
-msgstr "Chat history"
+msgstr "Riwayat chat"
 
 msgctxt "subscription_transfer_chat"
 msgid "Transfer chat"
-msgstr "Transfer chat"
+msgstr "Pindahkan chat"
 
 msgctxt "subscription_real_time_visitor_info"
 msgid "Real-time Visitor Info"
-msgstr "Real-time Visitor Info"
+msgstr "Informasi Pengunjung Real-Time"
 
 msgctxt "subscription_limited_concurrent_chats"
 msgid "Limited concurrent chats"
-msgstr "Limited concurrent chats"
+msgstr "Chat bersamaan terbatas"
 
 msgctxt "subscription_what_youre_missing"
 msgid "What you are missing:"
-msgstr "What you are missing:"
+msgstr "Yang Anda lewatkan:"
 
 msgctxt "subscription_trigger"
 msgid "Trigger"
-msgstr "Trigger"
+msgstr "Pemicu"
 
 msgctxt "subscription_department_agent_group"
 msgid "Department ( agent group )"
-msgstr "Department ( agent group )"
+msgstr "Departemen (kelompok agen)"
 
 msgctxt "subscription_unlimit_chat_history"
 msgid "Unlimited chat history"
-msgstr "Unlimited chat history"
+msgstr "Riwayat chat tanpa batas"
 
 msgctxt "subscription_you_have"
 msgid "You have"
-msgstr "You have"
+msgstr "Anda memiliki"
 
 msgctxt "subscription_you_will_be_charged"
 msgid "Your account will be charged on "
-msgstr "Your account will be charged on "
+msgstr "Akun Anda akan dikenai biaya"
 
 msgctxt "subscription_for_your_first_billing_cycle"
 msgid "for your first billing cycle"
-msgstr "for your first billing cycle"
+msgstr "untuk siklus tagihan pertama Anda"
 
 msgctxt "subscription_afterwards_you_will_be_charged"
 msgid "Afterwards, you will be charged"
-msgstr "Afterwards, you will be charged"
+msgstr "Setelah itu, Anda akan dikenai biaya"
 
 msgctxt "subscription_monthly"
 msgid "Monthly"
-msgstr "Monthly"
+msgstr "Bulanan"
 
 msgctxt "subscription_total_price"
 msgid "Total price"
-msgstr "Total price"
+msgstr "Total harga"
 
 msgctxt "subscription_subscribe_now"
 msgid "Subscribe now"
-msgstr "Subscribe now"
+msgstr "Berlangganan sekarang"
 
 msgctxt "subscription_compare_edition"
 msgid "Compare Editions"
-msgstr "Compare Editions"
+msgstr "Bandingkan Edisi"
 
 msgctxt "subscription_plan_selection"
 msgid "Plan Selection"
-msgstr "Plan Selection"
+msgstr "Pilihan Paket"
 
 msgctxt "subscription_reduce_agent_success"
 msgid "Reduce agent successfully"
-msgstr "Reduce agent successfully"
+msgstr "Pengurangan agen berhasil"
 
 msgctxt "subscription_reduce_agent_error"
 msgid "Error reduce agent"
-msgstr "Error reduce agent"
+msgstr "Kesalahan pengurangan agen"
 
 msgctxt "subscription_require_reduce_agent"
 msgid "Select agent to reduce"
-msgstr "Select agent to reduce"
+msgstr "Pilih agen untuk dikurangi"
 
 msgctxt "subscription_cancel"
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Batal"
 
 msgctxt "subscription_account_is_unsubscription"
 msgid "This account haven't subscribed"
-msgstr "This account haven't subscribed"
+msgstr "Akun ini belum berlangganan"
 
 msgctxt "subscription_upgrade"
 msgid "Upgrade now"
-msgstr "Upgrade now"
+msgstr "Tingkatkan sekarang"
 
 msgctxt "subscription_now_and_add_more_agents"
 msgid "now and add more agents"
-msgstr "now and add more agents"
+msgstr "sekarang dan tambahkan agen"
 
 msgctxt "subscription_submit"
 msgid "Submit"
-msgstr "Submit"
+msgstr "Kirim"
 
 msgctxt "subscription_complete_downgrade_to_free"
 msgid "Complete Downgrade to Free Package"
-msgstr "Complete Downgrade to Free Package"
+msgstr "Turunkan penuh ke Paket Gratis"
 
 msgctxt "subscription_notice_downgrade"
 msgid "We are unfortunate to know that you have opted to downgrade to FREE package. Please select an option below that explains the reason for your decision. Your feedback will help us to improve our service"
-msgstr "We are unfortunate to know that you have opted to downgrade to FREE package. Please select an option below that explains the reason for your decision. Your feedback will help us to improve our service"
+msgstr "Kami menyayangkan pilihan Anda untuk turun ke paket GRATIS. Silakan pilih opsi di bawah ini yang menjelaskan keputusan Anda. Masukan Anda akan membantu kami meningkatkan kualitas layanan kami"
 
 msgctxt "subscription_notice_1"
 msgid "Satisfied, will come back again when required"
-msgstr "Satisfied, will come back again when required"
+msgstr "Puas, akan kembali jika dibutuhkan"
 
 msgctxt "subscription_notice_2"
 msgid "Your service is good, but it still lacks of some certain features"
-msgstr "Your service is good, but it still lacks of some certain features"
+msgstr "Layanan baik, namun masih kekurangan beberapa fitur"
 
 msgctxt "subscription_notice_3"
 msgid "I am not at all satisfied with your service"
-msgstr "I am not at all satisfied with your service"
+msgstr "Saya sama sekali tidak puas dengan layanan Anda"
 
 msgctxt "subscription_notice_other"
 msgid "Please add your opinion"
-msgstr "Please add your opinion"
+msgstr "Silakan tambahkan pendapat Anda"
 
 msgctxt "subscription_dowgrade_now"
 msgid "Downgrade now"
-msgstr "Downgrade now"
+msgstr "Turunkan sekarang"
 
 msgctxt "subscription_cancel_account"
 msgid "Need to cancel your Account?"
-msgstr "Need to cancel your Account?"
+msgstr "Ingin membatalkan Akun Anda?"
 
 msgctxt "subscription_cancel_account_notice"
 msgid "We are sorry to see you go. Once your account is cancelled, all of your account information will be immediately and permanently terminated."
-msgstr "We are sorry to see you go. Once your account is cancelled, all of your account information will be immediately and permanently terminated."
+msgstr "Kami menyayangkan kepergian Anda. Setelah akun Anda dibatalkan, seluruh informasi akun akan langsung dihapus secara permanen."
 
 msgctxt "subscription_cancel_account_wanning"
 msgid "WARNING: deleting your account will permanently destroy all data in your account, including current setting and operation. If you have any reasons of cancellation, please to comment below."
-msgstr "WARNING: deleting your account will permanently destroy all data in your account, including current setting and operation. If you have any reasons of cancellation, please to comment below."
+msgstr "PERINGATAN: menghapus akun Anda akan menghilangkan semua data akun, termasuk pengaturan dan tindakan saat ini. Jika Anda memiliki alasan pembatalan, silakan tuliskan di bawah."
 
 msgctxt "subscription_cancel_account_reason"
 msgid "If you have any other reasons, feel free to comment below"
-msgstr "If you have any other reasons, feel free to comment below"
+msgstr "Jika Anda memiliki alasan lain, silakan tuliskan di bawah"
 
 msgctxt "subscription_cancel_account_delete"
 msgid "Delete account"
-msgstr "Delete account"
+msgstr "Hapus akun"
 
 msgctxt "subscription_invoices"
 msgid "Invoices"
-msgstr "Invoices"
+msgstr "Tagihan"
 
 msgctxt "subscription_invoice_id"
 msgid "Invoice ID"
-msgstr "Invoice ID"
+msgstr "ID Tagihan"
 
 msgctxt "subscription_invoice_created"
 msgid "Created"
-msgstr "Created"
+msgstr "Dibuat"
 
 msgctxt "subscription_invoice_status"
 msgid "Status"
@@ -1647,223 +1364,199 @@ msgstr "Status"
 
 msgctxt "subscription_invoice_amount"
 msgid "Total"
-msgstr "Total"
+msgstr "Jumlah"
 
 msgctxt "subscription_cancel_account_notifycation"
 msgid "If you cancel your account, your Subiz Account will immediately stop working. Your account will not be charged again, but you will not be refunded for already paid subscriptions. Yes,"
-msgstr "If you cancel your account, your Subiz Account will immediately stop working. Your account will not be charged again, but you will not be refunded for already paid subscriptions. Yes,"
+msgstr "Jika dibatalkan, akun Subiz Anda akan langsung berhenti bekerja. Anda tidak akan dikenai biaya lagi, namun tidak akan ada pengembalian uang untuk paket berlangganan yang sudah dibayar. Ya,"
 
 msgctxt "subscription_accept_cancel"
 msgid "I want to cancel Subiz account"
-msgstr "I want to cancel Subiz account"
+msgstr "saya ingin membatalkan akun Subiz"
 
 msgctxt "subscription_business_have_changed"
 msgid "If you do not need a subscription account, you can always "
-msgstr "If you do not need a subscription account, you can always "
+msgstr "Jika tidak lagi membutuhkan akun berlangganan, Anda dapat"
 
 msgctxt "subscription_downgrade_to_free"
 msgid "downgrade to Free package."
-msgstr "downgrade to Free package."
+msgstr "menurunkan akun ke paket Gratis."
 
 msgctxt "subscription_reduce_agent"
 msgid "Reduce agents"
-msgstr "Reduce agents"
+msgstr "Kurangi agen"
 
 msgctxt "subscription_add_agent"
 msgid "Add agents"
-msgstr "Add agents"
+msgstr "Tambahkan agen"
 
 msgctxt "subscription_payment_frequency"
 msgid "Payment Frequency"
-msgstr "Payment Frequency"
+msgstr "Frekuensi Pembayaran"
 
 msgctxt "subscription_next_transaction"
 msgid "Next Transaction Details"
-msgstr "Next Transaction Details"
+msgstr "Detil Transaksi Berikutnya"
 
 msgctxt "subscription_payment_method"
 msgid "Payment Method"
-msgstr "Payment Method"
+msgstr "Metode Pembayaran"
 
 msgctxt "subscription_change_credit_card"
 msgid "Change credit card"
-msgstr "Change credit card"
+msgstr "Ubah kartu kredit"
 
 msgctxt "subscription_next_transaction_title"
 msgid "Next Transaction"
-msgstr "Next Transaction"
+msgstr "Transaksi Berikutnya"
 
 msgctxt "subscription_invoice_date"
 msgid "Date"
-msgstr "Date"
+msgstr "Tanggal"
 
 msgctxt "subscription_history"
 msgid "Subscription History"
-msgstr "Subscription History"
+msgstr "Riwayat Berlangganan"
 
 msgctxt "subscription_upgrade_plan"
 msgid "Upgrade Plan"
-msgstr "Upgrade Plan"
+msgstr "Tingkatkan Paket"
 
 msgctxt "subscription_purchase_more_agent"
 msgid "Purchase more agents"
-msgstr "Purchase more agents"
+msgstr "Beli lebih banyak agen"
 
 msgctxt "subscription_manage_agent"
 msgid "Manage agents"
-msgstr "Manage agents"
+msgstr "Kelola agen"
 
 msgctxt "subscription_pay"
 msgid "Pay"
-msgstr "Pay"
+msgstr "Bayar"
 
 msgctxt "subscription_agent"
 msgid "Agents"
-msgstr "Agents"
+msgstr "Agen"
 
 msgctxt "subscription_reduce_agents_subscription"
 msgid "Reduce agents subscription"
-msgstr "Reduce agents subscription"
+msgstr "Kurangi agen berlangganan"
+
+msgctxt "subscription_reduce_agent_subscription"
+msgid "Number of agent subscription you wish to reduce"
+msgstr "Jumlah agen langganan yang ingin Anda kurangi"
 
 msgctxt "subscription_number_of_agent_after_reduce"
 msgid "Number of agent subscription after reduction"
-msgstr "Number of agent subscription after reduction"
+msgstr "Jumlah agen langganan setelah dikurangi"
 
 msgctxt "subscription_downgrade"
 msgid "Downgrade now"
-msgstr "Downgrade now"
+msgstr "Turunkan sekarang"
 
 msgctxt "subscription_upgade_successfully"
 msgid "Upgrade successfully."
-msgstr "Upgrade successfully."
+msgstr "Peningkatan berhasil"
 
 msgctxt "subscription_upgade_error"
 msgid "Upgrade error."
-msgstr "Upgrade error."
+msgstr "Kesalahan pada peningkatan"
 
 msgctxt "subscription_downgade_successfully"
 msgid "Downgrade successfully."
-msgstr "Downgrade successfully."
+msgstr "Penurunan berhasil."
 
 msgctxt "subscription_downgade_error"
 msgid "Downgrade error."
-msgstr "Downgrade error."
+msgstr "Kesalahan pada penurunan."
 
 msgctxt "subscription_upgade_downgrade_error"
 msgid "Upgrade or Downgrade error."
-msgstr "Upgrade or Downgrade error."
+msgstr "Kesalahan pada peningkatan atau penurunan."
 
 msgctxt "subscription_downgrade_successfully"
 msgid "Downgrade to Free successfully"
-msgstr "Downgrade to Free successfully"
+msgstr "Penurunan ke Gratis berhasil"
 
 msgctxt "subscription_downgrade_reason_require"
 msgid "Downgrade reason is required."
-msgstr "Downgrade reason is required."
+msgstr "Alasan penurunan dibutuhkan."
 
 msgctxt "subscription_downgrade_email_agent_require"
 msgid "Downgrade email agent is required."
-msgstr "Downgrade email agent is required."
+msgstr "Penurunan email agen dibutuhkan."
 
 msgctxt "subscription_cancel_successfully"
 msgid "Cancel account successfully"
-msgstr "Cancel account successfully"
+msgstr "Pembatalan akun berhasil"
 
 msgctxt "subscription_cancel_reason_require"
 msgid "Reason for cancelling is required."
-msgstr "Reason for cancelling is required."
+msgstr "Alasan pembatalan dibutuhkan."
 
 msgctxt "subscription_cancel_email_agent_require"
 msgid "Email agent is required."
-msgstr "Email agent is required."
+msgstr "Email agen dibutuhkan."
 
 msgctxt "subscription_unit_price"
 msgid "Unit price"
-msgstr "Unit price"
-
-msgctxt "sub_success"
-msgid "Successfully"
-msgstr "Successfully"
-
-msgctxt "sub_error"
-msgid "Error"
-msgstr "Error"
-
-msgctxt "sub_confirm_downgrade"
-msgid "Do you want to downgrade account?"
-msgstr "Do you want to downgrade account?"
-
-msgctxt "sub_confirm_cancelacc"
-msgid "Do you want to cancel account?"
-msgstr "Do you want to cancel account?"
-
-msgctxt "sub_total"
-msgid "Sub Total"
-msgstr "Sub Total"
-
-msgctxt "sub_credit"
-msgid "Credits"
-msgstr "Credits"
-
-msgctxt "total_payment"
-msgid "Total"
-msgstr "Total"
+msgstr "Harga satuan"
 
 msgctxt "visitor_offline"
 msgid "The visitor is offline"
-msgstr "The visitor is offline"
+msgstr "Pengunjung offline"
 
 msgctxt "live-preview"
 msgid "<h3>Live preview</h3><p>See it from a visitor's perspective!</p>"
-msgstr "<h3>Live preview</h3><p>See it from a visitor's perspective!</p>"
+msgstr "<h3>Pratinjau langsung</h3><p>Lihat dari prespektif pengunjung!</p>"
 
 msgctxt "pre_test_page"
 msgid "Preview test page"
-msgstr "Preview test page"
+msgstr "Pratinjau laman percobaan"
 
 msgctxt "tuttorial"
 msgid "Tutorial"
-msgstr "Tutorial"
+msgstr "Panduan"
 
 msgctxt "learn-how-to-install"
 msgid "Learn how to install"
-msgstr "Learn how to install"
+msgstr "Pelajari cara memasang"
 
 msgctxt "livechat-on"
 msgid "Start chatting with your website's visitors."
-msgstr "Start chatting with your website's visitors."
+msgstr "Mulai chat dengan pengunjung situs Anda."
 
 msgctxt "and-any-more"
 msgid "And any more..."
-msgstr "And any more..."
+msgstr "Dan banyak lainnya..."
 
 msgctxt "subiz-widget-code"
 msgid "<h3>Subiz widget code</h3><p>Copy the following script and insert it into your website’s HTML source code  between the &lt;body&gt;&lt;/body&gt; tags. This code must be inserted into every page on which you wish to display the Subiz chat widget</p>"
-msgstr "<h3>Subiz widget code</h3><p>Copy the following script and insert it into your website’s HTML source code  between the &lt;body&gt;&lt;/body&gt; tags. This code must be inserted into every page on which you wish to display the Subiz chat widget</p>"
+msgstr "<h3> Kode widget Subiz</h3><p>Salin skrip berikut dan masukkan ke kode sumber HTML situs Anda di antara label &lt;body&gt;&lt;/body&gt;. Kode ini harus dimasukkan ke setiap laman tempat Anda ingin menampilkan widget chat Subiz.</p>"
 
 msgctxt "check-your-website"
 msgid "<h3>Check your website</h3><p>Check whether the Subiz Live Chat widget is correctly installed on your website.</p>"
-msgstr "<h3>Check your website</h3><p>Check whether the Subiz Live Chat widget is correctly installed on your website.</p>"
+msgstr "<h3>Periksa situs Anda</h3><p>Pastikan widget Subiz Live Chat terpasang dengan benar di situs Anda.</p>"
 
 msgctxt "check"
 msgid "Check"
-msgstr "Check"
+msgstr "Periksa"
 
 msgctxt "msg_url_invalid"
 msgid "Your URL is invalid. Please try again!"
-msgstr "Your URL is invalid. Please try again!"
+msgstr "URL Anda tidak sah. Silakan coba kembali!"
 
 msgctxt "msg_widget_invalid"
 msgid "Widget not found or incorrectly embedded!"
-msgstr "Widget not found or incorrectly embedded!"
+msgstr "Widget tidak ditemukan atau tidak terpasang dengan benar!"
 
 msgctxt "msg_widget_valid"
 msgid "Congratulation! Widget has been correctly embedded!"
-msgstr "Congratulation! Widget has been correctly embedded!"
+msgstr "Selamat! Widget sudah terpasang dengan baik!"
 
 msgctxt "subscription_payment_method_"
 msgid "None"
-msgstr "None"
+msgstr "Tidak ada"
 
 msgctxt "subscription_payment_method_fastspring"
 msgid "FastSpring"
@@ -1871,215 +1564,215 @@ msgstr "FastSpring"
 
 msgctxt "subscription_payment_method_creditcard"
 msgid "Credit Card"
-msgstr "Credit Card"
+msgstr "Kartu Kredit"
 
 msgctxt "subscription_payment_method_cash"
 msgid "Bank transfer"
-msgstr "Bank transfer"
+msgstr "Transfer bank"
 
 msgctxt "subscription_invoice_unpaid"
 msgid "Unpaid"
-msgstr "Unpaid"
+msgstr "Belum dibayar"
 
 msgctxt "subscription_invoice_paid"
 msgid "Paid"
-msgstr "Paid"
+msgstr "Sudah dibayar"
 
 msgctxt "subscription_export_invoice_successfully"
 msgid "Export detailed invoice successfully."
-msgstr "Export detailed invoice successfully."
+msgstr "Ekspor detil tagihan berhasil."
 
 msgctxt "subscription_export_invoice_error"
 msgid "Export detailed invoice error!"
-msgstr "Export detailed invoice error!"
+msgstr "Kesalahan pada ekspor detil tagihan!"
 
 msgctxt "register_sologan"
 msgid "Live chat solution for website."
-msgstr "Live chat solution for website."
+msgstr "Solusi live chat untuk situs."
 
 msgctxt "register_forfree"
 msgid "Start using Subiz for free!"
-msgstr "Start using Subiz for free!"
+msgstr "Mulai gunakan Subiz secara gratis!"
 
 msgctxt "register_require"
 msgid "5 minutes setup, test all powerful features in 30 days for free, no credit card required"
-msgstr "5 minutes setup, test all powerful features in 30 days for free, no credit card required"
+msgstr "5 menit persiapan, coba semua fitur unggulan secara gratis selama 30 hari, tanpa kartu kredit"
 
 msgctxt "already_have_account"
 msgid "Already have an account? %s Login %s"
-msgstr "Already have an account? %s Login %s"
+msgstr "Sudah memiliki akun? %s Masuk %s"
 
 msgctxt "register_holder_fname"
 msgid "Full name"
-msgstr "Full name"
+msgstr "Nama lengkap"
 
 msgctxt "register_holder_email"
 msgid "Email address"
-msgstr "Email address"
+msgstr "Alamat email"
 
 msgctxt "register_holder_uname"
 msgid "User name"
-msgstr "User name"
+msgstr "Nama pengguna"
 
 msgctxt "register_holder_pass"
 msgid "Password"
-msgstr "Password"
+msgstr "Kata sandi"
 
 msgctxt "register_submit"
 msgid "Create my account"
-msgstr "Create my account"
+msgstr "Buat akun saya"
 
 msgctxt "register_term1"
 msgid "By signing up I agree to the "
-msgstr "By signing up I agree to the "
+msgstr "Dengan mendaftar saya menyetujui"
 
 msgctxt "register_term2"
 msgid "Terms of Service"
-msgstr "Terms of Service"
+msgstr "Persyaratan Layanan"
 
 msgctxt "register_policy"
 msgid "Privacy Policy"
-msgstr "Privacy Policy"
+msgstr "Kebijakan Privasi"
 
 msgctxt "register_copy_right"
 msgid "@2015 Subiz. All right reserved."
-msgstr "@2015 Subiz. All right reserved."
+msgstr "@2015 Subiz. Hak cipta dilindungi."
 
 msgctxt "register_success"
 msgid "<span class="text-success">You have successfully registered, </span>please check your email to activate your account!"
-msgstr "<span class="text-success">You have successfully registered, </span>please check your email to activate your account!"
+msgstr "<span class="text-success">Anda berhasil mendaftar, </span>silakan periksa email Anda untuk mengaktifkan akun!"
 
 msgctxt "register_mail_error"
 msgid "System error, please try again!"
-msgstr "System error, please try again!"
+msgstr "Kesalahan pada sistem, silakan coba lagi!"
 
 msgctxt "register_error_username"
 msgid "User name has already been registered, please choose another user name!"
-msgstr "User name has already been registered, please choose another user name!"
+msgstr "Nama pengguna telah terdaftar, silakan pilih nama pengguna lain!"
 
 msgctxt "register_error_email"
 msgid "Email has already been registered, please choose another email address!"
-msgstr "Email has already been registered, please choose another email address!"
+msgstr "Email sudah terdaftar, silakan pilih alamat email lain!"
 
 msgctxt "register_exist_user"
 msgid "User name already exists or is invalid! "
-msgstr "User name already exists or is invalid! "
+msgstr "Nama pengguna sudah terpakai atau tidak sah!"
 
 msgctxt "register_exist_email"
 msgid "Email already exists or is invalid! "
-msgstr "Email already exists or is invalid! "
+msgstr "Email sudah terpakai atau tidak sah! English suggestion User name cannot contain special characters and uppercase O User name cannot contain special characters or uppercase"
 
 msgctxt "register_char_user"
 msgid "User name not have special characters and not contain uppercase!"
-msgstr "User name not have special characters and not contain uppercase!"
+msgstr "Nama pengguna tidak boleh mengandung karakter khusus maupun huruf besar!"
 
 msgctxt "register_error_system"
 msgid "An error occurred unexplained!"
-msgstr "An error occurred unexplained!"
+msgstr "Muncul kesalahan yang tidak dapat dijelaskan!"
 
 msgctxt "register_error_apikey"
 msgid "An error occurred unexplained, please try again later!"
-msgstr "An error occurred unexplained, please try again later!"
+msgstr "Muncul kesalahan yang tidak dapat dijelaskan, silakan coba lagi nanti!"
 
 msgctxt "activation_success"
 msgid "<span class="text-success">Your account has been activated successfully !</span>"
-msgstr "<span class="text-success">Your account has been activated successfully !</span>"
+msgstr "<span class="text-success">Akun Anda sudah berhasil diaktifkan!</span>"
 
 msgctxt "activation_invalid"
 msgid "Activation code is incorrect! "
-msgstr "Activation code is incorrect! "
+msgstr "Kode aktivasi salah!"
 
 msgctxt "activation_error"
 msgid "System error, please try again!"
-msgstr "System error, please try again!"
+msgstr "Kesalahan pada sistem, silakan coba lagi!"
 
 msgctxt "timezone"
 msgid "TimeZone"
-msgstr "TimeZone"
+msgstr "Zona Waktu"
 
 msgctxt "select_timezone"
 msgid "Select timezone"
-msgstr "Select timezone"
+msgstr "Pilih zona waktu"
 
 msgctxt "register_user_space"
 msgid "User name must not contain space"
-msgstr "User name must not contain space"
+msgstr "Nama pengguna tidak boleh mengandung spasi"
 
 msgctxt "register_error_ip"
 msgid "Your IP address is not allowed!"
-msgstr "Your IP address is not allowed!"
+msgstr "Alamat IP Anda tidak diperbolehkan!"
 
 msgctxt "register_server_error"
 msgid "Connect server failed!"
-msgstr "Connect server failed!"
+msgstr "Gagal menghubungi server! "
 
 msgctxt "register_error_api_key"
 msgid "Invalid Api key!"
-msgstr "Invalid Api key!"
+msgstr "Kunci Api tidak sah! "
 
 msgctxt "register_error_ip_400"
 msgid "Invalid Ip address!"
-msgstr "Invalid Ip address!"
+msgstr "Alamat IP tidak sah!"
 
 msgctxt "report_date_1"
 msgid "Today"
-msgstr "Today"
+msgstr "Hari ini"
 
 msgctxt "report_date_7"
 msgid "Last 7 days"
-msgstr "Last 7 days"
+msgstr "7 hari terakhir"
 
 msgctxt "report_date_30"
 msgid "Last 30 days"
-msgstr "Last 30 days"
+msgstr "30 hari terakhir"
 
 msgctxt "report_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "Kustom"
 
 msgctxt "report_select"
 msgid "Select Agent/Department"
-msgstr "Select Agent/Department"
+msgstr "Pilih Agen/Departemen "
 
 msgctxt "report_normal_chat"
 msgid "Normal Chats"
-msgstr "Normal Chats"
+msgstr "Chat normal"
 
 msgctxt "report_missed_chat"
 msgid "Missed Chats"
-msgstr "Missed Chats"
+msgstr "Chat Terlewat"
 
 msgctxt "report_chats"
 msgid "Chats"
-msgstr "Chats"
+msgstr "Chat"
 
 msgctxt "report_ratting"
 msgid "Rating"
-msgstr "Rating"
+msgstr "Peringkat"
 
 msgctxt "report_avai"
 msgid "Availability"
-msgstr "Availability"
+msgstr "Ketersediaan"
 
 msgctxt "report_trigger"
 msgid "Triggers"
-msgstr "Triggers"
+msgstr "Pemicu"
 
 msgctxt "report_affiliate"
 msgid "Referral"
-msgstr "Referral"
+msgstr "Perujuk"
 
 msgctxt "report_rate_good"
 msgid "Rate good"
-msgstr "Rate good"
+msgstr "Nilai baik"
 
 msgctxt "report_not_rate"
 msgid "Not rate"
-msgstr "Not rate"
+msgstr "Tidak dinilai"
 
 msgctxt "report_rate_bad"
 msgid "Rate bad"
-msgstr "Rate bad"
+msgstr "Nilai buruk"
 
 msgctxt "report_filter"
 msgid "Filter:"
@@ -2087,67 +1780,67 @@ msgstr "Filter:"
 
 msgctxt "report_number_success"
 msgid "Number of successful triggers"
-msgstr "Number of successful triggers"
+msgstr "Jumlah pemicu yang berhasil"
 
 msgctxt "report_payment"
 msgid "Payment"
-msgstr "Payment"
+msgstr "Pembayaran"
 
 msgctxt "report_avai_time"
 msgid "Availability: "
-msgstr "Availability: "
+msgstr "Ketersediaan:"
 
 msgctxt "availability"
 msgid "Availability"
-msgstr "Availability"
+msgstr "Ketersediaan"
 
 msgctxt "report_chat"
 msgid "Chats"
-msgstr "Chats"
+msgstr "Chat"
 
 msgctxt "report_affiliate_register"
 msgid "Register Referral program"
-msgstr "Register Referral program"
+msgstr "Daftar program Perujuk"
 
 msgctxt "report_affiliate_sigup"
 msgid "Referral program Sign up"
-msgstr "Referral program Sign up"
+msgstr "Pendaftaran program Perujuk"
 
 msgctxt "ref_program"
 msgid "Referral program"
-msgstr "Referral program"
+msgstr "Program perujuk"
 
 msgctxt "how_does_work"
 msgid "How does the referral program work?"
-msgstr "How does the referral program work?"
+msgstr "Bagaimana cara kerja program rujukan?"
 
 msgctxt "aff_help"
 msgid "<p> Share the link with as many friends as you want! It contains a special tracking code.</p><p>Your friends will click on the link and sign up for a Subiz account. Every month, get rewarded with 15% of their payment when they upgrade to a paid plan.</p>"
-msgstr "<p> Share the link with as many friends as you want! It contains a special tracking code.</p><p>Your friends will click on the link and sign up for a Subiz account. Every month, get rewarded with 15% of their payment when they upgrade to a paid plan.</p>"
+msgstr "<p> Bagikan tautan pada teman sebanyak yang Anda inginkan! Tautan tersebut mengandung kode khusus.</p><p>Teman Anda akan mengunjungi tautan dan membuat akun Subiz. Dapatkan bonus sebesar 15% dari pembayaran yang dilakukan teman Anda saat melakukan peningkatan ke paket berbayar setiap bulannya.</p>"
 
 msgctxt "report_affiliate_payment"
 msgid "Referral Payment"
-msgstr "Referral Payment"
+msgstr "Pembayaran Perujuk"
 
 msgctxt "report_total"
 msgid "Total register"
-msgstr "Total register"
+msgstr "Total pendaftaran"
 
 msgctxt "report_free"
 msgid "Free register"
-msgstr "Free register"
+msgstr "Pendaftaran gratis"
 
 msgctxt "report_paid"
 msgid "Paid register"
-msgstr "Paid register"
+msgstr "Pendaftaran berbayar"
 
 msgctxt "report_program"
 msgid "Register Referral Program"
-msgstr "Register Referral Program"
+msgstr "Daftar Program Perujuk The translation is made considering Referral gets 15% cut from whatever the friend pays every month"
 
 msgctxt "report_rewards"
 msgid "Earn rewards when your friends sign up for a paid Subiz plan! Subiz gives you 15% off of month's payment.<p>Learn more about Referral program. %s detail %s</p>"
-msgstr "Earn rewards when your friends sign up for a paid Subiz plan! Subiz gives you 15% off of month's payment.<p>Learn more about Referral program. %s detail %s</p>"
+msgstr "Dapatkan bonus saat teman Anda mendaftar paket Subiz berbayar! Subiz memberi Anda 15% dari pembayaran bulanan yang dilakukan.<p>Pelajari program Rujukan lebih lanjut. %s detil %s</p>"
 
 msgctxt "report_usd"
 msgid "USD"
@@ -2155,47 +1848,47 @@ msgstr "USD"
 
 msgctxt "report_register"
 msgid "Register"
-msgstr "Register"
+msgstr "Daftar"
 
 msgctxt "report_cancel"
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Batal"
 
 msgctxt "report_earn"
 msgid "Referral income"
-msgstr "Referral income"
+msgstr "Pendapatan Perujuk"
 
 msgctxt "report_this_month"
 msgid "Earned in this month:"
-msgstr "Earned in this month:"
+msgstr "Pendapatan bulan ini:"
 
 msgctxt "report_last_month"
 msgid "Earned in last month:"
-msgstr "Earned in last month:"
+msgstr "Pendapatan bulan lalu:"
 
 msgctxt "report_pending"
 msgid "Pending payment:"
-msgstr "Pending payment:"
+msgstr "Pembayaran tertunda:"
 
 msgctxt "report_your_link"
 msgid "Referral link"
-msgstr "Referral link"
+msgstr "Tautan Perujuk"
 
 msgctxt "report_link"
 msgid "Referral link:"
-msgstr "Referral link:"
+msgstr "Tautan Perujuk:"
 
 msgctxt "report_id"
 msgid "Referral ID:"
-msgstr "Referral ID:"
+msgstr "ID Perujuk:"
 
 msgctxt "report_commision"
 msgid "Commission:"
-msgstr "Commission:"
+msgstr "Komisi:"
 
 msgctxt "report_payment_setting"
 msgid "Payment setting:"
-msgstr "Payment setting:"
+msgstr "Pengaturan pembayaran:"
 
 msgctxt "report_email_paypal"
 msgid "Email Paypal:"
@@ -2203,211 +1896,207 @@ msgstr "Email Paypal:"
 
 msgctxt "we_pay_money"
 msgid "Let us pay for you."
-msgstr "Let us pay for you."
+msgstr "Biarkan kami membayari Anda."
 
 msgctxt "report_currency"
 msgid "Currency:"
-msgstr "Currency:"
+msgstr "Mata uang:"
 
 msgctxt "report_amount"
 msgid "Amount to pay:"
-msgstr "Amount to pay:"
+msgstr "Jumlah yang harus dibayar:"
 
 msgctxt "affiliate_num_20"
 msgid "Payment amount must not be less than 20$"
-msgstr "Payment amount must not be less than 20$"
+msgstr "Jumlah pembayaran tidak boleh kurang dari $20"
 
 msgctxt "minimum_20"
 msgid "20$ minimum"
-msgstr "20$ minimum"
+msgstr "Minimal $20"
 
 msgctxt "report_save_change"
 msgid "Save change"
-msgstr "Save change"
+msgstr "Simpan perubahan"
 
 msgctxt "report_error_500"
 msgid "Connect server failed!"
-msgstr "Connect server failed!"
+msgstr "Gagal menghubungi server!"
 
 msgctxt "report_error_undefine"
 msgid "Failed, unspecified error!"
-msgstr "Failed, unspecified error!"
+msgstr "Gagal, kesalahan tidak ditentukan!"
 
 msgctxt "report_error_value"
 msgid "Data not connected, please try again!"
-msgstr "Data not connected, please try again!"
+msgstr "Data tidak terhubung, silakan coba lagi!"
 
 msgctxt "report_error_daterange"
 msgid "Report period could not exceed 60 days!"
-msgstr "Report period could not exceed 60 days!"
+msgstr "Periode laporan tidak dapat melebihi 60 hari!"
 
 msgctxt "report_error_customdate"
 msgid "Please enter starting date and ending date in custom form!"
-msgstr "Please enter starting date and ending date in custom form!"
+msgstr "Silakan masukan tanggal mulai dan tanggal akhir di formulir kustom!"
 
 msgctxt "report_data_error"
 msgid "Data error!"
-msgstr "Data error!"
+msgstr "Kesalahan pada data!"
 
 msgctxt "vistor_active_visitors"
 msgid "Active visitors"
-msgstr "Active visitors"
+msgstr "Pengunjung aktif"
 
 msgctxt "vistor_idle_visitors"
 msgid "Idle visitors"
-msgstr "Idle visitors"
+msgstr "Pengunjung idle"
 
 msgctxt "vistor_request_chats"
 msgid "Request chats"
-msgstr "Request chats"
+msgstr "Permintaan chat"
 
 msgctxt "history_export"
 msgid "Export"
-msgstr "Export"
+msgstr "Ekspor"
 
 msgctxt "export_history"
 msgid "Export History"
-msgstr "Export History"
+msgstr "Ekspor riwayat"
 
 msgctxt "history_from"
 msgid "From"
-msgstr "From"
+msgstr "Dari"
 
 msgctxt "history_to"
 msgid "To"
-msgstr "To"
+msgstr "Ke"
 
 msgctxt "history_file_type"
 msgid "File type"
-msgstr "File type"
+msgstr "Tipe file"
 
 msgctxt "history_submit"
 msgid "Export"
-msgstr "Export"
+msgstr "Ekspor"
 
 msgctxt "history_cancel"
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Batal"
 
 msgctxt "history_filter"
 msgid "Filter chats by:"
-msgstr "Filter chats by:"
+msgstr "Filter chat berdasarkan:"
 
 msgctxt "history_date"
 msgid "Date"
-msgstr "Date"
+msgstr "Tanggal"
 
 msgctxt "history_today"
 msgid "Today"
-msgstr "Today"
+msgstr "Hari ini"
 
 msgctxt "history_yesterday"
 msgid "Yesterday"
-msgstr "Yesterday"
+msgstr "Kemarin"
 
 msgctxt "history_last_7days"
 msgid "Last 7 days"
-msgstr "Last 7 days"
+msgstr "7 hari terakhir"
 
 msgctxt "history_last_30days"
 msgid "Last 30 days"
-msgstr "Last 30 days"
+msgstr "30 hari terakhir"
 
 msgctxt "history_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "Kustom"
 
 msgctxt "history_agent"
 msgid "Agent"
-msgstr "Agent"
+msgstr "Agen"
 
 msgctxt "history_department"
 msgid "Department"
-msgstr "Department"
+msgstr "Departemen"
 
 msgctxt "history_rating"
 msgid "Rating"
-msgstr "Rating"
-
-msgctxt "history_tag"
-msgid "Tag"
-msgstr "Tag"
+msgstr "Peringkat"
 
 msgctxt "history_rated_chat"
 msgid "Rated Chats"
-msgstr "Rated Chats"
+msgstr "Chat Dinilai"
 
 msgctxt "history_not_rated"
 msgid "Not Rated"
-msgstr "Not Rated"
+msgstr "Tidak Dinilai"
 
 msgctxt "history_rated_bad"
 msgid "Rated Bad"
-msgstr "Rated Bad"
+msgstr "Nilai Buruk"
 
 msgctxt "history_rated_good"
 msgid "Rated Good"
-msgstr "Rated Good"
+msgstr "Nilai Baik"
 
 msgctxt "history_type"
 msgid "Type"
-msgstr "Type"
+msgstr "Tipe"
 
 msgctxt "history_new_visitor"
 msgid "New Visitors"
-msgstr "New Visitors"
+msgstr "Pengunjung Baru"
 
 msgctxt "history_return_visitor"
 msgid "Returning Visitors"
-msgstr "Returning Visitors"
+msgstr "Pengunjung Lama"
 
 msgctxt "history_search"
 msgid "Search visitors"
-msgstr "Search visitors"
+msgstr "Cari pengunjung"
 
 msgctxt "history_message"
 msgid "Message content"
-msgstr "Message content"
+msgstr "Isi pesan"
 
 msgctxt "history_name"
 msgid "Visitor name"
-msgstr "Visitor name"
+msgstr "Nama pengunjung"
 
 msgctxt "history_email"
 msgid "Visitor email"
-msgstr "Visitor email"
+msgstr "Email pengunjung"
 
 msgctxt "history_phone"
 msgid "Visitor phone"
-msgstr "Visitor phone"
+msgstr "Telepon pengunjung"
 
 msgctxt "history_find_now"
 msgid "Find now "
-msgstr "Find now "
+msgstr "Temukan sekarang"
 
 msgctxt "history_close"
 msgid "Close"
-msgstr "Close"
+msgstr "Tutup"
 
 msgctxt "history_transcript"
 msgid "TRANSCRIPT"
-msgstr "TRANSCRIPT"
+msgstr "TRANSKRIPSI"
 
 msgctxt "history_visitor_info"
 msgid "VISITOR INFO"
-msgstr "VISITOR INFO"
+msgstr "INFORMASI PENGUNJUNG"
 
 msgctxt "history_visitor_notes"
 msgid "VISITOR NOTES"
-msgstr "VISITOR NOTES"
+msgstr "CATATAN PENGUNJUNG"
 
 msgctxt "history_time_on_site"
 msgid "Time on site"
-msgstr "Time on site"
+msgstr "Waktu dalam situs"
 
 msgctxt "history_location"
 msgid "Location"
-msgstr "Location"
+msgstr "Lokasi"
 
 msgctxt "history_label"
 msgid "Label:"
@@ -2415,191 +2104,191 @@ msgstr "Label:"
 
 msgctxt "history_more"
 msgid "more"
-msgstr "more"
+msgstr "lebih"
 
 msgctxt "history_less"
 msgid "less"
-msgstr "less"
+msgstr "kurang"
 
 msgctxt "history_already"
 msgid "Already looked:"
-msgstr "Already looked:"
+msgstr "Telah dilihat:"
 
 msgctxt "history_add_note"
 msgid "Add visitor notes"
-msgstr "Add visitor notes"
+msgstr "Tambahkan catatan pengunjung"
 
 msgctxt "history_ip"
 msgid "IP address:"
-msgstr "IP address:"
+msgstr "Alamat IP:"
 
 msgctxt "history_browse"
 msgid "Browser: "
-msgstr "Browser: "
+msgstr "Peramban: "
 
 msgctxt "history_error_date"
 msgid "Please check date again, the time period is not over 30 days!"
-msgstr "Please check date again, the time period is not over 30 days!"
+msgstr "Silakan periksa ulang tanggal, periode waktu tidak lebih dari 30 hari!"
 
 msgctxt "history_export_success"
 msgid "Successful, the report will be sent to the email"
-msgstr "Successful, the report will be sent to the email"
+msgstr "Berhasil, laporan akan dikirim ke email"
 
 msgctxt "history_export_error"
 msgid "Write file CSV error!"
-msgstr "Write file CSV error!"
+msgstr "Kesalahan pada penulisan file CSV!"
 
 msgctxt "history_server_error"
 msgid "Data error, please try later!"
-msgstr "Data error, please try later!"
+msgstr "Kesalahan pada data, silakan coba nanti!"
 
 msgctxt "history_waiting_time"
 msgid "Waiting time"
-msgstr "Waiting time"
+msgstr "Waktu tunggu English suggestion Email must not be left empt O Email must not be left blan"
 
 msgctxt "history_email_empty"
 msgid "Email must not leave empty"
-msgstr "Email must not leave empty"
+msgstr "Email tidak boleh dibiarkan kosong English suggestion Day export must not be left empt"
 
 msgctxt "history_error_01"
 msgid "Day export must not leave empty, please fill in from date and to date!"
-msgstr "Day export must not leave empty, please fill in from date and to date!"
+msgstr "Tanggal ekspor tidak boleh dibiarkan kosong, silakan masukkan dari tanggal dan ke tanggal!"
 
 msgctxt "history_error_02"
 msgid "Not found any information of history!"
-msgstr "Not found any information of history!"
+msgstr "Tidak ditemukan informasi riwayat!"
 
 msgctxt "history_visitor_name"
 msgid "Visitor name"
-msgstr "Visitor name"
+msgstr "Nama pengunjung"
 
 msgctxt "history_visitor_email"
 msgid "Visitor email"
-msgstr "Visitor email"
+msgstr "Email pengunjung"
 
 msgctxt "history_visitor_phone"
 msgid "Visitor phone"
-msgstr "Visitor phone"
+msgstr "Telepon pengunjung"
 
 msgctxt "history_visitor_ip"
 msgid "Visitor Ip"
-msgstr "Visitor Ip"
+msgstr "IP pengunjung"
 
 msgctxt "history_country"
 msgid "Country"
-msgstr "Country"
+msgstr "Negara"
 
 msgctxt "history_city"
 msgid "City"
-msgstr "City"
+msgstr "Kota"
 
 msgctxt "history_start_by"
 msgid "Start by"
-msgstr "Start by"
+msgstr "Dimulai"
 
 msgctxt "history_created"
 msgid "Created"
-msgstr "Created"
+msgstr "Dibuat"
 
 msgctxt "history_end"
 msgid "End"
-msgstr "End"
+msgstr "Selesai"
 
 msgctxt "history_chat_url"
 msgid "Chat Url"
-msgstr "Chat Url"
+msgstr "Url chat"
 
 msgctxt "history_referer"
 msgid "Referral URL"
-msgstr "Referral URL"
+msgstr "URL Perujuk"
 
 msgctxt "history_agent_export"
 msgid "Agent"
-msgstr "Agent"
+msgstr "Agen"
 
 msgctxt "history_dep_export"
 msgid "Department"
-msgstr "Department"
+msgstr "Departemen"
 
 msgctxt "history_initial"
 msgid "Initial Question"
-msgstr "Initial Question"
+msgstr "Pertanyaan Awal"
 
 msgctxt "history_time_second"
 msgid "second"
-msgstr "second"
+msgstr "detik"
 
 msgctxt "history_chat"
 msgid "Chats"
-msgstr "Chats"
+msgstr "Chat"
 
 msgctxt "history_offline_message"
 msgid "Offline message"
-msgstr "Offline message"
+msgstr "Pesan offline"
 
 msgctxt "history_list_email"
 msgid "Email Address, separated with a comma"
-msgstr "Email Address, separated with a comma"
+msgstr "Alamat Email, pisahkan dengan koma"
 
 msgctxt "history_note_send_email"
 msgid "The report will be sent to the specified email"
-msgstr "The report will be sent to the specified email"
+msgstr "Laporan akan dikirim ke email"
 
 msgctxt "history_of"
 msgid "of"
-msgstr "of"
+msgstr "milik"
 
 msgctxt "report_agent"
 msgid "AGENTS"
-msgstr "AGENTS"
+msgstr "AGEN"
 
 msgctxt "report_department"
 msgid "DEPARTMENTS"
-msgstr "DEPARTMENTS"
+msgstr "DEPARTEMEN"
 
 msgctxt "history_return"
 msgid "Returning "
-msgstr "Returning "
+msgstr "Lama"
 
 msgctxt "visitors"
 msgid "Visitors"
-msgstr "Visitors"
+msgstr "Pengunjung"
 
 msgctxt "all_type"
 msgid "All type"
-msgstr "All type"
+msgstr "Semua tipe"
 
 msgctxt "return"
 msgid "Return"
-msgstr "Return"
+msgstr "Kembali"
 
 msgctxt "new"
 msgid "New"
-msgstr "New"
+msgstr "Baru"
 
 msgctxt "online_more"
 msgid "Online more"
-msgstr "Online more"
+msgstr "Lebih sering online"
 
 msgctxt "all_minutes"
 msgid "All Minutes"
-msgstr "All Minutes"
+msgstr "Semua Menit"
 
 msgctxt "1_minutes"
 msgid "1 minute"
-msgstr "1 minute"
+msgstr "1 menit"
 
 msgctxt "2_minutes"
 msgid "2 minutes"
-msgstr "2 minutes"
+msgstr "2 menit"
 
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 minutes"
+msgstr "5 menit"
 
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 minutes"
+msgstr "10 menit"
 
 msgctxt "online"
 msgid "Online"
@@ -2607,55 +2296,55 @@ msgstr "Online"
 
 msgctxt "looking"
 msgid "Looking"
-msgstr "Looking"
+msgstr "Melihat"
 
 msgctxt "agent"
 msgid "Agent"
-msgstr "Agent"
+msgstr "Agen"
 
 msgctxt "select_action"
 msgid "Select action"
-msgstr "Select action"
+msgstr "Pilih tindakan"
 
 msgctxt "ban_visitor"
 msgid "Ban Visitor"
-msgstr "Ban Visitor"
+msgstr "Blok pengunjung"
 
 msgctxt "double_click_edit"
 msgid "Double-click here to edit"
-msgstr "Double-click here to edit"
+msgstr "Klik dua kali di sini untuk menyunting"
 
 msgctxt "information"
 msgid "Information"
-msgstr "Information"
+msgstr "Informasi"
 
 msgctxt "note"
 msgid "Note"
-msgstr "Note"
+msgstr "Catatan"
 
 msgctxt "to_minimize_this_chat"
 msgid "To minimize this chat, click the minimize button or out the chat window."
-msgstr "To minimize this chat, click the minimize button or out the chat window."
+msgstr "Untuk mengecilkan chat ini, klik tombol kecilkan atau klik di luar  jendela chat."
 
 msgctxt "tranfer_chat_to_agents"
 msgid "Transfer chat to Agents"
-msgstr "Transfer chat to Agents"
+msgstr "Kirim chat ke Agen"
 
 msgctxt "agents_avaiable"
 msgid "Agents available"
-msgstr "Agents available"
+msgstr "Agen online"
 
 msgctxt "all_agents"
 msgid "All agents"
-msgstr "All agents"
+msgstr "Semua agen"
 
 msgctxt "messenger"
 msgid "Messages"
-msgstr "Messages"
+msgstr "Pesan"
 
 msgctxt "messenger_send_to_agents"
 msgid "Messages sent to agents"
-msgstr "Messages sent to agents"
+msgstr "Pesan yang terkirim ke agen"
 
 msgctxt "transfer"
 msgid "Transfer"
@@ -2663,295 +2352,295 @@ msgstr "Transfer"
 
 msgctxt "ban_visitors"
 msgid "Ban Visitors"
-msgstr "Ban Visitors"
+msgstr "Blok pengunjung"
 
 msgctxt "reason"
 msgid "Reason"
-msgstr "Reason"
+msgstr "Alasan"
 
 msgctxt "also_ban_visitor_IP_adress"
 msgid "Also ban visitor's IP address"
-msgstr "Also ban visitor's IP address"
+msgstr "Blok juga alamat IP pengunjung"
 
 msgctxt "enable_sound_notification"
 msgid "Enable sound notification"
-msgstr "Enable sound notification"
+msgstr "Nyalakan notifikasi suara"
 
 msgctxt "notification_browser_not_support"
 msgid "Desktop notifications are currently not supported for your browser."
-msgstr "Desktop notifications are currently not supported for your browser."
+msgstr "Notifikasi desktop tidak didukung untuk peramban Anda."
 
 msgctxt "notification_recommend"
 msgid "Open the page in Chrome(version 23+), Safari(version6+), Fire fox(with ff-html5notifications plugin installed) and IE9+."
-msgstr "Open the page in Chrome(version 23+), Safari(version6+), Fire fox(with ff-html5notifications plugin installed) and IE9+."
+msgstr "Buka laman di Chrome(versi 23+), Safari(versi6+), Firefox(dengan plugin ff-html5notifications terpasang) dan IE9+."
 
 msgctxt "notification_allowed"
 msgid "Notifications allowed."
-msgstr "Notifications allowed."
+msgstr "Notifikasi diperbolehkan."
 
 msgctxt "notification_not_allowed"
 msgid "Notifications not allowed. (click to enable)"
-msgstr "Notifications not allowed. (click to enable)"
+msgstr "Notifikasi tidak diperbolehkan. (klik di sini untuk mengaktifkan)"
 
 msgctxt "notification_denied"
 msgid "Notifications denied. (Change notifications permission in you browser(s) settings)"
-msgstr "Notifications denied. (Change notifications permission in you browser(s) settings)"
+msgstr "Notifikasi ditolak. (Ubah izin notifikasi di pengaturan peramban Anda)"
 
 msgctxt "login_username"
 msgid "User name or Email"
-msgstr "User name or Email"
+msgstr "Nama pengguna atau Email"
 
 msgctxt "login_pass"
 msgid "Password"
-msgstr "Password"
+msgstr "Kata sandi"
 
 msgctxt "login_availalbe"
 msgid "Available"
-msgstr "Available"
+msgstr "Online"
 
 msgctxt "login_away"
 msgid "Away"
-msgstr "Away"
+msgstr "Tidak di tempat"
 
 msgctxt "login_signin"
 msgid "Sign in"
-msgstr "Sign in"
+msgstr "Masuk"
 
 msgctxt "login_alway"
 msgid "Always sign in automatically"
-msgstr "Always sign in automatically"
+msgstr "Selalu masuk secara otomatis"
 
 msgctxt "login_forgot_pass"
 msgid "Forgot your password?"
-msgstr "Forgot your password?"
+msgstr "Lupa kata sandi Anda?"
 
 msgctxt "login_email"
 msgid "Email address"
-msgstr "Email address"
+msgstr "Alamat email"
 
 msgctxt "login_robot"
 msgid "Prove that you are not a robot"
-msgstr "Prove that you are not a robot"
+msgstr "Buktikan bahwa Anda bukan robot"
 
 msgctxt "login_type_text"
 msgid "Type the text"
-msgstr "Type the text"
+msgstr "Ketik teks"
 
 msgctxt "login_recover"
 msgid "Recover Password"
-msgstr "Recover Password"
+msgstr "Pulihkan kata sandi"
 
 msgctxt "login_copyright"
 msgid "@2015 Subiz. All right reserved."
-msgstr "@2015 Subiz. All right reserved."
+msgstr "@2015 Subiz. Hak cipta dilindungi."
 
 msgctxt "login_enter_pass"
 msgid "Please enter your new password."
-msgstr "Please enter your new password."
+msgstr "Silakan masukkan kata sandi yang baru."
 
 msgctxt "login_new_pass"
 msgid "New password"
-msgstr "New password"
+msgstr "Kata sandi baru"
 
 msgctxt "login_re_pass"
 msgid "Retype password"
-msgstr "Retype password"
+msgstr "Ketik ulang kata sandi"
 
 msgctxt "login_submit"
 msgid "Submit"
-msgstr "Submit"
+msgstr "Kirim"
 
 msgctxt "login_error_user"
 msgid "User does not exist!"
-msgstr "User does not exist!"
+msgstr "Pengguna tidak ada!"
 
 msgctxt "login_error_invalid"
 msgid "User or password incorrect!"
-msgstr "User or password incorrect!"
+msgstr "Pengguna atau kata sandi salah!"
 
 msgctxt "login_error_inactive"
 msgid "This agent has been locked. Please contact your administrator to unlock!"
-msgstr "This agent has been locked. Please contact your administrator to unlock!"
+msgstr "Agen ini terkunci. Silakan hubungi administrator Anda untuk membuka kunci!"
 
 msgctxt "login_error_delete"
 msgid "This agent has been suspended!"
-msgstr "This agent has been suspended!"
+msgstr "Agen ini ditangguhkan!"
 
 msgctxt "login_error"
 msgid "Failed, unspecified error!"
-msgstr "Failed, unspecified error!"
+msgstr "Gagal, kesalahan tidak ditentukan!"
 
 msgctxt "login_error_captcha"
 msgid "The code invalid!"
-msgstr "The code invalid!"
+msgstr "Kode tidak sah!"
 
 msgctxt "login_send_mail"
 msgid "<span class="text-success">Email was sent,</span> please check your email to recover your password!"
-msgstr "<span class="text-success">Email was sent,</span> please check your email to recover your password!"
+msgstr "<span class="text-success">Email terkirim,</span>silakan periksa email Anda untuk memulihkan kata sandi!"
 
 msgctxt "login_fail"
 msgid "Login failed!"
-msgstr "Login failed!"
+msgstr "Gagal masuk!"
 
 msgctxt "login_error_email"
 msgid "Email does not exist!"
-msgstr "Email does not exist!"
+msgstr "Email tidak ada!"
 
 msgctxt "login_account_delete"
 msgid "User account or account of this email was deleted!"
-msgstr "User account or account of this email was deleted!"
+msgstr "Akun  pengguna atau akun email ini telah dihapus!"
 
 msgctxt "login_email_invalid"
 msgid "Email invalid!"
-msgstr "Email invalid!"
+msgstr "Email tidak sah!"
 
 msgctxt "login_not_success"
 msgid "System error, please try again!"
-msgstr "System error, please try again!"
+msgstr "Kesalahan pada sistem, silakan coba lagi!"
 
 msgctxt "login_error_code"
 msgid "The code does not exist or expired!"
-msgstr "The code does not exist or expired!"
+msgstr "Kode tidak ada atau kedaluwarsa!"
 
 msgctxt "login_error_pass"
 msgid "Password does not match, please try again!"
-msgstr "Password does not match, please try again!"
+msgstr "Kata sandi tidak cocok, silakan coba lagi!"
 
 msgctxt "login_change_success"
 msgid "<span class="text-success">Successful change password!</span>"
-msgstr "<span class="text-success">Successful change password!</span>"
+msgstr "<span class="text-success">Berhasil mengubah kata sandi!</span>"
 
 msgctxt "login_email_delete"
 msgid "Email was deleted"
-msgstr "Email was deleted"
+msgstr "Email dihapus"
 
 msgctxt "login_click"
 msgid "Click "
-msgstr "Click "
+msgstr "Klik"
 
 msgctxt "login_here"
 msgid "here "
-msgstr "here "
+msgstr "di sini"
 
 msgctxt "to_login"
 msgid "to login Subiz"
-msgstr "to login Subiz"
+msgstr "untuk masuk ke Subiz"
 
 msgctxt "register_invalid_ip"
 msgid "Invalid ip!"
-msgstr "Invalid ip!"
+msgstr "Ip tidak sah!"
 
 msgctxt "register_captcha"
 msgid "Type the text"
-msgstr "Type the text"
+msgstr "Ketik teks"
 
 msgctxt "error_fullname"
 msgid "The full name"
-msgstr "The full name"
+msgstr "Nama lengkap"
 
 msgctxt "error_username"
 msgid "The user name"
-msgstr "The user name"
+msgstr "Nama pengguna"
 
 msgctxt "error_email"
 msgid "The email address"
-msgstr "The email address"
+msgstr "Alamat email"
 
 msgctxt "error_password"
 msgid "The password"
-msgstr "The password"
+msgstr "Kata sandi"
 
 msgctxt "mes_required"
 msgid "%s field is required."
-msgstr "%s field is required."
+msgstr "%s dibutuhkan."
 
 msgctxt "mes_minlength"
 msgid "%s field must be at least %s characters in length."
-msgstr "%s field must be at least %s characters in length."
+msgstr "%s setidaknya harus mengandung %s karakter."
 
 msgctxt "mes_maxlength"
 msgid "%s field can not exceed %s characters in length."
-msgstr "%s field can not exceed %s characters in length."
+msgstr "%s tidak boleh lebih dari %s karakter."
 
 msgctxt "mes_valid_email"
 msgid "%s field must contain a valid email address."
-msgstr "%s field must contain a valid email address."
+msgstr "%s harus mengandung alamat email yang sah."
 
 msgctxt "error_user_email"
 msgid "The User name or Email address"
-msgstr "The User name or Email address"
+msgstr "Nama pengguna atau alamat email"
 
 msgctxt "error_new_pass"
 msgid "The new password"
-msgstr "The new password"
+msgstr "Kata sandi baru"
 
 msgctxt "error_re_pass"
 msgid "The retype password"
-msgstr "The retype password"
+msgstr "Ketikan ulang kata sandi"
 
 msgctxt "affiliate_invalid_email"
 msgid "The email address is invalid."
-msgstr "The email address is invalid."
+msgstr "Alamat email tidak sah."
 
 msgctxt "affiliate_required_email"
 msgid "Paypal email is required."
-msgstr "Paypal email is required."
+msgstr "Email Paypal dibutuhkan."
 
 msgctxt "affiliate_num_amount"
 msgid "The amount to pay is numeric."
-msgstr "The amount to pay is numeric."
+msgstr "Jumlah yang harus dibayarkan berupa angka."
 
 msgctxt "affiliate_required_amount"
 msgid "The amount to pay field is required."
-msgstr "The amount to pay field is required."
+msgstr "Bidang umlah yang harus dibayarkan dibutuhkan."
 
 msgctxt "affiliate_required_currency"
 msgid "The currency field is required."
-msgstr "The currency field is required."
+msgstr "Bidang mata uang dibutuhkan."
 
 msgctxt "affiliate_success_setting"
 msgid "Settings is successful!"
-msgstr "Settings is successful!"
+msgstr "Pengaturan berhasil!"
 
 msgctxt "affiliate_success_register"
 msgid "Register successfully!"
-msgstr "Register successfully!"
+msgstr "Pendaftaran berhasil!"
 
 msgctxt "affiliate_total_paid"
 msgid "Total paid accounts"
-msgstr "Total paid accounts"
+msgstr "Jumlah akun berbayar"
 
 msgctxt "sologan"
 msgid "<span class="system-help">Follow the instructions</span> to install Chat Window on your website."
-msgstr "<span class="system-help">Follow the instructions</span> to install Chat Window on your website."
+msgstr "<span class="system-help">Ikuti instruksi</span> untuk memasang Jendela Chat di situs Anda."
 
 msgctxt "report_error_info"
 msgid "Can't find information of affiliate!"
-msgstr "Can't find information of affiliate!"
+msgstr "Tidak dapat menemukan informasi afiliasi!"
 
 msgctxt "register_embed"
 msgid "Embed Widget"
-msgstr "Embed Widget"
+msgstr "Widget Terpasang"
 
 msgctxt "register_embed_note_1"
 msgid "Copy the following script and insert it into your website's HTML source code between the &lt;body&gt;&lt;/body&gt; tags."
-msgstr "Copy the following script and insert it into your website's HTML source code between the &lt;body&gt;&lt;/body&gt; tags."
+msgstr "Salin skrip berikut dan masukan ke kode sumber HTML situs Anda di antara label &lt;body&gt;&lt;/body&gt;."
 
 msgctxt "register_embed_note_2"
 msgid "This code must be inserted into every page where you wish to display the Subiz chat widget."
-msgstr "This code must be inserted into every page where you wish to display the Subiz chat widget."
+msgstr "Kode ini harus dimasukkan ke setiap laman tempat Anda ingin menampilkan widget chat Subiz."
 
 msgctxt "register_do_it_late"
 msgid "I'll do it later..."
-msgstr "I'll do it later..."
+msgstr "Lakukan nanti..."
 
 msgctxt "register_embed_note_3"
 msgid "You will see your website visitors in your dashboard once the widgets are integrated"
-msgstr "You will see your website visitors in your dashboard once the widgets are integrated"
+msgstr "Anda akan melihat pengunjung situs Anda di dasbor setelah widget terhubung"
 
 msgctxt "dashboard-lang"
 msgid "Dashboard language"
-msgstr "Dashboard language"
+msgstr "Bahasa dasbor"
 
 msgctxt "vietnamese"
 msgid "Tiếng Việt"
@@ -2967,7 +2656,7 @@ msgstr "Português"
 
 msgctxt "brazilian_portuguese"
 msgid "Brasil"
-msgstr "Brasil"
+msgstr "Bahasa Portugis Brasil"
 
 msgctxt "indonesian"
 msgid "Bahasa Indonesia"
@@ -2979,11 +2668,11 @@ msgstr "ภาษาไทย"
 
 msgctxt "welcome"
 msgid "Welcome"
-msgstr "Welcome"
+msgstr "Selamat datang"
 
 msgctxt "trigger_action_applyToLabel"
 msgid "Apply to label"
-msgstr "Apply to label"
+msgstr "Terapkan untuk label"
 
 msgctxt "trigger_help_applyToLabel_holder_name"
 msgid "Label"
@@ -2991,11 +2680,11 @@ msgstr "Label"
 
 msgctxt "trigger_help_applyToLabel"
 msgid "Input label to apply. You can enter many Label separated with a semicolon. e.g: T-Shirt; Shoes"
-msgstr "Input label to apply. You can enter many Label separated with a semicolon. e.g: T-Shirt; Shoes"
+msgstr "Masukan label untuk diterapkan. Anda dapat memasukan banyak label yang dipisahkan dengan titik koma. mis: Baju;Sepatu"
 
 msgctxt "trigger_action_removeToLabel"
 msgid "Remove label"
-msgstr "Remove label"
+msgstr "Hapus label"
 
 msgctxt "trigger_help_removeToLabel_holder_name"
 msgid "Label"
@@ -3003,19 +2692,19 @@ msgstr "Label"
 
 msgctxt "trigger_help_removeToLabel"
 msgid "Input label to remove."
-msgstr "Input label to remove."
+msgstr "Masukan label untuk menghapus."
 
 msgctxt "your_account_has_been"
 msgid "Your account has been reached to maximum Agent. Please <a href="https://dashboard.subiz.com/subscription/index" target="_blank">upgrade your account</a>!"
-msgstr "Your account has been reached to maximum Agent. Please <a href="https://dashboard.subiz.com/subscription/index" target="_blank">upgrade your account</a>!"
+msgstr "Akun Anda telah mencapai batas maksimal agen. Silakan <a href="https://dashboard.subiz.com/subscription/index" target="_blank">tingkatkan akun Anda</a>!"
 
 msgctxt "detail_name"
 msgid "Name:"
-msgstr "Name:"
+msgstr "Nama:"
 
 msgctxt "detail_phone"
 msgid "Phone:"
-msgstr "Phone:"
+msgstr "Telepon:"
 
 msgctxt "detail_email"
 msgid "Email:"
@@ -3023,11 +2712,11 @@ msgstr "Email:"
 
 msgctxt "trigger_visitor_email"
 msgid "Visitor email address"
-msgstr "Visitor email address"
+msgstr "Alamat email pengunjung"
 
 msgctxt "trigger_help_visitor_email"
 msgid "Visitor email address(account@domain.com)"
-msgstr "Visitor email address(account@domain.com)"
+msgstr "Alamat email pengunjung(account@domain.com)"
 
 msgctxt "trigger_help_visitor_email_holder"
 msgid "account@domain.com"
@@ -3035,11 +2724,11 @@ msgstr "account@domain.com"
 
 msgctxt "trigger_visitor_phone"
 msgid "Visitor phone number"
-msgstr "Visitor phone number"
+msgstr "Nomer telepon pengunjung"
 
 msgctxt "trigger_help_visitor_phone"
 msgid "Visitor phone number (0913862548)"
-msgstr "Visitor phone number (0913862548)"
+msgstr "Nomor telepon pengunjung (0913862548)"
 
 msgctxt "trigger_help_visitor_phone_holder"
 msgid "09xxxxxxxx"
@@ -3047,23 +2736,23 @@ msgstr "09xxxxxxxx"
 
 msgctxt "trigger_visitor_device"
 msgid "Visitor device"
-msgstr "Visitor device"
+msgstr "Perangkat pengunjung"
 
 msgctxt "trigger_help_visitor_device"
 msgid "Visitor device (Mobile;Tablet;Desktop)"
-msgstr "Visitor device (Mobile;Tablet;Desktop)"
+msgstr "Perangkat pengunjung (Ponsel;Tablet;Desktop)"
 
 msgctxt "trigger_help_visitor_device_holder"
 msgid "Ex Mobile"
-msgstr "Ex Mobile"
+msgstr "Ponsel Ex"
 
 msgctxt "trigger_visitor_label"
 msgid "Visitor label"
-msgstr "Visitor label"
+msgstr "Label pengunjung"
 
 msgctxt "trigger_help_visitor_label"
 msgid "Visitor label (T-Shit)"
-msgstr "Visitor label (T-Shit)"
+msgstr "Label pengunjung (T-Shit)"
 
 msgctxt "trigger_help_visitor_label_holder"
 msgid "Label"
@@ -3071,115 +2760,121 @@ msgstr "Label"
 
 msgctxt "history_os"
 msgid "Os: "
-msgstr "Os: "
+msgstr "Os:"
 
 msgctxt "subscription"
 msgid "Subscription"
-msgstr "Subscription"
+msgstr "Langganan"
 
 msgctxt "subscription_free"
 msgid "Subscription"
-msgstr "Subscription"
+msgstr "Berlangganan"
 
 msgctxt "subscription_pays"
 msgid "Subscription"
-msgstr "Subscription"
+msgstr "Berlangganan"
 
 msgctxt "logout"
 msgid "Logout"
-msgstr "Logout"
+msgstr "Keluar"
 
 msgctxt "reports"
 msgid "Reports"
-msgstr "Reports"
+msgstr "Laporan"
 
 msgctxt "setting"
 msgid "Setting"
-msgstr "Setting"
+msgstr "Pengaturan"
 
 msgctxt "history"
 msgid "History"
-msgstr "History"
+msgstr "Riwayat"
 
 msgctxt "using-trigger"
 msgid "Create new label"
-msgstr "Create new label"
+msgstr "Buat label baru"
 
 msgctxt "search-depat"
 msgid "Search department"
-msgstr "Search department"
+msgstr "Cari departemen"
 
 msgctxt "type-your-message-here"
 msgid "Type your message here"
-msgstr "Type your message here"
+msgstr "Ketik pesan Anda di sini"
 
 msgctxt "subiz_recommends"
 msgid "Subiz recommends you upgrade your browser to enjoy all the features in the new Subiz Live Chat"
-msgstr "Subiz recommends you upgrade your browser to enjoy all the features in the new Subiz Live Chat"
+msgstr "Subiz menyarankan Anda meningkatkan peramban Anda untuk menikmati semua fitur di Subiz Live Chat yang baru"
 
 msgctxt "upgrade"
 msgid "Upgrade"
-msgstr "Upgrade"
+msgstr "Tingkatkan"
 
 msgctxt "continue"
 msgid "Continue</a> without upgrading</p>"
-msgstr "Continue</a> without upgrading</p>"
+msgstr "Lanjutkan</a> tanpa meningkatkan</p>"
 
 msgctxt "by_google"
 msgid "Enhanced by Google"
-msgstr "Enhanced by Google"
+msgstr "Ditingkatkan oleh Google"
 
 msgctxt "by_mozilla"
 msgid "Enhanced by Mozilla"
-msgstr "Enhanced by Mozilla"
+msgstr "Ditingkatkan oleh Mozilla"
 
 msgctxt "by_apple"
 msgid "Enhanced by Apple"
-msgstr "Enhanced by Apple"
+msgstr "Ditingkatkan oleh Apple"
 
 msgctxt "availibility_line"
 msgid "Availability"
-msgstr "Availability"
+msgstr "Ketersediaan"
 
 msgctxt "trigger_line"
 msgid "Triggers"
-msgstr "Triggers"
+msgstr "Pemicu"
 
 msgctxt "analytics"
 msgid "Analytics"
-msgstr "Analytics"
+msgstr "Analitik"
 
 msgctxt "source_report"
 msgid "Source: Subiz.com"
-msgstr "Source: Subiz.com"
+msgstr "Sumber: Subiz.com"
 
 msgctxt "subiz_chats"
 msgid "Subiz Chats"
-msgstr "Subiz Chats"
+msgstr "Chat Subiz"
 
 msgctxt "subiz_rating"
 msgid "Subiz Rating"
-msgstr "Subiz Rating"
+msgstr "Peringkat Subiz"
 
 msgctxt "subiz_availibility"
 msgid "Subiz Availability"
-msgstr "Subiz Availability"
+msgstr "Ketersediaan Subiz"
 
 msgctxt "subiz_triggers"
 msgid "Subiz Triggers"
-msgstr "Subiz Triggers"
+msgstr "Pemicu Subiz"
 
 msgctxt "subiz_affiliate"
 msgid "Subiz Affiliate"
-msgstr "Subiz Affiliate"
+msgstr "Afiliasi Subiz"
 
 msgctxt "msg_not_is_image"
 msgid "Your file is not an image file"
-msgstr "Your file is not an image file"
+msgstr "File Anda bukan file gambar"
 
 msgctxt "report_all"
 msgid "ALL"
-msgstr "ALL"
+msgstr "SEMUA"
+
+msgctxt "subscription_featured_list_package_standard"
+msgstr "<li class="top">Apa yang Anda dapat:</li><li>Aplikasi web dan seluler</li><li>Riwayat chat (3 bulan terakhir)</li><li>Transfer chat</li><li>Informasi pengunjung real-time</li><li>100 chat aktif</li><li>03 Pemicu</li><li>Transkripsi chat ke email</li><li>Penyesuaian jendela chat</li><li>Sapaan yang dapat disesuaikan</li><li>Laporan dasar (3 bulan terakhir)</li><li>Koneksi berpengaman SSL</li><li>dukungan pelanggan 24/7</li><li class="top" style="margin-top: 10px;">Apa yang terlewatkan:</li><li>Riwayat chat (6 bulan terakhir)</li><li>pemicu tidak terbatas</li><li>200 chat aktif</li>"
+
+msgctxt "subscription_featured_list_package_advanced"
+msgstr "<li class="top">Apa yang Anda dapat:</li><li>Aplikasi web dan seluler</li><li>Riwayat chat (3 bulan terakhir)</li><li>Transfer chat</li><li>Informasi pengunjung real-time</li><li>100 chat aktif</li><li>03 Pemicu</li><li>Transkripsi chat ke email</li><li>Penyesuaian jendela chat</li><li>Sapaan yang dapat disesuaikan</li><li>Laporan dasar (3 bulan terakhir)</li><li>Koneksi berpengaman SSL</li><li>dukungan pelanggan 24/7</li>"
 
 msgctxt "logo"
 msgid "Logo"
@@ -3187,67 +2882,67 @@ msgstr "Logo"
 
 msgctxt "position"
 msgid "Widget position"
-msgstr "Widget position"
+msgstr "Posisi widget"
 
 msgctxt "left"
 msgid "Left"
-msgstr "Left"
+msgstr "Kiri"
 
 msgctxt "right"
 msgid "Right"
-msgstr "Right"
+msgstr "Kanan"
 
 msgctxt "your_account_has_not_been_confirmed"
 msgid "Your account has not been confirmed, please check your email to confirm your account before proceeding subscription. Once confirm account, please %s Logout %s then %s Login %s to continue"
-msgstr "Your account has not been confirmed, please check your email to confirm your account before proceeding subscription. Once confirm account, please %s Logout %s then %s Login %s to continue"
+msgstr "Akun Anda belum dikonfirmasi, silakan periksa email Anda untuk mengonfirmasikan akun sebelum memproses langganan. Setelah konfirmasai, silakan %s Keluar %s kemudian %s Masuk %s untuk melanjutkan"
 
 msgctxt "notify_send_mail_to_upgrade_downgrade"
 msgid "If you want to upgrade, downgrade, add / reduce agents... please send us an email at support@subiz.com"
-msgstr "If you want to upgrade, downgrade, add / reduce agents... please send us an email at support@subiz.com"
+msgstr "Jika Anda ingin melakukan peningkatakan, penurunan, penambahan/pengurangan agen... silakan kirimi kami email ke support@subiz.com"
 
 msgctxt "report_unit_hour"
 msgid "(Hour)"
-msgstr "(Hour)"
+msgstr "(Jam)"
 
 msgctxt "report_unit_min"
 msgid "(Minute)"
-msgstr "(Minute)"
+msgstr "(Menit)"
 
 msgctxt "login_error_msg"
 msgid "Login error, click <a href='https://dashboard.subiz.com/login/logout'>here</a> to login again!."
-msgstr "Login error, click <a href='https://dashboard.subiz.com/login/logout'>here</a> to login again!."
+msgstr "Gagal masuk,klik <a href=\'https://dashboard.subiz.com/login/logout\'>di sini<a/> untuk masuk lagi!"
 
 msgctxt "connecting_error_attemping_reconnect"
 msgid "Connecting error, attempting to reconnect..."
-msgstr "Connecting error, attempting to reconnect..."
+msgstr "Gagal menghubungkan, mencoba untuk menghubungkan kembali..."
 
 msgctxt "disconnected_try_now"
 msgid "Disconnected, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Disconnected, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
+msgstr "Hubungan terputus, <a href=\'javascript:void(0);\' id=\'connect_trynow\'>coba sekarang</a>."
 
 msgctxt "connecting_error"
 msgid "Connecting error, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Connecting error, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
+msgstr "Gagal menghubungkan, <a href=\'javascript:void(0);\' id=\'connect_trynow\'>coba sekarang</a>"
 
 msgctxt "disconnected_attemping_to_connect"
 msgid "Disconnected, attempting to reconnect..."
-msgstr "Disconnected, attempting to reconnect..."
+msgstr "Hubungan terputus, mencoba untuk menghubungkan kembali..."
 
 msgctxt "online_status"
 msgid "I'm on Subiz"
-msgstr "I'm on Subiz"
+msgstr "Saya ada di Subiz"
 
 msgctxt "type_here_and_hit_enter_to_enter_chat"
 msgid "Type here and hit <enter> to chat"
-msgstr "Type here and hit <enter> to chat"
+msgstr "Ketik di sini dan tekan <enter> untuk memulai chat"
 
 msgctxt "start_typing_to_join_the_chat"
 msgid "Start typing to join the chat"
-msgstr "Start typing to join the chat"
+msgstr "Mulai mengetik untuk bergabung dalam chat"
 
 msgctxt "visitor_is_tvisitor_is_typing"
 msgid "is typing..."
-msgstr "is typing..."
+msgstr "sedang mengetik..."
 
 msgctxt "visitor_label"
 msgid "Label"
@@ -3255,7 +2950,7 @@ msgstr "Label"
 
 msgctxt "visitor_looking"
 msgid "Looking"
-msgstr "Looking"
+msgstr "Melihat"
 
 msgctxt "visitor_referrer"
 msgid "Referrer"
@@ -3263,319 +2958,255 @@ msgstr "Referrer"
 
 msgctxt "help_text_triggers"
 msgid "What is Trigger?"
-msgstr "What is Trigger?"
+msgstr "Apa itu Pemicu?"
 
 msgctxt "state-display-logo"
 msgid "Display logo"
-msgstr "Display logo"
+msgstr "Logo yang ditampilkan"
 
 msgctxt "message_visitors_limit"
 msgid "Your account is registered as a free plan with the limit of 5 chat conversation at the same time. Click %s here %s to upgrade to a premium account."
-msgstr "Your account is registered as a free plan with the limit of 5 chat conversation at the same time. Click %s here %s to upgrade to a premium account."
+msgstr "Akun Anda terdaftar sebagai paket gratis dengan batas 5 chat dalam satu waktu. Klik %s di sini %s untuk meningkatkan ke akun premium."
 
 msgctxt "subiz_licence_id"
 msgid "Licence ID: "
-msgstr "Licence ID: "
+msgstr "ID Lisensi:"
 
 msgctxt "attemping_reconnect"
 msgid "Attemping reconnect..."
-msgstr "Attemping reconnect..."
+msgstr "Mencoba menghubungi kembali..."
 
 msgctxt "subscription_not_found"
 msgid "not found subscription"
-msgstr "not found subscription"
+msgstr "Tidak ditemukan langganan"
 
 msgctxt "subscription_downgrade_error"
 msgid "Downgrade error"
-msgstr "Downgrade error"
+msgstr "penurunan tingkat langganan gagal"
 
 msgctxt "report_default"
 msgid "Select Triggers"
-msgstr "Select Triggers"
+msgstr "Pilih Pemicu"
 
 msgctxt "report_empty_data"
 msgid "Not found any data!"
-msgstr "Not found any data!"
+msgstr "Tidak ada data yang ditemukan!"
 
 msgctxt "no_visitor"
 msgid "You have no visitor"
-msgstr "You have no visitor"
+msgstr "Anda tidak memiliki pengunjung"
 
 msgctxt "no_request_chat"
 msgid "You have no request chat"
-msgstr "You have no request chat"
+msgstr "Anda tidak memiliki permintaan chat"
 
 msgctxt "perform_test"
 msgid "Perform a test chat on the "
-msgstr "Perform a test chat on the "
+msgstr "Melakukan percobaan chat di"
 
 msgctxt "type_and_chat"
 msgid "Type here and hit Enter to chat"
-msgstr "Type here and hit Enter to chat"
+msgstr "Ketik di sini dan tekan Enter untuk memulai chat"
 
 msgctxt "to_install_subiz"
 msgid "To install Subiz, put this code on every page of your website just before the closing <b>&lt;/body&gt;</b> tags."
-msgstr "To install Subiz, put this code on every page of your website just before the closing <b>&lt;/body&gt;</b> tags."
+msgstr "Untuk memasang Subiz, masukkan kode ini di setiap halaman situs Anda sebelum menutup <b>&lt;/body&gt;</b> label."
 
 msgctxt "detail"
 msgid "View detail."
-msgstr "View detail."
+msgstr "Lihat detil"
 
 msgctxt "signed_another_device"
 msgid "Your account has been signed in on another device , <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Your account has been signed in on another device , <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
+msgstr "Akun Anda sedang digunakan di perangkat lain, <a href=\'javascript:void(0);\' id=\'connect_trynow\'> coba sekarang</a>."
 
 msgctxt "agent_blocked"
 msgid "Oops ! There is a problem that prevents your agent from accessing to Dashboard. Please try again in 10 minutes."
-msgstr "Oops ! There is a problem that prevents your agent from accessing to Dashboard. Please try again in 10 minutes."
+msgstr "Oops! terdapat masalah yang mencegah agen Anda mengakses dasbor. Silakan coba kembali dalam 10 menit."
 
 msgctxt "wait"
 msgid "Please wait a moment ..."
-msgstr "Please wait a moment ..."
+msgstr "Mohon tunggu beberapa saat..."
 
 msgctxt "f5_to_continue"
 msgid "Server connection time out. Press Ctrl + F5 to try again or check <a href='http://subiz.com/help/test' target='_blank'>Self-test page </a> to troubleshoot the problem."
-msgstr "Server connection time out. Press Ctrl + F5 to try again or check <a href='http://subiz.com/help/test' target='_blank'>Self-test page </a> to troubleshoot the problem."
+msgstr "Waktu koneksi server sudah habis, tekan F5 untuk melanjutkan."
 
 msgctxt "cannot_connect_socket"
 msgid "Press F5 to re-login. Please contact us if you receive this notice again !"
-msgstr "Press F5 to re-login. Please contact us if you receive this notice again !"
+msgstr "Tekan F5 untuk masuk kembali. Silakan menghubungi kami jika Anda mendapatkan pesan ini lagi !"
 
 msgctxt "aff_pending"
 msgid "Your account is waiting for approval, it may take up to 3 working days to activate account."
-msgstr "Your account is waiting for approval, it may take up to 3 working days to activate account."
+msgstr "Akun Anda sedang menunggu untuk diterima; mengaktifkan akun akan memakan waktu 2-3 hari kerja."
 
 msgctxt "verify_account"
 msgid "You have not yet verified your account. You have 24h to verify it, otherwise you will no longer be able to log in. <a href="#">Click here to resend a verification email</a>"
-msgstr "You have not yet verified your account. You have 24h to verify it, otherwise you will no longer be able to log in. <a href="#">Click here to resend a verification email</a>"
+msgstr "Anda belum memverifikasi akun. Anda memiliki 24 jam untuk memverifikasi, jika tidak Anda tidak akan dapat masuk kembali. <a href="#">Klik di sini untuk mengirim email verifikasi</a>"
 
 msgctxt "check_mail"
 msgid "Please check your email to activate your account."
-msgstr "Please check your email to activate your account."
+msgstr "Silakan periksa email Anda untuk mengaktifkan akun."
 
 msgctxt "agent_tool"
 msgid "Agent tools"
-msgstr "Agent tools"
+msgstr "Perlengkapan agen"
 
 msgctxt "canned_responses"
 msgid "Canned responses"
-msgstr "Canned responses"
+msgstr "                                                                                                                                                                                                                                                                                                                                                                                                                                                            Daftar jalan pintas untuk menjawab"
 
 msgctxt "client_app"
 msgid "Client Apps"
-msgstr "Client Apps"
-
-msgctxt "tags"
-msgid "Tags"
-msgstr "Tags"
+msgstr "Aplikasi pelanggan"
 
 msgctxt "create_canned_responses"
 msgid "Create canned responses"
-msgstr "Create canned responses"
+msgstr "Buat daftar jalan pintas untuk menjawab"
 
 msgctxt "tag"
 msgid "Tag"
-msgstr "Tag"
+msgstr "Label"
 
 msgctxt "shortcut"
 msgid "Shortcut"
-msgstr "Shortcut"
+msgstr "Jalan pintas"
 
 msgctxt "function"
 msgid "Functions"
-msgstr "Functions"
+msgstr "Fungsi"
 
 msgctxt "enable"
 msgid "Enable"
-msgstr "Enable"
+msgstr "On"
 
 msgctxt "disable"
 msgid "Disable"
-msgstr "Disable"
+msgstr "Off"
 
 msgctxt "package_allows"
 msgid "Package allows"
-msgstr "Package allows"
+msgstr "Paket memperbolehkan"
 
 msgctxt "sure"
 msgid "Do you really want to DELETE this record?"
-msgstr "Do you really want to DELETE this record?"
+msgstr "Apakah Anda benar-benar ingin MENGHAPUS catatan ini?"
 
 msgctxt "shortcut_require"
 msgid "Shortcut is required."
-msgstr "Shortcut is required."
+msgstr "Jalan pintas dibutuhkan."
 
 msgctxt "message_require"
 msgid "Message is required."
-msgstr "Message is required."
+msgstr "Pesan dibutuhkan."
 
 msgctxt "import"
 msgid "Import"
-msgstr "Import"
+msgstr "Impor"
 
 msgctxt "export"
 msgid "Export"
-msgstr "Export"
+msgstr "Ekspor"
 
 msgctxt "upload_success"
 msgid "Import success."
-msgstr "Import success."
+msgstr "Impor berhasil."
 
 msgctxt "upload_invalid"
 msgid "File type is invalid."
-msgstr "File type is invalid."
+msgstr "Tipe file tidak sah."
 
 msgctxt "message_length"
 msgid "Message content must be less than 250 characters"
-msgstr "Message content must be less than 250 characters"
+msgstr "Konten dari pesan tidak boleh melebihi 250 karakter"
 
 msgctxt "canned_not_use"
 msgid "Canned response is not available for your package. Please upgrade to the standard or advance package to use the feature."
-msgstr "Canned response is not available for your package. Please upgrade to the standard or advance package to use the feature."
+msgstr "Tanggapan rekaman tidak tersedia untuk paket Anda. Silakan tingkatkan ke paket standar atau lanjutan untuk menggunakan fitur ini."
 
 msgctxt "share_for_agent"
 msgid "Share"
-msgstr "Share"
+msgstr "Bagikan"
 
 msgctxt "guide_1"
 msgid "Filter your visitors based to categories: Active Visitors (default), Idle Visitors, Request chats - Visitors who are asking for helps and Labels."
-msgstr "Filter your visitors based to categories: Active Visitors (default), Idle Visitors, Request chats - Visitors who are asking for helps and Labels."
+msgstr "Filter pengunjung Anda berdasarkan kategori: Pengunjung aktif (default), Pengunjung Idle, Permintaan chat - Pengunjung yang meminta bantuan dan label."
 
 msgctxt "guide_2"
 msgid "List of visitors and their basic information. Each line shows one visitor online on your site. You can click on this line to see more information about the visitor."
-msgstr "List of visitors and their basic information. Each line shows one visitor online on your site. You can click on this line to see more information about the visitor."
+msgstr "Daftar pengunjung beserta informasi dasar. Setiap baris menunjukan satu pengunjung online di situs Anda. Anda dapat klik baris ini untuk melihat informasi lebih lanjut mengenai pengunjung."
 
 msgctxt "guide_3"
 msgid "Each button reveals one conversation. Switch the buttons to choose the conversation you want to chat."
-msgstr "Each button reveals one conversation. Switch the buttons to choose the conversation you want to chat."
+msgstr "Setiap tombol mewakili satu percakapan. Ubah tombol untuk memilih percakapan yang ingin Anda buka."
 
 msgctxt "guide_4"
 msgid "This is chat widget where you chat with visitors. In chat widget, you can see the visitor's information and chat transcript."
-msgstr "This is chat widget where you chat with visitors. In chat widget, you can see the visitor's information and chat transcript."
+msgstr "Ini adalah widget chat tempat Anda berbicara dengan pengunjung. Di widget chat Anda dapat melihat detil pengunjung dan transkripsi chat."
 
 msgctxt "next_step"
 msgid "Next step"
-msgstr "Next step"
+msgstr "Langkah selanjutnya"
 
 msgctxt "or"
 msgid "or"
-msgstr "or"
+msgstr "atau"
 
 msgctxt "skip_tutorial"
 msgid "Skip this tutorial"
-msgstr "Skip this tutorial"
+msgstr "Lewati petunjuk ini"
 
 msgctxt "close_tutorial"
 msgid "Close tutorial"
-msgstr "Close tutorial"
-
-msgctxt "tag_name"
-msgid "Tag name"
-msgstr "Tag name"
-
-msgctxt "add_tag"
-msgid "Add tag"
-msgstr "Add tag"
-
-msgctxt "add_a_tag"
-msgid "Add a tag"
-msgstr "Add a tag"
-
-msgctxt "tag_setting"
-msgid "Tag setting"
-msgstr "Tag setting"
-
-msgctxt "learn_more..."
-msgid "Learn more..."
-msgstr "Learn more..."
-
-msgctxt "tags_let_you_categorize_your_chats"
-msgid "Tags let you categorize your chats"
-msgstr "Tags let you categorize your chats"
-
-msgctxt "added_this_tag_on"
-msgid "added this tag on"
-msgstr "added this tag on"
-
-msgctxt "create_new_tag_successful"
-msgid "Create new tag successfully"
-msgstr "Create new tag successfully"
-
-msgctxt "create_new_tag_fail"
-msgid "Create new tag failed"
-msgstr "Create new tag failed"
-
-msgctxt "delete_tag_successful"
-msgid "Delete tag successfully"
-msgstr "Delete tag successfully"
-
-msgctxt "delete_tag_fail"
-msgid "Delete tag failed"
-msgstr "Delete tag failed"
-
-msgctxt "assign_tag_successful"
-msgid "Assign tag successfully"
-msgstr "Assign tag successfully"
-
-msgctxt "assign_tag_fail"
-msgid "Assign tag failed"
-msgstr "Assign tag failed"
-
-msgctxt "report_tags"
-msgid "Report Tags"
-msgstr "Report Tags"
-
-msgctxt "total_conversation"
-msgid "Total conversation"
-msgstr "Total conversation"
+msgstr "Tutup petunjuk"
 
 msgctxt "sign_up_now"
 msgid "Sign up now!"
-msgstr "Sign up now!"
+msgstr "Daftar sekarang!"
 
 msgctxt "new_to_subiz"
 msgid "New to Subiz?"
-msgstr "New to Subiz?"
+msgstr "Baru bagi Subiz?"
 
 msgctxt "today"
 msgid "Today"
-msgstr "Today"
+msgstr "Hari ini"
 
 msgctxt "yesterday"
 msgid "Yesterday"
-msgstr "Yesterday"
+msgstr "Kemarin"
 
 msgctxt "2_day_ago"
 msgid "2 days ago"
-msgstr "2 days ago"
+msgstr "2 hari yang lalu"
 
 msgctxt "3_day_ago"
 msgid "3 days ago"
-msgstr "3 days ago"
+msgstr "3 hari yang lalu"
 
 msgctxt "sound_config"
 msgid "Sound configuration"
-msgstr "Sound configuration"
+msgstr "Pengaturan suara"
 
 msgctxt "chat_request"
 msgid "Chat request"
-msgstr "Chat request"
+msgstr "Permintaan chat"
 
 msgctxt "new_message"
 msgid "New message"
-msgstr "New message"
+msgstr "Pesan baru"
 
 msgctxt "sound_widget"
 msgid "Sound on widget"
-msgstr "Sound on widget"
+msgstr "Suara dalam widget"
 
 msgctxt "sound_dashboard"
 msgid "Sound on dashboard"
-msgstr "Sound on dashboard"
+msgstr "Suara dalam dasbor"
 
 msgctxt "avatar_default"
 msgid "Default avatar"
-msgstr "Default avatar"
+msgstr "Gambar profil default"
 
 msgctxt "chat_feature"
 msgid "Chat"
@@ -3583,75 +3214,71 @@ msgstr "Chat"
 
 msgctxt "history_feature"
 msgid "History"
-msgstr "History"
+msgstr "Riwayat"
 
 msgctxt "report_feature"
 msgid "Report"
-msgstr "Report"
+msgstr "Lapor"
 
 msgctxt "agent_feature"
 msgid "Agent"
-msgstr "Agent"
+msgstr "Agen"
 
 msgctxt "department_feature"
 msgid "Department"
-msgstr "Department"
+msgstr "Departemen"
 
 msgctxt "chat_view_all"
 msgid "View all"
-msgstr "View all"
+msgstr "Lihat semua"
 
 msgctxt "history_view_all"
 msgid "View all"
-msgstr "View all"
+msgstr "Lihat semua"
 
 msgctxt "report_view_all"
 msgid "View all"
-msgstr "View all"
+msgstr "Lihat semua"
 
 msgctxt "full_permission"
 msgid "Full permission"
-msgstr "Full permission"
+msgstr "Izin selengkapnya"
 
 msgctxt "no_permission"
 msgid "You don't have permission to view this history"
-msgstr "You don't have permission to view this history"
+msgstr "Anda tidak memiliki perizinan untuk melihat riwayat ini"
 
 msgctxt "vistior_endchat"
 msgid "The visitor ended chat"
-msgstr "The visitor ended chat"
-
-msgctxt "system_end_chat"
-msgid "Chat ended automatically."
-msgstr "Chat ended automatically."
+msgstr "Pengunjung mengakhiri chat"
 
 msgctxt "mes_end_chat"
 msgid "ended chat"
-msgstr "ended chat"
+msgstr "Akhiri chat"
 
 msgctxt "no_permission_chat"
 msgid "You don't have permission to view this chat.<br /> This visitor is chatting with "
-msgstr "You don't have permission to view this chat.<br /> This visitor is chatting with "
+msgstr "Anda tidak memiliki izin untuk melihat chat ini.<br/> Pengunjung ini sedang berbicara dengan "
 
 msgctxt "no_permission_report"
 msgid "You don't have permission to view this report"
-msgstr "You don't have permission to view this report"
+msgstr "Anda tidak memiliki perizinan untuk melihat laporan ini"
 
 msgctxt "permission"
 msgid "Permissions"
-msgstr "Permissions"
+msgstr "Izin"
 
 msgctxt "perm_group"
 msgid "Agent Type"
-msgstr "Agent Type"
+msgstr "Tipe agen"
 
 msgctxt "perm_group_select"
 msgid "Select agent type"
-msgstr "Select agent type"
+msgstr "Pilih tipe agen"
 
 msgctxt "perm_intro"
 msgid "This feature helps you to manage module-level permissions for your agents."
-msgstr "This feature helps you to manage module-level permissions for your agents."
+msgstr "Fitur ini membantu Anda mengatur izin tingkat modul bagi agen Anda."
 
 msgctxt "perm_edit"
 msgid "Edit"
@@ -3659,139 +3286,139 @@ msgstr "Edit"
 
 msgctxt "perm_close"
 msgid "Close"
-msgstr "Close"
+msgstr "Tutup"
 
 msgctxt "perm_read_more"
 msgid "read more"
-msgstr "read more"
+msgstr "Baca lebih lanjut"
 
 msgctxt "create_trigger"
 msgid "Create"
-msgstr "Create"
+msgstr "Buat"
 
 msgctxt "trigger_library"
 msgid "Triggers library"
-msgstr "Triggers library"
+msgstr "Pustaka Pemicu"
 
 msgctxt "trigger_info"
 msgid "Triggers help you to send invitations / custom messages to pre-qualified leads"
-msgstr "Triggers help you to send invitations / custom messages to pre-qualified leads"
+msgstr "Pemicu membantu Anda mengirimkan ajakan / pesan kustom kepada pengunjung yang belum terkualifikasi"
 
 msgctxt "user_trigger"
 msgid "Use this Trigger"
-msgstr "Use this Trigger"
+msgstr "Gunakan Pemicu ini"
 
 msgctxt "cus_trigger"
 msgid "Customize Trigger"
-msgstr "Customize Trigger"
+msgstr "Sesuaikan Pemicu"
 
 msgctxt "trigger_select_con"
 msgid "Select condition"
-msgstr "Select condition"
+msgstr "Pilih kondisi"
 
 msgctxt "trigger_select_action"
 msgid "Select action"
-msgstr "Select action"
+msgstr "Pilih tindakan"
 
 msgctxt "trigger_action"
 msgid "Action"
-msgstr "Action"
+msgstr "Tindakan"
 
 msgctxt "history_alert_package"
 msgid "This feature is limited in free version, %s upgrade now %s."
-msgstr "This feature is limited in free version, %s upgrade now %s."
+msgstr "Fitur ini terbatas di versi gratis, %s tingkatkan sekarang %s."
 
 msgctxt "history_limit"
 msgid "500 conversation limit for each export."
-msgstr "500 conversation limit for each export."
+msgstr "500 percakapan batas untuk setiap ekspor."
 
 msgctxt "help_theme"
 msgid "Modify color, CSS, default avatar, logo, social media link. %s read more %s"
-msgstr "Modify color, CSS, default avatar, logo, social media link. %s read more %s"
+msgstr "Modifikasi warna,CSS, gambar profil default, logo, link media sosial. %s baca lebih lanjut %s"
 
 msgctxt "help_lang"
 msgid "Choose the auto-detect mode or a certain language on chat widget, change the template sentences. %s read more %s"
-msgstr "Choose the auto-detect mode or a certain language on chat widget, change the template sentences. %s read more %s"
+msgstr "Pilih mode deteksi otomatis atau bahasa tertentu di widget chat, ubah kalimat template. %s baca lebih lanjut %s"
 
 msgctxt "help_chat_button"
 msgid "Make your chat widget more professional and attractive with Button chat and Bubble chat. %s read more %s"
-msgstr "Make your chat widget more professional and attractive with Button chat and Bubble chat. %s read more %s"
+msgstr "Buat widget chat Anda terlihat lebih profesional dan menarik dengan tombol dan gelembung chat. %s baca lebih lanjut %s"
 
 msgctxt "help_chat_survey"
 msgid "Enable this form for visitor to type their name, email, phone or choose department.<br /> %s read more %s"
-msgstr "Enable this form for visitor to type their name, email, phone or choose department.<br /> %s read more %s"
+msgstr "Aktifkan formulir untuk pengunjung mengetik nama, email, telepon mereka atau memilih departemen,<br /> %s baca lebih lanjut %s"
 
 msgctxt "hepl_theme_title"
 msgid "Theme customization"
-msgstr "Theme customization"
+msgstr "Penyesuaian tema"
 
 msgctxt "hepl_lang_title"
 msgid "Language customization"
-msgstr "Language customization"
+msgstr "Penyesuaian bahasa"
 
 msgctxt "help_chat_button_title"
 msgid "Chat button customization"
-msgstr "Chat button customization"
+msgstr "Penyesuaian Chat Button"
 
 msgctxt "help_chat_survey_title"
 msgid "Chat survey customization"
-msgstr "Chat survey customization"
+msgstr "Penyesuaian survei chat"
 
 msgctxt "help_trigger_title"
 msgid "Create trigger"
-msgstr "Create trigger"
+msgstr "Buat pemicu"
 
 msgctxt "help_trigger"
 msgid "Trigger is a powerful tool that helps you to do some actions automatically such as: sending message to visitor, open chat window, label visitor based on set of conditions. %s read more %s"
-msgstr "Trigger is a powerful tool that helps you to do some actions automatically such as: sending message to visitor, open chat window, label visitor based on set of conditions. %s read more %s"
+msgstr "Pemicu adalah sebuah alat yang dapat membantu Anda melakukan beberapa tidakan secara otomatis seperti: mengirim pesan pada pengunjung, membuka jendela chat, menandai pengunjung berdasarkan set ketentuan. %s baca lebih lanjut %s"
 
 msgctxt "notification"
 msgid "Notification"
-msgstr "Notification"
+msgstr "Notifikasi"
 
 msgctxt "notifications"
 msgid "Notifications"
-msgstr "Notifications"
+msgstr "Notifikasi"
 
 msgctxt "firefox_denied"
 msgid "You disabled desktop notification in your browser. <b>Open Tools > Page Info > Permissions</b> in Firefox and choose "Allow" in "Show Notifications" section. Then, refresh this page."
-msgstr "You disabled desktop notification in your browser. <b>Open Tools > Page Info > Permissions</b> in Firefox and choose "Allow" in "Show Notifications" section. Then, refresh this page."
+msgstr "Anda mematikan notifikasi dekstop di peramban. <b>Open Tools > Page Info > Permissions</b> di Firefox dan pilih "Allow" di bagian "Show Notifications".Kemudian muat ulang laman ini."
 
 msgctxt "chrome_denied"
 msgid "You disabled desktop notification in your browser. <b>Open Settings > Show advanced settings > Content settings</b> in Chrome and choose "Allow all sites to show desktop notifications". Then click "Manage exceptions..." to remove if https://dashboard.subiz.com is blocked, refresh this page."
-msgstr "You disabled desktop notification in your browser. <b>Open Settings > Show advanced settings > Content settings</b> in Chrome and choose "Allow all sites to show desktop notifications". Then click "Manage exceptions..." to remove if https://dashboard.subiz.com is blocked, refresh this page."
+msgstr "Anda mematikan notifikasi dekstop di peramban. <b>Open Settings > Show advanced settings > Content settings</b> di chrome dan pilih "Allow all sites to show dekstop notifications". Lalu klik "Manage exceptions..." untuk menghapus jika https://dashboard.subiz.com diblokir, muat ulang halaman ini."
 
 msgctxt "safari_denied"
 msgid "You disabled desktop notification in your browser. <b>Choose Safari > Preferences, click Notifications </b>, and select Allow or Deny for the website whose notification permission you want to change."
-msgstr "You disabled desktop notification in your browser. <b>Choose Safari > Preferences, click Notifications </b>, and select Allow or Deny for the website whose notification permission you want to change."
+msgstr "Anda menonaktifkan notifikasi dekstop pada peramban. <b>Choose Safari > Preferensi, klik Notifikasi </b>, dan pilih Perbolehkan atau Tolak untuk situs yang izin notifikasinya ingin Anda ubah."
 
 msgctxt "notification_default"
 msgid "You must enable desktop notifications in your browser."
-msgstr "You must enable desktop notifications in your browser."
+msgstr "Anda harus mengaktifkan notifikasi dekstop pada peramban."
 
 msgctxt "turn_on_notification"
 msgid "Turn on notifications"
-msgstr "Turn on notifications"
+msgstr "Nyalakan notifikasi"
 
 msgctxt "notification_preview"
 msgid "Preview"
-msgstr "Preview"
+msgstr "Pratinjau"
 
 msgctxt "noti_request_chat"
 msgid "Request Chat"
-msgstr "Request Chat"
+msgstr "Permintaan Chat"
 
 msgctxt "noti_message"
 msgid "New message in chat"
-msgstr "New message in chat"
+msgstr "Pesan baru dalam chat"
 
 msgctxt "noti_new_visitor"
 msgid "New visitor enters your website"
-msgstr "New visitor enters your website"
+msgstr "Pengunjung baru pada situs Anda"
 
 msgctxt "noti_return_visitor"
 msgid "Returning visitor comes to your website"
-msgstr "Returning visitor comes to your website"
+msgstr "Pengunjung lama di situs Anda"
 
 msgctxt "chat_request_title"
 msgid "Subiz live chat"
@@ -3799,7 +3426,7 @@ msgstr "Subiz live chat"
 
 msgctxt "chat_request_body"
 msgid "You have new chat request"
-msgstr "You have new chat request"
+msgstr "Anda memiliki permintaan chat baru"
 
 msgctxt "new_message_title"
 msgid "Subiz live chat"
@@ -3807,7 +3434,7 @@ msgstr "Subiz live chat"
 
 msgctxt "new_message_body"
 msgid "You have new message"
-msgstr "You have new message"
+msgstr "Anda mendapat pesan baru"
 
 msgctxt "new_visitor_title"
 msgid "Subiz live chat"
@@ -3815,7 +3442,7 @@ msgstr "Subiz live chat"
 
 msgctxt "new_visitor_body"
 msgid "You have new visitor"
-msgstr "You have new visitor"
+msgstr "Anda mendapat pengunjung baru"
 
 msgctxt "return_visitor_title"
 msgid "Subiz live chat"
@@ -3823,83 +3450,463 @@ msgstr "Subiz live chat"
 
 msgctxt "return_visitor_body"
 msgid "You have return visitor"
-msgstr "You have return visitor"
+msgstr "Anda mendapat pengunjung yang kembali"
 
 msgctxt "noti_timeout_note"
 msgid "This customization is only available for Chrome (Timeout in seconds, maximum 600. Set to zero to show until dismissed)"
-msgstr "This customization is only available for Chrome (Timeout in seconds, maximum 600. Set to zero to show until dismissed)"
+msgstr "Penyesuaian ini hanya tersedia untuk Chrome (Batas waktu dalam detik, maksimal 600. Atur ke nol untuk terus tampil hingga ditutup)"
 
 msgctxt "noti_timeout"
 msgid "Notification time out"
-msgstr "Notification time out"
+msgstr "Batas waktu notifikasi"
 
 msgctxt "noti_config"
 msgid "Notification configuration"
-msgstr "Notification configuration"
+msgstr "Konfigurasi notifikasi"
 
 msgctxt "noti_second"
 msgid "second"
-msgstr "second"
+msgstr "detik"
 
 msgctxt "msg_delete_success"
 msgid "Delete successfully."
-msgstr "Delete successfully."
+msgstr "Berhasil dihapus."
 
 msgctxt "until_you_cancel_account"
 msgid "until you cancel your account."
-msgstr "until you cancel your account."
+msgstr "hingga Anda membatalkan akun Anda."
 
 msgctxt "select_code"
 msgid "Select code"
-msgstr "Select code"
+msgstr "Pilih kode"
 
 msgctxt "embed_widget"
 msgid "Embed widget"
-msgstr "Embed widget"
+msgstr "Widget terpasang"
 
 msgctxt "department_name"
 msgid "Department name"
-msgstr "Department name"
+msgstr "Nama departemen"
 
 msgctxt "history_disable"
 msgid "The feature has been temporarily disabled for optimization. Please %s contact us %s if you need any further assistance relating to chat history data"
-msgstr "The feature has been temporarily disabled for optimization. Please %s contact us %s if you need any further assistance relating to chat history data"
+msgstr "Fitur dinonaktifkan sementara untuk optimalisasi. Silakan %s hubungi kami %s jika Anda memerlukan bantuan lebih lanjut terkaitdata riwayat chat"
 
 msgctxt "message_limit_60_chat"
 msgid "Your monthly conversation amount has been exceeded. Please <a href="http://subiz.com/landingpage/faqs-en/faqs.html?faq=64" target="_blank" >contact us </a> to continue"
-msgstr "Your monthly conversation amount has been exceeded. Please <a href="http://subiz.com/landingpage/faqs-en/faqs.html?faq=64" target="_blank" >contact us </a> to continue"
+msgstr "Jumlah percakapan bulanan Anda telah melampaui batas. Silakan <a href="http://subiz.com/landingpage/faqs-en/faqs.html?faq=64" target="_blank" >hubungi kami </a> untuk melanjutkan"
+
+msgctxt "back"
+msgid "Back"
+msgstr "Kembali"
+
+msgctxt "file-sharing"
+msgid "File sharing"
+msgstr "Berbagi file"
+
+msgctxt "enabled-for-agent"
+msgid "Enable for Agent"
+msgstr "Aktifkan untuk Agen"
+
+msgctxt "enabled-for-visitor"
+msgid "Enable for Visitor"
+msgstr "Aktifkan untuk Pengunjung"
+
+msgctxt "support-file-type"
+msgid "Supported files: "
+msgstr "File yang didukung:"
+
+msgctxt "number_agent"
+msgid "Number of Agents"
+msgstr "Jumlah Agen"
+
+msgctxt "next_payment_dua"
+msgid "Next payment due date"
+msgstr "Jatuh tempo pembayaran selanjutnya"
+
+msgctxt "next_billing_date"
+msgid "Next billing date"
+msgstr "Tanggal penagihan selanjutnya"
+
+msgctxt "plan_billing"
+msgid "Plan & Billing"
+msgstr "Paket & Penagihan"
+
+msgctxt "your_plan"
+msgid "Your current package"
+msgstr "Paket Anda saat ini"
+
+msgctxt "view_invoice"
+msgid "View invoice"
+msgstr "Lihat tagihan"
+
+msgctxt "credit"
+msgid "Credit"
+msgstr "Kredit"
+
+msgctxt "add_credit"
+msgid "Add credits"
+msgstr "Tambahkan kredit"
+
+msgctxt "more"
+msgid "More options"
+msgstr "Lebih banyak opsi"
+
+msgctxt "update_payment_method"
+msgid "Update payment method"
+msgstr "Perbarui metode pembayaran"
+
+msgctxt "all_invoice"
+msgid "Invoices"
+msgstr "Semua tagihan"
+
+msgctxt "invoice"
+msgid "Invoice"
+msgstr "Tagihan"
+
+msgctxt "total_dua"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "payment"
+msgid "Payment"
+msgstr "Pembayaran"
+
+msgctxt "make_payment"
+msgid "Make payment"
+msgstr "Lakukan pembayaran"
+
+msgctxt "cancel_account"
+msgid "Cancel account"
+msgstr "Batalkan akun"
+
+msgctxt "term_of_use"
+msgid "Terms of use"
+msgstr "Persyaratan penggunaan"
+
+msgctxt "faq"
+msgid "FAQ"
+msgstr "Pertanyaan Umum"
+
+msgctxt "sub_support"
+msgid "support"
+msgstr "dukungan"
+
+msgctxt "current_billing_cycle"
+msgid "Current billing cycle"
+msgstr "Siklus penagihan saat ini"
+
+msgctxt "sub_save"
+msgid "save"
+msgstr "simpan"
+
+msgctxt "last_bill"
+msgid "Last billed on"
+msgstr "Penagihan terakhir pada"
+
+msgctxt "using_trial"
+msgid "You are using a free trial of the Standard plan with 100 agents. Your account will expire on"
+msgstr "Anda menggunakan fitur coba gratis paket Standar dengan 100 agen. Akun Anda akan berakhir pada"
+
+msgctxt "you_will_have"
+msgid "You will have"
+msgstr "Anda akan"
+
+msgctxt "account_credit"
+msgid "Credits"
+msgstr "Kredit"
+
+msgctxt "you_need_pay"
+msgid "You will pay"
+msgstr "Anda akan membayar"
+
+msgctxt "auto_renew"
+msgid "Automatic Renewal"
+msgstr "Perpanjangan otomatis"
+
+msgctxt "auto_renew_content"
+msgid "For your convenience, subscription will be automatically renewed when the current one ends. You can stop the automatic renewal at any time."
+msgstr "Untuk kenyamanan Anda, paket berlangganan akan diperpanjang secara otomatis saat paket berjalan berakhir. Anda dapat menghentikan perpanjangan gratis setiap saat."
+
+msgctxt "Upgrade_downgrade"
+msgid "Upgrade/Dowgrade!"
+msgstr "Tingkatkan/Turunkan"
+
+msgctxt "Upgrade_downgrade_content"
+msgid "Enjoy the flexibility of our billing system. Upgrade, downgrade, add / reduce agents, change billing cycle whenever you want."
+msgstr "Nikmati fleksibilitas sistem penagihan kami. Tingkatkan, turunkan, tambahkan/kurangi agen, ubah siklus penagihan kapan pun Anda inginkan."
+
+msgctxt "sub_compare_plan"
+msgid "Compare plans"
+msgstr "Bandingkan paket"
+
+msgctxt "sub_current_plan"
+msgid "Your current plan"
+msgstr "Paket Anda saat ini"
+
+msgctxt "sub_standard_price"
+msgid "$9.59 per agent / month"
+msgstr "$9,59 per agen / bulan"
+
+msgctxt "sub_advanced_price"
+msgid "$16.8 per agent / month"
+msgstr "$16,8 per agen / bulan"
+
+msgctxt "subscription_title_changeplan"
+msgid "Subscription change plan"
+msgstr "Paket perubahan langganan"
+
+msgctxt "subscription_upgrade_advanced"
+msgid "Upgrade to Advanced Plan"
+msgstr "Tingkatkan ke Paket Lanjutan"
+
+msgctxt "subscription_add_credit_title"
+msgid "Redeem promotion code"
+msgstr "Tukarkan kode promosi"
+
+msgctxt "subscription_add_credit_promotion_code"
+msgid "Promotion code"
+msgstr "Kode promosi"
+
+msgctxt "subscription_add_credit_promotion_error"
+msgid "The promotion code you entered is not valid"
+msgstr "Kode promosi yang Anda masukkan tidak sah"
+
+msgctxt "subscription_add_credit_promotion_error2"
+msgid "The promotion code could not be empty"
+msgstr "Kode promosi tidak dapat dikosongkan"
+
+msgctxt "subscription_add_credit_promotion_continue"
+msgid "Continue"
+msgstr "Lanjutkan"
+
+msgctxt "subscription_add_credit_promotion_redeem"
+msgid "Redeem"
+msgstr "Tukarkan"
+
+msgctxt "subscription_title_free"
+msgid "Subscription Free"
+msgstr "Langganan Gratis"
+
+msgctxt "subscription_redirect_fastpring"
+msgid "Redirecting to FastPring to complete transaction..."
+msgstr "Mengalihkan ke FastSpring untuk menyelesaikan transaksi..."
+
+msgctxt "subscription_active_pmt_method_success"
+msgid "Make primary successfully"
+msgstr "Berhasil jadikan utama"
+
+msgctxt "subscription_active_pmt_method_error"
+msgid "Make primary error"
+msgstr "Gagal jadikan utama"
+
+msgctxt "subscription_active_pmt_method_cash_success"
+msgid "Active payment method successfully"
+msgstr "Berhasil gunakan metode pembayaran aktif"
+
+msgctxt "subscription_active_pmt_method_cash_error"
+msgid "Active payment method error"
+msgstr "Gagal gunakan metode pembayaran aktif"
+
+msgctxt "subscription_notice_choose_least_invoice"
+msgid "Please choose at least one invoice"
+msgstr "Silakan pilih setidaknya satu tagihan"
+
+msgctxt "subscription_not_enough_credit"
+msgid "Not enough credit"
+msgstr "Kredit tidak mencukupi"
+
+msgctxt "subscription_notice_setprimary_method"
+msgid "Please set primary payment method"
+msgstr "Silakan atur metode pembayaran utama"
+
+msgctxt "subscription_notice_active_method"
+msgid "Please active payment method"
+msgstr "Silakan gunakan metode pembayaran aktif"
+
+msgctxt "condition_fastspring_not_true"
+msgid "Your request could not be processed at this time. Please visit FAQ or chat with us for more detail"
+msgstr "Permintaan Anda tidak dapat diproses saat ini. Silakan kunjungi laman Pertanyaan Umum atau chat dengan kami untuk mendapat penjelasan lebih lanjut."
+
+msgctxt "pay_invoices_failure"
+msgid "Transaction failed. Please update payment method"
+msgstr "Transaksi gagal. Silakan perbarui metode pembayaran"
+
+msgctxt "pay_success"
+msgid "Successful payment"
+msgstr "Pembayaran berhasil"
+
+msgctxt "pay_error"
+msgid "Error payment"
+msgstr "Kesalahan pada pembayaran"
+
+msgctxt "add_credit_success"
+msgid "Add credit successfully"
+msgstr "Penambahan kredit berhasil"
+
+msgctxt "payment_method"
+msgid "Payment Methods"
+msgstr "Metode Pembayaran"
+
+msgctxt "credit_card"
+msgid "Credit card"
+msgstr "Kartu kredit"
+
+msgctxt "payment_primary"
+msgid "Default"
+msgstr "Default"
+
+msgctxt "payment_active"
+msgid "Active"
+msgstr "Aktif"
+
+msgctxt "payment_bk_transfer"
+msgid "Bank transfer"
+msgstr "Transfer bank"
+
+msgctxt "payment_make_primary"
+msgid "Make default"
+msgstr "Jadikan default"
+
+msgctxt "payment_q1"
+msgid "Can I change package at any time ?"
+msgstr "Dapatkah saya mengubah paket setiap saat?"
+
+msgctxt "payment_q2"
+msgid "How can I change the payment's information like my credit card...?"
+msgstr "Bagaimana saya dapat mengubah informasi pembayaran seperti kartu kredit...?"
+
+msgctxt "sub_success"
+msgid "Successfully"
+msgstr "Berhasil"
+
+msgctxt "sub_error"
+msgid "Error"
+msgstr "Gagal"
+
+msgctxt "sub_confirm_downgrade"
+msgid "Do you want to downgrade account?"
+msgstr "Apakah Anda ingin menurunkan akun?"
+
+msgctxt "sub_confirm_cancelacc"
+msgid "Do you want to cancel account?"
+msgstr "Apakah Anda ingin membatalkan akun?"
+
+msgctxt "sub_total"
+msgid "Sub Total"
+msgstr "Sub Total"
+
+msgctxt "sub_credit"
+msgid "Credits"
+msgstr "Kredit"
+
+msgctxt "total_payment"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "history_tag"
+msgid "Tag"
+msgstr "Label"
+
+msgctxt "tags"
+msgid "Tags"
+msgstr "Label"
+
+msgctxt "tag_name"
+msgid "Tag name"
+msgstr "Nama label"
+
+msgctxt "add_tag"
+msgid "Add tag"
+msgstr "Tambahkan label"
+
+msgctxt "add_a_tag"
+msgid "Add a tag"
+msgstr "Tambahkan label"
+
+msgctxt "tag_setting"
+msgid "Tag setting"
+msgstr "Pengaturan label"
+
+msgctxt "learn_more..."
+msgid "Learn more..."
+msgstr "Pelajari lebih lanjut..."
+
+msgctxt "tags_let_you_categorize_your_chats"
+msgid "Tags let you categorize your chats"
+msgstr "Label memungkinkan Anda mengategorikan chat Anda"
+
+msgctxt "added_this_tag_on"
+msgid "added this tag on"
+msgstr "menambahkan label ini pada"
+
+msgctxt "create_new_tag_successful"
+msgid "Create new tag successfully"
+msgstr "Berhasil membuat label baru"
+
+msgctxt "create_new_tag_fail"
+msgid "Create new tag failed"
+msgstr "Gagal membuat label baru"
+
+msgctxt "delete_tag_successful"
+msgid "Delete tag successfully"
+msgstr "Berhasil menghapus label"
+
+msgctxt "delete_tag_fail"
+msgid "Delete tag failed"
+msgstr "Gagal menghapus label"
+
+msgctxt "assign_tag_successful"
+msgid "Assign tag successfully"
+msgstr "Berhasil memberikan label"
+
+msgctxt "assign_tag_fail"
+msgid "Assign tag failed"
+msgstr "Gagal memberikan label"
+
+msgctxt "report_tags"
+msgid "Report Tags"
+msgstr "Laporkan Label"
+
+msgctxt "total_conversation"
+msgid "Total conversation"
+msgstr "Total percakapan"
+
+msgctxt "system_end_chat"
+msgid "Chat ended automatically."
+msgstr "Chat berakhir secara otomatis."
 
 msgctxt "file_send"
 msgid "Send"
-msgstr "Send"
+msgstr "Kirim"
 
 msgctxt "file_cancel"
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Batal"
 
 msgctxt "file_can_upload"
 msgid "Files to upload"
-msgstr "Files to upload"
+msgstr "File untuk diunggah"
 
 msgctxt "file_cannot_upload"
 msgid "Unsupported file types can't be uploaded"
-msgstr "Unsupported file types can't be uploaded"
+msgstr "Tipe file tidak didukung tidak dapat diunggah"
 
 msgctxt "file_upload_failed"
 msgid "Upload failed"
-msgstr "Upload failed"
+msgstr "Pengunggahan gagal"
 
 msgctxt "login"
 msgid "Login"
-msgstr "Login"
+msgstr "Masuk"
 
 msgctxt "sign_up"
 msgid "Sign Up"
-msgstr "Sign Up"
+msgstr "Daftar"
 
 msgctxt "desc_trigger_lib1"
 msgid "Trigger will recognize all visitors who have never come to your website before and invite chat"
-msgstr "Trigger will recognize all visitors who have never come to your website before and invite chat"
+msgstr "Pemicu akan mengenali semua pengunjung yang tidak pernah berada di situs Anda dan mengajak chat"
 
 msgctxt "the_system_is_currently_being_upgraded"
 msgid "The system is currently being upgraded"
@@ -3913,41 +3920,40 @@ msgctxt "seconds"
 msgid "seconds"
 msgstr "seconds"
 
-msgctxt "you_need_payment_in"
-msgid "If you want to transfer the amount of %s, please transfer it to the following bank account:"
-msgstr "If you want to transfer the amount of %s, please transfer it to the following bank account:"
+msgctxt "you_need_payment_in_usd_to"
+msgstr "Jika Anda ingin mentransfer sejumlah $ %s, silakan transfer ke rekening bank berikut:"
 
 msgctxt "name_card"
 msgid "Account name"
-msgstr "Account name"
+msgstr "Nama pemilik rekening: "
 
 msgctxt "number_card"
 msgid "Account number"
-msgstr "Account number"
+msgstr "Nomor rekening: "
 
 msgctxt "bank_name"
 msgid "Bank"
-msgstr "Bank"
+msgstr "Bank: "
 
 msgctxt "description_pay"
 msgid "Remark: <strong>Transfer payment for account %s</strong>"
-msgstr "Remark: <strong>Transfer payment for account %s</strong>"
+msgstr "Catatan: <strong>Transfer pembayaran untuk akun %s</strong>"
 
 msgctxt "subiz_will_update_after_payment"
 msgid " Any payments that have been transfered successfully will receive email confirmations from Subiz. Please %s contact us %s if you have any further questions"
-msgstr " Any payments that have been transfered successfully will receive email confirmations from Subiz. Please %s contact us %s if you have any further questions"
+msgstr " Pembayaran yang telah berhasil ditransfer akan menerima konfirmasi email dari Subiz. Silakan %s hubungi kami %s jika Anda memiliki pertanyaan lebih lanjut"
 
 msgctxt "help"
 msgid "Help"
-msgstr "Help"
+msgstr "Bantuan"
 
 msgctxt "let_write_vat"
 msgid "Request VAT invoice"
-msgstr "Request VAT invoice"
+msgstr "Permintaan tagihan PPN"
 
 msgctxt "extension_of_service"
 msgid "Renew your subscription?"
-msgstr "Renew your subscription?"
+msgstr "Perpanjang langganan Anda?"
 
 msgctxt "message_too_long"
 msgid "Message is too long, please shorten it and try send."
@@ -3955,4 +3961,8 @@ msgstr "Message is too long, please shorten it and try send."
 
 msgctxt "server_error"
 msgid "The Dashboard could not be connected. Please check %s Self-test page %s to troubleshoot the problem and contact us!"
-msgstr "The Dashboard could not be connected. Please check %s Self-test page %s to troubleshoot the problem and contact us!"
+msgstr "Could not connect to server. Please contact us!"
+
+msgctxt "you_need_payment_in"
+msgid "If you want to transfer the amount of %s, please transfer it to the following bank account:"
+msgstr ""

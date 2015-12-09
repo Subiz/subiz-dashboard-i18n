@@ -5,9 +5,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-08 04:15+0000\n"
 "PO-Revision-Date: 2015-12-08 05:39+0000\n"
-"Last-Translator: Tin Vu <minhtinit@gmail.com>\n"
+"Last-Translator: Tin Vu <tinvu@vietnambiz.com>\n"
 "Language-Team: \n"
-"Language: pt-Pt\n"
+"Language: th-Th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,127 +23,127 @@ msgstr ""
 
 msgctxt "edit"
 msgid "Edit"
-msgstr "Editar"
+msgstr "แก้ไข"
 
 msgctxt "save-change"
 msgid "Save change"
-msgstr "Guardar alterações"
+msgstr "บันทึกการเปลี่ยนแปลง"
 
 msgctxt "reset"
 msgid "Reset"
-msgstr "Reiniciar"
+msgstr "ตั้งเครื่องใหม่ "
 
 msgctxt "cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "ยกเลิก"
 
 msgctxt "status"
 msgid "Status"
-msgstr "Estado"
+msgstr "สถานะ"
 
 msgctxt "save"
 msgid "Save"
-msgstr "Guardar"
+msgstr "บันทึก"
 
 msgctxt "close"
 msgid "Close"
-msgstr "Fechar"
+msgstr "ปิด"
 
 msgctxt "delete"
 msgid "Delete"
-msgstr "Eliminar"
+msgstr "ลบ"
 
 msgctxt "search"
 msgid "Search"
-msgstr "Pesquisar"
+msgstr "ค้นหา "
 
 msgctxt "keyword"
 msgid "Keyword"
-msgstr "Palavra chave"
+msgstr "คำหลัก"
 
 msgctxt "find"
 msgid "Find now"
-msgstr "Procurar agora"
+msgstr "หาตอนนี้"
 
 msgctxt "and"
 msgid "and"
-msgstr "e"
+msgstr "และ"
 
 msgctxt "show-me"
 msgid "Show me"
-msgstr "Mostra-me"
+msgstr "Show me"
 
 msgctxt "agents"
 msgid "Agents"
-msgstr "Agentes"
+msgstr "Agent"
 
 msgctxt "department"
 msgid "Departments"
-msgstr "Departamentos"
+msgstr "แผนก "
 
 msgctxt "add-more-agents"
 msgid "Add more agents"
-msgstr "Adicionar mais agentes"
+msgstr "เพิ่ม agent"
 
 msgctxt "search-agents"
 msgid "Search agents"
-msgstr "Procurar agente"
+msgstr "ค้นหา agent"
 
 msgctxt "email"
 msgid "Email"
-msgstr "Email"
+msgstr "Email "
 
 msgctxt "user-name"
 msgid "User name"
-msgstr "Nome de usuário"
+msgstr "ชื่อผู้ใช้"
 
 msgctxt "member-of-department"
 msgid "Member of department"
-msgstr "Membro do departamento"
+msgstr "สมาชิกของแผนก"
 
 msgctxt "last-loged"
 msgid "Last login"
-msgstr "Último login"
+msgstr "เข้าสู่ระบบล่าสุด"
 
 msgctxt "type"
 msgid "Type"
-msgstr "Tipo"
+msgstr "ชนิด"
 
 msgctxt "last-7-days"
 msgid "Last 7 days"
-msgstr "7 dias atrás"
+msgstr "7 วันที่ผ่านมา"
 
 msgctxt "delete-agent"
 msgid "Delete agent"
-msgstr "Eliminar Agente"
+msgstr "ลบ agent"
 
 msgctxt "change-password"
 msgid "Change password"
-msgstr "Alterar palavra-passe"
+msgstr "เปลี่ยนรหัสผ่าน"
 
 msgctxt "archived-that"
 msgid "Archived that will not be removed, but all statistics will be lost."
-msgstr "Os arquivos não serão removidos. Mas todas as estatísticas serão perdidas."
+msgstr "ข้อมูลที่เก็บไว้ที่จะไม่ถูกลบออก แต่สถิติการใช้งานทั้งหมดจะหายไป"
 
 msgctxt "delete-this-account"
 msgid "Delete this account"
-msgstr "Eliminar esta conta"
+msgstr "ลบบัญชีนี้"
 
 msgctxt "change-avatar"
 msgid "Change avatar"
-msgstr "Alterar avatar"
+msgstr "เปลี่ยนรูปประจำตัว"
 
 msgctxt "name"
 msgid "Name"
-msgstr "Nome"
+msgstr "ชื่อ"
 
 msgctxt "password"
 msgid "Password"
-msgstr "Palavra-passe"
+msgstr "รหัสผ่าน"
 
 msgctxt "retype-password"
 msgid "Retype password"
-msgstr "Redigitar a palavra-passe"
+msgstr "พิมพ์รหัสผ่านอีกครั้ง"
 
 msgctxt "normal"
 msgid "Normal"
@@ -151,243 +151,243 @@ msgstr "Normal"
 
 msgctxt "administrator"
 msgid "Administrator"
-msgstr "Administrador"
+msgstr "Administrator"
 
 msgctxt "enter-your-current-pass"
 msgid "Enter your current password to confirm to identity"
-msgstr "Digite tua palavra-passe atual para confirmar tua identidade"
+msgstr "ป้อนรหัสผ่านปัจจุบันของคุณเพื่อยืนยันตัวตน"
 
 msgctxt "your-password"
 msgid "Your password"
-msgstr "Tua palavra-passe"
+msgstr "รหัสผ่านปัจจุบันของคุณ"
 
 msgctxt "new-password"
 msgid "New password"
-msgstr "Palavra-passe nova"
+msgstr "รหัสผ่านใหม่"
 
 msgctxt "job-title"
 msgid "Job title"
-msgstr "Cargo"
+msgstr "ตำแหน่งงาน"
 
 msgctxt "msg-agent-type"
 msgid "Type is required!"
-msgstr "Tipo é necessário!"
+msgstr "ชนิดของ agent จำเป็นต้อง"
 
 msgctxt "ms-agent-success"
 msgid "Update agent information successfully"
-msgstr "As informações do agente foram actualizadas com sucesso"
+msgstr "การอัพเดทagentข้อมูลประสบความสำเร็จ"
 
 msgctxt "msg_agent_create_success"
 msgid "Create agent successfully"
-msgstr "Agente criado com sucesso"
+msgstr "การสร้างagentประสบความสำเร็จ"
 
 msgctxt "msg-agent-something"
 msgid "Something went wrong"
-msgstr "Ocorreu um erro"
+msgstr "บางอย่างผิดปกติ"
 
 msgctxt "msg_agent_name_invalid"
 msgid "Name invalid!"
-msgstr "Nome inválido!"
+msgstr "ชื่อที่ไม่ถูกต้อง!"
 
 msgctxt "msg_agent_name_null"
 msgid "Name is required!"
-msgstr "Nome é necessário!"
+msgstr "ชื่อจำเป็นต้อง"
 
 msgctxt "msg_agent_email_null"
 msgid "Email is required!"
-msgstr "Email é necessário!"
+msgstr "emailจำเป็นต้อง"
 
 msgctxt "msg_agent_username_null"
 msgid "Username is required!"
-msgstr "Nome de usuário é necessário!"
+msgstr "ชื่อผู้ใช้จำเป็นต้อง"
 
 msgctxt "msg_agent_username_condition"
 msgid "Username only contains lowercase letter and numbers with 6 characters in minimum,starting with letters is required."
-msgstr "Nome de usuário deve conter apenas letras e números, deve ter no mínimo 6 caracteres e começar com letras!"
+msgstr "ชื่อผู้ใช้จำเป็นต้องมีตัวอักษรตัวพิมพ์เล็กและตัวเลขอย่างน้อย 6 ตัวอักษร โดยเริ่มต้นด้วยตัวอักษร"
 
 msgctxt "msg_agent_pass_null"
 msgid "Password is required!"
-msgstr "Palavra-passe é necessária!"
+msgstr "Passwordจำเป็นต้อง"
 
 msgctxt "msg_agent_repass_null"
 msgid "Retype password is required!"
-msgstr "Redigitar é necessário!"
+msgstr "Retypeจำเป็นต้อง"
 
 msgctxt "msg_agent_job_null"
 msgid "Job title is required!"
-msgstr "Cargo é necessário!"
+msgstr "ตำแหน่งงานจำเป็นต้อง"
 
 msgctxt "msg_agent_email_invalid"
 msgid "Email invalid!"
-msgstr "Email inválido!"
+msgstr "Emailไม่ถูกต้อง!"
 
 msgctxt "msg_agent_username_invalid"
 msgid "Username invalid!"
-msgstr "Nome de usuário inválido!"
+msgstr "ชื่อผู้ใช้ไม่ถูกต้อง!"
 
 msgctxt "msg_agent_pass_invalid"
 msgid "Password invalid!"
-msgstr "Palavra-passe inválida!"
+msgstr "รหัสผ่านที่ไม่ถูกต้อง!"
 
 msgctxt "msg_agent_pass_false"
 msgid "Password must contain more than 5 characters!"
-msgstr "A palavra-passe deve ter mais do que 5 caracteres!"
+msgstr "รหัสผ่านต้องมากกว่า5ตัวอักษร"
 
 msgctxt "msg_agent_repass_invalid"
 msgid "Retype password invalid!"
-msgstr "Essas palavras-passe não coincidem!"
+msgstr "รหัสผ่านที่ไม่ถูกต้อง!"
 
 msgctxt "msg_agent_repass_false"
 msgid "Retype password must equal to new password!"
-msgstr "Digita a palavra-passe novamente, deve ser igual a palavra-passe nova!"
+msgstr "พิมพ์อีกครั้งรหัสผ่านต้องเท่ากับรหัสผ่านใหม่!"
 
 msgctxt "msg_agent_job_invalid"
 msgid "Job title invalid!"
-msgstr "Cargo inválido!"
+msgstr "ตำแหน่งงานที่ไม่ถูกต้อง!"
 
 msgctxt "msg_agent_email_exit"
 msgid "Email already exists!"
-msgstr "Email já existe!"
+msgstr "อีเมล์นี้ซ้ำที่มีอยู่แล้ว!"
 
 msgctxt "msg_agent_username_exit"
 msgid "Username already exists!"
-msgstr "Nome de usuário já existe!"
+msgstr "ชื่อผู้ใช้อีเมล์นี้ซ้ำที่มีอยู่แล้ว!"
 
 msgctxt "msg_agent_pass_requi"
 msgid "Your password is required!"
-msgstr "Tua palavra-passe é necessária!"
+msgstr "รหัสผ่านของคุณจำเป็นต้อง"
 
 msgctxt "msg_agent_newpass_requi"
 msgid "New password is required!"
-msgstr "Palavra-passe nova é necessária!"
+msgstr "รหัสผ่านใหม่ของคุณจำเป็นต้อง"
 
 msgctxt "msg_agent_newpass_false"
 msgid "New password must contain more than 5 characters!"
-msgstr "A palavra-passe nova deve ter mais do que 5 caracteres!"
+msgstr "รหัสผ่านใหม่ต้องมากกว่า 5 ตัวอักษร!"
 
 msgctxt "msg_agent_repass_requi"
 msgid "Retype password is required!"
-msgstr "Redigitar a palavra-passe!"
+msgstr "พิมพ์อีกครั้งรหัสผ่านจำเป็นต้อง"
 
 msgctxt "msg_agent_repass_not_equal"
 msgid "Retype password must equal to new password!"
-msgstr "Essas palavras-passe têm de coincidir!"
+msgstr "พิมพ์อีกครั้งรหัสผ่านต้องเท่ากับรหัสผ่านใหม่!"
 
 msgctxt "msg_agent_changepass_success"
 msgid "Change password successfully"
-msgstr "Palavra-passe foi alterada com sucesso"
+msgstr "การเปลี่ยนรหัสผ่านประสบความสำเร็จ"
 
 msgctxt "msg_agent_delete_success"
 msgid "Delete agent successfully"
-msgstr "Agente foi eliminado com sucesso"
+msgstr "การลบ agent ประสบความสำเร็จ"
 
 msgctxt "msg_upload_file_type"
 msgid "File type is invalid ( accept file type: jpg, png, gif, jpeg )"
-msgstr "Tipo do ficheiro é inválido (Aceitar tipo do ficheiro: jpg, png, gif, jpeg)"
+msgstr "ชนิดของไฟล์ไม่ถูกต้อง (ยอมรับชนิดของไฟล์: JPG, PNG, GIF, JPEG)"
 
 msgctxt "msg_upload_file_size"
 msgid "File size must not exceed 50kb!"
-msgstr "Tamanho do ficheiro não pode ser mais que 50kb!"
+msgstr "ขนาดของไฟล์ต้องไม่เกิน 50 กิโลไบต์!"
 
 msgctxt "msg_upload_file_name"
 msgid "You must input username before upload avatar!"
-msgstr "Tu tens de digitar nome de usuário antes de carregar teu avatar!"
+msgstr "คุณต้องป้อนข้อมูลชื่อผู้ใช้ก่อนที่อัพโหลดรูปประจำตัว"
 
 msgctxt "msg_upload_error"
 msgid "Upload error!"
-msgstr "Erro ao carregar!"
+msgstr "อัพโหลดล้มเหลว!"
 
 msgctxt "msg_agent_invalid"
 msgid "Agents invalid!"
-msgstr "Agente inválido!"
+msgstr "Agent ไม่ถูกต้อง!"
 
 msgctxt "msg_update_depart_success"
 msgid "Update department successfully"
-msgstr "Departamento foi actualizado com sucesso"
+msgstr "การปรับปรุงแผนกประสบความสำเร็จ"
 
 msgctxt "msg_create_depart_success"
 msgid "Create department successfully"
-msgstr "Departamento foi criado com sucesso"
+msgstr "การสร้างแผนกประสบความสำเร็จ"
 
 msgctxt "msg_name_exit"
 msgid "Name already exists!"
-msgstr "Nome já existe!"
+msgstr "ชื่อของแผนกซ้ำที่มีอยู่"
 
 msgctxt "msg_delete_depart_success"
 msgid "Delete department successfully"
-msgstr "Departamento foi eliminado com sucesso"
+msgstr "การลบแผนกประสบความสำเร็จ"
 
 msgctxt "add_more_department"
 msgid "Add more department"
-msgstr "Adicionar mais departamento"
+msgstr "เพิ่มแผนกอื่นๆอีก"
 
 msgctxt "add_department"
 msgid "Add department"
-msgstr "Adicionar departamento"
+msgstr "เพิ่มแผนก"
 
 msgctxt "away"
 msgid "Away"
-msgstr "Fora"
+msgstr "Away"
 
 msgctxt "offline"
 msgid "Offline"
-msgstr "Não disponível"
+msgstr "Offline"
 
 msgctxt "available"
 msgid "Available"
-msgstr "Disponível"
+msgstr "Available"
 
 msgctxt "delete_this_department"
 msgid "Delete this department"
-msgstr "Eliminar este departamento"
+msgstr "ลบแผนกนี้"
 
 msgctxt "archived_that_will"
 msgid "Archived that will not be removed, but all statistics will be lost"
-msgstr "Histórico de Chat não será eliminado, mas todas as estatísticas serão perdidas."
+msgstr "ข้อมูลที่เก็บไว้ที่จะไม่ถูกลบออก แต่สถิติการใช้งานทั้งหมดจะหายไป"
 
 msgctxt "member"
 msgid "Member"
-msgstr "Membro"
+msgstr "สมาชิก"
 
 msgctxt "enter-many-email"
 msgid "Enter various e-mail addresses separated with a comma to allow visitors to send you message when you are offline."
-msgstr "Digita endereços de email para receber mensagem (os endereços de email devem ser separados por vírgula)"
+msgstr "ป้อนที่อยู่อีเมลจำนวนมากโดยแยกออกด้วยเครื่องหมายจุลภาค ซึ่งจะอนุญาตให้ผู้เข้าชมส่งข้อความเมื่อคุณออฟไลน์"
 
 msgctxt "receive-offline-message"
 msgid "Receive offline message"
-msgstr "Receber mensagem offline"
+msgstr "ได้รับข้อความแบบออฟไลน์"
 
 msgctxt "you-can-enter-many-email"
 msgid "<p>You can enter various e-mail addresses separated with a comma</p><p>e.g: someone@example.com, someone@example.com </p>"
-msgstr "<p>Tu podes digitar muitos endereços de email (separados sempre por vírgula)</p"
+msgstr "<p>คุณสามารถป้อนที่อยู่อีเมลจำนวนมาก โดยแยกออกด้วยเครื่องหมายจุลภาคที่จะอนุญาตให้ผู้เข้าชมส่งข้อความเมื่อคุณออฟไลน์)</p"
 
 msgctxt "send-all-chat-transcript-to-emaile"
 msgid "Send all chat transcript to e-mail"
-msgstr "Enviar transcrição do chat por email"
+msgstr "ส่งประวัติการสนทนาทั้งหมดทั้งหมดไปยังอีเมล์"
 
 msgctxt "general-settings"
 msgid "General Settings"
-msgstr "Definições Gerais"
+msgstr "การตั้งค่าทั่วไป"
 
 msgctxt "chat-widget"
 msgid "Chat widget"
-msgstr "Janela de chat"
+msgstr "เครื่องมือการสนทนา"
 
 msgctxt "theme"
 msgid "Theme"
-msgstr "Tema"
+msgstr "ธีม"
 
 msgctxt "language"
 msgid "Language"
-msgstr "Idioma"
+msgstr "ภาษา"
 
 msgctxt "chat-button"
 msgid "Chat Button"
-msgstr "Botão do chat"
+msgstr "ปุ่มสำหรับการสนทนา"
 
 msgctxt "chat-survey"
 msgid "Chat Survey"
-msgstr "Forma de pesquisa"
+msgstr "แบบสำรวจ"
 
 msgctxt "triggers"
 msgid "Triggers"
@@ -395,671 +395,671 @@ msgstr "Triggers"
 
 msgctxt "installations"
 msgid "Installations"
-msgstr "Instalação"
+msgstr "การติดตั้ง"
 
 msgctxt "chat-windows-online"
 msgid "Chat windows Online"
-msgstr "Chat disponíveis"
+msgstr "หน้าต่างที่แชทออนไลน์"
 
 msgctxt "chat-windows-offline"
 msgid "Chat windows Offline"
-msgstr "Chat não disponível"
+msgstr "หน้าต่างที่แชทออฟไลน์"
 
 msgctxt "button-online"
 msgid "Button online"
-msgstr "Botão disponível"
+msgstr "ปุ่มออนไลน์"
 
 msgctxt "button-offline"
 msgid "Button offline"
-msgstr "Botão não disponível "
+msgstr "ปุ่มออฟไลน์"
 
 msgctxt "customize"
 msgid "Customize"
-msgstr "Personalizar"
+msgstr "ปรับแต่ง"
 
 msgctxt "custome-css"
 msgid "Customize css"
-msgstr "Personalizar CSS"
+msgstr "ปรับแต่ง CSS"
 
 msgctxt "add-your-own-css"
 msgid "Add your own CSS rules. For typical customizations visit our %s Knowledge base %s."
-msgstr "Tu podes editar CSS. Para receber instruções mais clara, visite %s Centro de suporte %s."
+msgstr "ตั้งกฏCSSของคุณ โดยสามารถดูรายละเอียดเพิ่มเติมที่ %s ศูนย์สนับสนุน %s."
 
 msgctxt "social"
 msgid "Social"
-msgstr "Social"
+msgstr "เครือข่ายทางสังคม"
 
 msgctxt "change-logo"
 msgid "Change logo"
-msgstr "Alterar logotipo"
+msgstr "เปลี่ยน logo"
 
 msgctxt "msg_setting_transcript_mail"
 msgid "Transcript to e-mail or receive offline message is required!"
-msgstr "Endereço de e-mail e conteúdo ou mensagem (é necessário)!"
+msgstr "ส่งสำเนาไปยังอีเมล์หรือรับข้อความออฟไลน์ที่จำเป็น"
 
 msgctxt "email_address"
 msgid "Email address"
-msgstr "Endereço de email"
+msgstr "ที่อยู่ email "
 
 msgctxt "invalid"
 msgid "invalid"
-msgstr "Inválido"
+msgstr "ที่ไม่ถูกต้อง"
 
 msgctxt "all_changes_saved"
 msgid "All changes saved"
-msgstr "Todas as alterações foram guardadas"
+msgstr "การเปลี่ยนแปลงทั้งหมดที่ได้รับการบันทึก"
 
 msgctxt "msg_save_change_error"
 msgid "Save change error!"
-msgstr "Erro ao guardar alterações"
+msgstr " การบันทึกการเปลี่ยนแปลงล้มเหลว"
 
 msgctxt "show-sample-code"
 msgid "Show sample code"
-msgstr "Exibir modelo de código css  "
+msgstr "แสดงตัวอย่าง code css"
 
 msgctxt "edit_contact_details"
 msgid "Edit Contact Details"
-msgstr "Editar informações de contacto"
+msgstr "เปลี่ยนข้อมูลการติดต่อ"
 
 msgctxt "visitor"
 msgid "Visitor"
-msgstr "Visitante"
+msgstr "Visitor"
 
 msgctxt "msg_sample_code"
 msgid "Sample code empty!"
-msgstr "Código css está vazio!"
+msgstr "ตัวอย่าง code ว่างเปล่า"
 
 msgctxt "msg_can_not_open_file"
 msgid "Can not open file!"
-msgstr "Não é possível abrir o ficheiro!"
+msgstr "ไม่สามารถเปิด file!"
 
 msgctxt "msg_save_cust_error"
 msgid "Save change customize css error!"
-msgstr "Erro ao guardar alterações"
+msgstr " การบันทึกการเปลี่ยนแปลงCSSล้มเหลว"
 
 msgctxt "msg_write_file_error"
 msgid "Write file css error!"
-msgstr "Erro ao guardar alterações"
+msgstr "การเขียนไฟล์cssล้มเหลว"
 
 msgctxt "english-is-default-lanfuage"
 msgid "English is default language"
-msgstr "Inglês é o idioma padrão"
+msgstr "ภาษาอังกฤษเป็นภาษาเริ่มต้น"
 
 msgctxt "welcome-to-subiz"
 msgid "Welcome to Subiz"
-msgstr "Bem vindo a Subiz"
+msgstr "ยินดีต้อนรับสู่ Subiz"
 
 msgctxt "supporter"
 msgid "Supporter"
-msgstr "Atendente de suporte"
+msgstr "การให้คำปรึกษาออนไลน์"
 
 msgctxt "ask-us-anything"
 msgid "Ask us anything"
-msgstr "Pergunte-nos qualquer coisa"
+msgstr "ยินดีที่จะตอบคำถามทุกอย่าง"
 
 msgctxt "type-your-messange-here"
 msgid "Type your message here"
-msgstr "Digite tua mensagem aqui"
+msgstr "ฝากข้อความที่นี่"
 
 msgctxt "send-us-a-message"
 msgid "Send us a message"
-msgstr "Envie-nos a tua mensagem "
+msgstr "ส่งข้อความถึงเรา"
 
 msgctxt "sorry-we-are"
 msgid "Sorry, we aren't online at the moment. Leave a message and we'll get back to you."
-msgstr "Desculpa, nós não estamos disponíveis neste momento. Deixa tua mensagem, nós entraremos em contacto contigo mais tarde."
+msgstr "ขอโทษ  ตอนนี้เราไม่ได้online กรุณาฝากข้อความเราจะติดต่อคุณในภายหลัง"
 
 msgctxt "rate_good"
 msgid "Good"
-msgstr "Bom"
+msgstr "ดี"
 
 msgctxt "rate-as-good"
 msgid "Rate as good"
-msgstr "Boa avaliação"
+msgstr "ระดับความพึงพอใจ"
 
 msgctxt "rate-as-bad"
 msgid "Rate as bad"
-msgstr "Má avaliação"
+msgstr "ระดับความไม่พึงพอใจ"
 
 msgctxt "supporter-is-typing"
 msgid "Supporter is typing"
-msgstr "Atendente está a digitar "
+msgstr "ผู้ช่วยกำลังตอบคำถาม"
 
 msgctxt "option"
 msgid "Option"
-msgstr "Opção"
+msgstr "ตัวเลือก"
 
 msgctxt "sound"
 msgid "Sound"
-msgstr "Sons"
+msgstr "เสียง"
 
 msgctxt "email-transcript"
 msgid "Email Transcript"
-msgstr "Conteúdo de email"
+msgstr "Email transcript"
 
 msgctxt "contact-details"
 msgid "Contact Details"
-msgstr "Detalhes Do Contacto"
+msgstr "รายละเอียดการติดต่อ"
 
 msgctxt "end-this-chat"
 msgid "End This Chat"
-msgstr "Terminar a conversa"
+msgstr "จบการสนทนา"
 
 msgctxt "message"
 msgid "Message"
-msgstr "Mensagem"
+msgstr "ข้อความ"
 
 msgctxt "name-help"
 msgid "Your name"
-msgstr "Teu nome"
+msgstr "ชื่อของคุณ"
 
 msgctxt "email-help"
 msgid "email@gmail.com"
-msgstr "email@gmail.com"
+msgstr "abcxyz@gmail.com"
 
 msgctxt "phone-help"
 msgid "Phone number"
-msgstr "Número de telefone"
+msgstr "หมายเลขโทรศัพท์"
 
 msgctxt "send-email"
 msgid "Send email"
-msgstr "Enviar email"
+msgstr "ส่ง email"
 
 msgctxt "we-hope"
 msgid "We hope we've answered your queries. Are you ready to end this chat now?"
-msgstr "Esperamos que a nossa resposta atenda a tua demanda. O que tu queres fazer a seguir?"
+msgstr "เราหวังจะได้ตอบคำถามตามคำขอร้องของคุณ คุณต้องการที่จะสิ้นสุดการสนทนานี้เลยหรือไม่"
 
 msgctxt "end-chat"
 msgid "End Chat"
-msgstr "Terminar a conversa"
+msgstr "สิ้นสุดการสนทนา"
 
 msgctxt "not-yet"
 msgid "Not Yet"
-msgstr "Continuar a conversar"
+msgstr "ต่อเนื่องการสนทนา"
 
 msgctxt "send-message"
 msgid "Send message"
-msgstr "Enviar mensagem"
+msgstr "ส่งข้อความ"
 
 msgctxt "department-select"
 msgid "Department Select"
-msgstr "Selecionar departamento"
+msgstr "เลือกแผนก"
 
 msgctxt "question-help"
 msgid "Your question?"
-msgstr "Tua pergunta?"
+msgstr "คำถามของคุณ?"
 
 msgctxt "button-bubble"
 msgid "Chat Button / Chat bubble"
-msgstr "Botão de chat / Bolha de chat"
+msgstr "Chat button / Chat bubble"
 
 msgctxt "chat-buttons"
 msgid "Chat buttons"
-msgstr "Botão de chat"
+msgstr "Chat button"
 
 msgctxt "chat-bubble"
 msgid "Chat bubble"
-msgstr "Bolha de chat"
+msgstr "Chat bubble"
 
 msgctxt "agent-available"
 msgid "Account available"
-msgstr "Disponível"
+msgstr "สถานะ online"
 
 msgctxt "agent-not-available"
 msgid "Account not available"
-msgstr "Não disponível"
+msgstr "สถานะ offline"
 
 msgctxt "get-code-chat-buttons"
 msgid "Get code chat buttons"
-msgstr "Receber código do botão do chat "
+msgstr "รับโค้ดของ chat button"
 
 msgctxt "chat-button-code"
 msgid "Chat button code"
-msgstr "Código do botão do chat"
+msgstr "โค้ดของ chat button"
 
 msgctxt "you-can-adding"
 msgid "You can add the embed code or use syntax html."
-msgstr "Tu podes adicionar código embutido ou usar sintaxe de html."
+msgstr "คุณสามารถแทรโค้ดหรือไวยากรณ์ html"
 
 msgctxt "choose-bubble-gallery"
 msgid "Choose bubble from gallery"
-msgstr "Selecionar na biblioteca de bolha do chat "
+msgstr "เลือกbubbleแกลลอรี่"
 
 msgctxt "what-is-a-chat-button"
 msgid "<p><strong>What’s chat button?</strong></p><p>Chat button enables visitors to start a chat on your website.</p>"
-msgstr "<p><strong>O que é botão de chat ?</strong></p"
+msgstr "<p><strong>Chat button คืออะไร?</strong></p"
 
 msgctxt "choose-buttons-from-gallery"
 msgid "Choose button from gallery"
-msgstr "Abrir a biblioteca de bolhas de chat "
+msgstr "เรียกดูchat buttonจากแกลลอรี่"
 
 msgctxt "upload-buttons-for"
 msgid "Upload buttons for"
-msgstr "Cerregar botão de chat para"
+msgstr "ดาวน์โหลด chat button"
 
 msgctxt "what-is-chat-bubble"
 msgid "<p><strong>What’s a chat bubble?</strong></p><p>It is a cute picture that makes chat widget more attractive and builds trust between you and the visitors.</p>"
-msgstr "<p><strong>O que é bolha de chat?</strong></p"
+msgstr "<p><strong> chat bubble คืออะไร?</strong></p"
 
 msgctxt "read-more"
 msgid "Read more"
-msgstr "Ler mais"
+msgstr "ดูเพิ่มเติม"
 
 msgctxt "enable-chat-bubble"
 msgid "Enable chat bubble"
-msgstr "Exibir bolha de chat"
+msgstr "แสดง chat bubble"
 
 msgctxt "browse-chat-bubble-gallery"
 msgid "Browse chat bubble gallery"
-msgstr "Navegar na biblioteca de bolha de chat "
+msgstr "เรียกดูแกลลอรี่ chat bubble"
 
 msgctxt "upload-custom-picture"
 msgid "Upload custom picture"
-msgstr "Carregar foto"
+msgstr "อัปโหลดภาพ"
 
 msgctxt "maximum-size-200kb"
 msgid "Maximum size 50kb, recommended dimensions 240x164 px"
-msgstr "Tamanho máximo 50kb, dimensão recomendada 240x164 px"
+msgstr "ขนาดสูงสุด 50kb (240x164 px)"
 
 msgctxt "avatar_max_size"
 msgid "Maximum size 50kb"
-msgstr "Tamanho máximo 50kb"
+msgstr "ขนาดสูงสุด 50kb"
 
 msgctxt "msg_name_field_error"
 msgid "Name field upload error"
-msgstr "Erro ao carregar campo de nome"
+msgstr "Name field upload error"
 
 msgctxt "what-a-chat"
 msgid "What’s a chat survey?"
-msgstr "O que é a forma de levantamento?"
+msgstr "แบบสำรวจเป็นอย่างไร"
 
 msgctxt "chat-servey-lets"
 msgid "Chat survey helps you to collect visitor information before chat."
-msgstr "Forma de levantamento te ajuda a coletar informações sobre visitante antes do chat."
+msgstr "Form สำรวจช่วยให้คุณเก็บรวบรวมข้อมูลเกี่ยวกับ visitor ก่อนที่ chat"
 
 msgctxt "enable-chat-survey"
 msgid "Enable chat survey"
-msgstr "Ativar forma de levantamento "
+msgstr "เปิด Form สำรวจ"
 
 msgctxt "require-department"
 msgid "Require department"
-msgstr "Selecionar departamento"
+msgstr "จำเป็นต้องเลือกแผนก"
 
 msgctxt "require-question"
 msgid "Require question"
-msgstr "Digitar questão"
+msgstr "จำเป็นต้องเลือกคำถาม"
 
 msgctxt "allow-phone-number"
 msgid "Allow phone number"
-msgstr "Digitar número de telefone"
+msgstr "จำเป็นต้องใส่หมายเลขโทรศัพท์"
 
 msgctxt "customeize"
 msgid "Customize"
-msgstr "Personalizar"
+msgstr "ปรับแต่ง"
 
 msgctxt "support"
 msgid "Support"
-msgstr "Suporte"
+msgstr "สนับสนุน"
 
 msgctxt "please-provide-a-valid-email"
 msgid "Please provide a valid email"
-msgstr "Digita endereço de email válido, por favor "
+msgstr "กรุณาใส่อีเมล์ที่ถูกต้อง"
 
 msgctxt "or-sign-in-withs"
 msgid "or sign in with"
-msgstr "ou entrar com"
+msgstr "หรือลงชื่อเข้าใช้ด้วย"
 
 msgctxt "start-chat"
 msgid "Start Chat"
-msgstr "Começar a conversar"
+msgstr "เริ่มต้น chat"
 
 msgctxt "use_cus_survey"
 msgid "You have chosen Auto Detect language. Choose a specific language to customize chat survey form."
-msgstr "Tu escolheste detecção automática de idioma. Seleciona um idioma específico para personalizar a forma de levantamento."
+msgstr "คุณได้เลือก Auto Detect language เลือกภาษาที่เฉพาะเจาะจงเพื่อให้สามารถแก้ไขแบบสำรวจ"
 
 msgctxt "package_allow_trigger"
 msgid "Package allows"
-msgstr "Número permitido de trigger "
+msgstr "แพคเกจ triggerที่ได้รับอนุญาต"
 
 msgctxt "enabled_trigger"
 msgid "enabled trigger"
-msgstr "trigger foi ativado"
+msgstr "trigger เปิดใช้งาน"
 
 msgctxt "trigger_run_trigger"
 msgid "Run trigger"
-msgstr "Funcionar trigger"
+msgstr "เรียกใช้ trigger"
 
 msgctxt "trigger_page_enter"
 msgid "When a visitor has loaded the chat widget"
-msgstr "Quando o visitante baixa a janela de chat "
+msgstr "เมื่อผู้เข้าชมดาวน์โหลดหน้าต่างแชท"
 
 msgctxt "trigger_chat_requested"
 msgid "When a visitor requests a chat"
-msgstr "Quando o visitante manda o pedido de chat "
+msgstr "เมื่อผู้เข้าชมได้ส่งคำขอขอแชท"
 
 msgctxt "trigger_btn_add"
 msgid "Add trigger"
-msgstr "Adicionar trigger"
+msgstr "เพิ่ม trigger"
 
 msgctxt "trigger_name"
 msgid "Trigger Name"
-msgstr "Nome de Trigger "
+msgstr "ชื่อ Trigger "
 
 msgctxt "trigger_description"
 msgid "Description"
-msgstr "Descrição"
+msgstr "ลักษณะ"
 
 msgctxt "trigger_once_label"
 msgid "Fire only once per visitor"
-msgstr "Funcionar uma vez para cada visitante"
+msgstr "เรียกใช้ครั้งเดียวสำหรับผู้เข้าชมแต่ละราย"
 
 msgctxt "trigger_once"
 msgid "Each visitor will receive this message only once"
-msgstr "Cada visitante receberá esta mensagem apenas uma vez "
+msgstr "ผู้เข้าชมแต่ละคนจะได้รับข้อความหนึ่งครั้ง"
 
 msgctxt "trigger_once_short"
 msgid "Fire once"
-msgstr "Funcionar uma vez"
+msgstr "เรียกใช้ครั้งเดียว"
 
 msgctxt "trigger_chat_message"
 msgid "When a visitor sends a chat message"
-msgstr "Quando o visitante envia uma mensagem de chat"
+msgstr "เมื่อผู้เข้าชมส่งข้อความ"
 
 msgctxt "trigger_check_conditions"
 msgid "Check conditions"
-msgstr "Verificar as condições"
+msgstr "ตรวจสอบเงื่อนไข"
 
 msgctxt "trigger_check_condition_and"
 msgid "Check all of the following conditions"
-msgstr "Verificar todas as condições"
+msgstr "ตรวจสอบเงื่อนไขทั้งหมด"
 
 msgctxt "trigger_check_condition_or"
 msgid "Check any of the following conditions"
-msgstr "Verificar uma das condições"
+msgstr "ตรวจสอบเงื่อนไขที่เกี่ยวข้อง"
 
 msgctxt "trigger_hour_of_day"
 msgid "Hour of day"
-msgstr "Hora do dia"
+msgstr "เวลาของวัน"
 
 msgctxt "trigger_day_of_week"
 msgid "Day of week"
-msgstr "Dia da semana"
+msgstr "วันของสัปดาห์"
 
 msgctxt "trigger_visitor_time_on_site"
 msgid "Visitor time on site"
-msgstr "Tempo de visita no website "
+msgstr "เวลาที่ผู้เข้าชมในเว็บไซต์"
 
 msgctxt "trigger_visitor_ip"
 msgid "Visitor IP"
-msgstr "Endereço IP do visitante "
+msgstr "ที่อยู่ IPของvisitor"
 
 msgctxt "trigger_visitor_city"
 msgid "Visitor city"
-msgstr "Cidade do visitante"
+msgstr "เมืองปัจจุบันของ visitor"
 
 msgctxt "trigger_visitor_country_code"
 msgid "Visitor country code"
-msgstr "Código do país do visitante"
+msgstr "รหัสประเทศปัจจุบันของvisitor"
 
 msgctxt "trigger_visitor_country_name"
 msgid "Visitor country name"
-msgstr "Nome do país do visitante"
+msgstr "ชื่อประเทศปัจจุบันของvisitor"
 
 msgctxt "trigger_visitor_page_url"
 msgid "Visitor page url"
-msgstr "Url da página do visitante"
+msgstr "URLของหน้าเว็บของvisitor"
 
 msgctxt "trigger_visitor_page_title"
 msgid "Visitor page title"
-msgstr "Título da página do visitante"
+msgstr "ชื่อเรื่องของหน้าเว็บ"
 
 msgctxt "trigger_visitor_page_count"
 msgid "Visitor page count"
-msgstr "Número das páginas visualizadas"
+msgstr "จำนวนหน้าที่มีการดู"
 
 msgctxt "trigger_referrer"
 msgid "Previous page"
-msgstr "Página anterior"
+msgstr "หน้าก่อนหน้านี้"
 
 msgctxt "trigger_visitor_name"
 msgid "Visitor name"
-msgstr "Nome do visitante"
+msgstr "ชื่อ visitor"
 
 msgctxt "trigger_visitor_referrer"
 msgid "Visitor referrer"
-msgstr "Url do visitante para página"
+msgstr "แหล่งที่มาให้คำแนะนำvisitorไปยังหน้าเว็บ"
 
 msgctxt "trigger_visitor_search_engine"
 msgid "Visitor search engine"
-msgstr "Ferramenta de pesquisa do visitante"
+msgstr "เครื่องมือค้นหาของ visitor"
 
 msgctxt "trigger_visitor_search_terms"
 msgid "Visitor search terms"
-msgstr "Palavra chave de pesquisa do visitante "
+msgstr "ค้นหาคำหลักของvisitor"
 
 msgctxt "trigger_visitor_type"
 msgid "Visitor type"
-msgstr "Tipo de visitante"
+msgstr "ประเภทของvisitor"
 
 msgctxt "trigger_help_hour_of_day"
 msgid "Hour of day (UTC timezone). 0 to 23"
-msgstr "Hora do dia (zona horária UTC). 0 a 23"
+msgstr "เวลาของวัน (ตามเขตเวลา UTC) 0-23"
 
 msgctxt "trigger_help_hour_of_day_holder"
 msgid "Value is number. e.g 21"
-msgstr "Dados são números. Ex: 21"
+msgstr "ข้อมูลเป็นตัวเลข ตัวอย่าง 21"
 
 msgctxt "trigger_help_day_of_week"
 msgid "Day of the week. 0 = Monday, 6 = Sunday"
-msgstr "Dia da semana. 0 = Segunda, 6 = Sexta"
+msgstr "วันของสัปดาห์ 0 = Monday, 6 = Sunday"
 
 msgctxt "trigger_help_day_of_week_holder"
 msgid "Value is number. e.g: 5"
-msgstr "Dados são números. Ex: 5"
+msgstr "ข้อมูลเป็นตัวเลข ตัวอย่าง 5"
 
 msgctxt "trigger_help_visitor_time_on_site"
 msgid "Number of seconds visitor has stayed on your site"
-msgstr "Número de segundos que o visitante fica no teu website"
+msgstr "จำนวนวินาทีที่visitorอยู่ในเว็บไซต์ของคุณ"
 
 msgctxt "trigger_help_visitor_time_on_site_holder"
 msgid "Value is number. e.g: 60"
-msgstr "Dados são números. Ex: 60"
+msgstr "ข้อมูลเป็นตัวเลข ตัวอย่าง 60"
 
 msgctxt "trigger_help_visitor_ip"
 msgid "IP address of the visitor <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
-msgstr "Endereço IP do visitante <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
+msgstr "ที่อยู่IPของvisitor <span class="tip" data-original-title="Example" data-content="Trigger for all ip begin 117.23: <i>Regex <b>^117.23.*</b></i><br />Trigger for id 117.23.23.1: <i>Equals <b>117.23.23.1</b></i>"></span>"
 
 msgctxt "trigger_help_visitor_ip_holder"
 msgid "Value. e.g: 117.23.23.1"
-msgstr "Endereço IP . Ex: 117.23.23.1"
+msgstr "ที่อยู่IP ตัวอย่าง 117.23.23.1"
 
 msgctxt "trigger_help_visitor_city"
 msgid "City where visitor come from (New York)"
-msgstr "Cidade corrente do visitante (Nova Iorque)"
+msgstr "เมืองปัจจุบันของvisitor(new york)"
 
 msgctxt "trigger_help_visitor_city_holder"
 msgid "Value. e.g: London"
-msgstr "Nome da cidade. Ex: London"
+msgstr "เมืองหลวง ตัวอย่าง London"
 
 msgctxt "trigger_help_visitor_country_code"
 msgid "2 letter country code (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
-msgstr "Código do país corrente 2 letras (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>) of visitor."
+msgstr "รหัสประเทศ2ตัว (<a href="http://en.wikipedia.org/wiki/ISO_3166-2" target="_blank">ISO 3166-2</a>)ของvisitor."
 
 msgctxt "trigger_help_visitor_country_code_holder"
 msgid "Value. e.g: UK"
-msgstr "Código do país. Ex: uk"
+msgstr "รหัสประเทศ ตัวอย่าง uk"
 
 msgctxt "trigger_help_visitor_country_name"
 msgid "Country where visitors come from"
-msgstr "País corrente do visitante"
+msgstr "ประเทศของผู้เข้าชม"
 
 msgctxt "trigger_help_visitor_country_name_holder"
 msgid "Value. e.g: United States"
-msgstr "Nome do país. Ex: Estados Unidos"
+msgstr "ชื่อประเทศ ตัวอย่าง united states"
 
 msgctxt "trigger_help_visitor_page_url"
 msgid "URL of the page the visitor is currently on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
-msgstr "Url da página que o visitante está acessando. Ex: Para a página <i>http://www.mysite.com/page1.html</i> digite <i>www.mysite.com/page1.html</i>"
+msgstr "URLของหน้าเว็บvisitorจะเข้าถึง ตัวอย่าง: สำหรับหน้าเว็บ <i>http://www.mysite.com/page1.html</i> พิมพ์ <i>www.mysite.com/page1.html</i>"
 
 msgctxt "trigger_help_visitor_page_url_holder"
 msgid "Value. e.g: www.yourdomain.com/page1.html"
-msgstr "Ex: www.yourdomain.com/page1.html"
+msgstr "ตัวอย่าง www.yourdomain.com/page1.html"
 
 msgctxt "trigger_help_visitor_page_title"
 msgid "Title of the page the visitor is currently on. Title is content between the <code>&lt;title&gt;&lt;/title&gt;</code> on the page."
-msgstr "Título da página que o visitante está acessando. Título é conteúdo entre <code>&lt;title&gt;&lt;/title&gt;</code> na página."
+msgstr "ชื่อเรื่องของหน้าเว็บvisitorจะเข้าถึง ชื่อเรื่องเป็นข้อความระหว่าง<code>&lt;title&gt;&lt;/title&gt;</code>ในการแสดงหน้าเว็บ"
 
 msgctxt "trigger_help_visitor_page_title_holder"
 msgid "Value"
-msgstr "Título"
+msgstr "ชื่อเรื่อง"
 
 msgctxt "trigger_help_visitor_page_count"
 msgid "Number of pages visitor has viewed. First page = 1"
-msgstr "Número de páginas que o visitante acessou. Primeira página = 1"
+msgstr "จำนวนหน้าเว็บvisitorได้ดู หน้าแรก = 1"
 
 msgctxt "trigger_help_visitor_page_count_holder"
 msgid "Value is number"
-msgstr "Valor é número"
+msgstr "มูลค่าเป็นหมายเลข"
 
 msgctxt "trigger_help_referrer"
 msgid "URL of the previous page visitor was on. E.g: For the page <i>http://www.mysite.com/page1.html</i> enter <i>www.mysite.com/page1.html</i>"
-msgstr "Url da página anterior que o visitante acessou. Ex: Para a página <i>http://www.mysite.com/page1.html</i> digite <i>www.mysite.com/page1.html</i>"
+msgstr "URL ของหน้าเว็บก่อนหน้านี้ ตัวอย่าง: สำหรับหน้าเว็บ <i>http://www.mysite.com/page1.html</i> พิมพ์ <i>www.mysite.com/page1.html</i>"
 
 msgctxt "trigger_help_referrer_holder"
 msgid "Value"
-msgstr "Ex: www.mysite.com/page1.html"
+msgstr "ตัวอย่าง: www.mysite.com/page1.html"
 
 msgctxt "trigger_help_visitor_name"
 msgid "Name of the visitor"
-msgstr "Nome do visitante"
+msgstr "ชื่อของvisitor"
 
 msgctxt "trigger_help_visitor_name_holder"
 msgid "Value. e.g: David"
-msgstr "Nome do visitante. Ex: David"
+msgstr "ชื่อของvisitor ตัวอย่าง David"
 
 msgctxt "trigger_help_visitor_referrer"
 msgid "Referrer URL of the visitor (when he entered your site). E.g: For the page <i>http://www.google.com</i> enter <i>www.google.com</i>"
-msgstr "Url do visitante para entrar na sua página. Ex: Para a página <i>http://www.google.com</i> digite <i>www.google.com</i>"
+msgstr "URLที่ให้คำแนะนำvisitorต่อเว็บไซต์ของคุณ ตัวอย่าง: สำหรับหน้าเว็บ <i>http://www.google.com</i> พิมพ์ <i>www.google.com</i>"
 
 msgctxt "trigger_help_visitor_referrer_holder"
 msgid "Url"
-msgstr "Url"
+msgstr "URL"
 
 msgctxt "trigger_help_visitor_search_engine"
 msgid "Referring search engine, if applicable (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
-msgstr "Ferramenta de pesquisa aplicada para o teu site (google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
+msgstr "เครื่องมือค้นหานำไปใช้กับเว็บไซต์ของคุณ(google / yahoo / bing ...). <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">View Search Engine List and name for the condition</a>"
 
 msgctxt "trigger_help_visitor_search_engine_holder"
 msgid "Search engine name"
-msgstr "Nome da ferramenta de pesquisa"
+msgstr "ชื่อของเครื่องมือค้นหา"
 
 msgctxt "trigger_help_visitor_search_terms"
 msgid "Referring search term, if applicable. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
-msgstr "Palavra chave de pesquisa aplicada para a tua página. <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
+msgstr "เครื่องมือค้นหานำไปใช้กับเว็บไซต์ของคุณ <a href="http://support.subiz.com/solution/categories/66523/folders/110220/articles/63320-default-search-engine-list" target="_blank">Subiz automatically detects Search Engines</a>"
 
 msgctxt "trigger_help_visitor_search_terms_holder"
 msgid "Keyword"
-msgstr "Palavra chave"
+msgstr "คำสำคัญ"
 
 msgctxt "trigger_help_visitor_type"
 msgid "Type (new visitor/return visitor) of visitor. Type <i>new</i> for new visitor, <i>return</i> for return visitor"
-msgstr "Tipo de visitante (visitante novo e visitante que retornou). Digite <i>new</i> para visitante novo, <i>return</i> para visitante de regresso"
+msgstr "ประเภท (visitorใหม่ / visitorกลับมา) ของvisitor พิมพ์ <i>new</i> สำหรับvisitorใหม่, <i>return</i> สำหรับvisitorย้อนกลับมา"
 
 msgctxt "trigger_help_visitor_type_holder"
 msgid "type new/return"
-msgstr "Novo/Regresso"
+msgstr "New/Return"
 
 msgctxt "trigger_err_condition_empty"
 msgid "You have no condition. Please complete to continue"
-msgstr "Tu não instalaste condição ainda. Completa para continuar"
+msgstr "คุณไม่ได้ติดตั้งตามเงื่อนไข กรุณากรอกเพื่อดำเนินการต่อ"
 
 msgctxt "trigger_err_action_empty"
 msgid "You have no action. Please complete to continue"
-msgstr "Tu não instalaste condição ainda. Completa para continuar"
+msgstr "คุณไม่ได้ติดตั้งการกระทำ กรุณากรอกเพื่อดำเนินการต่อ"
 
 msgctxt "trigger_edit_msg_edit"
 msgid "The trigger has been saved!"
-msgstr "Trigger foi salvado!"
+msgstr "Trigger ได้รับการบันทึกไว้"
 
 msgctxt "trigger_edit_msg_add"
 msgid "The trigger was added successfully!"
-msgstr "Trigger foi adicionado!"
+msgstr "Trigger ถูกบันทึกเรียบร้อยแล้ว!"
 
 msgctxt "trigger_not_exist"
 msgid "Sorry. Trigger can't not found. Please try again!"
-msgstr "Desculpa. Trigger não pode ser encontrado. Tenta novamente!"
+msgstr "ขอโทษ ไม่พบtrigger กรุณาลองอีกครั้ง!"
 
 msgctxt "trigger_action_autoInvite"
 msgid "Auto Invite"
-msgstr "Convite automático"
+msgstr "เชิญchat อัตโนมัติ"
 
 msgctxt "trigger_help_autoInvite_holder_name"
 msgid "Name of agent"
-msgstr "Nome do agente"
+msgstr "ชื่อของagent"
 
 msgctxt "trigger_help_autoInvite"
 msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
-msgstr ""Nome do agente" é "Nome de exibição" do Agente. Visitante verá este nome."
+msgstr ""ชื่อของagent" เป็น "ชื่อที่แสดง" ของagent visitorจะเห็นชื่อนี้"
 
 msgctxt "trigger_action_sendMessageToVisitor"
 msgid "Send Message to Visitor"
-msgstr "Enviar mensagem para o visitante"
+msgstr "ส่งข้อความส่วนตัวถึง visitor"
 
 msgctxt "trigger_help_sendMessageToVisitor_holder_name"
 msgid "Name of agent"
-msgstr "Nome do agente"
+msgstr "ชื่อของagent"
 
 msgctxt "trigger_help_sendMessageToVisitor"
 msgid ""Name of agent" as "Display Name" of Agent. Visitor will see the Name."
-msgstr ""Nome do agente" é "Nome de exibição" do Agente. Visitante verá este nome."
+msgstr ""ชื่อของagent" เป็น "ชื่อที่แสดง" ของagent visitorจะเห็นชื่อนี้"
 
 msgctxt "trigger_action_sendMessageToAgent"
 msgid "Send Message to Agent"
-msgstr "Enviar mensagem para agente"
+msgstr "ส่งข้อความส่วนตัวถึงagent"
 
 msgctxt "trigger_help_sendMessageToAgent_holder_username"
 msgid "Username of agent"
-msgstr "Nome de usuário do agente"
+msgstr "ชื่อผู้ใช้ของ agent"
 
 msgctxt "trigger_help_sendMessageToAgent"
 msgid "Type "username" of agent or "all" to send to all agents online"
-msgstr "Digitar "Nome "de usuário de agente ou "Todos" para enviar para todos os agentes disponíveis "
+msgstr "พิมพ์ "ชื่อผู้ใช้" ของagent หรือ "ทั้งหมด" เพื่อส่งไปยังทุกagentออนไลน์"
 
 msgctxt "trigger_help_message_holder"
 msgid "Message ..."
-msgstr "Mensagem ..."
+msgstr "ข้อความ..."
 
 msgctxt "warning_account_max_limit"
 msgid "Your account has been reached to maximum Trigger. Please %s click here %s to upgrade your account!"
-msgstr "Tu usaste o número máximo de trigger na conta. Por favor %s clique aqui %s para actualizar a tua conta!"
+msgstr "คุณได้ใช้จำนวนสูงสุดของtriggerในบัญชีของคุณ กรุณา %s คลิกที่นี่ %s อัปเกรดบัญชีของคุณ!"
 
 msgctxt "subscription_none"
 msgid "None"
-msgstr "Nenhum"
+msgstr "None"
 
 msgctxt "subscription_1_month"
 msgid "Monthly"
-msgstr "Ciclo de 1 mês"
+msgstr "ทุก 1 เดือน"
 
 msgctxt "subscription_3_month"
 msgid "Every 3 months"
-msgstr "Ciclo de 3 meses"
+msgstr "ทุก 3 เดือน"
 
 msgctxt "subscription_6_month"
 msgid "Every 6 months"
-msgstr "Ciclo de 6 meses"
+msgstr "ทุก 6 เดือน"
 
 msgctxt "subscription_12_month"
 msgid "Yearly"
-msgstr "Ciclo de 1 ano"
+msgstr "ทุก 1 ปี"
 
 msgctxt "subscription_24_month"
 msgid "Every 2 years"
-msgstr "Ciclo de 2 anos"
+msgstr "ทุก 2 ปี"
 
 msgctxt "subscription_billing_cycle_none"
 msgid "None"
-msgstr "Nenhum"
+msgstr "None"
 
 msgctxt "subscription_operation"
 msgid "%"
@@ -1067,91 +1067,91 @@ msgstr "%"
 
 msgctxt "subscription_save"
 msgid "Save"
-msgstr "Guardar"
+msgstr "บันทึก"
 
 msgctxt "subscription_save_none"
 msgid "None"
-msgstr "Nenhum"
+msgstr "None"
 
 msgctxt "subscription_title_current_subscription"
 msgid "Current Subscription"
-msgstr "Informações de pagamento corrente"
+msgstr "สมัครสมาชิกปัจจุบัน"
 
 msgctxt "subscription_discounts_with_longer_cycles"
 msgid "Discounts with longer cycles"
-msgstr "Descontos para ciclo de pagamento mais longo "
+msgstr "ส่วนลดสำหรับวงการชำระเงินระยะยาว"
 
 msgctxt "subscription_change_to"
 msgid "Change to"
-msgstr "Alterar para"
+msgstr "แปลงเป็น"
 
 msgctxt "subscription_current_billing_cycle"
 msgid "Current billing cycle"
-msgstr "Ciclo de pagamento corrente"
+msgstr "ระยะบิลปัจจุบัน"
 
 msgctxt "subscription_change_billing_cycle"
 msgid "Change billing cycle "
-msgstr "Alterar ciclo de pagamento"
+msgstr "เปลี่ยนรอบบิล"
 
 msgctxt "subscription_change_billing_success"
 msgid "Change billing cycle successfully!"
-msgstr "Alteraste ciclo de pagamento!"
+msgstr "การเปลี่ยนการเรียกเก็บเงินสำเร็จ"
 
 msgctxt "subscription_require_billing_cycle"
 msgid "Select billing cycle"
-msgstr "Selecionar ciclo de pagamento"
+msgstr "เลือกระยะบิล"
 
 msgctxt "subscription_change_billing_error"
 msgid "Error change billing cycle"
-msgstr "Erro ao alterar ciclo de pagamento"
+msgstr "ข้อผิดพลาดในการเปลี่ยนรอบบิล"
 
 msgctxt "subscription_add_agents_subscription"
 msgid "Add agents subscription"
-msgstr "Adicionar subscrição do agente"
+msgstr "เพิ่มจำนวน agent"
 
 msgctxt "subscription_number_of_agent_subscribed"
 msgid "Number of subscribed agent(s)"
-msgstr "Quantidade de agentes subscritos"
+msgstr "จำนวนagentที่ต้องการชำระเงิน"
 
 msgctxt "subscription_additional_agent_subscription_purchase"
 msgid "Additional agent(s) you wish to purchase"
-msgstr "Número de agentes que tu queres pagar mais"
+msgstr "จำนวนagentที่คุณต้องการจะจ่ายเพิ่ม"
 
 msgctxt "subscription_number_of_agent_after_addition"
 msgid "Number of subscribed agent after payment made"
-msgstr "Número de agente que é necessário pagar (depois de adicionar) "
+msgstr "จำนวนagentที่ต้องการชำระเงิน (หลังจากที่เพิ่ม)"
 
 msgctxt "subscription_amount_for_agent"
 msgid "Amount to be paid for %s 1 %s agent(s) subscription"
-msgstr "O valor de pagamento é para um agente adicionado"
+msgstr "จำนวนเงินที่จ่ายให้กับagentเพิ่ม"
 
 msgctxt "subscription_add_agent_success"
 msgid "Add agent successfully"
-msgstr "Adicionaste agente"
+msgstr "การเพิ่มagentประสบความสำเร็จ"
 
 msgctxt "subscription_add_agent_error"
 msgid "Error add agent"
-msgstr "Erro ao adicionar agente"
+msgstr "ข้อผิดพลาดในการเพิ่มagent"
 
 msgctxt "subscription_require_add_agent"
 msgid "Agent value invalid"
-msgstr "Agente adicionado não está inválido "
+msgstr "Agentที่เพิ่มไม่ถูกต้อง"
 
 msgctxt "subscription_expries_on"
 msgid "expires on"
-msgstr "Acabou prazo de pagamento em"
+msgstr "หมดอายุในวันที่"
 
 msgctxt "subscription_subscription_detail_title"
 msgid "Subscription Details"
-msgstr "Detalhes de subscrição"
+msgstr "ผู้ใช้บริการ"
 
 msgctxt "subscription_per_agent"
 msgid "per agent"
-msgstr "/agente"
+msgstr "/agent"
 
 msgctxt "subscription_per_month"
 msgid "per month"
-msgstr "/mês"
+msgstr "/เดือน"
 
 msgctxt "subscription_triggers"
 msgid "Triggers"
@@ -1159,63 +1159,63 @@ msgstr "Triggers"
 
 msgctxt "subscription_department"
 msgid "Department"
-msgstr "Departamento"
+msgstr "แผนก"
 
 msgctxt "subscription_concurrent_chat"
 msgid "Concurrent chat"
-msgstr "chat simultâneo"
+msgstr "แชทได้พร้อมกัน"
 
 msgctxt "subscription_change_plan"
 msgid "Change plan"
-msgstr "Alterar o plano"
+msgstr "เปลี่ยนแพคเกจแชท"
 
 msgctxt "subscription_agents"
 msgid "Agent(s)"
-msgstr "Agente(s)"
+msgstr "Agent(s)"
 
 msgctxt "subscription_choose_plan"
 msgid "Choose a plan based on your business needs"
-msgstr "Selecionar o plano adequado para a demanda do teu negócio"
+msgstr "เลือกแพคเกจแชทแบบที่ความต้องการทางธุรกิจ"
 
 msgctxt "subscription_action_description"
 msgid "Upgrade, downgrade, cancel at any time. Pay as you "
-msgstr "Actualizar, rebaixar, cancelar em qualquer momento."
+msgstr "อัพเกรดปรับลดประมาณหรือยกเลิกเมื่อใดก็ได้"
 
 msgctxt "subscription_action_description_go"
 msgid "go."
-msgstr "Continuar."
+msgstr "ดำเนินการต่อ"
 
 msgctxt "subscription_per_agent_per_month"
 msgid "per agent/month"
-msgstr "/agente/mês"
+msgstr "/agent/เดือน"
 
 msgctxt "subscription_what_you_get"
 msgid "What you get:"
-msgstr "O que tu ganhas:"
+msgstr "สิ่งที่คุณจะได้รับ:"
 
 msgctxt "subscription_web_and_mobile_apps"
 msgid "Web and mobile apps"
-msgstr "aplicativos de Website e móveis"
+msgstr "การใช้งานเว็บและโทรศัพท์"
 
 msgctxt "subscription_chat_history"
 msgid "Chat history"
-msgstr "Histórico de chat"
+msgstr "บทสนทนาก่อนหน้านั้น"
 
 msgctxt "subscription_transfer_chat"
 msgid "Transfer chat"
-msgstr "Transferir chat"
+msgstr "โอนแชท"
 
 msgctxt "subscription_real_time_visitor_info"
 msgid "Real-time Visitor Info"
-msgstr "Informações do visitante real "
+msgstr "ข้อมูลของลูกค้าที่เกิดขึ้นจริง"
 
 msgctxt "subscription_limited_concurrent_chats"
 msgid "Limited concurrent chats"
-msgstr "Número máximo de chat simultâneo "
+msgstr "จำนวนการสนทนาพร้อมกันสูงสุด"
 
 msgctxt "subscription_what_youre_missing"
 msgid "What you are missing:"
-msgstr "O que tu estás a perder:"
+msgstr "สิ่งที่คุณกำลังขาดหายไป:"
 
 msgctxt "subscription_trigger"
 msgid "Trigger"
@@ -1223,339 +1223,339 @@ msgstr "Trigger"
 
 msgctxt "subscription_department_agent_group"
 msgid "Department ( agent group )"
-msgstr "Dividir o departamento de chat "
+msgstr "แบ่งแผนกแชท"
 
 msgctxt "subscription_unlimit_chat_history"
 msgid "Unlimited chat history"
-msgstr "Histórico ilimitado de chat "
+msgstr "ไม่ จำกัด ประวัติการแชท"
 
 msgctxt "subscription_you_have"
 msgid "You have"
-msgstr "Tu inscreve-te:"
+msgstr "คุณลงทะเบียน:"
 
 msgctxt "subscription_you_will_be_charged"
 msgid "Your account will be charged on "
-msgstr "Tu tens de pagar em"
+msgstr "คุณจะต้องจ่ายเงินใน"
 
 msgctxt "subscription_for_your_first_billing_cycle"
 msgid "for your first billing cycle"
-msgstr "para o primeiro ciclo de uso "
+msgstr "สำหรับรอบแรกของbill"
 
 msgctxt "subscription_afterwards_you_will_be_charged"
 msgid "Afterwards, you will be charged"
-msgstr "Depois, tu tens de pagar"
+msgstr "หลังจากนั้นคุณจะต้องจ่าย"
 
 msgctxt "subscription_monthly"
 msgid "Monthly"
-msgstr "Mensal"
+msgstr "ทุกเดือน"
 
 msgctxt "subscription_total_price"
 msgid "Total price"
-msgstr "Preço total"
+msgstr "ชำระเงินรวม"
 
 msgctxt "subscription_subscribe_now"
 msgid "Subscribe now"
-msgstr "Pagar agora"
+msgstr "ชำระเงินตอนนี้"
 
 msgctxt "subscription_compare_edition"
 msgid "Compare Editions"
-msgstr "Comparar os pacotes de chat"
+msgstr "เปรียบเทียบระหว่างแชทแพคเกจ"
 
 msgctxt "subscription_plan_selection"
 msgid "Plan Selection"
-msgstr "Selecionar plano"
+msgstr "เลือกแพคเกจ"
 
 msgctxt "subscription_reduce_agent_success"
 msgid "Reduce agent successfully"
-msgstr "Diminuíste o número de agentes "
+msgstr "การลดจำนวนของagentประสบความสำเร็จ"
 
 msgctxt "subscription_reduce_agent_error"
 msgid "Error reduce agent"
-msgstr "Aconteceu um erro ao diminuir o número de agentes"
+msgstr "เกิดข้อผิดพลาดในขณะที่ลดจำนวนของagent"
 
 msgctxt "subscription_require_reduce_agent"
 msgid "Select agent to reduce"
-msgstr "Selecionar agente para diminuir"
+msgstr "เลือกagentเพื่อลด"
 
 msgctxt "subscription_cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "ยกเลิก"
 
 msgctxt "subscription_account_is_unsubscription"
 msgid "This account haven't subscribed"
-msgstr "Esta conta ainda não está subscrita"
+msgstr "บัญชีนี้ยังไม่ได้ลงทะเบียนสมาชิก"
 
 msgctxt "subscription_upgrade"
 msgid "Upgrade now"
-msgstr "Actualizar agora"
+msgstr "อัพเกรดเดี๋ยวนี้"
 
 msgctxt "subscription_now_and_add_more_agents"
 msgid "now and add more agents"
-msgstr "Adicionar mais agente"
+msgstr "เพื่อเพิ่มagent"
 
 msgctxt "subscription_submit"
 msgid "Submit"
-msgstr "Submeter"
+msgstr "เสนอ"
 
 msgctxt "subscription_complete_downgrade_to_free"
 msgid "Complete Downgrade to Free Package"
-msgstr "Rebaixar para pacote gratuito?"
+msgstr "ลดระดับโดยไม่มีข้อจำกัด"
 
 msgctxt "subscription_notice_downgrade"
 msgid "We are unfortunate to know that you have opted to downgrade to FREE package. Please select an option below that explains the reason for your decision. Your feedback will help us to improve our service"
-msgstr "Nós estamos lamentando ao saber que a tua conta foi rebaixada para edição gratuita. Mostra-nos a razão do suporte, basta selecionar as opções abaixo. Os teus comentários nos ajudarão a melhorar a qualidade do serviço."
+msgstr "เราขออภัยสำหรับแพคเกจการปรับลดโดยไม่มีข้อจำกัด  กรุณาแจ้งให้เราทราบว่าทำไมเลือกตัวเลือกด้านล่าง ความคิดเห็นของคุณจะช่วยให้เราจำนวนมากในการปรับปรุงคุณภาพการให้บริการ"
 
 msgctxt "subscription_notice_1"
 msgid "Satisfied, will come back again when required"
-msgstr "Qualidade do serviço é boa. Vou voltar no momento adequado. "
+msgstr "คุณภาพการให้บริการที่ดี จะกลับมาในเวลาที่เหมาะสม"
 
 msgctxt "subscription_notice_2"
 msgid "Your service is good, but it still lacks of some certain features"
-msgstr "Teu serviço é satisfatório, mas falta ainda algumas características"
+msgstr "ยินดีกับคุณภาพของการบริการ แต่ยังคงมีข้อบกพร่อง"
 
 msgctxt "subscription_notice_3"
 msgid "I am not at all satisfied with your service"
-msgstr "Não estou satisfeito com o teu serviço"
+msgstr "ไม่พอใจคุณภาพของการบริการ"
 
 msgctxt "subscription_notice_other"
 msgid "Please add your opinion"
-msgstr "Deixa teus comentários por favor"
+msgstr "ไม่พอใจคุณภาพของการบริการ"
 
 msgctxt "subscription_dowgrade_now"
 msgid "Downgrade now"
-msgstr "Rebaixar agora"
+msgstr "ดาวน์เกรดในขณะนี้"
 
 msgctxt "subscription_cancel_account"
 msgid "Need to cancel your Account?"
-msgstr "É necessário cancelar tua conta ?"
+msgstr "จำเป็นที่จะต้องยกเลิกบัญชีของฉันได้อย่างไร"
 
 msgctxt "subscription_cancel_account_notice"
 msgid "We are sorry to see you go. Once your account is cancelled, all of your account information will be immediately and permanently terminated."
-msgstr "Nós estamos tristes ao ver que tua conta foi cancelada. Depois de cancelar a conta, todas as informações da conta serão eliminadas permanentemente."
+msgstr "ขออภัยด้วยที่คุณยกเลิกบัญชีของคุณ บัญชีถูกยกเลิกข้อมูลทั้งหมดเกี่ยวกับบัญชีจะถูกลบออกอย่างถาวร"
 
 msgctxt "subscription_cancel_account_wanning"
 msgid "WARNING: deleting your account will permanently destroy all data in your account, including current setting and operation. If you have any reasons of cancellation, please to comment below."
-msgstr "AVISO: Eliminar a tua conta destruirá permanentemente todas as informações da tua conta, incluindo as instalações e acções correntes."
+msgstr "คำเตือน: การลบบัญชีจะสูญเสียข้อมูลบัญชีของคุณอย่างถาวรรวมทั้งการติดตั้งและการดำเนินงานอย่างต่อเนื่อง"
 
 msgctxt "subscription_cancel_account_reason"
 msgid "If you have any other reasons, feel free to comment below"
-msgstr "Deixa-nos saber porque queres cancelar a conta, por favor."
+msgstr "กรุณาแจ้งให้เราทราบเหตุผลในการยกเลิก"
 
 msgctxt "subscription_cancel_account_delete"
 msgid "Delete account"
-msgstr "Eliminar a conta"
+msgstr "ลบบัญชี"
 
 msgctxt "subscription_invoices"
 msgid "Invoices"
-msgstr "Factura"
+msgstr "ใบกำกับสินค้า"
 
 msgctxt "subscription_invoice_id"
 msgid "Invoice ID"
-msgstr "Código de factura"
+msgstr "รหัสของใบกำกับสินค้า"
 
 msgctxt "subscription_invoice_created"
 msgid "Created"
-msgstr "Criado"
+msgstr "สร้างใบกำกับสินค้าแล้ว"
 
 msgctxt "subscription_invoice_status"
 msgid "Status"
-msgstr "Estado"
+msgstr "สถานะ"
 
 msgctxt "subscription_invoice_amount"
 msgid "Total"
-msgstr "Valor total"
+msgstr "รวมจำนวนเงินชำระเงิน"
 
 msgctxt "subscription_cancel_account_notifycation"
 msgid "If you cancel your account, your Subiz Account will immediately stop working. Your account will not be charged again, but you will not be refunded for already paid subscriptions. Yes,"
-msgstr "Se tu cancelares a tua conta Subiz vai parar de funcionar imediatamente. Tu não precisas de mais continuar o pagamento, mas o valor investido não será devolvido."
+msgstr "ถ้าคุณยกเลิกบัญชีของคุณ บัญชีSubizจะหยุดทำงานทันที คุณจะไม่ต้องดำเนินการการชำระเงินต่อ แต่คุณจะยังไม่ได้รับการชดเชยจำนวนเงินที่จ่าย ยอมรับ"
 
 msgctxt "subscription_accept_cancel"
 msgid "I want to cancel Subiz account"
-msgstr "Eu quero cancelar a conta de Subiz"
+msgstr "ฉันต้องการที่จะยกเลิกบัญชี Subiz"
 
 msgctxt "subscription_business_have_changed"
 msgid "If you do not need a subscription account, you can always "
-msgstr "Se tu não tens demanda para actualizar a conta, tu podes"
+msgstr "หากคุณไม่ต้องการที่จะอัปเกรดบัญชีของคุณ คุณจะได้รับ"
 
 msgctxt "subscription_downgrade_to_free"
 msgid "downgrade to Free package."
-msgstr "Rebaixar para edição gratuita"
+msgstr "ลดระดับรุ่นฟรี"
 
 msgctxt "subscription_reduce_agent"
 msgid "Reduce agents"
-msgstr "Diminuir agente"
+msgstr "ลด agent"
 
 msgctxt "subscription_add_agent"
 msgid "Add agents"
-msgstr "Adicionar agente"
+msgstr "เพิ่ม agent"
 
 msgctxt "subscription_payment_frequency"
 msgid "Payment Frequency"
-msgstr "Frequência de pagamento"
+msgstr "ความถี่ในการชำระเงิน"
 
 msgctxt "subscription_next_transaction"
 msgid "Next Transaction Details"
-msgstr "Informações sobre o pagamento seguinte"
+msgstr "รายละเอียดชำระเงินต่อไป"
 
 msgctxt "subscription_payment_method"
 msgid "Payment Method"
-msgstr "Método de pagamento"
+msgstr "วิธีการชำระเงิน"
 
 msgctxt "subscription_change_credit_card"
 msgid "Change credit card"
-msgstr "Alterar cartão de crédito"
+msgstr "เปลี่ยนบัตรเครดิต"
 
 msgctxt "subscription_next_transaction_title"
 msgid "Next Transaction"
-msgstr "Pagamento seguinte"
+msgstr "ชำระเงินต่อไป"
 
 msgctxt "subscription_invoice_date"
 msgid "Date"
-msgstr "Data"
+msgstr "วันที่"
 
 msgctxt "subscription_history"
 msgid "Subscription History"
-msgstr "Histórico de pagamento"
+msgstr "ประวัติการชำระเงิน"
 
 msgctxt "subscription_upgrade_plan"
 msgid "Upgrade Plan"
-msgstr "Plano de actualização"
+msgstr "แผนอัพเกรด"
 
 msgctxt "subscription_purchase_more_agent"
 msgid "Purchase more agents"
-msgstr "+ Comprar mais agentes"
+msgstr "+ เพิ่มagentมากขึ้น"
 
 msgctxt "subscription_manage_agent"
 msgid "Manage agents"
-msgstr "Gerir agente"
+msgstr "การจัดการ agent"
 
 msgctxt "subscription_pay"
 msgid "Pay"
-msgstr "Pagar"
+msgstr "จ่ายเงิน"
 
 msgctxt "subscription_agent"
 msgid "Agents"
-msgstr "Agentes"
+msgstr "Agents"
 
 msgctxt "subscription_reduce_agents_subscription"
 msgid "Reduce agents subscription"
-msgstr "Diminuir o número de agente"
+msgstr "ลดจำนวนของ agent"
 
 msgctxt "subscription_reduce_agent_subscription"
 msgid "Number of agent subscription you wish to reduce"
-msgstr "Número de agente que você quer diminuir "
+msgstr "จำนวนagentที่ต้องการจะลด"
 
 msgctxt "subscription_number_of_agent_after_reduce"
 msgid "Number of agent subscription after reduction"
-msgstr "Número total de agente que é preciso pagar depois de diminuir "
+msgstr "จำนวนรวมของagentในการจ่ายเงินหลังจากที่ลดลง"
 
 msgctxt "subscription_downgrade"
 msgid "Downgrade now"
-msgstr "Rebaixar agora"
+msgstr "ปรับลดในขณะนี้"
 
 msgctxt "subscription_upgade_successfully"
 msgid "Upgrade successfully."
-msgstr "Actualizaste a conta."
+msgstr "ประสบความสำเร็จในการอัพเกรดบัญชี"
 
 msgctxt "subscription_upgade_error"
 msgid "Upgrade error."
-msgstr "Erro ao actualizar a conta."
+msgstr "อัพเกรดบัญชีล้มเหลว"
 
 msgctxt "subscription_downgade_successfully"
 msgid "Downgrade successfully."
-msgstr "Rebaixaste tua conta."
+msgstr "ประสบความสำเร็จในการปรับลดบัญชี"
 
 msgctxt "subscription_downgade_error"
 msgid "Downgrade error."
-msgstr "Erro ao Rebaixar sua conta."
+msgstr "บัญชีปรับลดล้มเหลว"
 
 msgctxt "subscription_upgade_downgrade_error"
 msgid "Upgrade or Downgrade error."
-msgstr "Erro ao Atualizar ou Rebaixar tua conta."
+msgstr "อัพเกรดหรือปรับลดบัญชีล้มเหลว"
 
 msgctxt "subscription_downgrade_successfully"
 msgid "Downgrade to Free successfully"
-msgstr "Rebaixar gratuitamente com sucesso"
+msgstr "การปรับลดแพคเกจฟรีประสบความสำเร็จ"
 
 msgctxt "subscription_downgrade_reason_require"
 msgid "Downgrade reason is required."
-msgstr "Dá as razões de rebaixamento da tua conta."
+msgstr "กรุณาให้เหตุผลในการปรับลดบัญชี"
 
 msgctxt "subscription_downgrade_email_agent_require"
 msgid "Downgrade email agent is required."
-msgstr "Endereço de e-mail do agente rebaixado é necessário "
+msgstr "โปรดระบุที่อยู่อีเมลของagentต้องการที่จะปรับลดบัญชี"
 
 msgctxt "subscription_cancel_successfully"
 msgid "Cancel account successfully"
-msgstr "Conta foi cancelada."
+msgstr "ยกเลิกบัญชีที่ประสบความสำเร็จ"
 
 msgctxt "subscription_cancel_reason_require"
 msgid "Reason for cancelling is required."
-msgstr "Dá a razão de cancelar a tua conta, por favor."
+msgstr "กรุณาให้เหตุผลในการยกเลิกบัญชี"
 
 msgctxt "subscription_cancel_email_agent_require"
 msgid "Email agent is required."
-msgstr "Dá endereço de email, por favor."
+msgstr "กรุณาให้ที่อยู่อีเมล์ของagent."
 
 msgctxt "subscription_unit_price"
 msgid "Unit price"
-msgstr "Preço unitário"
+msgstr "Unit price"
 
 msgctxt "visitor_offline"
 msgid "The visitor is offline"
-msgstr "Visitante não disponível"
+msgstr "ผู้เข้าชมออฟไลน์"
 
 msgctxt "live-preview"
 msgid "<h3>Live preview</h3><p>See it from a visitor's perspective!</p>"
-msgstr "<h3>Prever</h3><p>Vê isso nas páginas perspectivas do visitante.</p>"
+msgstr "<h3>ดูตัวอย่าง</h3><p>ดูได้จากมุมมองของผู้เข้าชม!</p>"
 
 msgctxt "pre_test_page"
 msgid "Preview test page"
-msgstr "Ver agora"
+msgstr "ดูตอนนี้"
 
 msgctxt "tuttorial"
 msgid "Tutorial"
-msgstr "Tutorial"
+msgstr "คู่มือ"
 
 msgctxt "learn-how-to-install"
 msgid "Learn how to install"
-msgstr "Como instala a janela de chat no website?"
+msgstr "วิธีการติดตั้งหน้าต่างสนทนาเว็บไซต์?"
 
 msgctxt "livechat-on"
 msgid "Start chatting with your website's visitors."
-msgstr "As maneiras de chat com Visitantes."
+msgstr "วิธีที่จะสนทนากับผู้เข้าชม"
 
 msgctxt "and-any-more"
 msgid "And any more..."
-msgstr "Ver mais ..."
+msgstr "ดูเพิ่มเติม.."
 
 msgctxt "subiz-widget-code"
 msgid "<h3>Subiz widget code</h3><p>Copy the following script and insert it into your website’s HTML source code  between the &lt;body&gt;&lt;/body&gt; tags. This code must be inserted into every page on which you wish to display the Subiz chat widget</p>"
-msgstr "<h3>Código embutido de janela de chat Subiz</h3"
+msgstr "<h3>รหัสวิดเจ็ต Subiz</h3"
 
 msgctxt "check-your-website"
 msgid "<h3>Check your website</h3><p>Check whether the Subiz Live Chat widget is correctly installed on your website.</p>"
-msgstr "<h3>Verifica o teu website</h3"
+msgstr "<h3>ตรวจสอบเว็บไซต์ของคุณ</h3"
 
 msgctxt "check"
 msgid "Check"
-msgstr "Verifica"
+msgstr "ตรวจสอบ"
 
 msgctxt "msg_url_invalid"
 msgid "Your URL is invalid. Please try again!"
-msgstr "Teu URL é inválido. Tenta novamente!"
+msgstr "URLไม่ถูกต้อง กรุณาลองอีกครั้ง!"
 
 msgctxt "msg_widget_invalid"
 msgid "Widget not found or incorrectly embedded!"
-msgstr "Não achou o código embutido no website!"
+msgstr "ไม่สามารถหารหัสของเว็บไซต์!"
 
 msgctxt "msg_widget_valid"
 msgid "Congratulation! Widget has been correctly embedded!"
-msgstr "Parabéns! Código embutido foi inserido no website!"
+msgstr "ขอแสดงความยินดี widgetที่ใส่เข้าไปในเว็บไซต์ถูกต้อง"
 
 msgctxt "subscription_payment_method_"
 msgid "None"
-msgstr "Nenhum"
+msgstr "None"
 
 msgctxt "subscription_payment_method_fastspring"
 msgid "FastSpring"
@@ -1563,7 +1563,7 @@ msgstr "FastSpring"
 
 msgctxt "subscription_payment_method_creditcard"
 msgid "Credit Card"
-msgstr "Cartão de crédito"
+msgstr "บัตรเครดิต"
 
 msgctxt "subscription_payment_method_cash"
 msgid "Bank transfer"
@@ -1571,187 +1571,187 @@ msgstr "Cash"
 
 msgctxt "subscription_invoice_unpaid"
 msgid "Unpaid"
-msgstr "Não pago"
+msgstr "ยังไม่ได้ชำระ"
 
 msgctxt "subscription_invoice_paid"
 msgid "Paid"
-msgstr "Pago"
+msgstr "ที่เรียกชำระแล้ว"
 
 msgctxt "subscription_export_invoice_successfully"
 msgid "Export detailed invoice successfully."
-msgstr "Exportaste a factura detalhada"
+msgstr "รายละเอียดการส่งออกใบแจ้งหนี้ประสบความสำเร็จ"
 
 msgctxt "subscription_export_invoice_error"
 msgid "Export detailed invoice error!"
-msgstr "Erro ao exportar factura detalhada!."
+msgstr "ส่งออกใบแจ้งหนี้รายละเอียดผิดพลาด"
 
 msgctxt "register_sologan"
 msgid "Live chat solution for website."
-msgstr "Solução de chat ao vivo para website."
+msgstr "วิธีการแก้ปัญหาการสนทนาออนไลน์สำหรับเว็บไซต์"
 
 msgctxt "register_forfree"
 msgid "Start using Subiz for free!"
-msgstr "Começa a usar Subiz gratuitamente!"
+msgstr "เริ่มใช้ Subiz ฟรี!"
 
 msgctxt "register_require"
 msgid "5 minutes setup, test all powerful features in 30 days for free, no credit card required"
-msgstr "5 minutos para instalar, podes testar por 30 dias, nenhum cartão de crédito é necessário "
+msgstr "ติดตั้งเพียง5นาที ทดลองใช้เป็นเวลา30วัน ไม่ต้องใช้บัตรเครดิต"
 
 msgctxt "already_have_account"
 msgid "Already have an account? %s Login %s"
-msgstr "Tu já tens conta? %s Login %s"
+msgstr "มีบัญชีอยู่แล้ว? %s เข้าสู่ระบบ %s"
 
 msgctxt "register_holder_fname"
 msgid "Full name"
-msgstr "Nome completo"
+msgstr "ชื่อเต็ม"
 
 msgctxt "register_holder_email"
 msgid "Email address"
-msgstr "Endereço de email"
+msgstr "ที่อยู่อีเมล์"
 
 msgctxt "register_holder_uname"
 msgid "User name"
-msgstr "Nome de usuário"
+msgstr "ชื่อผู้ใช้"
 
 msgctxt "register_holder_pass"
 msgid "Password"
-msgstr "Palavra-passe"
+msgstr "รหัสผ่าน"
 
 msgctxt "register_submit"
 msgid "Create my account"
-msgstr "Criar minha conta "
+msgstr "สร้างบัญชี"
 
 msgctxt "register_term1"
 msgid "By signing up I agree to the "
-msgstr "Ao inscrever-se, eu concordo com "
+msgstr "โดยการลงทะเบียนฉันยอมรับ"
 
 msgctxt "register_term2"
 msgid "Terms of Service"
-msgstr "Termos do serviço"
+msgstr "เงื่อนไขการให้บริการ"
 
 msgctxt "register_policy"
 msgid "Privacy Policy"
-msgstr "Política de Privacidade"
+msgstr "นโยบายความเป็นส่วนตัว"
 
 msgctxt "register_copy_right"
 msgid "@2015 Subiz. All right reserved."
-msgstr "@2015 Subiz. Todos os direitos reservados."
+msgstr "@2015 Subiz. สงวนลิขสิทธิ์"
 
 msgctxt "register_success"
 msgid "<span class="text-success">You have successfully registered, </span>please check your email to activate your account!"
-msgstr "<span class="text-success">A tua conta foi registrada,</span> verifica o teu email para ativar a tua conta!"
+msgstr "<span class="text-success">คุณมีบัญชีลงทะเบียนเรียบร้อยแล้ว,</span> กรุณาตรวจสอบอีเมลของคุณเพื่อเปิดใช้งาน"
 
 msgctxt "register_mail_error"
 msgid "System error, please try again!"
-msgstr "Erro de sistema, tenta novamente, por favor!"
+msgstr "ระบบผิดพลาด โปรดลองอีกครั้ง!"
 
 msgctxt "register_error_username"
 msgid "User name has already been registered, please choose another user name!"
-msgstr "Alguém já escolheu esse nome de usuário, tenta outro!"
+msgstr "ชื่อผู้ใช้มีอยู่แล้ว โปรดเลือกชื่ออื่น!"
 
 msgctxt "register_error_email"
 msgid "Email has already been registered, please choose another email address!"
-msgstr "Alguém já escolheu esse email, tenta outro!"
+msgstr "อีเมล์นี้ถูกลงทะเบียนแล้ว โปรดเลือกที่อยู่อีเมลที่แตกต่างกัน"
 
 msgctxt "register_exist_user"
 msgid "User name already exists or is invalid! "
-msgstr "Nome de usuário existe ou é inválido! "
+msgstr "ชื่อผู้ใช้ที่มีอยู่แล้วหรือไม่ถูกต้อง"
 
 msgctxt "register_exist_email"
 msgid "Email already exists or is invalid! "
-msgstr "Endereço de email existe ou é inválido! "
+msgstr "ที่อยู่อีเมล์ที่มีอยู่แล้วหรือไม่ถูกต้อง"
 
 msgctxt "register_char_user"
 msgid "User name not have special characters and not contain uppercase!"
-msgstr "Caracteres especiais e maiúsculas não são permitidos em nome de usuário!"
+msgstr "ชื่อที่ใช้ไม่ได้มีตัวอักษรพิเศษและไม่รองรับตัวพิมพ์ใหญ่!"
 
 msgctxt "register_error_system"
 msgid "An error occurred unexplained!"
-msgstr "Erro!"
+msgstr "ข้อผิดพลาด"
 
 msgctxt "register_error_apikey"
 msgid "An error occurred unexplained, please try again later!"
-msgstr "Ocorreu um erro, tenta novamente, por favor!"
+msgstr "ข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง"
 
 msgctxt "activation_success"
 msgid "<span class="text-success">Your account has been activated successfully !</span>"
-msgstr "Tua conta foi ativada!"
+msgstr "บัญชีของคุณถูกเปิดใช้งานเรียบร้อยแล้ว"
 
 msgctxt "activation_invalid"
 msgid "Activation code is incorrect! "
-msgstr "Código de activação está incorreto! "
+msgstr "รหัสเปิดใช้งานผิดพลาด"
 
 msgctxt "activation_error"
 msgid "System error, please try again!"
-msgstr "Erro do sistema, tenta novamente, por favor!"
+msgstr "ระบบผิดพลาด โปรดลองใหม่ภายหลัง"
 
 msgctxt "timezone"
 msgid "TimeZone"
-msgstr "Zonas horárias"
+msgstr "เขตเวลา"
 
 msgctxt "select_timezone"
 msgid "Select timezone"
-msgstr "Selecionar zona horária"
+msgstr "เลือกเขตเวลา"
 
 msgctxt "register_user_space"
 msgid "User name must not contain space"
-msgstr "Nome de usuário não pode conter espaço"
+msgstr "ชื่อผู้ใช้ต้องไม่มีช่องว่าง"
 
 msgctxt "register_error_ip"
 msgid "Your IP address is not allowed!"
-msgstr "Teu endereço IP não é permitido!"
+msgstr "ที่อยู่ IP ไม่ได้รับอนุญาต"
 
 msgctxt "register_server_error"
 msgid "Connect server failed!"
-msgstr "Não podes conectar ao servidor!"
+msgstr "ไม่สามารถเชื่อมต่อกับระบบได้"
 
 msgctxt "register_error_api_key"
 msgid "Invalid Api key!"
-msgstr "Chave Api inválida!"
+msgstr "Api keyไม่ถูกต้อง"
 
 msgctxt "register_error_ip_400"
 msgid "Invalid Ip address!"
-msgstr "Endereço IP inválido!"
+msgstr "ที่อยู่ IP ไม่ถูกต้อง!"
 
 msgctxt "report_date_1"
 msgid "Today"
-msgstr "Hoje"
+msgstr "วันนี้"
 
 msgctxt "report_date_7"
 msgid "Last 7 days"
-msgstr "7 dias atrás"
+msgstr "7 วันที่ผ่านมา"
 
 msgctxt "report_date_30"
 msgid "Last 30 days"
-msgstr "30 dias atrás"
+msgstr "30 วันที่ผ่านมา"
 
 msgctxt "report_custom"
 msgid "Custom"
-msgstr "Personalizar"
+msgstr "ปรับแต่ง"
 
 msgctxt "report_select"
 msgid "Select Agent/Department"
-msgstr "Selecionar Agente/Departamento"
+msgstr "เลือกagentหรือแผนก"
 
 msgctxt "report_normal_chat"
 msgid "Normal Chats"
-msgstr "Chats normais"
+msgstr "การสนทนาปกติ"
 
 msgctxt "report_missed_chat"
 msgid "Missed Chats"
-msgstr "Chats perdidos"
+msgstr "การสนทนาที่ไม่ได้รับ"
 
 msgctxt "report_chats"
 msgid "Chats"
-msgstr "Chat"
+msgstr "การสนทนา"
 
 msgctxt "report_ratting"
 msgid "Rating"
-msgstr "Avaliação"
+msgstr "ประเมินค่า"
 
 msgctxt "report_avai"
 msgid "Availability"
-msgstr "Disponibilidade "
+msgstr "Availability"
 
 msgctxt "report_trigger"
 msgid "Triggers"
@@ -1759,39 +1759,39 @@ msgstr "Triggers"
 
 msgctxt "report_affiliate"
 msgid "Referral"
-msgstr "Filhado"
+msgstr "Referral"
 
 msgctxt "report_rate_good"
 msgid "Rate good"
-msgstr "Boa avaliação"
+msgstr "ระดับความพึงพอใจ"
 
 msgctxt "report_not_rate"
 msgid "Not rate"
-msgstr "Não tem avaliação"
+msgstr "ไม่มีระดับ"
 
 msgctxt "report_rate_bad"
 msgid "Rate bad"
-msgstr "Má avaliação"
+msgstr "ระดับความพึงไม่พอใจ"
 
 msgctxt "report_filter"
 msgid "Filter:"
-msgstr "Filtrar:"
+msgstr "กรองข้อมูล:"
 
 msgctxt "report_number_success"
 msgid "Number of successful triggers"
-msgstr "Número de trigger funcionando com sucesso"
+msgstr "จำนวนtriggerที่ประสบความสำเร็จ"
 
 msgctxt "report_payment"
 msgid "Payment"
-msgstr "Pagamento"
+msgstr "ชำระเงิน"
 
 msgctxt "report_avai_time"
 msgid "Availability: "
-msgstr "Tempo de disponibilidade: "
+msgstr "เวลาความพร้อมสนทนา:"
 
 msgctxt "availability"
 msgid "Availability"
-msgstr "Disponibilidade"
+msgstr "ความพร้อมสนทนา:"
 
 msgctxt "report_chat"
 msgid "Chats"
@@ -1799,47 +1799,47 @@ msgstr "Chats"
 
 msgctxt "report_affiliate_register"
 msgid "Register Referral program"
-msgstr "Programa Referral"
+msgstr "โปรแกรมreferral"
 
 msgctxt "report_affiliate_sigup"
 msgid "Referral program Sign up"
-msgstr "Inscreve-te o programa Referral"
+msgstr "ลงทะเบียนโปรแกรมReferral"
 
 msgctxt "ref_program"
 msgid "Referral program"
-msgstr "Programa Referral"
+msgstr "โปรแกรมreferral"
 
 msgctxt "how_does_work"
 msgid "How does the referral program work?"
-msgstr "Como funciona este programa?"
+msgstr "referralโปรแกรมทำงานอย่างไร"
 
 msgctxt "aff_help"
 msgid "<p> Share the link with as many friends as you want! It contains a special tracking code.</p><p>Your friends will click on the link and sign up for a Subiz account. Every month, get rewarded with 15% of their payment when they upgrade to a paid plan.</p>"
-msgstr "<p>Partilha um link de apresentação Subiz aos teus amigos! Ele contém um código de rastreamento.</p><p>Quando teus amigos clicarem em um link e se inscreverem em uma conta Subiz. Todos os meses, tu receberás 15% de comissão de pagamento deles quando eles usarem um pacote de pagamento.</p><p>Subiz pagará a comissão através da conta Paypal. Se tu vives no Vietname, nós podemos transferir para a tua conta.</p>"
+msgstr "<p>แบ่งปันการเชื่อมโยงกับเพื่อนมากเท่าที่คุณต้องการ ซึ่งมีรหัสติดตามพิเศษ</p><p>เพื่อนของคุณจะคลิกที่ลิงค์และลงทะเบียนสำหรับบัญชี Subiz ทุกเดือนจะได้รับรางวัล 15% ของการชำระเงินของพวกเขาเมื่อพวกเขาอัพเกรดเป็นแผนจ่าย</p><p>Subiz จะจ่ายค่าคอมมิชชั่นผ่านบัญชี Paypal ถ้าคุณอยู่ในเวียดนามเราสามารถโอนให้คุณ</p>"
 
 msgctxt "report_affiliate_payment"
 msgid "Referral Payment"
-msgstr "Referral Pagamento"
+msgstr "Referral Payment"
 
 msgctxt "report_total"
 msgid "Total register"
-msgstr "Registo total"
+msgstr "ลงทะเบียนจำนวนรวม"
 
 msgctxt "report_free"
 msgid "Free register"
-msgstr "Registo gratuito"
+msgstr "ลงทะเบียนแพ็กเกจฟรี"
 
 msgctxt "report_paid"
 msgid "Paid register"
-msgstr "Registo pago"
+msgstr "ลงทะเบียนโดยใช้แพคเกจพรีเมี่ยม"
 
 msgctxt "report_program"
 msgid "Register Referral Program"
-msgstr "Inscreve-te o programa Referral"
+msgstr "ลงทะเบียนโปรแกรมReferral"
 
 msgctxt "report_rewards"
 msgid "Earn rewards when your friends sign up for a paid Subiz plan! Subiz gives you 15% off of month's payment.<p>Learn more about Referral program. %s detail %s</p>"
-msgstr "Apresenta Subiz para ganhar dinheiro. Tu receberás 15% de comissão do pagamento dos clientes que tu apresentas quando eles usam um pacote de pagamento.<p>Estuda mais informações do programa Referral. %s Ver mais %s </p>"
+msgstr "บอกเพื่อนให้รู้เกี่ยวกับ Subiz คุณจะได้รับค่านายหน้า 15% การเรียกเก็บเงินจากลูกค้าของคุณดูเมื่อพวกเขาใช้แพคเกจพรีเมี่ยม<p>เรียนรู้เพิ่มเติมเกี่ยวกับโปรแกรมReferral. %s ดูเพิ่มเติม %s </p>"
 
 msgctxt "report_usd"
 msgid "USD"
@@ -1847,47 +1847,47 @@ msgstr "USD"
 
 msgctxt "report_register"
 msgid "Register"
-msgstr "Registo"
+msgstr "ลงทะเบียน"
 
 msgctxt "report_cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "ยกเลิก"
 
 msgctxt "report_earn"
 msgid "Referral income"
-msgstr "Estatística de rendimento"
+msgstr "สถิติรายได้"
 
 msgctxt "report_this_month"
 msgid "Earned in this month:"
-msgstr "Ganhaste neste mês:"
+msgstr "ผลประกอบการในเดือน"
 
 msgctxt "report_last_month"
 msgid "Earned in last month:"
-msgstr "Ganhaste no mês passado:"
+msgstr "รายได้เดือนที่ผ่านมา:"
 
 msgctxt "report_pending"
 msgid "Pending payment:"
-msgstr "Pagamento pendente:"
+msgstr "การชำระเงินรอ:"
 
 msgctxt "report_your_link"
 msgid "Referral link"
-msgstr "link de filhado"
+msgstr "Referral link"
 
 msgctxt "report_link"
 msgid "Referral link:"
-msgstr "link de filhado:"
+msgstr "Referral link:"
 
 msgctxt "report_id"
 msgid "Referral ID:"
-msgstr "ID de filhado:"
+msgstr "Referral ID:"
 
 msgctxt "report_commision"
 msgid "Commission:"
-msgstr "Comissão:"
+msgstr "ค่านายหน้า"
 
 msgctxt "report_payment_setting"
 msgid "Payment setting:"
-msgstr "Definições do pagamento"
+msgstr "การตั้งค่า"
 
 msgctxt "report_email_paypal"
 msgid "Email Paypal:"
@@ -1895,327 +1895,327 @@ msgstr "Email Paypal:"
 
 msgctxt "we_pay_money"
 msgid "Let us pay for you."
-msgstr "Deixa-nos te pagar."
+msgstr "ให้เราชำระเงินให้คุณ"
 
 msgctxt "report_currency"
 msgid "Currency:"
-msgstr "Moeda corrente:"
+msgstr "เงินตรา"
 
 msgctxt "report_amount"
 msgid "Amount to pay:"
-msgstr "Valor de pagamento:"
+msgstr "ระดับของการชำระเงิน:"
 
 msgctxt "affiliate_num_20"
 msgid "Payment amount must not be less than 20$"
-msgstr "Valor a pagar não deve ser inferior a 20$"
+msgstr "ระดับของการชำระเงินจาก $ 20 ขึ้นไป"
 
 msgctxt "minimum_20"
 msgid "20$ minimum"
-msgstr "Mínimo 20$"
+msgstr "ขั้นต่ำ 20 $"
 
 msgctxt "report_save_change"
 msgid "Save change"
-msgstr "Guardar"
+msgstr "บันทึกการเปลี่ยนแปลง"
 
 msgctxt "report_error_500"
 msgid "Connect server failed!"
-msgstr "Não podes conectar ao servidor!"
+msgstr "ไม่สามารถเชื่อมต่อกับระบบได้"
 
 msgctxt "report_error_undefine"
 msgid "Failed, unspecified error!"
-msgstr "Falhou, erro não especificado!"
+msgstr "ล้มเหลว ข้อผิดพลาดที่ไม่รู้จัก!"
 
 msgctxt "report_error_value"
 msgid "Data not connected, please try again!"
-msgstr "Não podes conectar aos dados, tenta novamente, por favor!"
+msgstr "ไม่ได้เชื่อมต่อกับฐานข้อมูล โปรดลองอีกครั้ง!"
 
 msgctxt "report_error_daterange"
 msgid "Report period could not exceed 60 days!"
-msgstr "Prazo de pagamento não é superior a 60 dias!"
+msgstr "ระยะเวลาการเรียกเก็บเงินไม่เกิน 60 วัน"
 
 msgctxt "report_error_customdate"
 msgid "Please enter starting date and ending date in custom form!"
-msgstr "Digitar data de início e data de término!"
+msgstr "กรุณากรอกวันที่เริ่มต้นและสิ้นสุดในรูปแบบ"
 
 msgctxt "report_data_error"
 msgid "Data error!"
-msgstr "Erro de dados!"
+msgstr "ข้อมูลผิดพลาด"
 
 msgctxt "vistor_active_visitors"
 msgid "Active visitors"
-msgstr "Visitantes ativos"
+msgstr "Active Visitors"
 
 msgctxt "vistor_idle_visitors"
 msgid "Idle visitors"
-msgstr "Visitantes inativos"
+msgstr "Idle Visitors"
 
 msgctxt "vistor_request_chats"
 msgid "Request chats"
-msgstr "Pedido de Chat"
+msgstr "คำขอChat"
 
 msgctxt "history_export"
 msgid "Export"
-msgstr "Exportar"
+msgstr "ส่งออก"
 
 msgctxt "export_history"
 msgid "Export History"
-msgstr "Exportar história"
+msgstr "ประวัติการส่งออก"
 
 msgctxt "history_from"
 msgid "From"
-msgstr "De"
+msgstr "จาก"
 
 msgctxt "history_to"
 msgid "To"
-msgstr "A"
+msgstr "ถึง"
 
 msgctxt "history_file_type"
 msgid "File type"
-msgstr "Tipo do ficheiro"
+msgstr "รูปแบบไฟล์"
 
 msgctxt "history_submit"
 msgid "Export"
-msgstr "Exportar"
+msgstr "ส่งออก"
 
 msgctxt "history_cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "ยกเลิก"
 
 msgctxt "history_filter"
 msgid "Filter chats by:"
-msgstr "Filtrar chat por:"
+msgstr "การกรองการสนทนาโดย:"
 
 msgctxt "history_date"
 msgid "Date"
-msgstr "Data"
+msgstr "วันที่"
 
 msgctxt "history_today"
 msgid "Today"
-msgstr "Hoje"
+msgstr "วันนี้"
 
 msgctxt "history_yesterday"
 msgid "Yesterday"
-msgstr "Ontem"
+msgstr "เมื่อวาน"
 
 msgctxt "history_last_7days"
 msgid "Last 7 days"
-msgstr "7 dias atrás"
+msgstr "7 วันที่ผ่านมา"
 
 msgctxt "history_last_30days"
 msgid "Last 30 days"
-msgstr "30 dias atrás"
+msgstr "30 วันที่ผ่านมา"
 
 msgctxt "history_custom"
 msgid "Custom"
-msgstr "Personalizar"
+msgstr "ปรับแต่ง"
 
 msgctxt "history_agent"
 msgid "Agent"
-msgstr "Agente"
+msgstr "Agent"
 
 msgctxt "history_department"
 msgid "Department"
-msgstr "Departamento"
+msgstr "แผนก"
 
 msgctxt "history_rating"
 msgid "Rating"
-msgstr "Avaliação"
+msgstr "ระดับ"
 
 msgctxt "history_rated_chat"
 msgid "Rated Chats"
-msgstr "Avaliado"
+msgstr "การสนทนาที่ได้รับระดับ"
 
 msgctxt "history_not_rated"
 msgid "Not Rated"
-msgstr "Não tem avaliação"
+msgstr "ไม่ได้ระดับ"
 
 msgctxt "history_rated_bad"
 msgid "Rated Bad"
-msgstr "Má avaliação"
+msgstr "ระดับที่ไม่ดี"
 
 msgctxt "history_rated_good"
 msgid "Rated Good"
-msgstr "Boa avaliação"
+msgstr "ที่ดี"
 
 msgctxt "history_type"
 msgid "Type"
-msgstr "Tipo"
+msgstr "ชนิด"
 
 msgctxt "history_new_visitor"
 msgid "New Visitors"
-msgstr "Visitante novo"
+msgstr "Visitor ใหม่"
 
 msgctxt "history_return_visitor"
 msgid "Returning Visitors"
-msgstr "Visitante de regresso"
+msgstr "Visitor กลับมา"
 
 msgctxt "history_search"
 msgid "Search visitors"
-msgstr "Pesquisar visitante "
+msgstr "ค้นหาvisitor"
 
 msgctxt "history_message"
 msgid "Message content"
-msgstr "Conteúdo da mensagem"
+msgstr "เนื้อหาข้อความ"
 
 msgctxt "history_name"
 msgid "Visitor name"
-msgstr "Nome do visitante"
+msgstr "ชื่อของvisitor"
 
 msgctxt "history_email"
 msgid "Visitor email"
-msgstr "Email do visitante"
+msgstr "อีเมล์visitor"
 
 msgctxt "history_phone"
 msgid "Visitor phone"
-msgstr "Número do telefone do visitante"
+msgstr "หมายเลขโทรศัพท์ของvisitor"
 
 msgctxt "history_find_now"
 msgid "Find now "
-msgstr "Procurar agora"
+msgstr "หาในขณะนี้"
 
 msgctxt "history_close"
 msgid "Close"
-msgstr "Fechar"
+msgstr "ปิดให้บริการ"
 
 msgctxt "history_transcript"
 msgid "TRANSCRIPT"
-msgstr "Conteúdo"
+msgstr "TRANSCRIPT"
 
 msgctxt "history_visitor_info"
 msgid "VISITOR INFO"
-msgstr "Informação"
+msgstr "ข้อมูล"
 
 msgctxt "history_visitor_notes"
 msgid "VISITOR NOTES"
-msgstr "Nota"
+msgstr "หมายเหตุ"
 
 msgctxt "history_time_on_site"
 msgid "Time on site"
-msgstr "Tempo no website"
+msgstr "เวลาในการใช้เว็บไซต์"
 
 msgctxt "history_location"
 msgid "Location"
-msgstr "Local"
+msgstr "สถานที่"
 
 msgctxt "history_label"
 msgid "Label:"
-msgstr "Etiqueta:"
+msgstr "ป้ายชื่อ:"
 
 msgctxt "history_more"
 msgid "more"
-msgstr "mais"
+msgstr "มากขึ้น"
 
 msgctxt "history_less"
 msgid "less"
-msgstr "menos"
+msgstr "น้อยลง"
 
 msgctxt "history_already"
 msgid "Already looked:"
-msgstr "Já visto:"
+msgstr "ดูléoเมื่อเร็วๆนี้:"
 
 msgctxt "history_add_note"
 msgid "Add visitor notes"
-msgstr "Adicionar nota do visitante "
+msgstr "เพิ่มหมายเหตุvisitor"
 
 msgctxt "history_ip"
 msgid "IP address:"
-msgstr "Endereço IP:"
+msgstr "ที่อยู่IP:"
 
 msgctxt "history_browse"
 msgid "Browser: "
-msgstr "Navegador: "
+msgstr "เบราว์เซอร์:"
 
 msgctxt "history_error_date"
 msgid "Please check date again, the time period is not over 30 days!"
-msgstr "Verifica a data novamente, período de tempo não pode ser superior a 30 dias! "
+msgstr "กรุณาตรวจสอบวันที่ช่วงเวลาที่ได้รับอนุญาตให้ไม่เกิน 30วัน"
 
 msgctxt "history_export_success"
 msgid "Successful, the report will be sent to the email"
-msgstr "Exportaste arquivo, histórico de chat será enviado para o email"
+msgstr "ประสบความสำเร็จ ประวัติการสนทนาจะถูกส่งไปยังอีเมล์"
 
 msgctxt "history_export_error"
 msgid "Write file CSV error!"
-msgstr "Erro ao criar ficheiro CSV!"
+msgstr "สร้างไฟล์ CSV ล้มเหลว!"
 
 msgctxt "history_server_error"
 msgid "Data error, please try later!"
-msgstr "Dados errados, tenta depois!"
+msgstr "ไม่มีการเชื่อมต่อข้อมูลโปรดลองอีกครั้งในภายหลัง"
 
 msgctxt "history_waiting_time"
 msgid "Waiting time"
-msgstr "Tempo de espera"
+msgstr "รอเวลา"
 
 msgctxt "history_email_empty"
 msgid "Email must not leave empty"
-msgstr "Email é necessário"
+msgstr "จะต้องมีอีเมล์"
 
 msgctxt "history_error_01"
 msgid "Day export must not leave empty, please fill in from date and to date!"
-msgstr "Data de exportar o arquivo é necessária, digita o tempo, por favor!"
+msgstr "วันที่ส่งออกต้องมีข้อมูล กรุณากรอกวันที่"
 
 msgctxt "history_error_02"
 msgid "Not found any information of history!"
-msgstr "Não achou informações exigidas!"
+msgstr "ไม่สามารถหาประวัติข้อมูล"
 
 msgctxt "history_visitor_name"
 msgid "Visitor name"
-msgstr "Nome do visitante"
+msgstr "ชื่อของvisitor"
 
 msgctxt "history_visitor_email"
 msgid "Visitor email"
-msgstr "Email do visitante"
+msgstr "Email visitor"
 
 msgctxt "history_visitor_phone"
 msgid "Visitor phone"
-msgstr "Número do telefone do visitante"
+msgstr "หมายเลขโทรศัพท์ของvisitor"
 
 msgctxt "history_visitor_ip"
 msgid "Visitor Ip"
-msgstr "Endereço IP do visitante"
+msgstr "ที่อยู่IPของvisitor"
 
 msgctxt "history_country"
 msgid "Country"
-msgstr "País"
+msgstr "ประเทศชาติ"
 
 msgctxt "history_city"
 msgid "City"
-msgstr "Cidade"
+msgstr "เมือง"
 
 msgctxt "history_start_by"
 msgid "Start by"
-msgstr "Começar por "
+msgstr "เริ่มกับ"
 
 msgctxt "history_created"
 msgid "Created"
-msgstr "Criar"
+msgstr "สร้างขึ้น"
 
 msgctxt "history_end"
 msgid "End"
-msgstr "Terminar"
+msgstr "เสร็จ"
 
 msgctxt "history_chat_url"
 msgid "Chat Url"
-msgstr "Url de Chat"
+msgstr "URL chat"
 
 msgctxt "history_referer"
 msgid "Referral URL"
-msgstr "Url de chat"
+msgstr "แนะนำแหล่งที่มาสนทนา"
 
 msgctxt "history_agent_export"
 msgid "Agent"
-msgstr "Agente"
+msgstr "Agent"
 
 msgctxt "history_dep_export"
 msgid "Department"
-msgstr "Departamento"
+msgstr "แผนก"
 
 msgctxt "history_initial"
 msgid "Initial Question"
-msgstr "Pergunta inicial"
+msgstr "คำถามที่เริ่มต้น"
 
 msgctxt "history_time_second"
 msgid "second"
-msgstr "segundo"
+msgstr "วินาที"
 
 msgctxt "history_chat"
 msgid "Chats"
@@ -2223,379 +2223,381 @@ msgstr "Chat"
 
 msgctxt "history_offline_message"
 msgid "Offline message"
-msgstr "Mensagem"
+msgstr "ข้อความแบบออฟไลน์"
 
 msgctxt "history_list_email"
 msgid "Email Address, separated with a comma"
-msgstr "Endereços de email são separados por uma vírgula"
+msgstr "รายชื่ออีเมลที่คั่นด้วยเครื่องหมายจุลภาค"
 
 msgctxt "history_note_send_email"
 msgid "The report will be sent to the specified email"
-msgstr "Histórico de chat será enviado para os email acima"
+msgstr "ประวัติการแชทจะถูกส่งไปยังอีเมล
+ดังกล่าวข้างต้น"
 
 msgctxt "history_of"
 msgid "of"
-msgstr "de"
+msgstr "ของ"
 
 msgctxt "report_agent"
 msgid "AGENTS"
-msgstr "AGENTES"
+msgstr "AGENTS"
 
 msgctxt "report_department"
 msgid "DEPARTMENTS"
-msgstr "Departamentos"
+msgstr "แผนก"
 
 msgctxt "history_return"
 msgid "Returning "
-msgstr "Voltar"
+msgstr "กลับมา"
 
 msgctxt "visitors"
 msgid "Visitors"
-msgstr "Visitantes"
+msgstr "Visitor"
 
 msgctxt "all_type"
 msgid "All type"
-msgstr "Todos os tipos"
+msgstr "ทุกชนิด"
 
 msgctxt "return"
 msgid "Return"
-msgstr "Voltar"
+msgstr "กลับมา"
 
 msgctxt "new"
 msgid "New"
-msgstr "Novo"
+msgstr "ใหม่"
 
 msgctxt "online_more"
 msgid "Online more"
-msgstr "Disponível mais"
+msgstr "ออนไลน์เพิ่ม"
 
 msgctxt "all_minutes"
 msgid "All Minutes"
-msgstr "Minutos totais"
+msgstr "นาทีทั้งหมด"
 
 msgctxt "1_minutes"
 msgid "1 minute"
-msgstr "1 minuto"
+msgstr "1 นาที"
 
 msgctxt "2_minutes"
 msgid "2 minutes"
-msgstr "2 minutos"
+msgstr "2 นาที"
 
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 minutos"
+msgstr "5 นาที"
 
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 minutos"
+msgstr "10นาที"
 
 msgctxt "online"
 msgid "Online"
-msgstr "Disponível"
+msgstr "Online"
 
 msgctxt "looking"
 msgid "Looking"
-msgstr "Vendo"
+msgstr "กำลังมองหา"
 
 msgctxt "agent"
 msgid "Agent"
-msgstr "Agente"
+msgstr "Agent"
 
 msgctxt "select_action"
 msgid "Select action"
-msgstr "Selecionar ação"
+msgstr "เลือกการกระทำ"
 
 msgctxt "ban_visitor"
 msgid "Ban Visitor"
-msgstr "Bloquear visitante"
+msgstr "บล็อกvisitor"
 
 msgctxt "double_click_edit"
 msgid "Double-click here to edit"
-msgstr "Dá um duplo clique aqui para editar"
+msgstr "คลิ๊กที่นี่เป็นครั้งที่สองที่จะปรับเปลี่ยน"
 
 msgctxt "information"
 msgid "Information"
-msgstr "Informação"
+msgstr "ข้อมูล"
 
 msgctxt "note"
 msgid "Note"
-msgstr "Nota"
+msgstr "หมายเหตุ"
 
 msgctxt "to_minimize_this_chat"
 msgid "To minimize this chat, click the minimize button or out the chat window."
-msgstr "Para minimizar este chat, clica em botão de minimizar ou saia da janela do chat "
+msgstr "เพื่อลดการสนทนานี้ให้คลิกที่ปุ่มลดหรือออกไปนอกหน้าต่างการสนทนา"
 
 msgctxt "tranfer_chat_to_agents"
 msgid "Transfer chat to Agents"
-msgstr "Transferir chat para outro Agente"
+msgstr "การสนทนาโอนไปยังagentอื่น ๆ"
 
 msgctxt "agents_avaiable"
 msgid "Agents available"
-msgstr "Agente disponível"
+msgstr "Agentพร้อม"
 
 msgctxt "all_agents"
 msgid "All agents"
-msgstr "Todos os agentes"
+msgstr "agentทั้งหมด"
 
 msgctxt "messenger"
 msgid "Messages"
-msgstr "Mensagens"
+msgstr "ข้อความ"
 
 msgctxt "messenger_send_to_agents"
 msgid "Messages sent to agents"
-msgstr "Mensagens enviadas para os agentes "
+msgstr "ข้อความที่ส่งไปagent"
 
 msgctxt "transfer"
 msgid "Transfer"
-msgstr "Transferir"
+msgstr "โอน"
 
 msgctxt "ban_visitors"
 msgid "Ban Visitors"
-msgstr "Banir visitante"
+msgstr "บล็อกvisitor"
 
 msgctxt "reason"
 msgid "Reason"
-msgstr "Razão"
+msgstr "เหตุผล"
 
 msgctxt "also_ban_visitor_IP_adress"
 msgid "Also ban visitor's IP address"
-msgstr "Também banir o endereço IP do visitante"
+msgstr "นอกจากนี้ยังมีการบล็อกที่อยู่ IP ของvisitor"
 
 msgctxt "enable_sound_notification"
 msgid "Enable sound notification"
-msgstr "Ativar som de notificações"
+msgstr "การเปิดใช้งานการแจ้งเตือนเสียง"
 
 msgctxt "notification_browser_not_support"
 msgid "Desktop notifications are currently not supported for your browser."
-msgstr "Notificação na área do trabalho ainda não foi suportada para teu navegador."
+msgstr "การแจ้งเตือนสก์ท็อปยังไม่ได้รับการสนับสนุนสำหรับเบราว์เซอร์ของคุณ"
 
 msgctxt "notification_recommend"
 msgid "Open the page in Chrome(version 23+), Safari(version6+), Fire fox(with ff-html5notifications plugin installed) and IE9+."
-msgstr "Abrir com Chrome(versão 23+), Safari(Versão 6+), Firefox (com ff-hatml5 notificações e plugin instalado) e Internet Explorer 9+."
+msgstr "เปิดด้วยChrome(version 23+), Safari(version6+), Firefox (กับ ff-html5notifications plugin) และ IE9+."
 
 msgctxt "notification_allowed"
 msgid "Notifications allowed."
-msgstr "Ativaste a notificação."
+msgstr "การแจ้งเตือนถูกเปิดใช้งาน"
 
 msgctxt "notification_not_allowed"
 msgid "Notifications not allowed. (click to enable)"
-msgstr "A notificação não é permitida. (clicar para ativar)"
+msgstr "การแจ้งเตือนไม่อนุญาตให้ใช้ (คลิ๊กเพื่อเปิดใช้งาน)"
 
 msgctxt "notification_denied"
 msgid "Notifications denied. (Change notifications permission in you browser(s) settings)"
-msgstr "Notificação é negada. (Alterar permissão de notificação na tua definições do navegador)"
+msgstr "การแจ้งเตือนถูกปฏิเสธ (เปลี่ยนแจ้งให้ทราบล่วงหน้าได้รับอนุญาตในการตั้งค่าในเบราว์เซอร์ของคุณ)"
 
 msgctxt "login_username"
 msgid "User name or Email"
-msgstr "Nome de usuário ou Email"
+msgstr "ชื่อผู้ใช้หรือ
+อีเมล์"
 
 msgctxt "login_pass"
 msgid "Password"
-msgstr "Palavra-passe"
+msgstr "รหัสผ่าน"
 
 msgctxt "login_availalbe"
 msgid "Available"
-msgstr "Disponível"
+msgstr "Available"
 
 msgctxt "login_away"
 msgid "Away"
-msgstr "Fora"
+msgstr "Away"
 
 msgctxt "login_signin"
 msgid "Sign in"
-msgstr "Entrar"
+msgstr "เข้าสู่ระบบ"
 
 msgctxt "login_alway"
 msgid "Always sign in automatically"
-msgstr "Entrar automaticamente"
+msgstr "เข้าสู่ระบบโดยอัตโนมัติตลอด"
 
 msgctxt "login_forgot_pass"
 msgid "Forgot your password?"
-msgstr "Esqueceste-te da tua palavra-passe?"
+msgstr "ลืมรหัสผ่าน?"
 
 msgctxt "login_email"
 msgid "Email address"
-msgstr "Endereço de email"
+msgstr "ที่อยู่อีเมล์"
 
 msgctxt "login_robot"
 msgid "Prove that you are not a robot"
-msgstr "Prova que tu não és robô"
+msgstr "พิสูจน์ว่าคุณไม่ได้เป็นหุ่นยนต์"
 
 msgctxt "login_type_text"
 msgid "Type the text"
-msgstr "Digitar o texto"
+msgstr "เติมที่เนื้อหา"
 
 msgctxt "login_recover"
 msgid "Recover Password"
-msgstr "Recuperar a palavra-passe"
+msgstr "กู้คืนรหัสผ่าน"
 
 msgctxt "login_copyright"
 msgid "@2015 Subiz. All right reserved."
-msgstr "@2015 Subiz. Todos os direitos reservados."
+msgstr "@2015 Subiz. สงวนลิขสิทธิ์ตามกฎหมาย"
 
 msgctxt "login_enter_pass"
 msgid "Please enter your new password."
-msgstr "Digita tua palavra-passe nova por favor."
+msgstr "กรุณากรอกรหัสผ่านใหม่"
 
 msgctxt "login_new_pass"
 msgid "New password"
-msgstr "Palavra-passe nova"
+msgstr "รหัสผ่านใหม่"
 
 msgctxt "login_re_pass"
 msgid "Retype password"
-msgstr "Confirmar palavra-passe"
+msgstr "พิมพ์รหัสผ่านอีกครั้ง"
 
 msgctxt "login_submit"
 msgid "Submit"
-msgstr "Submeter"
+msgstr "ส่งการ"
 
 msgctxt "login_error_user"
 msgid "User does not exist!"
-msgstr "Usuário não existe ! "
+msgstr "ผู้ใช้ไม่มีอยู่"
 
 msgctxt "login_error_invalid"
 msgid "User or password incorrect!"
-msgstr "Usuário ou palavra-passe incorreto ! "
+msgstr "ผู้ใช้หรือรหัสผ่านไม่ถูกต้อง"
 
 msgctxt "login_error_inactive"
 msgid "This agent has been locked. Please contact your administrator to unlock!"
-msgstr "Este agente é trancado. Contacta a tua administração para destravar."
+msgstr "agentนี้ถูกล็อก กรุณาติดต่อผู้ดูแลระบบของคุณเพื่อปลดล็อค"
 
 msgctxt "login_error_delete"
 msgid "This agent has been suspended!"
-msgstr "Este agente foi eliminado!"
+msgstr "agentนี้ถูกลบ"
 
 msgctxt "login_error"
 msgid "Failed, unspecified error!"
-msgstr "Falhou, erro não especificado!"
+msgstr "ล้มเหลว มีข้อผิดพลาดที่ไม่รู้จัก"
 
 msgctxt "login_error_captcha"
 msgid "The code invalid!"
-msgstr "Código inválido!"
+msgstr "รหัสไม่ถูกต้อง"
 
 msgctxt "login_send_mail"
 msgid "<span class="text-success">Email was sent,</span> please check your email to recover your password!"
-msgstr "<span class="text-success">Email foi enviado,</span> verifica teu email para recuperar tua senha, por favor!"
+msgstr "<span class="text-success">ส่งอีเมล์แล้ว,</span> กรุณาตรวจสอบอีเมลของคุณสำหรับการกู้คืนรหัสผ่าน"
 
 msgctxt "login_fail"
 msgid "Login failed!"
-msgstr "Falhou!"
+msgstr "ล้มเหลว"
 
 msgctxt "login_error_email"
 msgid "Email does not exist!"
-msgstr "Email não existe! "
+msgstr "อีเมลฉบับนี้ยังไม่ได้รับการลงทะเบียน"
 
 msgctxt "login_account_delete"
 msgid "User account or account of this email was deleted!"
-msgstr "Conta do usuário ou conta deste email foi eliminada !"
+msgstr "บัญชีผู้ใช้หรือบัญชีใช้อีเมล์ที่ถูกลบไปแล้ว"
 
 msgctxt "login_email_invalid"
 msgid "Email invalid!"
-msgstr "Email inválido!"
+msgstr "อีเมลนี้มีอยู่แล้ว"
 
 msgctxt "login_not_success"
 msgid "System error, please try again!"
-msgstr "Erro do sistema, tenta novamente, por favor!"
+msgstr "ระบบผิดพลาด โปรดลองอีกครั้ง"
 
 msgctxt "login_error_code"
 msgid "The code does not exist or expired!"
-msgstr "Código não existe ou expirou!"
+msgstr "รหัสไม่มีอยู่หรือหมดอายุแล้ว!"
 
 msgctxt "login_error_pass"
 msgid "Password does not match, please try again!"
-msgstr "As palavras-passe não coincidem, tenta novamente!"
+msgstr "รหัสผ่านที่ไม่ถูกต้องโปรดลองอีกครั้ง!"
 
 msgctxt "login_change_success"
 msgid "<span class="text-success">Successful change password!</span>"
-msgstr "<span class="text-success">Palavra-passe foi alterada com sucesso !</span>"
+msgstr "<span class="text-success">เปลี่ยนรหัสผ่านประสบความสำเร็จ!</span>"
 
 msgctxt "login_email_delete"
 msgid "Email was deleted"
-msgstr "Email foi eliminado"
+msgstr "อีเมล์ถูกลบแล้ว"
 
 msgctxt "login_click"
 msgid "Click "
-msgstr "Clicar"
+msgstr "Click "
 
 msgctxt "login_here"
 msgid "here "
-msgstr "aqui"
+msgstr "ที่นี่"
 
 msgctxt "to_login"
 msgid "to login Subiz"
-msgstr "para entrar em Subiz"
+msgstr "ที่จะลงชื่อเข้าใช้Subiz"
 
 msgctxt "register_invalid_ip"
 msgid "Invalid ip!"
-msgstr "Endereço IP inválido!"
+msgstr "ที่อยู่ IP ไม่ถูกต้อง!"
 
 msgctxt "register_captcha"
 msgid "Type the text"
-msgstr "Digitar o texto"
+msgstr "เติมที่เนื้อหา"
 
 msgctxt "error_fullname"
 msgid "The full name"
-msgstr "Nome completo"
+msgstr "ชื่อเต็ม"
 
 msgctxt "error_username"
 msgid "The user name"
-msgstr "Nome de usuário"
+msgstr "ชื่อผู้ใช้"
 
 msgctxt "error_email"
 msgid "The email address"
-msgstr "Endereço de email:"
+msgstr "ที่อยู่อีเมล์"
 
 msgctxt "error_password"
 msgid "The password"
-msgstr "Palavra-passe"
+msgstr "รหัสผ่าน"
 
 msgctxt "mes_required"
 msgid "%s field is required."
-msgstr "%s de campo é necessário "
+msgstr "%s field จำเป็นต้องมี"
 
 msgctxt "mes_minlength"
 msgid "%s field must be at least %s characters in length."
-msgstr "Comprimento %s do campo é mínimo %s de caracteres."
+msgstr "ความยาว%s fieldอย่างน้อยที่สุด%sตัวอักษร"
 
 msgctxt "mes_maxlength"
 msgid "%s field can not exceed %s characters in length."
-msgstr "Comprimento de % de campo não pode exceder %s de caracteres."
+msgstr "ความยาว%s fieldไม่สามารถเกิน%sตัวอักษร"
 
 msgctxt "mes_valid_email"
 msgid "%s field must contain a valid email address."
-msgstr "%s de campo contém endereço de email válido."
+msgstr "%s field รวมถึงที่อยู่อีเมลที่ถูกต้อง"
 
 msgctxt "error_user_email"
 msgid "The User name or Email address"
-msgstr "Nome de usuário ou Endereço de Email:"
+msgstr "ชื่อผู้ใช้หรือที่อยู่อีเมล์"
 
 msgctxt "error_new_pass"
 msgid "The new password"
-msgstr "Palavra-passe nova"
+msgstr "รหัสผ่านใหม่"
 
 msgctxt "error_re_pass"
 msgid "The retype password"
-msgstr "Redigitar a palavra-passe"
+msgstr "พิมพ์รหัสผ่านอีกครั้ง"
 
 msgctxt "affiliate_invalid_email"
 msgid "The email address is invalid."
-msgstr "Formato de email inválido."
+msgstr "ที่อยู่อีเมล์ไม่ถูกต้อง"
 
 msgctxt "affiliate_required_email"
 msgid "Paypal email is required."
-msgstr "Email de paypal é necessário."
+msgstr "อีเมล์paypalจำเป็นต้องมี"
 
 msgctxt "affiliate_num_amount"
 msgid "The amount to pay is numeric."
-msgstr "Valor de pagamento deve ser numérico."
+msgstr "ระดับการชำระเงินจะต้องเป็นตัวเลข"
 
 msgctxt "affiliate_required_amount"
 msgid "The amount to pay field is required."
-msgstr "Campo de nível de pagamento é necessário"
+msgstr "ระดับการชำระเงินจำเป็นต้องมี"
 
 msgctxt "affiliate_required_currency"
 msgid "The currency field is required."
-msgstr "Campo de moeda estrangeira é necessário."
+msgstr "The currency field is required."
 
 msgctxt "affiliate_success_setting"
 msgid "Settings is successful!"
@@ -2603,43 +2605,43 @@ msgstr "Settings is successful!"
 
 msgctxt "affiliate_success_register"
 msgid "Register successfully!"
-msgstr "Inscreveste-te com sucesso!"
+msgstr "การลงทะเบียนของคุณที่ประสบความสำเร็จ"
 
 msgctxt "affiliate_total_paid"
 msgid "Total paid accounts"
-msgstr "Contas pagas totais"
+msgstr "บัญชีที่ชำระเงินรวม"
 
 msgctxt "sologan"
 msgid "<span class="system-help">Follow the instructions</span> to install Chat Window on your website."
-msgstr "<span class="system-help">Instruções de instalação</span> de janela de chat no teu website."
+msgstr "<span class="system-help">ทำตามคู่มือ</span> เพื่อติดตั้งหน้าต่างสนทนาในเว็บไซต์ของคุณ"
 
 msgctxt "report_error_info"
 msgid "Can't find information of affiliate!"
-msgstr "Não achaste informações de filhado!"
+msgstr "ไม่สามารถที่จะหาข้อมูลAffiliate!"
 
 msgctxt "register_embed"
 msgid "Embed Widget"
-msgstr "Janela de chat embutida"
+msgstr "หน้าต่างเครื่องมือการสนทนา"
 
 msgctxt "register_embed_note_1"
 msgid "Copy the following script and insert it into your website's HTML source code between the &lt;body&gt;&lt;/body&gt; tags."
-msgstr "Copiar a escrita abaixo e insira o código de fonte Html no teu website entre etiquetas  &lt;body&gt;&lt;/body&gt; tags."
+msgstr "คัดลอกโค้ดด้านล่างนี้แล้วใส่ลงในรหัสแหล่งที่มาhtmlที่เว็บไซต์ของคุณระหว่าง&lt;body&gt;&lt;/body&gt; tags."
 
 msgctxt "register_embed_note_2"
 msgid "This code must be inserted into every page where you wish to display the Subiz chat widget."
-msgstr "O código tem de ser inserido em cada website para ter janela de chat Subiz."
+msgstr "รหัสจะต้องใส่เข้าไปในเว็บไซต์ของแต่ละคนที่คุณต้องการที่จะวางเครื่องมือ Subiz หน้าต่างสนทนา"
 
 msgctxt "register_do_it_late"
 msgid "I'll do it later..."
-msgstr "Eu vou fazer isso depois…"
+msgstr "ผมจะดำเนินการต่อไปนี้ ..."
 
 msgctxt "register_embed_note_3"
 msgid "You will see your website visitors in your dashboard once the widgets are integrated"
-msgstr "Tu vais ver os visitantes no teu website quando uma janela de chat é embutida no website."
+msgstr "คุณจะเห็นผู้เข้าชมในเว็บไซต์ของคุณอีกครั้งเครื่องมือหน้าต่างสนทนาจะถูกฝังอยู่เว็บไซต์"
 
 msgctxt "dashboard-lang"
 msgid "Dashboard language"
-msgstr "Idioma do painel de instrumentos"
+msgstr "ภาษาDashboard"
 
 msgctxt "vietnamese"
 msgid "Tiếng Việt"
@@ -2666,95 +2668,95 @@ msgstr "ภาษาไทย"
 
 msgctxt "welcome"
 msgid "Welcome"
-msgstr "Bem vindo"
+msgstr "ยินดีต้อนรับ"
 
 msgctxt "trigger_action_applyToLabel"
 msgid "Apply to label"
-msgstr "Colocar etiqueta"
+msgstr "การติดฉลาก"
 
 msgctxt "trigger_help_applyToLabel_holder_name"
 msgid "Label"
-msgstr "Etiqueta"
+msgstr "ฉลาก"
 
 msgctxt "trigger_help_applyToLabel"
 msgid "Input label to apply. You can enter many Label separated with a semicolon. e.g: T-Shirt; Shoes"
-msgstr "Digitar etiqueta que quer colocar para visitante. Tu podes digitar várias etiquetas, sendo separadas por ponto e vírgula. Ex: Camisa; sapatos femininos"
+msgstr "ฉลากที่คุณต้องการที่จะแนบไปกับผู้เข้าชม คุณสามารถใส่ฉลากหลายคั่นด้วยเครื่องหมายอัฒภาค ตัวอย่าง: เสื้อ; รองเท้าผู้หญิง"
 
 msgctxt "trigger_action_removeToLabel"
 msgid "Remove label"
-msgstr "Eliminar etiqueta"
+msgstr "ลบฉลาก"
 
 msgctxt "trigger_help_removeToLabel_holder_name"
 msgid "Label"
-msgstr "Etiqueta"
+msgstr "ฉลาก"
 
 msgctxt "trigger_help_removeToLabel"
 msgid "Input label to remove."
-msgstr "Digitar etiqueta para eliminar."
+msgstr "ป้อนฉลากที่จะลบ"
 
 msgctxt "your_account_has_been"
 msgid "Your account has been reached to maximum Agent. Please <a href="https://dashboard.subiz.com/subscription/index" target="_blank">upgrade your account</a>!"
-msgstr "Tua conta já usou número máximo de Agentes. Por favor<a href="https://dashboard.subiz.com/subscription/index" target="_blank">actualizar a tua conta</a>!"
+msgstr "บัญชีของคุณใช้จำนวนสูงสุดagentที่ได้รับอนุญาต กรุณา<a href="https://dashboard.subiz.com/subscription/index" target="_blank">อัพเกรดบัญชีของคุณ</a>!"
 
 msgctxt "detail_name"
 msgid "Name:"
-msgstr "Nome:"
+msgstr "ชื่อจริง:"
 
 msgctxt "detail_phone"
 msgid "Phone:"
-msgstr "Telofone:"
+msgstr "โทรศัพท์:"
 
 msgctxt "detail_email"
 msgid "Email:"
-msgstr "Endereço de email:"
+msgstr "ที่อยู่อีเมล์:"
 
 msgctxt "trigger_visitor_email"
 msgid "Visitor email address"
-msgstr "Endereço de email do visitante"
+msgstr "ที่อยู่อีเมล์ของผู้เข้าชม"
 
 msgctxt "trigger_help_visitor_email"
 msgid "Visitor email address(account@domain.com)"
-msgstr "Endereço de email do visitante(conta@domain.com)"
+msgstr "ที่อยู่อีเมล์ของผู้เข้าชม(account@domain.com)"
 
 msgctxt "trigger_help_visitor_email_holder"
 msgid "account@domain.com"
-msgstr "Ex: account@domain.com"
+msgstr "ตัวอย่างเช่น account@domain.com"
 
 msgctxt "trigger_visitor_phone"
 msgid "Visitor phone number"
-msgstr "Número do telemóvel do visitante"
+msgstr "หมายเลขโทรศัพท์ของผู้เข้าชม"
 
 msgctxt "trigger_help_visitor_phone"
 msgid "Visitor phone number (0913862548)"
-msgstr "Número do telemóvel do visitante (0913862548)"
+msgstr "หมายเลขโทรศัพท์ของผู้เข้าชม (0913862548)"
 
 msgctxt "trigger_help_visitor_phone_holder"
 msgid "09xxxxxxxx"
-msgstr "Ex: 09xxxxxxxx"
+msgstr "ตัวอย่างเช่น 09xxxxxxxx"
 
 msgctxt "trigger_visitor_device"
 msgid "Visitor device"
-msgstr "Dispositivo do visitante"
+msgstr "อุปกรณ์การใช้งานของผู้เข้าชม"
 
 msgctxt "trigger_help_visitor_device"
 msgid "Visitor device (Mobile;Tablet;Desktop)"
-msgstr "Dispositivo do visitante (Telemóvel;Tablete;Área do trabalho)"
+msgstr "อุปกรณ์การใช้งานของผู้เข้าชม (Mobile;Tablet;Desktop)"
 
 msgctxt "trigger_help_visitor_device_holder"
 msgid "Ex Mobile"
-msgstr "Ex: Telemóvel"
+msgstr "ตัวอย่างเช่น Mobile"
 
 msgctxt "trigger_visitor_label"
 msgid "Visitor label"
-msgstr "Etiqueta do visitante"
+msgstr "ป้ายชื่อของผู้เข้าชม"
 
 msgctxt "trigger_help_visitor_label"
 msgid "Visitor label (T-Shit)"
-msgstr "Etiqueta do visitante (T-Shit)"
+msgstr "ฉลากของผู้เข้าชม (T-Shit)"
 
 msgctxt "trigger_help_visitor_label_holder"
 msgid "Label"
-msgstr "Etiqueta"
+msgstr "ฉลาก"
 
 msgctxt "history_os"
 msgid "Os: "
@@ -2762,71 +2764,71 @@ msgstr "Os: "
 
 msgctxt "subscription"
 msgid "Subscription"
-msgstr "Subscrição"
+msgstr "Subscription"
 
 msgctxt "subscription_free"
 msgid "Subscription"
-msgstr "Pagar custo"
+msgstr "ค่าใช้จ่าย"
 
 msgctxt "subscription_pays"
 msgid "Subscription"
-msgstr "Subscrição"
+msgstr "บริการสมาชิก"
 
 msgctxt "logout"
 msgid "Logout"
-msgstr "Sair"
+msgstr "ออกจากระบบ"
 
 msgctxt "reports"
 msgid "Reports"
-msgstr "Relatórios"
+msgstr "สถิติ"
 
 msgctxt "setting"
 msgid "Setting"
-msgstr "Definições"
+msgstr "การตั้งค่า"
 
 msgctxt "history"
 msgid "History"
-msgstr "História"
+msgstr "ประวัติศาสตร์"
 
 msgctxt "using-trigger"
 msgid "Create new label"
-msgstr "Criar etiqueta nova"
+msgstr "สร้างป้ายชื่อใหม่"
 
 msgctxt "search-depat"
 msgid "Search department"
-msgstr "Pesquisar departamento "
+msgstr "ค้นหาแผนก"
 
 msgctxt "type-your-message-here"
 msgid "Type your message here"
-msgstr "Digitar tua mensagem aqui"
+msgstr "พิมพ์ข้อความของคุณที่นี่"
 
 msgctxt "subiz_recommends"
 msgid "Subiz recommends you upgrade your browser to enjoy all the features in the new Subiz Live Chat"
-msgstr "Subiz recomenda usar o navegador abaixo para experimentar todas as novas funções de Subiz."
+msgstr "Subiz ขอแนะนำให้คุณใช้เบราว์เซอร์ต่อไปนี้จะได้สัมผัสกับการทำงานเต็มรูปแบบใหม่ของ Subiz"
 
 msgctxt "upgrade"
 msgid "Upgrade"
-msgstr "Actualizar"
+msgstr "อัพเกรด"
 
 msgctxt "continue"
 msgid "Continue</a> without upgrading</p>"
-msgstr "Continuar</a> sem atualizar</p>"
+msgstr "ดำเนินการต่อการเข้าถึง</a> แต่ไม่อัพเกรด</p>"
 
 msgctxt "by_google"
 msgid "Enhanced by Google"
-msgstr "por Google"
+msgstr "โดยใช้ Google"
 
 msgctxt "by_mozilla"
 msgid "Enhanced by Mozilla"
-msgstr "por Mozilla"
+msgstr "โดยใช้ Mozilla"
 
 msgctxt "by_apple"
 msgid "Enhanced by Apple"
-msgstr "por Apple"
+msgstr "โดยใช้ Apple"
 
 msgctxt "availibility_line"
 msgid "Availability"
-msgstr "Tempo para Disponibilidade"
+msgstr "สนทนาเวลาที่พร้อม"
 
 msgctxt "trigger_line"
 msgid "Triggers"
@@ -2834,133 +2836,133 @@ msgstr "Triggers"
 
 msgctxt "analytics"
 msgid "Analytics"
-msgstr "Gráfico de estatística"
+msgstr "ชาร์ตสถิติ"
 
 msgctxt "source_report"
 msgid "Source: Subiz.com"
-msgstr "Fonte: Subiz.com"
+msgstr "ที่มา Subiz.com"
 
 msgctxt "subiz_chats"
 msgid "Subiz Chats"
-msgstr "Estatística de chat"
+msgstr "สถิติการสนทนา"
 
 msgctxt "subiz_rating"
 msgid "Subiz Rating"
-msgstr "Avaliação de chat"
+msgstr "ระดับของการสนทนา"
 
 msgctxt "subiz_availibility"
 msgid "Subiz Availability"
-msgstr "Tempo para Disponibilidade"
+msgstr "สนทนาเวลาที่พร้อม"
 
 msgctxt "subiz_triggers"
 msgid "Subiz Triggers"
-msgstr "Estatística de triggers"
+msgstr "สถิติtriggers"
 
 msgctxt "subiz_affiliate"
 msgid "Subiz Affiliate"
-msgstr "Estatística de filhado"
+msgstr "สถิติreferral"
 
 msgctxt "msg_not_is_image"
 msgid "Your file is not an image file"
-msgstr "Não é ficheiro de foto"
+msgstr "ไฟล์ของคุณไม่ได้เป็นไฟล์ภาพ"
 
 msgctxt "report_all"
 msgid "ALL"
-msgstr "Tudo"
+msgstr "ทั้งหมด"
 
 msgctxt "subscription_featured_list_package_standard"
-msgstr "<li class="top">Você recebe:</li><li>Aplicativos de website e telemóvel</li><li>Histórico de chat(em 3 últimos meses)</li><li>Transferir chat</li><li>Informações de clientes</li><li>100 conversas ao mesmo tempo</li><li>03 Triggers</li><li>Conteúdo de chat para email</li><li>Personalizar janela de chat</li><li>Personalizar cumprimentos</li><li>Relatório básico (em 3 últimos meses)</li><li>conexão segura-SSL</li><li>Suporte aos clientes  24/7</li><li class="top" style="margin-top: 10px;">Você está perdendo:</li><li>Histórico de chat(em 6 últimos meses)</li><li>Trigger sem limite</li><li>200 conversas ao mesmo tempo</li>"
+msgstr "<li class="top">คุณจะได้รับ</li><li>แอพพลิเคเว็บและโทรศัพท์</li><li>ประวัติการสนทนา (ประมาณ 3 เดือนที่ผ่านมา)</li><li>ônไป</li><li>ข้อมูลของลูกค้าที่เกิดขึ้นจริง</li><li>100การสนทนาพร้อมกัน</li><li>03 Triggers</li><li>Email transcript</li><li>แก้ไขหน้าต่างสนทนา</li><li>แก้ไขคำทักทาย</li><li>รายงานขั้นพื้นฐาน (เป็นเวลา 3 เดือนที่ผ่านมา)</li><li>การเชื่อมต่อที่มีความปลอดภัยSSL</li><li>การสนับสนุนการดูแลลูกค้า24/7</li><li class="top" style="margin-top: 10px;">คุณกำลังหายไปหมดใน:</li><li>ประวัติการสนทนา (ประมาณ 6 เดือนที่ผ่านมา)</li><li>Triggerไม่จำกัด</li><li>200 การสนทนาพร้อมกัน</li>"
 
 msgctxt "subscription_featured_list_package_advanced"
-msgstr "<li class="top">Você recebe:</li><li>Aplicativos de website e telemóvel</li><li>Histórico de chat(em 6 últimos meses)</li><li>Transferir chat</li><li>Informações de clientes</li><li>200 conversas ao mesmo tempo</li><li>Trigger sem limite</li><li>Email transcript</li><li>Mensagem é enviada por email</li><li>Personalizar janela de chat</li><li>Personalizar cumprimentos</li><li>Relatório básico</li><li>conexão segura-SSL</li><li>Suporte aos clientes  24/7</li>"
+msgstr "<li class="top">คุณจะได้รับ</li><li>แอพพลิเคเว็บและโทรศัพท์</li><li>ประวัติการสนทนา (ประมาณ 6 เดือนที่ผ่านมา)</li><li>ônไป</li><li>ข้อมูลของลูกค้าที่เกิดขึ้นจริง</li><li>200การสนทนาพร้อมกัน</li><li>Triggerไม่จำกัด</li><li>Email transcript</li><li>ข้อความแบบออฟไลน์ส่งผ่านทางอีเมล์</li><li>แก้ไขหน้าต่างสนทนา</li><li>แก้ไขคำทักทาย</li><li>รายงานพื้นฐาน</li><li>การเชื่อมต่อที่มีความปลอดภัยSSL</li><li>การสนับสนุนการดูแลลูกค้า24/7</li>"
 
 msgctxt "logo"
 msgid "Logo"
-msgstr "Logotipo"
+msgstr "Logo"
 
 msgctxt "position"
 msgid "Widget position"
-msgstr "posição da janela de chat"
+msgstr "ตำแหน่งของหน้าต่างสนทนา"
 
 msgctxt "left"
 msgid "Left"
-msgstr "Esquerda"
+msgstr "ซ้าย"
 
 msgctxt "right"
 msgid "Right"
-msgstr "Direita"
+msgstr "ขวา"
 
 msgctxt "your_account_has_not_been_confirmed"
 msgid "Your account has not been confirmed, please check your email to confirm your account before proceeding subscription. Once confirm account, please %s Logout %s then %s Login %s to continue"
-msgstr "Tua conta ainda não foi confirmada, verifica teu email para confirmar a tua conta antes de realizar subscrição. Quando confirma tua conta, por favor %s Sair %s depois %s Entrar %s para continuar"
+msgstr "Your account has not been confirmed, please check your email to confirm your account before proceeding subscription. Once confirm account, please %s Logout %s then %s Login %s to continue"
 
 msgctxt "notify_send_mail_to_upgrade_downgrade"
 msgid "If you want to upgrade, downgrade, add / reduce agents... please send us an email at support@subiz.com"
-msgstr "Se tu queres actualizar, rebaixar, adicionar / reduzir agentes... envia email para support@subiz.com"
+msgstr "If you want to upgrade, downgrade, add / reduce agents... please send email to support@subiz.com"
 
 msgctxt "report_unit_hour"
 msgid "(Hour)"
-msgstr "(Hora)"
+msgstr "(ชั่วโมง)"
 
 msgctxt "report_unit_min"
 msgid "(Minute)"
-msgstr "(Minuto)"
+msgstr "(นาที)"
 
 msgctxt "login_error_msg"
 msgid "Login error, click <a href='https://dashboard.subiz.com/login/logout'>here</a> to login again!."
-msgstr "Erro ao entrar. <a href='https://dashboard.subiz.com/login/logout'>Entre novamente</a>"
+msgstr "เข้าสู่ระบบล้มเหลว <a href='https://dashboard.subiz.com/login/logout'>เข้าสู่ระบบอีกครั้ง</a>"
 
 msgctxt "connecting_error_attemping_reconnect"
 msgid "Connecting error, attempting to reconnect..."
-msgstr "Erro ao conectar, tenta reconectar…"
+msgstr "การเชื่อมต่อผิดพลาด พยายามที่จะเชื่อมต่อ ..."
 
 msgctxt "disconnected_try_now"
 msgid "Disconnected, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Desconectado, <a href='javascript:void(0);' id='connect_trynow'>tenta novamente</a>."
+msgstr "เชื่อมต่อไม่ได้ <a href='javascript:void(0);' id='connect_trynow'>ลองอีกครั้ง</a>."
 
 msgctxt "connecting_error"
 msgid "Connecting error, <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Erro ao conectar, <a href='javascript:void(0);' id='connect_trynow'>tenta novamente</a>."
+msgstr "การเชื่อมต่อผิดพลาด <a href='javascript:void(0);' id='connect_trynow'>ลองอีกครั้ง</a>."
 
 msgctxt "disconnected_attemping_to_connect"
 msgid "Disconnected, attempting to reconnect..."
-msgstr "Erro ao conectar, tenta reconectar…"
+msgstr "เชื่อมต่อไม่ได้  พยายามที่จะเชื่อมต่ออีกครั้ง ..."
 
 msgctxt "online_status"
 msgid "I'm on Subiz"
-msgstr "Estou em Subiz"
+msgstr "ออนไลน์ในSubiz"
 
 msgctxt "type_here_and_hit_enter_to_enter_chat"
 msgid "Type here and hit <enter> to chat"
-msgstr "Digita aqui e pressione Enter para conversar"
+msgstr "พิมพ์ที่นี่และกด Enter เพื่อสนทนา"
 
 msgctxt "start_typing_to_join_the_chat"
 msgid "Start typing to join the chat"
-msgstr "Começa a digitar aqui para entrar em chat "
+msgstr "คลิกที่นี่เพื่อเริ่มต้นการสนทนา"
 
 msgctxt "visitor_is_tvisitor_is_typing"
 msgid "is typing..."
-msgstr "Está a digitar…."
+msgstr "กำลังพิมพ์ ..."
 
 msgctxt "visitor_label"
 msgid "Label"
-msgstr "Etiqueta"
+msgstr "ป้ายชื่อ"
 
 msgctxt "visitor_looking"
 msgid "Looking"
-msgstr "A ver"
+msgstr "กำลังมอง"
 
 msgctxt "visitor_referrer"
 msgid "Referrer"
-msgstr "Referente"
+msgstr "Referrer"
 
 msgctxt "help_text_triggers"
 msgid "What is Trigger?"
-msgstr "O que é Trigger?"
+msgstr "Triggerคืออะไร"
 
 msgctxt "state-display-logo"
 msgid "Display logo"
-msgstr "Exibir logotipo"
+msgstr "แสดง logo"
 
 msgctxt "install_on_wordpress"
 msgstr "<a href="http://support.subiz.com/support/solutions/articles/76904-subiz-integration-guide-for-wordpress"><img src="https://static-dashboard.subiz.com/img/wordpress.png" alt=""></a>"
@@ -2973,247 +2975,247 @@ msgstr "<a href="http://support.subiz.com/support/solutions/articles/3000005415-
 
 msgctxt "message_visitors_limit"
 msgid "Your account is registered as a free plan with the limit of 5 chat conversation at the same time. Click %s here %s to upgrade to a premium account."
-msgstr "A tua conta é a conta gratuita, limitando para ver só 5 visitantes ao mesmo tempo. Clica %s aqui %s para actualizar a tua conta."
+msgstr "บัญชีปัจจุบันของคุณเป็นบัญชีฟรี จำกัด จะเห็นเพียง5ผู้เข้าชมในเวลาเดียวกัน คลิกที่ %s ở đây %s อัปเกรดบัญชีของคุณ"
 
 msgctxt "subiz_licence_id"
 msgid "Licence ID: "
-msgstr "Licença ID:"
+msgstr "ใบอนุญาต:"
 
 msgctxt "attemping_reconnect"
 msgid "Attemping reconnect..."
-msgstr "Tenta reconectar…"
+msgstr "พยายามเชื่อมต่ออีกครั้ง"
 
 msgctxt "subscription_not_found"
 msgid "not found subscription"
-msgstr "Não achaste subscrição"
+msgstr "ไม่พบการสมัครสมาชิก"
 
 msgctxt "subscription_downgrade_error"
 msgid "Downgrade error"
-msgstr "Erro em subscrição de rebaixamento"
+msgstr "ปรับลดข้อผิดพลาดในการสมัครสมาชิก"
 
 msgctxt "report_default"
 msgid "Select Triggers"
-msgstr "Selecionar Triggers"
+msgstr "เลือกTriggers"
 
 msgctxt "report_empty_data"
 msgid "Not found any data!"
-msgstr "Não foi encontrado nenhum dados!!"
+msgstr "ไม่มีข้อมูล!"
 
 msgctxt "no_visitor"
 msgid "You have no visitor"
-msgstr "Tu não tens nenhum visitante"
+msgstr "ไม่มีผู้เข้าชม"
 
 msgctxt "no_request_chat"
 msgid "You have no request chat"
-msgstr "Tu não tens nenhuma solicitação de chat"
+msgstr "ไม่มีการสนทนา"
 
 msgctxt "perform_test"
 msgid "Perform a test chat on the "
-msgstr "Prever as funções de chat em "
+msgstr "ดูตัวอย่างสนทนาคุณสมบัติใน"
 
 msgctxt "type_and_chat"
 msgid "Type here and hit Enter to chat"
-msgstr "Digita aqui e pressiona Enter para conversar"
+msgstr "พิมพ์และกด Enter เพื่อสนทนา"
 
 msgctxt "to_install_subiz"
 msgid "To install Subiz, put this code on every page of your website just before the closing <b>&lt;/body&gt;</b> tags."
-msgstr "Para instalar Subiz, insere código embutido no final da etiqueta <b>&lt;body&gt;</b> em cada página do website"
+msgstr "เมื่อต้องการติดตั้ง subiz เพียงแค่ใส่แผ่นรหัสในตอนท้ายของ<b>&lt;body&gt;</b> ในหน้าเว็บของเว็บไซต์"
 
 msgctxt "detail"
 msgid "View detail."
-msgstr "Ver detalhes."
+msgstr "ดูรายละเอียด"
 
 msgctxt "signed_another_device"
 msgid "Your account has been signed in on another device , <a href='javascript:void(0);' id='connect_trynow'>try now</a>."
-msgstr "Tua conta foi assinada em outro dispositivo, <a href='javascript:void(0);' id='connect_trynow'>tenta agora</a>."
+msgstr "บัญชีของคุณได้รับการบันทึกไว้ในอุปกรณ์อื่น ๆ <a href='javascript:void(0);' id='connect_trynow'>ลองอีกครั้ง</a>."
 
 msgctxt "agent_blocked"
 msgid "Oops ! There is a problem that prevents your agent from accessing to Dashboard. Please try again in 10 minutes."
-msgstr "Aviso! O teu agente não pode acessar temporariamente Dashboard. Tenta novamente em 10 minutos, por favor. Obrigado!"
+msgstr "แจ้งให้ทราบมีปัญหาAgent ของคุณชั่วคราว ไม่สามารถเข้าถึงแดชบอร์ด กรุณากลับมาในเวลา 10 นาที ขอบคุณ!"
 
 msgctxt "wait"
 msgid "Please wait a moment ..."
-msgstr "Espera um momento ..."
+msgstr "กรุณารอสักครู่ ..."
 
 msgctxt "f5_to_continue"
 msgid "Server connection time out. Press Ctrl + F5 to try again or check <a href='http://subiz.com/help/test' target='_blank'>Self-test page </a> to troubleshoot the problem."
-msgstr "Demora muito para conectar com o servidor, pressiona F5 para continuar."
+msgstr "หมดเวลาเชื่อมต่อไปยังเซิร์ฟเวอร์ กด F5 เพื่อลองอีกครั้ง"
 
 msgctxt "cannot_connect_socket"
 msgid "Press F5 to re-login. Please contact us if you receive this notice again !"
-msgstr "Pressiona F5 para entrar novamente. Depois de entrar novamente, se tu vês esta mensagem novamente, contacta-nos, por favor."
+msgstr "กด F5 เพื่อเข้าสู่ระบบอีกครั้ง ถ้าหลังจากเข้าสู่ระบบอีกครั้งคุณยังคงเห็นประกาศนี้โปรดติดต่อเรา"
 
 msgctxt "aff_pending"
 msgid "Your account is waiting for approval, it may take up to 3 working days to activate account."
-msgstr "Tua conta está esperando para ser aprovada, vai demorar 2-3 dias para ativar a conta."
+msgstr "บัญชีของคุณรอสำหรับการเปิดใช้งาน และจะใช้เวลาประมาณ 2-3 วันเพื่อเปิดใช้งาน"
 
 msgctxt "verify_account"
 msgid "You have not yet verified your account. You have 24h to verify it, otherwise you will no longer be able to log in. <a href="#">Click here to resend a verification email</a>"
-msgstr "Tu ainda não verificaste a tua conta. Tu tens 24h para verificá-la, se não, tu não podes entrar no sistema.<a href="#">Clica aqui para receber e-mail de verificação.</a>"
+msgstr "คุณยังไม่ได้ตรวจสอบบัญชีของคุณ ถ้าใน 24 ชั่วโมงถัดไปที่คุณไม่ได้ระบุตัวคุณเองคุณไม่สามารถเข้าสู่ระบบ <a href="#">คลิกที่จะได้รับการตรวจสอบอีเมล์</a>"
 
 msgctxt "check_mail"
 msgid "Please check your email to activate your account."
-msgstr "Verifica teu email para ativar tua conta."
+msgstr "กรุณาตรวจสอบอีเมลของคุณเพื่อเปิดใช้งานบัญชีของคุณ"
 
 msgctxt "agent_tool"
 msgid "Agent tools"
-msgstr "Ferramentas de agente"
+msgstr "Agent tools"
 
 msgctxt "canned_responses"
 msgid "Canned responses"
-msgstr "Biblioteca das respostas"
+msgstr "คลังคำตอบ"
 
 msgctxt "client_app"
 msgid "Client Apps"
-msgstr "Aplicativos de cliente"
+msgstr "Client Apps"
 
 msgctxt "create_canned_responses"
 msgid "Create canned responses"
-msgstr "Criar as formas de respostas"
+msgstr "สร้างคำตอบตัวอย่าง"
 
 msgctxt "tag"
 msgid "Tag"
-msgstr "Identificar"
+msgstr "Tag"
 
 msgctxt "shortcut"
 msgid "Shortcut"
-msgstr "Atalho"
+msgstr "ทางลัด"
 
 msgctxt "function"
 msgid "Functions"
-msgstr "Função"
+msgstr "ฟังก์ชั่น"
 
 msgctxt "enable"
 msgid "Enable"
-msgstr "Ativar"
+msgstr "On"
 
 msgctxt "disable"
 msgid "Disable"
-msgstr "Desativar"
+msgstr "Off"
 
 msgctxt "package_allows"
 msgid "Package allows"
-msgstr "Pacote permitido"
+msgstr "Package allows"
 
 msgctxt "sure"
 msgid "Do you really want to DELETE this record?"
-msgstr "Tu queres realmente ELIMINAR este atalho de resposta?"
+msgstr "คุณต้องการที่จะลบการบันทึกนี้หรือไม่?"
 
 msgctxt "shortcut_require"
 msgid "Shortcut is required."
-msgstr "Atalho é necessário."
+msgstr "ทางลัดจำเป็นต้องมี"
 
 msgctxt "message_require"
 msgid "Message is required."
-msgstr "Mensagem não pode ser vazia."
+msgstr "ข้อความจำเป็นต้องมี"
 
 msgctxt "import"
 msgid "Import"
-msgstr "Importar"
+msgstr "การนำเข้า"
 
 msgctxt "export"
 msgid "Export"
-msgstr "Exportar"
+msgstr "การส่งออก"
 
 msgctxt "upload_success"
 msgid "Import success."
-msgstr "Importaste."
+msgstr "ประสบความสำเร็จการนำเข้า"
 
 msgctxt "upload_invalid"
 msgid "File type is invalid."
-msgstr "Formato do ficheiro inválido"
+msgstr "รูปแบบเอกสารที่ไม่ถูกต้อง"
 
 msgctxt "message_length"
 msgid "Message content must be less than 250 characters"
-msgstr "Conteúdo de mensagem não deve ser superior a 250 caracteres"
+msgstr "เนื้อหาข้อความไม่เกินกว่า 250 ตัวอักษร"
 
 msgctxt "canned_not_use"
 msgid "Canned response is not available for your package. Please upgrade to the standard or advance package to use the feature."
-msgstr "Esta função não está disponível para tua conta. Actualize tua conta para o pacote padrão ou avançado para usar esta função, por favor. "
+msgstr "ฟังก์ชั่นที่ไม่สามารถใช้ได้สำหรับบัญชีของคุณ กรุณาอัปเกรดบัญชีของคุณเพื่อแพคเกจ Basic หรือขั้นสูงที่จะใช้ฟังก์ชั่นนี้"
 
 msgctxt "share_for_agent"
 msgid "Share"
-msgstr "Partilhar"
+msgstr "แชร์"
 
 msgctxt "guide_1"
 msgid "Filter your visitors based to categories: Active Visitors (default), Idle Visitors, Request chats - Visitors who are asking for helps and Labels."
-msgstr "Filtrar os teus visitantes de acordo com categorias: Visitantes ativos (padrão); visitantes inativos; pedidos de chat - O visitante está pedindo ajuda; e etiquetas."
+msgstr "นี่คือรายการที่จะช่วยให้คุณสามารถกรองผู้เข้าชมเว็บ เริ่มต้นจะเป็น Active Visitors; idle Visitors; Request chats - ผู้เข้าชมจะขอความช่วยเหลือ; และป้ายชื่อ"
 
 msgctxt "guide_2"
 msgid "List of visitors and their basic information. Each line shows one visitor online on your site. You can click on this line to see more information about the visitor."
-msgstr "Lista dos visitantes com as tuas informações. Cada linha é um visitante que está acessando o website. Tu podes clicar em um cliente para saber todas as informações dele ou conversar com ele."
+msgstr "ผู้เข้าชมเหล่านี้จะปรากฏและจะมาพร้อมกับข้อมูลของพวกเขา แต่ละบรรทัดเป็นลูกค้าเข้าถึงเว็บไซต์ คุณสามารถคลิกเข้าชมเพื่อดูข้อมูลที่ครบถ้วนหรือแชทกับพวกเขา"
 
 msgctxt "guide_3"
 msgid "Each button reveals one conversation. Switch the buttons to choose the conversation you want to chat."
-msgstr "Os botões representam cada conversa. Tu podes mudar os botões para escolher a conversa que tu queres."
+msgstr "ปุ่มเหล่านี้เป็นตัวแทนของการสนทนาของคุณ คุณสามารถนำทางระหว่างการสนทนาด้วยการเลือกปุ่มที่แตกต่างกัน"
 
 msgctxt "guide_4"
 msgid "This is chat widget where you chat with visitors. In chat widget, you can see the visitor's information and chat transcript."
-msgstr "Esta é a janela, onde tu podes conversar com os visitantes que acessam o seu website. Incluindo as informações detalhadas dos visitantes com os conteúdos de conversa."
+msgstr "นี่คือหน้าต่างที่คุณสามารถสนทนากับผู้เข้าชมเว็บไซต์ของคุณ ซึ่งรวมถึงในรายละเอียดของผู้เข้าชมด้วยการสนทนาเนื้อหาที่กำหนดเอง"
 
 msgctxt "next_step"
 msgid "Next step"
-msgstr "Passo seguinte"
+msgstr "ขั้นตอนต่อไป"
 
 msgctxt "or"
 msgid "or"
-msgstr "ou"
+msgstr "หรือ"
 
 msgctxt "skip_tutorial"
 msgid "Skip this tutorial"
-msgstr "Pular este tutorial"
+msgstr "ไม่สนใจคำแนะนำนี้"
 
 msgctxt "close_tutorial"
 msgid "Close tutorial"
-msgstr "Terminar"
+msgstr "เสร็จ"
 
 msgctxt "sign_up_now"
 msgid "Sign up now!"
-msgstr "Inscreve-te agora!"
+msgstr "ลงทะเบียนตอนนี้"
 
 msgctxt "new_to_subiz"
 msgid "New to Subiz?"
-msgstr "Não tens conta ainda?"
+msgstr "ยังไม่มีบัญชี?"
 
 msgctxt "today"
 msgid "Today"
-msgstr "Hoje"
+msgstr "วันนี้"
 
 msgctxt "yesterday"
 msgid "Yesterday"
-msgstr "Ontem"
+msgstr "เมื่อวาน"
 
 msgctxt "2_day_ago"
 msgid "2 days ago"
-msgstr "2 dias atrás"
+msgstr "2วันก่อน"
 
 msgctxt "3_day_ago"
 msgid "3 days ago"
-msgstr "3 dias atrás"
+msgstr "3วันก่อนที่"
 
 msgctxt "sound_config"
 msgid "Sound configuration"
-msgstr "configurações de sons"
+msgstr "การตั้งค่าเสียง"
 
 msgctxt "chat_request"
 msgid "Chat request"
-msgstr "Pedido de chat"
+msgstr "คำขอสนทนา"
 
 msgctxt "new_message"
 msgid "New message"
-msgstr "Mensagem nova"
+msgstr "ข้อความใหม่"
 
 msgctxt "sound_widget"
 msgid "Sound on widget"
-msgstr "Sons em janela de chat"
+msgstr "คำเตือนเสียงในหน้าต่างสนทนา"
 
 msgctxt "sound_dashboard"
 msgid "Sound on dashboard"
-msgstr "Sons em dashboard"
+msgstr "คำเตือนเสียงบนแดชบอร์ด"
 
 msgctxt "avatar_default"
 msgid "Default avatar"
-msgstr "Avatar padrão"
+msgstr "Avatarค่าเริ่มต้น"
 
 msgctxt "chat_feature"
 msgid "Chat"
@@ -3221,287 +3223,287 @@ msgstr "Chat"
 
 msgctxt "history_feature"
 msgid "History"
-msgstr "História"
+msgstr "ประวัติศาสตร์"
 
 msgctxt "report_feature"
 msgid "Report"
-msgstr "Relatório"
+msgstr "สถิติ"
 
 msgctxt "agent_feature"
 msgid "Agent"
-msgstr "Agente"
+msgstr "Agent"
 
 msgctxt "department_feature"
 msgid "Department"
-msgstr "Departamento"
+msgstr "แผนก"
 
 msgctxt "chat_view_all"
 msgid "View all"
-msgstr "Ver tudo"
+msgstr "ดูทั้งหมด"
 
 msgctxt "history_view_all"
 msgid "View all"
-msgstr "Ver tudo"
+msgstr "ดูทั้งหมด"
 
 msgctxt "report_view_all"
 msgid "View all"
-msgstr "Ver tudo"
+msgstr "ดูทั้งหมด"
 
 msgctxt "full_permission"
 msgid "Full permission"
-msgstr "Todas as permissões"
+msgstr "สิทธิเต็ม"
 
 msgctxt "no_permission"
 msgid "You don't have permission to view this history"
-msgstr "Tu não tens permissão para ver esta história"
+msgstr "คุณไม่ได้รับอนุญาตเพื่อเข้าดูประวัติตัวนี้"
 
 msgctxt "vistior_endchat"
 msgid "The visitor ended chat"
-msgstr "O visitante terminou o chat "
+msgstr "เสร็จสิ้นสนทนา"
 
 msgctxt "mes_end_chat"
 msgid "ended chat"
-msgstr "Terminaste o chat"
+msgstr "สิ้นสุดสนทนา"
 
 msgctxt "no_permission_chat"
 msgid "You don't have permission to view this chat.<br /> This visitor is chatting with "
-msgstr "Tu não tens permissão para ver este Chat .<br /> Este visitante está conversando com"
+msgstr "คุณไม่ได้รับอนุญาตเพื่อเข้าดูการสนทนาตัวนี้<br /> ผู้เข้าชมกำลังสนทนากับ"
 
 msgctxt "no_permission_report"
 msgid "You don't have permission to view this report"
-msgstr "Tu não tens permissão para ver este relatório"
+msgstr "ดูสถิตินี้"
 
 msgctxt "permission"
 msgid "Permissions"
-msgstr "Permissões"
+msgstr "การอนุญาต"
 
 msgctxt "perm_group"
 msgid "Agent Type"
-msgstr "Tipo de agente"
+msgstr "กลุ่มที่อนุญาต"
 
 msgctxt "perm_group_select"
 msgid "Select agent type"
-msgstr "Selecionar tipo de agente"
+msgstr "เลือกกลุ่มที่อนุญาต"
 
 msgctxt "perm_intro"
 msgid "This feature helps you to manage module-level permissions for your agents."
-msgstr "Esta função te ajuda a descentralizar para os grupos de agentes"
+msgstr "ฟังก์ชั่นนี้จะช่วยให้คุณสามารถกำหนดสิทธิประโยชน์ให้กับกลุ่มagent"
 
 msgctxt "perm_edit"
 msgid "Edit"
-msgstr "Editar"
+msgstr "ซ่อมแซม"
 
 msgctxt "perm_close"
 msgid "Close"
-msgstr "Fechar"
+msgstr "ปิด"
 
 msgctxt "perm_read_more"
 msgid "read more"
-msgstr "Ler mais"
+msgstr "เป็นแนวทาง"
 
 msgctxt "create_trigger"
 msgid "Create"
-msgstr "Criar"
+msgstr "สร้างใหม่"
 
 msgctxt "trigger_library"
 msgid "Triggers library"
-msgstr "Biblioteca Triggers"
+msgstr "คลังTriggers"
 
 msgctxt "trigger_info"
 msgid "Triggers help you to send invitations / custom messages to pre-qualified leads"
-msgstr "Triggers te ajuda a enviar convites de chat, mensagens são instaladas para o clientes selecionados "
+msgstr "Triggersช่วยให้คุณส่งคำเชิญสนทนา ข้อความที่ตั้งไว้ให้กับลูกค้าที่เลือก"
 
 msgctxt "user_trigger"
 msgid "Use this Trigger"
-msgstr "Usar este Trigger"
+msgstr "ใช้"
 
 msgctxt "cus_trigger"
 msgid "Customize Trigger"
-msgstr "Personalizar Trigger"
+msgstr "ปรับแต่งTrigger"
 
 msgctxt "trigger_select_con"
 msgid "Select condition"
-msgstr "Selecionar condição"
+msgstr "เลือกเงื่อนไข"
 
 msgctxt "trigger_select_action"
 msgid "Select action"
-msgstr "Selecionar ação"
+msgstr "เลือกการกระทำ"
 
 msgctxt "trigger_action"
 msgid "Action"
-msgstr "Acção"
+msgstr "การกระทำ"
 
 msgctxt "history_alert_package"
 msgid "This feature is limited in free version, %s upgrade now %s."
-msgstr "Tu estás a usar o o pacote <b>gratuito</b>, %s atualizar %s hoje para usar esta função."
+msgstr "คุณกำลังใช้แพคเกจ<b>ฟรี</b>, %s อัพเกรด %s ในวันนี้ที่จะใช้ฟังก์ชั่นนี้"
 
 msgctxt "history_limit"
 msgid "500 conversation limit for each export."
-msgstr "Subiz limita no máximo 500 conversas em cada exportação."
+msgstr "Subizขีดจำกัดสูงสุด500การสนทนาในข้อมูลในแต่ละครั้ง"
 
 msgctxt "help_theme"
 msgid "Modify color, CSS, default avatar, logo, social media link. %s read more %s"
-msgstr "Personalizar css, cores, avatar padrão, logotipo, adicionando link da rede social. %s ver mais %s"
+msgstr "ปรับเปลี่ยนสี CSS avatarเริ่มต้น logo ลิงค์สื่อสังคม %s ดูเพิ่มเติม %s"
 
 msgctxt "help_lang"
 msgid "Choose the auto-detect mode or a certain language on chat widget, change the template sentences. %s read more %s"
-msgstr "Selecionar o modo de detecção automática ou um idioma determinado na janela de chat, alterando os modelos das sentenças. %s ver mais %s"
+msgstr "เลือกโหมดประจำตัวประชาชนหรือเลือกหนึ่งภาษาที่คงที่ในหน้าต่างแชท, เปลี่ยนคำถามตัวอย่างที่มีอยู่ %s ดูเพิ่มเติม %s"
 
 msgctxt "help_chat_button"
 msgid "Make your chat widget more professional and attractive with Button chat and Bubble chat. %s read more %s"
-msgstr "Fazer janela de chat mais destaque com botão de chat e bolha de chat. %s ver mais %s"
+msgstr "เน้นหน้าต่างการสนทนากับbutton chat และ bubble chat. %s ดูเพิ่มเติม %s"
 
 msgctxt "help_chat_survey"
 msgid "Enable this form for visitor to type their name, email, phone or choose department.<br /> %s read more %s"
-msgstr "Onde tu ativas a forma de pedido para clientes fornecer as informações antes de chat ou exibir departamento.<br /> %s ver mais %s"
+msgstr "ที่คุณเปิดใช้งานข้อมูลของลูกค้าแบบฟอร์มที่จำเป็นก่อนที่จะเข้าแชทหรือแสดงแผนก<br /> %s ดูเพิ่มเติม %s"
 
 msgctxt "hepl_theme_title"
 msgid "Theme customization"
-msgstr "Personalizar tema"
+msgstr "การปรับแต่งธีม"
 
 msgctxt "hepl_lang_title"
 msgid "Language customization"
-msgstr "Personalizar idioma"
+msgstr "การปรับแต่งภาษา"
 
 msgctxt "help_chat_button_title"
 msgid "Chat button customization"
-msgstr "Personalizar botão de chat"
+msgstr "การปรับแต่งbutton chat"
 
 msgctxt "help_chat_survey_title"
 msgid "Chat survey customization"
-msgstr "Personalização de forma de levantamento"
+msgstr "การปรับแต่งแบบสำรวจ"
 
 msgctxt "help_trigger_title"
 msgid "Create trigger"
-msgstr "Criar trigger"
+msgstr "สร้างtrigger"
 
 msgctxt "help_trigger"
 msgid "Trigger is a powerful tool that helps you to do some actions automatically such as: sending message to visitor, open chat window, label visitor based on set of conditions. %s read more %s"
-msgstr "Trigger é a ferramenta para te ajudar a classificar, identificar clientes especificamente e realizar as ações como: enviar automaticamente solicitação, enviar mensagem, inserir etiqueta nos clientes . %s ver mais %s"
+msgstr "Triggerเป็นเครื่องมือที่จะช่วยให้คุณสามารถจำแนกระบุกลุ่มเป้าหมายเฉพาะและดำเนินการกระทำดังกล่าว อัตโนมัติเชิญแชท ส่งข้อความ กำกับด้วยผู้ชมเหล่านี้ %s ดูเพิ่มเติม %s"
 
 msgctxt "notification"
 msgid "Notification"
-msgstr "Notificação"
+msgstr "การแจ้งเตือน"
 
 msgctxt "notifications"
 msgid "Notifications"
-msgstr "Notificações"
+msgstr "การแจ้งเตือน"
 
 msgctxt "firefox_denied"
 msgid "You disabled desktop notification in your browser. <b>Open Tools > Page Info > Permissions</b> in Firefox and choose "Allow" in "Show Notifications" section. Then, refresh this page."
-msgstr "Tu desativaste a exibição de notificações na área do trabalho no teu navegador. <b>ferramenta > Informações da página > Permissão</b> Em Firefox seleciona "Permitir" em "Exibir notificações". Depois recarrega a página."
+msgstr "เบราว์เซอร์ของคุณคือการแสดงผลข้อความปิดการใช้งานบนหน้าจอ <b>Tool > Page Info > Permissions</b>ใน Firefox และเลือก "Allow" ในส่วน "Show Notifications". แล้วโหลดหน้าเว็บ"
 
 msgctxt "chrome_denied"
 msgid "You disabled desktop notification in your browser. <b>Open Settings > Show advanced settings > Content settings</b> in Chrome and choose "Allow all sites to show desktop notifications". Then click "Manage exceptions..." to remove if https://dashboard.subiz.com is blocked, refresh this page."
-msgstr "Tu desativaste a exibição de notificações na área do trabalho no teu navegador. <b>Configurações  > Mostra configurações avançadas > Conteúdo de configurações </b>no Chrome e seleciona  "Permitir todos os sites para exibir notificações na área do trabalho". Depois clica "Gerenciar exceções..." se a página https://dashboard.subiz.com está bloqueada tu tens de apagar este link, actualizar esta página."
+msgstr "เบราว์เซอร์ของคุณคือการแสดงผลข้อความปิดการใช้งานบนหน้าจอ <b>Settings > Show advanced settings > Content settings</b> ใน Chrome และเลือก "Allow all sites to show desktop notifications". จากนั้นคลิกที่ปุ่ม"Manager exceptions..."ถ้าหน้าhttps://dashboard.subiz.com ถูกบล็อก คุณควรลบไปเส้นนั้นและโหลดหน้าเว็บ"
 
 msgctxt "safari_denied"
 msgid "You disabled desktop notification in your browser. <b>Choose Safari > Preferences, click Notifications </b>, and select Allow or Deny for the website whose notification permission you want to change."
-msgstr "Tu desativaste a exibição de notificações na área do trabalho no teu navegador. Seleciona Safari > Preferências, clicar Notificações, e seleciona Permitir ou Negar para os website que tu queres alterar permissão de exibição notificação."
+msgstr "เบราว์เซอร์ของคุณคือการแสดงผลข้อความปิดการใช้งานบนหน้าจอ Choose Safari > Preferences, click Notifications, และเลือก Allow หรือ Denyสำหรับเว็บไซต์ที่คุณต้องการเปลี่ยนการแสดงข้อความ"
 
 msgctxt "notification_default"
 msgid "You must enable desktop notifications in your browser."
-msgstr "Tu deves ativar notificação na área do trabalho."
+msgstr "คุณจำเป็นต้องเปิดใช้งานการแจ้งเตือนบนหน้าจอ"
 
 msgctxt "turn_on_notification"
 msgid "Turn on notifications"
-msgstr "Ativar notificações"
+msgstr "เปิดใช้งานการแจ้งเตือน"
 
 msgctxt "notification_preview"
 msgid "Preview"
-msgstr "Prever"
+msgstr "ดูตัวอย่าง"
 
 msgctxt "noti_request_chat"
 msgid "Request Chat"
-msgstr "Pedido de chat"
+msgstr "คำขอสนทนา"
 
 msgctxt "noti_message"
 msgid "New message in chat"
-msgstr "Mensagem nova"
+msgstr "ข้อความใหม่"
 
 msgctxt "noti_new_visitor"
 msgid "New visitor enters your website"
-msgstr "Visitante novo entra no teu website"
+msgstr "ผู้เข้าชมเป็นครั้งแรกในการเข้าถึงเว็บไซต์"
 
 msgctxt "noti_return_visitor"
 msgid "Returning visitor comes to your website"
-msgstr "Visitante regressa ao website"
+msgstr "ผู้เข้าชมเก่ากลับไปยังเว็บไซต์"
 
 msgctxt "chat_request_title"
 msgid "Subiz live chat"
-msgstr "Subiz chat ao vivo"
+msgstr "Subiz live chat"
 
 msgctxt "chat_request_body"
 msgid "You have new chat request"
-msgstr "Tu tens pedido novo de chat"
+msgstr "คุณมีคำขอสนทนาใหม่"
 
 msgctxt "new_message_title"
 msgid "Subiz live chat"
-msgstr "Subiz chat ao vivo"
+msgstr "Subiz live chat"
 
 msgctxt "new_message_body"
 msgid "You have new message"
-msgstr "Tu tens mensagem nova"
+msgstr "คุณมีข้อความใหม่"
 
 msgctxt "new_visitor_title"
 msgid "Subiz live chat"
-msgstr "Subiz chat ao vivo"
+msgstr "Subiz live chat"
 
 msgctxt "new_visitor_body"
 msgid "You have new visitor"
-msgstr "Tu tens visitante novo"
+msgstr "ผู้เข้าชมครั้งแรกในเว็บไซต์ของคุณ"
 
 msgctxt "return_visitor_title"
 msgid "Subiz live chat"
-msgstr "Subiz chat ao vivo"
+msgstr "Subiz live chat"
 
 msgctxt "return_visitor_body"
 msgid "You have return visitor"
-msgstr "Tem visitante regressou ao teu website."
+msgstr "มีผู้เข้าชมเก่ากลับไปยังเว็บไซต์ของคุณ"
 
 msgctxt "noti_timeout_note"
 msgid "This customization is only available for Chrome (Timeout in seconds, maximum 600. Set to zero to show until dismissed)"
-msgstr "Esta personalização é disponível apenas no Chrome (máximo 600 segundos, pões 0 para exibir até quando tu inativas notificação.)"
+msgstr "การตั้งค่านี้จะทำงานเฉพาะบน Chrome (ได้ถึง 600 วินาที ตั้งค่า 0 จะแสดงจนกว่าคุณจะปิดการแจ้งเตือน)"
 
 msgctxt "noti_timeout"
 msgid "Notification time out"
-msgstr "Tempo de exibição de notificação"
+msgstr "เวลาในการแสดงการแจ้งเตือน"
 
 msgctxt "noti_config"
 msgid "Notification configuration"
-msgstr "Configurações de notificações"
+msgstr "ปรับแต่งการแจ้งเตือนหน้าจอ"
 
 msgctxt "noti_second"
 msgid "second"
-msgstr "segundo"
+msgstr "วินาที"
 
 msgctxt "msg_delete_success"
 msgid "Delete successfully."
-msgstr "Eliminado com sucesso"
+msgstr "ลบเรียบร้อยแล้ว"
 
 msgctxt "until_you_cancel_account"
 msgid "until you cancel your account."
-msgstr "até que tu canceles a tua conta."
+msgstr "จนกว่าคุณจะยกเลิกบัญชีของคุณ"
 
 msgctxt "select_code"
 msgid "Select code"
-msgstr "Selecionar código"
+msgstr "เลือกรหัส"
 
 msgctxt "embed_widget"
 msgid "Embed widget"
-msgstr "Código embutido"
+msgstr "วิดเจ็ต"
 
 msgctxt "department_name"
 msgid "Department name"
-msgstr "Nome do departamento"
+msgstr "ชื่อแผนก"
 
 msgctxt "history_disable"
 msgid "The feature has been temporarily disabled for optimization. Please %s contact us %s if you need any further assistance relating to chat history data"
-msgstr "Esta função está desativada para otimização, Desculpa por esta inconveniência. Por favor %s contacta-nos %s para obter histórico de chat."
+msgstr "ฟังก์ชั่นกำลังถูกเก็บรักษาไว้ Subiz ต้องขออภัยในความไม่สะดวก กรุณา %s ติดต่อเรา %s để được hỗ trợ lấy dữ liệu."
 
 msgctxt "message_limit_60_chat"
 msgid "Your monthly conversation amount has been exceeded. Please <a href="http://subiz.com/landingpage/faqs-en/faqs.html?faq=64" target="_blank" >contact us </a> to continue"
-msgstr "Tempo de chat do pacote gratuito da tua conta acabou. Por favor <a href="http://subiz.com/landingpage/faqs/faqs.html?faq=66" target="_blank" >contacta-nos</a> para continuar"
+msgstr "บัญชีของคุณได้ถูกนำมาใช้จำนวนของการสนทนาแพคเกจที่ช่วยให้ฟรี โปรด<a href="http://subiz.com/landingpage/faqs/faqs.html?faq=66" target="_blank" >liên hệ với chúng tôi</a> để được hỗ trợ"
 
 msgctxt "back"
 msgid "Back"
