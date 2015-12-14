@@ -1,2 +1,2 @@
-# Subiz_dashboard-i18n
-Subiz Dashboard translations
+# Subiz-live-chat-i18n
+Subiz Live Chat translations

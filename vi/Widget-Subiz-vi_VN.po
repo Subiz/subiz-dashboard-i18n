@@ -1,0 +1,373 @@
+
+            msgid ""
+            msgstr ""
+            "Project-Id-Version: \n"
+            "Report-Msgid-Bugs-To: \n"
+            "POT-Creation-Date: 2015-12-14 11:17:47 \n"
+            "PO-Revision-Date: 2015-12-14 11:17:47\n"
+            "Last-Translator: Tin Vu <tinvu@vietnambiz.com>\n"
+            "Language-Team: \n"
+            "Language: \n"
+            "MIME-Version: 1.0\n"
+            "Content-Type: text/plain; charset=UTF-8\n"
+            "Content-Transfer-Encoding: 8bit\n"
+            "Plural-Forms: nplurals=1; plural=0;\n"
+            "X-Generator: Pootle 2.7\n"
+            "X-Accelerator-Marker: &\n"
+            "X-Merge-On: location\n"
+            "X-POOTLE-MTIME: 1430545171.000000\n"
+
+            #. This Source Code Form is subject to the terms of the Subiz Public
+            #. - License, v. 1.0.
+            #. - file, You can obtain one at http://subiz.com
+        
+msgctxt "online.title"
+msgid "Chat with us!"
+msgstr "Chat với chúng tôi!"
+
+msgctxt "online.title_compress"
+msgid "Chat with us!"
+msgstr "Chat với chúng tôi!"
+
+msgctxt "online.title_compress_mobile"
+msgid "Chat"
+msgstr "Chat"
+
+msgctxt "online.name_and_email"
+msgid "Name and Email"
+msgstr "Tên và Email"
+
+msgctxt "online.send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "online.department_help"
+msgid "Choose Department"
+msgstr "Chọn bộ phận hỗ trợ"
+
+msgctxt "online.department_error"
+msgid "Select a department"
+msgstr "Chọn bộ phận hỗ trợ"
+
+msgctxt "online.name_help"
+msgid "Click here and type your Name"
+msgstr "Mời bạn nhập Tên"
+
+msgctxt "online.name_error"
+msgid "Please provide your name"
+msgstr "Vui lòng cho biết Tên"
+
+msgctxt "online.email_help"
+msgid "Click here and type your Email"
+msgstr "Mời bạn nhập Email"
+
+msgctxt "online.email_error"
+msgid "Please provide a valid email"
+msgstr "Vui lòng cho biết email của bạn"
+
+msgctxt "online.phone_help"
+msgid "click here and type your Phone number"
+msgstr "Mời bạn nhập số điện thoại"
+
+msgctxt "online.phone_error"
+msgid "Please provide your phone number"
+msgstr "Vui lòng cho biết điện thoại của bạn"
+
+msgctxt "online.question_help"
+msgid "What is on your mind?"
+msgstr "Mời bạn nhập câu hỏi?"
+
+msgctxt "online.login_with"
+msgid "or sign in with"
+msgstr "Đăng nhập bằng"
+
+msgctxt "online.btn_start"
+msgid "Start Chat"
+msgstr "Bắt đầu trò chuyện"
+
+msgctxt "online.agent_name"
+msgid "Support Team"
+msgstr "Tư vấn trực tuyến"
+
+msgctxt "online.agent_role"
+msgid "Ask us anything"
+msgstr "Sẵn sàng hỗ trợ"
+
+msgctxt "online.visitor_name"
+msgid "Me"
+msgstr "Tôi"
+
+msgctxt "online.rate_good"
+msgid "Good"
+msgstr "Tốt"
+
+msgctxt "online.rate_good_tip"
+msgid "Rate as good"
+msgstr "Đánh giá tốt"
+
+msgctxt "online.rate_bad_tip"
+msgid "Rate as bad"
+msgstr "Đánh giá không tốt"
+
+msgctxt "online.welcome"
+msgid "Questions? We'd love to chat!"
+msgstr "Bạn có thắc mắc? Hãy chat với chúng tôi!"
+
+msgctxt "online.msg_help"
+msgid "Type here and hit <enter> to chat"
+msgstr "Nhập nội dung và ấn "Enter" để chat"
+
+msgctxt "online.typing"
+msgid "{agent} is typing..."
+msgstr "{agent} đang trả lời..."
+
+msgctxt "online.option"
+msgid "Option"
+msgstr "Cài đặt"
+
+msgctxt "online.opt_sound"
+msgid "Sound"
+msgstr "Âm thanh"
+
+msgctxt "online.opt_transcript"
+msgid "Email Transcript"
+msgstr "Email transcript"
+
+msgctxt "online.opt_contact"
+msgid "Contact Details"
+msgstr "Thông tin cá nhân"
+
+msgctxt "online.opt_btn_end_chat"
+msgid "End This Chat"
+msgstr "Kết thúc chat"
+
+msgctxt "online.et_label"
+msgid "Email Transcript"
+msgstr "Gửi transcript qua email"
+
+msgctxt "online.et_btn_send"
+msgid "Send"
+msgstr "Gửi"
+
+msgctxt "online.et_cancel"
+msgid "Cancel"
+msgstr "Hủy"
+
+msgctxt "online.cd_label"
+msgid "Edit Contact Details"
+msgstr "Sửa thông tin"
+
+msgctxt "online.cd_name_help"
+msgid "Name"
+msgstr "Họ tên"
+
+msgctxt "online.cd_email_help"
+msgid "Email"
+msgstr "Địa chỉ email"
+
+msgctxt "online.cd_btn_save"
+msgid "Save"
+msgstr "Lưu"
+
+msgctxt "online.ec_footer"
+msgid "End chat"
+msgstr "Kết thúc chat"
+
+msgctxt "online.ec_message"
+msgid "{agent} help you?"
+msgstr "{agent} hỗ trợ bạn?"
+
+msgctxt "online.ec_close"
+msgid "Close window"
+msgstr "Đóng cửa sổ chat"
+
+msgctxt "online.ec_chat_again"
+msgid "Continue to chat"
+msgstr "Tiếp tục chat"
+
+msgctxt "online.ec_rate_good"
+msgid "Good, I'm satisfied"
+msgstr "Hài lòng"
+
+msgctxt "online.ec_rate_bad"
+msgid "Bad, I'm unsatisfied"
+msgstr "Chưa hài lòng"
+
+msgctxt "online.sh_title_support"
+msgid "Files to upload"
+msgstr "File được gửi"
+
+msgctxt "online.sh_title_unsupport"
+msgid "Unsupported file types can't be uploaded"
+msgstr "Những file này không được hỗ trợ"
+
+msgctxt "online.sh_send"
+msgid "Send"
+msgstr "Gửi"
+
+msgctxt "online.sh_cancel"
+msgid "Cancel"
+msgstr "Hủy"
+
+msgctxt "online.sh_failed"
+msgid "Upload failed"
+msgstr "Tải file có lỗi"
+
+msgctxt "online.survey_intro"
+msgstr ""
+
+msgctxt "offline.title"
+msgid "Send us a message!"
+msgstr "Để lại tin nhắn cho chúng tôi!"
+
+msgctxt "offline.title_compress"
+msgid "Send us a message!"
+msgstr "Để lại tin nhắn cho chúng tôi!"
+
+msgctxt "offline.title_compress_mobile"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "offline.instruction"
+msgid "We're not around, but we'd love to chat another time."
+msgstr "Hiện nay chúng tôi không ở đây, xin vui lòng để lại lời nhắn."
+
+msgctxt "offline.name_help"
+msgid "Name (what should we call you?)"
+msgstr "Xin mời nhập Họ tên"
+
+msgctxt "offline.name_error"
+msgid "Please provide your name"
+msgstr "Xin vui lòng nhập tên của bạn"
+
+msgctxt "offline.email_help"
+msgid "Email (how do we reach you?)"
+msgstr "Email (để tôi liên hệ với bạn)"
+
+msgctxt "offline.email_error"
+msgid "Please provide a valid email"
+msgstr "Xin vui lòng nhập email"
+
+msgctxt "offline.phone_help"
+msgid "Click here and type your Phone number"
+msgstr "Xin mời nhập số điện thoại"
+
+msgctxt "offline.phone_error"
+msgid "Please provide your phone number"
+msgstr "Vui lòng nhập số điện thoại của bạn"
+
+msgctxt "offline.msg_label"
+msgid "Message *"
+msgstr "Cho tôi biết câu hỏi của bạn?"
+
+msgctxt "offline.msg_help"
+msgid "We're not around but we still want to hear from you! Leave us a note:"
+msgstr "Hãy gửi tin nhắn cho chúng tôi về vấn đề của bạn:"
+
+msgctxt "offline.btn_send"
+msgid "Send message"
+msgstr "Gửi tin nhắn"
+
+msgctxt "offline.thank_you"
+msgid "Thanks for your message!  We'll get back to you shortly."
+msgstr "Cảm ơn đã gửi tin nhắn. Chúng tôi sẽ sớm hồi âm lại."
+
+msgctxt "offline.btn_send_another"
+msgid "Send Another"
+msgstr "Gửi tin nhắn khác"
+
+msgctxt "other.visitor_end_chat"
+msgid "The chat closed. <a href="javascript:;" class="link_chat_again">Start the chat again</a>"
+msgstr "Kết thúc chat. <a href="javascript:;" class="link_chat_again">Bắt đầu cuộc trò chuyện mới</a>"
+
+msgctxt "other.agent_end_chat"
+msgid "{agent} ended chat."
+msgstr "{agent} đã kết thúc chat."
+
+msgctxt "other.agent_disconnect"
+msgid "{agent} has been disconnected. Please wait to reconnect..."
+msgstr "{agent} không kết nối được. Vui lòng chờ kết nối lại ..."
+
+msgctxt "other.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent} đã kết nối lại."
+
+msgctxt "other.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} đã tham gia."
+
+msgctxt "other.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} đã rời cuộc chat."
+
+msgctxt "other.agent_online"
+msgid "{agent} is online, <a href="javascript:;" class="link_refresh">Click here</a> to chat"
+msgstr "{agent} đang online, <a href="javascript:;" class="link_refresh">Click ở đây </a> để chat"
+
+msgctxt "other.agent_offline"
+msgid "We are offline, please <a href="javascript:;" class="link_offline">leave your message</a> and contact details, we will try to get back to you."
+msgstr "Chúng tôi không online, vui lòng <a href="javascript:;" class="link_offline"> để lại lời nhắn </a>, chúng tôi sẽ liên hệ với bạn sớm."
+
+msgctxt "other.agent_busy"
+msgid "Our agents are currently busy. Please wait in a moment. Thank you for your patience."
+msgstr "Hiện tại nhân viên hỗ trợ của chúng tôi đang bận. Xin bạn vui lòng đợi trong giây lát. Cảm ơn vì thời gian của bạn."
+
+msgctxt "other.txt_or"
+msgid "or"
+msgstr "hoặc"
+
+msgctxt "other.system_end_chat"
+msgid "Chat ended automatically"
+msgstr "Cuộc chat đã kết thúc."
+
+msgctxt "other.message_too_long"
+msgid "Message is too long, please shorten it."
+msgstr "Tin nhắn quá dài, vui lòng rút gọn lại."
+
+msgctxt "dashboard.visitor_end_chat"
+msgid "The visitor ended chat"
+msgstr "Khách truy cập đã kết thúc chat"
+
+msgctxt "dashboard.visitor_offline"
+msgid "The visitor is offline"
+msgstr "Khách truy cập đã offline"
+
+msgctxt "dashboard.agent_end_chat"
+msgid "{agent} ended chat"
+msgstr "{agent} kết thúc chat"
+
+msgctxt "dashboard.agent_disconnect"
+msgid "{agent} has been disconnected."
+msgstr "{agent} bị mất kết nối."
+
+msgctxt "dashboard.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent} đã kết nối lại."
+
+msgctxt "dashboard.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} tham gia chat."
+
+msgctxt "dashboard.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} đã rời chat."
+
+msgctxt "dashboard.agent_offline"
+msgid "{agent} is offline"
+msgstr "{agent} đang offline"
+
+msgctxt "dashboard.agent_transfer"
+msgid "{agent} wants to transfer this chat"
+msgstr "{agent} muốn chuyển cuộc chat"
+
+msgctxt "dashboard.transfer_note"
+msgid "{agent} says: "{note}""
+msgstr "{agent} để lại lời nhắn: "{note}""
+
+msgctxt "dashboard.agent_replied"
+msgid "{agent} has replied to this chat"
+msgstr "{agent} đã trả lời"
+
+msgctxt "online.survey_intro"
+msgid ""
+msgstr ""

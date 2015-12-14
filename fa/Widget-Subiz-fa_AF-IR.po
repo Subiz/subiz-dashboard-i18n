@@ -1,0 +1,373 @@
+
+            msgid ""
+            msgstr ""
+            "Project-Id-Version: \n"
+            "Report-Msgid-Bugs-To: \n"
+            "POT-Creation-Date: 2015-12-14 10:53:08 \n"
+            "PO-Revision-Date: 2015-12-14 10:53:08\n"
+            "Last-Translator: Tin Vu <tinvu@vietnambiz.com>\n"
+            "Language-Team: \n"
+            "Language: \n"
+            "MIME-Version: 1.0\n"
+            "Content-Type: text/plain; charset=UTF-8\n"
+            "Content-Transfer-Encoding: 8bit\n"
+            "Plural-Forms: nplurals=1; plural=0;\n"
+            "X-Generator: Pootle 2.7\n"
+            "X-Accelerator-Marker: &\n"
+            "X-Merge-On: location\n"
+            "X-POOTLE-MTIME: 1430545171.000000\n"
+
+            #. This Source Code Form is subject to the terms of the Subiz Public
+            #. - License, v. 1.0.
+            #. - file, You can obtain one at http://subiz.com
+        
+msgctxt "online.title"
+msgid "Chat with us!"
+msgstr "گفتگو با ما"
+
+msgctxt "online.title_compress"
+msgid "Chat with us!"
+msgstr "گفتگو با ما"
+
+msgctxt "online.title_compress_mobile"
+msgid "Chat"
+msgstr "Chat"
+
+msgctxt "online.name_and_email"
+msgid "Name and Email"
+msgstr "Name and Email"
+
+msgctxt "online.send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "online.department_help"
+msgid "Choose Department"
+msgstr "انتخاب یک بخش"
+
+msgctxt "online.department_error"
+msgid "Select a department"
+msgstr "لطفا بخش مورد را انتخاب کنید"
+
+msgctxt "online.name_help"
+msgid "Click here and type your Name"
+msgstr "برای نوشتن اسم تان اینجا کلیک کنید"
+
+msgctxt "online.name_error"
+msgid "Please provide your name"
+msgstr "لطفا اسم تان را وارد کنید"
+
+msgctxt "online.email_help"
+msgid "Click here and type your Email"
+msgstr "برای ورود ایمیل اینجا کلیک کنید"
+
+msgctxt "online.email_error"
+msgid "Please provide a valid email"
+msgstr "لطفا یک ایمیل معتبر را وارد کنید"
+
+msgctxt "online.phone_help"
+msgid "click here and type your Phone number"
+msgstr "برای ورود شماره تلفن اینجا کلیک کنید"
+
+msgctxt "online.phone_error"
+msgid "Please provide your phone number"
+msgstr "لطفا یک شماره تلفن وارد کنید"
+
+msgctxt "online.question_help"
+msgid "What is on your mind?"
+msgstr "سوال تان را بنویسید"
+
+msgctxt "online.login_with"
+msgid "or sign in with"
+msgstr "or sign in with"
+
+msgctxt "online.btn_start"
+msgid "Start Chat"
+msgstr "شروع گفتگو"
+
+msgctxt "online.agent_name"
+msgid "Support Team"
+msgstr "پشتیبان"
+
+msgctxt "online.agent_role"
+msgid "Ask us anything"
+msgstr "اینجا هستیم تا به شما پاسخ دهیم"
+
+msgctxt "online.visitor_name"
+msgid "Me"
+msgstr "من"
+
+msgctxt "online.rate_good"
+msgid "Good"
+msgstr "خوب"
+
+msgctxt "online.rate_good_tip"
+msgid "Rate as good"
+msgstr "پشتیبانی خوبی بود"
+
+msgctxt "online.rate_bad_tip"
+msgid "Rate as bad"
+msgstr "پشتیبانی بد بود"
+
+msgctxt "online.welcome"
+msgid "Questions? We'd love to chat!"
+msgstr "اگر سوالی دارید بی درنگ مطرح کنید"
+
+msgctxt "online.msg_help"
+msgid "Type here and hit <enter> to chat"
+msgstr "متن مورد نظر را بنویسید ..."
+
+msgctxt "online.typing"
+msgid "{agent} is typing..."
+msgstr "{agent} چیزی می نویسد..."
+
+msgctxt "online.option"
+msgid "Option"
+msgstr "تنظیمات"
+
+msgctxt "online.opt_sound"
+msgid "Sound"
+msgstr "صدا"
+
+msgctxt "online.opt_transcript"
+msgid "Email Transcript"
+msgstr "ارسال یک رونوشت"
+
+msgctxt "online.opt_contact"
+msgid "Contact Details"
+msgstr "اطلاعات تماس"
+
+msgctxt "online.opt_btn_end_chat"
+msgid "End This Chat"
+msgstr "پایان گفتگو"
+
+msgctxt "online.et_label"
+msgid "Email Transcript"
+msgstr "رونوشت"
+
+msgctxt "online.et_btn_send"
+msgid "Send"
+msgstr "ارسال"
+
+msgctxt "online.et_cancel"
+msgid "Cancel"
+msgstr "لغو"
+
+msgctxt "online.cd_label"
+msgid "Edit Contact Details"
+msgstr "ویرایش اطلاعات تماس"
+
+msgctxt "online.cd_name_help"
+msgid "Name"
+msgstr "نام"
+
+msgctxt "online.cd_email_help"
+msgid "Email"
+msgstr "ایمیل"
+
+msgctxt "online.cd_btn_save"
+msgid "Save"
+msgstr "ذخیره"
+
+msgctxt "online.ec_footer"
+msgid "End chat"
+msgstr "پایان گفتگو"
+
+msgctxt "online.ec_message"
+msgid "{agent} help you?"
+msgstr "{agent} می تواند کمک کند ؟"
+
+msgctxt "online.ec_close"
+msgid "Close window"
+msgstr "بستن پنجره"
+
+msgctxt "online.ec_chat_again"
+msgid "Continue to chat"
+msgstr "ادامه گفتگو"
+
+msgctxt "online.ec_rate_good"
+msgid "Good, I'm satisfied"
+msgstr "خوب بود ، راضی هستم"
+
+msgctxt "online.ec_rate_bad"
+msgid "Bad, I'm unsatisfied"
+msgstr "بد بود ، راضی نیستم"
+
+msgctxt "online.sh_title_support"
+msgid "Files to upload"
+msgstr "Files to upload"
+
+msgctxt "online.sh_title_unsupport"
+msgid "Unsupported file types can't be uploaded"
+msgstr "Unsupported file types can't be uploaded"
+
+msgctxt "online.sh_send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "online.sh_cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "online.sh_failed"
+msgid "Upload failed"
+msgstr "Upload failed"
+
+msgctxt "online.survey_intro"
+msgstr ""
+
+msgctxt "offline.title"
+msgid "Send us a message!"
+msgstr "ارسال پیام"
+
+msgctxt "offline.title_compress"
+msgid "Send us a message!"
+msgstr "ارسال پیام"
+
+msgctxt "offline.title_compress_mobile"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "offline.instruction"
+msgid "We're not around, but we'd love to chat another time."
+msgstr "متاسفانه هم اکنون آنلاین نیستیم ، لطفا درخواست خود را در فرم زیر وارد کنید."
+
+msgctxt "offline.name_help"
+msgid "Name (what should we call you?)"
+msgstr "اسم"
+
+msgctxt "offline.name_error"
+msgid "Please provide your name"
+msgstr "اسم تان را وارد کنید"
+
+msgctxt "offline.email_help"
+msgid "Email (how do we reach you?)"
+msgstr "ایمیل (تا با شما تماس بگیریم)"
+
+msgctxt "offline.email_error"
+msgid "Please provide a valid email"
+msgstr "یک ایمیل معتبر را وارد کنید"
+
+msgctxt "offline.phone_help"
+msgid "Click here and type your Phone number"
+msgstr "برای ورود شماره تلفن اینجا کلیک کنید"
+
+msgctxt "offline.phone_error"
+msgid "Please provide your phone number"
+msgstr "شماره تلفن را وارد کنید"
+
+msgctxt "offline.msg_label"
+msgid "Message *"
+msgstr "متن پیام (ضروری)"
+
+msgctxt "offline.msg_help"
+msgid "We're not around but we still want to hear from you! Leave us a note:"
+msgstr "پیام تان را اینجا بنویسید"
+
+msgctxt "offline.btn_send"
+msgid "Send message"
+msgstr "ارسال پیام"
+
+msgctxt "offline.thank_you"
+msgid "Thanks for your message!  We'll get back to you shortly."
+msgstr "درخواست شما برای ما مهم است و ما تلاش خواهیم کرد، پس از بررسی، بهترین پاسخ را در سریع ترین زمان ممکن به شما بدهیم."
+
+msgctxt "offline.btn_send_another"
+msgid "Send Another"
+msgstr "ارسال یک پیام دیگر"
+
+msgctxt "other.visitor_end_chat"
+msgid "The chat closed. <a href="javascript:;" class="link_chat_again">Start the chat again</a>"
+msgstr "گفتگو به پایان رسید. <a href="javascript:;" class="link_chat_again">شروع مجدد</a>"
+
+msgctxt "other.agent_end_chat"
+msgid "{agent} ended chat."
+msgstr "{agent} به "
+
+msgctxt "other.agent_disconnect"
+msgid "{agent} has been disconnected. Please wait to reconnect..."
+msgstr "ارتباط {agent} قطع شد لطفا کمی منتظر بمانید"
+
+msgctxt "other.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent} دوباره متصل شد."
+
+msgctxt "other.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} به گفتگو پیوست."
+
+msgctxt "other.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} گفتگو را ترک کرد."
+
+msgctxt "other.agent_online"
+msgid "{agent} is online, <a href="javascript:;" class="link_refresh">Click here</a> to chat"
+msgstr "{agent} آنلاین است ، <a href="javascript:;" class="link_refresh">شروع گفتگو</a>"
+
+msgctxt "other.agent_offline"
+msgid "We are offline, please <a href="javascript:;" class="link_offline">leave your message</a> and contact details, we will try to get back to you."
+msgstr "پشتیبان آفلاین است ، لطفا <a href="javascript:;" class="link_offline">درخواستان را بنویسید</a> و اطلاعات تماس را تکمیل کنید . بزودی به شما پاسخ خواهیم داد"
+
+msgctxt "other.agent_busy"
+msgid "Our agents are currently busy. Please wait in a moment. Thank you for your patience."
+msgstr "پشتیبانان مشغول پاسخگویی به سایر کاربران هستند . بزودی یک پشتیبان به شما پاسخ می دهد . از صبر و شکیبایی شما سپاس گزاریم ."
+
+msgctxt "other.txt_or"
+msgid "or"
+msgstr "یا"
+
+msgctxt "other.system_end_chat"
+msgid "Chat ended automatically"
+msgstr "Chat ended automatically"
+
+msgctxt "other.message_too_long"
+msgid "Message is too long, please shorten it."
+msgstr "Message is too long, please shorten it."
+
+msgctxt "dashboard.visitor_end_chat"
+msgid "The visitor ended chat"
+msgstr "بازدید کننده به گفتگو پایان داد"
+
+msgctxt "dashboard.visitor_offline"
+msgid "The visitor is offline"
+msgstr "بازدید کنند آفلاین شد"
+
+msgctxt "dashboard.agent_end_chat"
+msgid "{agent} ended chat"
+msgstr "{agent} به گفتگو پایان داد"
+
+msgctxt "dashboard.agent_disconnect"
+msgid "{agent} has been disconnected."
+msgstr "ارتباط {agent} قطع شد."
+
+msgctxt "dashboard.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent} دوباره متصل شد."
+
+msgctxt "dashboard.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} به گفتگو پیوست."
+
+msgctxt "dashboard.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} گفتگو را ترک کرد."
+
+msgctxt "dashboard.agent_offline"
+msgid "{agent} is offline"
+msgstr "{agent} آفلاین شد"
+
+msgctxt "dashboard.agent_transfer"
+msgid "{agent} wants to transfer this chat"
+msgstr "{agent} می خواهد این گفتگو را منتقل کند"
+
+msgctxt "dashboard.transfer_note"
+msgid "{agent} says: "{note}""
+msgstr "{agent} می گوید: "{note}""
+
+msgctxt "dashboard.agent_replied"
+msgid "{agent} has replied to this chat"
+msgstr "{agent} به این گفتگو پاسخ داد"
+
+msgctxt "online.survey_intro"
+msgid ""
+msgstr ""

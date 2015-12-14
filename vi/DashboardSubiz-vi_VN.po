@@ -360,7 +360,7 @@ msgstr "Nhận tin nhắn offline"
 msgctxt "you-can-enter-many-email"
 msgid "<p>You can enter various e-mail addresses separated with a comma</p><p>e.g: someone@example.com, someone@example.com </p>"
 msgstr "<p>Bạn có thể nhập nhiều địa chỉ email (được ngăn cách nhau bởi dấu phẩy)</p>
-                                    <p>ví dụ: someone@example.com, someone@example.com </p>"
+<p>ví dụ: someone@example.com, someone@example.com </p>"
 
 msgctxt "send-all-chat-transcript-to-emaile"
 msgid "Send all chat transcript to e-mail"

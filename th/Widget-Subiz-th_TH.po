@@ -1,0 +1,373 @@
+
+            msgid ""
+            msgstr ""
+            "Project-Id-Version: \n"
+            "Report-Msgid-Bugs-To: \n"
+            "POT-Creation-Date: 2015-12-14 10:47:50 \n"
+            "PO-Revision-Date: 2015-12-14 10:47:50\n"
+            "Last-Translator: Tin Vu <tinvu@vietnambiz.com>\n"
+            "Language-Team: \n"
+            "Language: \n"
+            "MIME-Version: 1.0\n"
+            "Content-Type: text/plain; charset=UTF-8\n"
+            "Content-Transfer-Encoding: 8bit\n"
+            "Plural-Forms: nplurals=1; plural=0;\n"
+            "X-Generator: Pootle 2.7\n"
+            "X-Accelerator-Marker: &\n"
+            "X-Merge-On: location\n"
+            "X-POOTLE-MTIME: 1430545171.000000\n"
+
+            #. This Source Code Form is subject to the terms of the Subiz Public
+            #. - License, v. 1.0.
+            #. - file, You can obtain one at http://subiz.com
+        
+msgctxt "online.title"
+msgid "Chat with us!"
+msgstr "พูดคุยกับเรา"
+
+msgctxt "online.title_compress"
+msgid "Chat with us!"
+msgstr "พูดคุยกับเรา"
+
+msgctxt "online.title_compress_mobile"
+msgid "Chat"
+msgstr "Chat"
+
+msgctxt "online.name_and_email"
+msgid "Name and Email"
+msgstr "Name and Email"
+
+msgctxt "online.send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "online.department_help"
+msgid "Choose Department"
+msgstr "เลือกแผนกช่วยเหลือ"
+
+msgctxt "online.department_error"
+msgid "Select a department"
+msgstr "เลือกแผนกช่วยเหลือ"
+
+msgctxt "online.name_help"
+msgid "Click here and type your Name"
+msgstr "กรุณากรอกชื่อของคุณ"
+
+msgctxt "online.name_error"
+msgid "Please provide your name"
+msgstr "โปรดระบุชื่อของคุณ"
+
+msgctxt "online.email_help"
+msgid "Click here and type your Email"
+msgstr "กรุณากรอกอีเมล์ของคุณ"
+
+msgctxt "online.email_error"
+msgid "Please provide a valid email"
+msgstr "กรุณาระบุอีเมลที่ถูกต้อง"
+
+msgctxt "online.phone_help"
+msgid "click here and type your Phone number"
+msgstr "กรุณากรอกหมายเลขโทรศัพท์ของคุณ"
+
+msgctxt "online.phone_error"
+msgid "Please provide your phone number"
+msgstr "โปรดให้หมายเลขโทรศัพท์ของคุณ"
+
+msgctxt "online.question_help"
+msgid "What is on your mind?"
+msgstr "คำถามและข้อเสนอแนะ?"
+
+msgctxt "online.login_with"
+msgid "or sign in with"
+msgstr "หรือลงชื่อเข้าใช้ด้วย"
+
+msgctxt "online.btn_start"
+msgid "Start Chat"
+msgstr "เริ่มต้นการสนทนา"
+
+msgctxt "online.agent_name"
+msgid "Support Team"
+msgstr "ศูนย์ช่วยเหลือ"
+
+msgctxt "online.agent_role"
+msgid "Ask us anything"
+msgstr "คำถามเกี่ยวกับเรา"
+
+msgctxt "online.visitor_name"
+msgid "Me"
+msgstr "เรา"
+
+msgctxt "online.rate_good"
+msgid "Good"
+msgstr "ดี"
+
+msgctxt "online.rate_good_tip"
+msgid "Rate as good"
+msgstr "ระดับความพึงพอใจ"
+
+msgctxt "online.rate_bad_tip"
+msgid "Rate as bad"
+msgstr "ระดับความไม่พึงพอใจ"
+
+msgctxt "online.welcome"
+msgid "Questions? We'd love to chat!"
+msgstr "คุณมีคำถาม? กรุณาแชทกับเรา!"
+
+msgctxt "online.msg_help"
+msgid "Type here and hit <enter> to chat"
+msgstr "พิมพ์ที่นี่และกด "Enter" เพื่อแชท"
+
+msgctxt "online.typing"
+msgid "{agent} is typing..."
+msgstr "{agent} กำลังพิมพ์ ..."
+
+msgctxt "online.option"
+msgid "Option"
+msgstr "การตั้งค่า"
+
+msgctxt "online.opt_sound"
+msgid "Sound"
+msgstr "เสียง"
+
+msgctxt "online.opt_transcript"
+msgid "Email Transcript"
+msgstr "Email transcript"
+
+msgctxt "online.opt_contact"
+msgid "Contact Details"
+msgstr "ข้อมูลการติดต่อ"
+
+msgctxt "online.opt_btn_end_chat"
+msgid "End This Chat"
+msgstr "สิ้นสุดการแชท"
+
+msgctxt "online.et_label"
+msgid "Email Transcript"
+msgstr "ส่งtranscriptโดยอีเมล์"
+
+msgctxt "online.et_btn_send"
+msgid "Send"
+msgstr "ส่ง"
+
+msgctxt "online.et_cancel"
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgctxt "online.cd_label"
+msgid "Edit Contact Details"
+msgstr "แก้ไขข้อมูลการติดต่อ"
+
+msgctxt "online.cd_name_help"
+msgid "Name"
+msgstr "ชื่อเต็ม"
+
+msgctxt "online.cd_email_help"
+msgid "Email"
+msgstr "ที่อยู่อีเมล์"
+
+msgctxt "online.cd_btn_save"
+msgid "Save"
+msgstr "บันทึก"
+
+msgctxt "online.ec_footer"
+msgid "End chat"
+msgstr "สิ้นสุดการแชท"
+
+msgctxt "online.ec_message"
+msgid "{agent} help you?"
+msgstr "{agent}ต้องการความช่วยเหลือ?"
+
+msgctxt "online.ec_close"
+msgid "Close window"
+msgstr "ปิดหน้าต่างแชท"
+
+msgctxt "online.ec_chat_again"
+msgid "Continue to chat"
+msgstr "แชทดำเนินการต่อ"
+
+msgctxt "online.ec_rate_good"
+msgid "Good, I'm satisfied"
+msgstr "พอใจ"
+
+msgctxt "online.ec_rate_bad"
+msgid "Bad, I'm unsatisfied"
+msgstr "ไม่พอใจ"
+
+msgctxt "online.sh_title_support"
+msgid "Files to upload"
+msgstr "Files to upload"
+
+msgctxt "online.sh_title_unsupport"
+msgid "Unsupported file types can't be uploaded"
+msgstr "Unsupported file types can't be uploaded"
+
+msgctxt "online.sh_send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "online.sh_cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "online.sh_failed"
+msgid "Upload failed"
+msgstr "Upload failed"
+
+msgctxt "online.survey_intro"
+msgstr ""
+
+msgctxt "offline.title"
+msgid "Send us a message!"
+msgstr "ส่งข้อความ"
+
+msgctxt "offline.title_compress"
+msgid "Send us a message!"
+msgstr "ส่งข้อความ"
+
+msgctxt "offline.title_compress_mobile"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "offline.instruction"
+msgid "We're not around, but we'd love to chat another time."
+msgstr "ตอนนี้เรากำลังออฟไลน์โปรดฝากข้อความ"
+
+msgctxt "offline.name_help"
+msgid "Name (what should we call you?)"
+msgstr "กรุณากรอกชื่อของคุณ"
+
+msgctxt "offline.name_error"
+msgid "Please provide your name"
+msgstr "กรุณากรอกชื่อของคุณ"
+
+msgctxt "offline.email_help"
+msgid "Email (how do we reach you?)"
+msgstr "อีเมล์ เราจะติดต่อคุณ"
+
+msgctxt "offline.email_error"
+msgid "Please provide a valid email"
+msgstr "กรุณากรอกอีเมลของคุณ"
+
+msgctxt "offline.phone_help"
+msgid "Click here and type your Phone number"
+msgstr "กรุณากรอกหมายเลขโทรศัพท์"
+
+msgctxt "offline.phone_error"
+msgid "Please provide your phone number"
+msgstr "กรุณากรอกหมายเลขโทรศัพท์ของคุณ"
+
+msgctxt "offline.msg_label"
+msgid "Message *"
+msgstr "บอกเราคำถามของคุณ?"
+
+msgctxt "offline.msg_help"
+msgid "We're not around but we still want to hear from you! Leave us a note:"
+msgstr "กรุณาส่งข้อความถึงเราเกี่ยวกับปัญหาของคุณ:"
+
+msgctxt "offline.btn_send"
+msgid "Send message"
+msgstr "ส่งข้อความ"
+
+msgctxt "offline.thank_you"
+msgid "Thanks for your message!  We'll get back to you shortly."
+msgstr "ขอบคุณสำหรับการส่งข้อความ เราจะตอบกลับในภายหลัง"
+
+msgctxt "offline.btn_send_another"
+msgid "Send Another"
+msgstr "ส่งข้อความเพิ่ม"
+
+msgctxt "other.visitor_end_chat"
+msgid "The chat closed. <a href="javascript:;" class="link_chat_again">Start the chat again</a>"
+msgstr "สิ้นสุดการสนทนา <a href="javascript:;" class="link_chat_again">เริ่มต้นการสนทนาใหม่</a>"
+
+msgctxt "other.agent_end_chat"
+msgid "{agent} ended chat."
+msgstr "{agent} จบการสนทนา"
+
+msgctxt "other.agent_disconnect"
+msgid "{agent} has been disconnected. Please wait to reconnect..."
+msgstr "{agent} ไม่ได้เชื่อมต่อ กรุณารอการเชื่อมต่อสักครู่..."
+
+msgctxt "other.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent} ได้เชื่อมต่อแล้ว"
+
+msgctxt "other.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} เข้าร่วม"
+
+msgctxt "other.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} ออกจากการสนทนา"
+
+msgctxt "other.agent_online"
+msgid "{agent} is online, <a href="javascript:;" class="link_refresh">Click here</a> to chat"
+msgstr "{agent} ออนไลน์, <a href="javascript:;" class="link_refresh">คลิกที่นี่ </a> เพื่อแชท"
+
+msgctxt "other.agent_offline"
+msgid "We are offline, please <a href="javascript:;" class="link_offline">leave your message</a> and contact details, we will try to get back to you."
+msgstr "ขณะนี้เรากำลังออฟไลน์ กรุณา <a href="javascript:;" class="link_offline"> ฝากข้อความ </a> เราจะติดต่อคุณเร็วๆนี้"
+
+msgctxt "other.agent_busy"
+msgid "Our agents are currently busy. Please wait in a moment. Thank you for your patience."
+msgstr "พนักงานให้ความช่วยเหลือของเราไม่ว่างในขณะนี้ กรุณารอสักครู่ ขอขอบคุณสำหรับการสละเวลาของท่าน"
+
+msgctxt "other.txt_or"
+msgid "or"
+msgstr "หรือ"
+
+msgctxt "other.system_end_chat"
+msgid "Chat ended automatically"
+msgstr "Chat ended automatically"
+
+msgctxt "other.message_too_long"
+msgid "Message is too long, please shorten it."
+msgstr "Message is too long, please shorten it."
+
+msgctxt "dashboard.visitor_end_chat"
+msgid "The visitor ended chat"
+msgstr "ผู้เข้าชมสิ้นสุดการสนทนา"
+
+msgctxt "dashboard.visitor_offline"
+msgid "The visitor is offline"
+msgstr "ผู้เข้าชมออกจากการสนทนา"
+
+msgctxt "dashboard.agent_end_chat"
+msgid "{agent} ended chat"
+msgstr "{agent}สิ้นสุดการสนทนา"
+
+msgctxt "dashboard.agent_disconnect"
+msgid "{agent} has been disconnected."
+msgstr "{agent} สิ้นสุดการเชื่อมต่อ"
+
+msgctxt "dashboard.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent}ได้เชื่อมต่ออีก"
+
+msgctxt "dashboard.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} เข้าร่วมสนทนา"
+
+msgctxt "dashboard.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} ได้ออกจากการสนทนา"
+
+msgctxt "dashboard.agent_offline"
+msgid "{agent} is offline"
+msgstr "{agent} ออฟไลน์"
+
+msgctxt "dashboard.agent_transfer"
+msgid "{agent} wants to transfer this chat"
+msgstr "{agent} ต้องการส่งต่อการสนทนานี้"
+
+msgctxt "dashboard.transfer_note"
+msgid "{agent} says: "{note}""
+msgstr "{agent} ฝากข้อความ: "{note}""
+
+msgctxt "dashboard.agent_replied"
+msgid "{agent} has replied to this chat"
+msgstr "{agent}ได้ตอบการสนทนาแล้ว"
+
+msgctxt "online.survey_intro"
+msgid ""
+msgstr ""

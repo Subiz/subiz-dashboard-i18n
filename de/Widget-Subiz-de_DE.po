@@ -1,0 +1,373 @@
+
+            msgid ""
+            msgstr ""
+            "Project-Id-Version: \n"
+            "Report-Msgid-Bugs-To: \n"
+            "POT-Creation-Date: 2015-12-14 10:59:31 \n"
+            "PO-Revision-Date: 2015-12-14 10:59:31\n"
+            "Last-Translator: Tin Vu <tinvu@vietnambiz.com>\n"
+            "Language-Team: \n"
+            "Language: \n"
+            "MIME-Version: 1.0\n"
+            "Content-Type: text/plain; charset=UTF-8\n"
+            "Content-Transfer-Encoding: 8bit\n"
+            "Plural-Forms: nplurals=1; plural=0;\n"
+            "X-Generator: Pootle 2.7\n"
+            "X-Accelerator-Marker: &\n"
+            "X-Merge-On: location\n"
+            "X-POOTLE-MTIME: 1430545171.000000\n"
+
+            #. This Source Code Form is subject to the terms of the Subiz Public
+            #. - License, v. 1.0.
+            #. - file, You can obtain one at http://subiz.com
+        
+msgctxt "online.title"
+msgid "Chat with us!"
+msgstr "Chat mit uns!"
+
+msgctxt "online.title_compress"
+msgid "Chat with us!"
+msgstr "Chat mit uns!"
+
+msgctxt "online.title_compress_mobile"
+msgid "Chat"
+msgstr "Chat"
+
+msgctxt "online.name_and_email"
+msgid "Name and Email"
+msgstr "Name and Email"
+
+msgctxt "online.send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "online.department_help"
+msgid "Choose Department"
+msgstr "Wähle Abteilung"
+
+msgctxt "online.department_error"
+msgid "Select a department"
+msgstr "Wähle eine Abteilung"
+
+msgctxt "online.name_help"
+msgid "Click here and type your Name"
+msgstr "Hier clicken und den Namen eingeben"
+
+msgctxt "online.name_error"
+msgid "Please provide your name"
+msgstr "Bitte den Namen eingeben"
+
+msgctxt "online.email_help"
+msgid "Click here and type your Email"
+msgstr "Hier clicken und die Email-Adresse eingeben"
+
+msgctxt "online.email_error"
+msgid "Please provide a valid email"
+msgstr "Bitte eine gültige Email-Adresse eingeben"
+
+msgctxt "online.phone_help"
+msgid "click here and type your Phone number"
+msgstr "Hier clicken und die Telefonnummer eingeben"
+
+msgctxt "online.phone_error"
+msgid "Please provide your phone number"
+msgstr "Bitte die Telefonnummer eingeben"
+
+msgctxt "online.question_help"
+msgid "What is on your mind?"
+msgstr "Was liegt am Herzen?"
+
+msgctxt "online.login_with"
+msgid "or sign in with"
+msgstr "oder Anmelden mit"
+
+msgctxt "online.btn_start"
+msgid "Start Chat"
+msgstr "Chat starten"
+
+msgctxt "online.agent_name"
+msgid "Support Team"
+msgstr "Support Team"
+
+msgctxt "online.agent_role"
+msgid "Ask us anything"
+msgstr "Frage uns alles"
+
+msgctxt "online.visitor_name"
+msgid "Me"
+msgstr "Ich"
+
+msgctxt "online.rate_good"
+msgid "Good"
+msgstr "Gut"
+
+msgctxt "online.rate_good_tip"
+msgid "Rate as good"
+msgstr "Werte als gut"
+
+msgctxt "online.rate_bad_tip"
+msgid "Rate as bad"
+msgstr "Werte als schlecht"
+
+msgctxt "online.welcome"
+msgid "Questions? We'd love to chat!"
+msgstr "Fragen? Wir lieben chatten!"
+
+msgctxt "online.msg_help"
+msgid "Type here and hit <enter> to chat"
+msgstr "Hier eingeben und auf <enter> clicken, um zu chatten"
+
+msgctxt "online.typing"
+msgid "{agent} is typing..."
+msgstr "{agent} schreibt..."
+
+msgctxt "online.option"
+msgid "Option"
+msgstr "Option"
+
+msgctxt "online.opt_sound"
+msgid "Sound"
+msgstr "Sound"
+
+msgctxt "online.opt_transcript"
+msgid "Email Transcript"
+msgstr "Email Protokoll"
+
+msgctxt "online.opt_contact"
+msgid "Contact Details"
+msgstr "Kontakt Details"
+
+msgctxt "online.opt_btn_end_chat"
+msgid "End This Chat"
+msgstr "Chat beenden"
+
+msgctxt "online.et_label"
+msgid "Email Transcript"
+msgstr "Email Protokoll"
+
+msgctxt "online.et_btn_send"
+msgid "Send"
+msgstr "Senden"
+
+msgctxt "online.et_cancel"
+msgid "Cancel"
+msgstr "Zurück"
+
+msgctxt "online.cd_label"
+msgid "Edit Contact Details"
+msgstr "Kontakt Details ändern"
+
+msgctxt "online.cd_name_help"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "online.cd_email_help"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "online.cd_btn_save"
+msgid "Save"
+msgstr "Speichern"
+
+msgctxt "online.ec_footer"
+msgid "End chat"
+msgstr "Chat beenden"
+
+msgctxt "online.ec_message"
+msgid "{agent} help you?"
+msgstr "{agent} kann weiterhelfen?"
+
+msgctxt "online.ec_close"
+msgid "Close window"
+msgstr "Fenster schließen"
+
+msgctxt "online.ec_chat_again"
+msgid "Continue to chat"
+msgstr "Chat fortsetzen"
+
+msgctxt "online.ec_rate_good"
+msgid "Good, I'm satisfied"
+msgstr "Gut, ich bin zufrieden"
+
+msgctxt "online.ec_rate_bad"
+msgid "Bad, I'm unsatisfied"
+msgstr "Schlecht, ich bin unzufrieden"
+
+msgctxt "online.sh_title_support"
+msgid "Files to upload"
+msgstr "Files to upload"
+
+msgctxt "online.sh_title_unsupport"
+msgid "Unsupported file types can't be uploaded"
+msgstr "Unsupported file types can't be uploaded"
+
+msgctxt "online.sh_send"
+msgid "Send"
+msgstr "Send"
+
+msgctxt "online.sh_cancel"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "online.sh_failed"
+msgid "Upload failed"
+msgstr "Upload failed"
+
+msgctxt "online.survey_intro"
+msgstr ""
+
+msgctxt "offline.title"
+msgid "Send us a message!"
+msgstr "Sende uns eine Nachricht!"
+
+msgctxt "offline.title_compress"
+msgid "Send us a message!"
+msgstr "Sende uns eine Nachricht!"
+
+msgctxt "offline.title_compress_mobile"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "offline.instruction"
+msgid "We're not around, but we'd love to chat another time."
+msgstr "Wir sind nicht anwesend, würden gerne ein ander Mal chatten."
+
+msgctxt "offline.name_help"
+msgid "Name (what should we call you?)"
+msgstr "Name (wie sollen wir Dich ansprechen?)"
+
+msgctxt "offline.name_error"
+msgid "Please provide your name"
+msgstr "Bitte den Namen eingeben"
+
+msgctxt "offline.email_help"
+msgid "Email (how do we reach you?)"
+msgstr "Email (wie können wir Dich erreichen?)"
+
+msgctxt "offline.email_error"
+msgid "Please provide a valid email"
+msgstr "Bitte eine gültige Email-Adresse eingeben"
+
+msgctxt "offline.phone_help"
+msgid "Click here and type your Phone number"
+msgstr "Hier clicken und die Telefonnummer eingeben"
+
+msgctxt "offline.phone_error"
+msgid "Please provide your phone number"
+msgstr "Bitte die Telefonnummer eingeben"
+
+msgctxt "offline.msg_label"
+msgid "Message *"
+msgstr "Nachricht *"
+
+msgctxt "offline.msg_help"
+msgid "We're not around but we still want to hear from you! Leave us a note:"
+msgstr "Wir sind nicht anwesend, würden gerne von Dir was hören! Hinterlege eine Nachricht:"
+
+msgctxt "offline.btn_send"
+msgid "Send message"
+msgstr "Sende Nachricht"
+
+msgctxt "offline.thank_you"
+msgid "Thanks for your message!  We'll get back to you shortly."
+msgstr "Danke für die Nachricht!  Wir melden uns in Kürze."
+
+msgctxt "offline.btn_send_another"
+msgid "Send Another"
+msgstr "Sende eine Weitere"
+
+msgctxt "other.visitor_end_chat"
+msgid "The chat closed. <a href="javascript:;" class="link_chat_again">Start the chat again</a>"
+msgstr "Chat beendet. <a href="javascript:;" class="link_chat_again">Chat neustarten</a>"
+
+msgctxt "other.agent_end_chat"
+msgid "{agent} ended chat."
+msgstr "{agent} beendete die Chat."
+
+msgctxt "other.agent_disconnect"
+msgid "{agent} has been disconnected. Please wait to reconnect..."
+msgstr "{agent} wurde getrennt. Bitte auf Verbindung warten..."
+
+msgctxt "other.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent} wurde verbunden."
+
+msgctxt "other.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} ist beigetreten."
+
+msgctxt "other.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} verließ die Chat."
+
+msgctxt "other.agent_online"
+msgid "{agent} is online, <a href="javascript:;" class="link_refresh">Click here</a> to chat"
+msgstr "{agent} ist Online, <a href="javascript:;" class="link_refresh">hier clicken</a> um zu chatten"
+
+msgctxt "other.agent_offline"
+msgid "We are offline, please <a href="javascript:;" class="link_offline">leave your message</a> and contact details, we will try to get back to you."
+msgstr "Wir sind offline, bitte <a href="javascript:;" class="link_offline">eine Nachricht</a> und die Kontakt Details hinterlassen, wir melden uns."
+
+msgctxt "other.agent_busy"
+msgid "Our agents are currently busy. Please wait in a moment. Thank you for your patience."
+msgstr "Unser Team ist momentan ausgelastet. Bitte ein Moment warten. Danke für das Verständnis."
+
+msgctxt "other.txt_or"
+msgid "or"
+msgstr "oder"
+
+msgctxt "other.system_end_chat"
+msgid "Chat ended automatically"
+msgstr "Chat ended automatically"
+
+msgctxt "other.message_too_long"
+msgid "Message is too long, please shorten it."
+msgstr "Message is too long, please shorten it."
+
+msgctxt "dashboard.visitor_end_chat"
+msgid "The visitor ended chat"
+msgstr "Der Besucher endete die Chat"
+
+msgctxt "dashboard.visitor_offline"
+msgid "The visitor is offline"
+msgstr "Der Besucher ist offline"
+
+msgctxt "dashboard.agent_end_chat"
+msgid "{agent} ended chat"
+msgstr "{agent} endete die Chat"
+
+msgctxt "dashboard.agent_disconnect"
+msgid "{agent} has been disconnected."
+msgstr "{agent} wurde getrennt."
+
+msgctxt "dashboard.agent_reconnect"
+msgid "{agent} has reconnected."
+msgstr "{agent} wurde verbunden."
+
+msgctxt "dashboard.agent_join_chat"
+msgid "{agent} has joined."
+msgstr "{agent} ist beigetreten."
+
+msgctxt "dashboard.agent_left_chat"
+msgid "{agent} left chat."
+msgstr "{agent} verließ die Chat."
+
+msgctxt "dashboard.agent_offline"
+msgid "{agent} is offline"
+msgstr "{agent} ist offline"
+
+msgctxt "dashboard.agent_transfer"
+msgid "{agent} wants to transfer this chat"
+msgstr "{agent} möchte die Chat transferieren"
+
+msgctxt "dashboard.transfer_note"
+msgid "{agent} says: "{note}""
+msgstr "{agent} sagt: "{note}""
+
+msgctxt "dashboard.agent_replied"
+msgid "{agent} has replied to this chat"
+msgstr "{agent} hat zu dieser Chat geantwortet"
+
+msgctxt "online.survey_intro"
+msgid ""
+msgstr ""
